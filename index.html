@@ -4,52 +4,716 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <meta name="theme-color" content="#102a4c">
-<title>新竹竹北住宅市場週報｜LINE 快讀展示櫃 v2</title>
+<meta name="description" content="新竹竹北住宅市場週報：2026/08/18–08/24 本週成交與同社區在售精選。">
+<title>新竹竹北住宅市場週報｜2026/08/18–08/24</title>
 <style>
-:root{--navy:#102a4c;--navy2:#193e6e;--ink:#24384f;--muted:#788797;--paper:#f2f4f7;--line:#e3e7ec;--orange:#df681f;--green:#2b7460}
-*{box-sizing:border-box}
-body{margin:0;background:linear-gradient(#f8f9fb,#eef1f4);color:var(--ink);font-family:-apple-system,BlinkMacSystemFont,"PingFang TC","Noto Sans TC","Microsoft JhengHei",sans-serif;-webkit-font-smoothing:antialiased}
-.shell{max-width:980px;margin:auto;padding:14px 14px 38px}
-.hero{position:relative;overflow:hidden;border-radius:24px;padding:24px 22px;color:#fff;background:linear-gradient(135deg,#102a4c,#1d4779);box-shadow:0 14px 36px rgba(16,42,76,.16)}
-.hero:after{content:"";position:absolute;width:210px;height:210px;border-radius:50%;right:-70px;top:-80px;background:radial-gradient(circle,rgba(255,255,255,.14),transparent 68%)}
-.kicker{font-size:12px;letter-spacing:.15em;font-weight:800;opacity:.7}
-.hero h1{position:relative;z-index:1;margin:7px 0 8px;font-size:36px;line-height:1.08;letter-spacing:.02em}
-.hero p{position:relative;z-index:1;margin:0;max-width:680px;font-size:16px;line-height:1.65;opacity:.86}
-.stats{display:flex;gap:8px;flex-wrap:wrap;margin-top:17px;position:relative;z-index:1}
-.stat{min-width:96px;padding:10px 12px;border-radius:13px;background:rgba(255,255,255,.10);border:1px solid rgba(255,255,255,.11)}
-.stat b{display:block;font-size:23px}.stat span{font-size:11px;opacity:.72}
-.demo-note{margin:12px 3px 18px;color:#6f7f91;font-size:14px;line-height:1.65}
-.community{background:#fff;border:1px solid var(--line);border-radius:21px;margin-bottom:18px;overflow:hidden;box-shadow:0 10px 28px rgba(30,48,70,.065)}
-.community-head{display:flex;justify-content:space-between;align-items:center;gap:12px;padding:17px 17px 7px}
-.tags{display:flex;gap:6px;margin-bottom:5px}.tags span{padding:5px 9px;border-radius:999px;background:#eef3f8;color:#49627c;font-size:12px;font-weight:800}
-.community h2{margin:0;color:#183858;font-size:27px}.deal-pill{padding:7px 10px;border-radius:999px;background:#f7efe3;color:#8a6332;font-size:12px;font-weight:800}
-.deal-strip{display:grid;grid-template-columns:1.25fr repeat(3,1fr);gap:1px;margin:7px 17px 14px;background:#e6eaee;border:1px solid #e6eaee;border-radius:14px;overflow:hidden}
-.deal-strip>div{padding:11px 10px;background:#fbfcfd;min-width:0}.deal-strip small{display:block;color:#929daa;font-size:10px;margin-bottom:3px}.deal-strip b{font-size:13px;color:#496079}.deal-strip .main strong{font-size:22px;color:var(--navy)}
-.shelf-head{display:flex;justify-content:space-between;align-items:center;gap:10px;padding:0 17px 9px}.shelf-head strong{font-size:16px;color:#30475f;display:flex;align-items:center;gap:7px}.shelf-head i{width:8px;height:8px;border-radius:50%;background:var(--green)}.shelf-head small{font-size:11px;color:#9ca6b1}
-.rail{display:flex;gap:12px;overflow-x:auto;scroll-snap-type:x mandatory;padding:0 17px 17px;scrollbar-width:none}.rail::-webkit-scrollbar{display:none}
-.product-card{flex:0 0 min(275px,78vw);scroll-snap-align:start;border:1px solid #e0e5ea;border-radius:16px;overflow:hidden;background:#fff;box-shadow:0 8px 22px rgba(30,48,70,.07)}
-.photo-wrap{height:158px;position:relative;background:#e9eef4;overflow:hidden}.photo-wrap img{width:100%;height:100%;object-fit:cover;object-position:center;display:block}.photo-fallback{display:none;position:absolute;inset:0;align-items:center;justify-content:center;color:#75869a;font-weight:700;background:linear-gradient(135deg,#e6edf5,#f4f6f8)}.photo-wrap.img-fail .photo-fallback{display:flex}
-.badges{position:absolute;left:9px;right:9px;top:9px;display:flex;justify-content:space-between;gap:8px}.badges span{padding:6px 8px;border-radius:999px;font-size:10px;font-weight:800;color:#fff;box-shadow:0 3px 10px rgba(0,0,0,.12)}.sale{background:var(--orange)}.source{background:rgba(17,41,70,.68);backdrop-filter:blur(5px)}
-.body{padding:12px}.card-title{font-size:16px;font-weight:800;line-height:1.4;color:#2a4059;min-height:45px}.price-row{display:flex;justify-content:space-between;align-items:baseline;gap:8px;margin-top:8px}.price-row strong{font-size:26px;color:#d85f18;letter-spacing:.01em}.price-row span{font-size:15px;color:#536a82;font-weight:800}.specs{display:flex;gap:7px;flex-wrap:wrap;margin-top:9px}.specs span{padding:6px 8px;border-radius:8px;background:#f4f6f8;color:#50657d;font-size:13px}
-.cta{height:43px;margin-top:11px;border-radius:10px;padding:0 13px;display:flex;align-items:center;justify-content:space-between;background:var(--navy);color:#fff;text-decoration:none;font-size:15px;font-weight:800}.footer{text-align:center;color:#909ba7;font-size:11px;line-height:1.65;padding:0 10px}
-@media(min-width:800px){.rail{display:grid;grid-template-columns:repeat(3,1fr);overflow:visible}.product-card{min-width:0;max-width:none}}
-@media(max-width:600px){.shell{padding:0 0 30px}.hero{border-radius:0 0 24px 24px;padding:22px 17px 20px}.hero h1{font-size:35px}.hero p{font-size:16px}.demo-note{margin:12px 14px 16px;font-size:14px}.community{margin-left:8px;margin-right:8px;border-radius:19px}.community-head{padding:15px 14px 6px}.community h2{font-size:26px}.deal-strip{margin:7px 14px 13px;grid-template-columns:1.15fr 1fr}.deal-strip>div{padding:10px 9px}.deal-strip .main strong{font-size:22px}.shelf-head{padding:0 14px 9px}.rail{padding:0 14px 15px}.product-card{flex-basis:76vw}.photo-wrap{height:152px}.card-title{font-size:17px}.price-row strong{font-size:27px}.price-row span{font-size:15px}.specs span{font-size:13px}.cta{font-size:16px}}
+:root{--navy:#102a4c;--navy2:#1d4779;--ink:#24384f;--muted:#788797;--paper:#f2f4f7;--line:#e2e7ec;--orange:#df681f;--orange2:#f08a46;--green:#2b7460;--white:#fff}
+*{box-sizing:border-box}html{scroll-behavior:smooth}
+body{margin:0;background:linear-gradient(180deg,#f8fafc 0,#edf1f5 100%);color:var(--ink);font-family:-apple-system,BlinkMacSystemFont,"PingFang TC","Noto Sans TC","Microsoft JhengHei",sans-serif;-webkit-font-smoothing:antialiased}
+a{-webkit-tap-highlight-color:transparent}.shell{max-width:1040px;margin:auto;padding:14px 14px 42px}
+.hero{position:relative;overflow:hidden;border-radius:26px;padding:27px 24px 24px;color:#fff;background:linear-gradient(135deg,#0d2747 0%,#1e4b80 72%,#2e6093 100%);box-shadow:0 16px 40px rgba(16,42,76,.18)}
+.hero:before{content:"";position:absolute;width:260px;height:260px;border-radius:50%;right:-90px;top:-105px;background:radial-gradient(circle,rgba(255,255,255,.18),transparent 67%)}
+.hero:after{content:"";position:absolute;width:180px;height:180px;border-radius:50%;left:-90px;bottom:-125px;background:radial-gradient(circle,rgba(93,182,255,.20),transparent 70%)}
+.kicker{position:relative;z-index:1;font-size:11px;letter-spacing:.17em;font-weight:800;opacity:.72}.hero h1{position:relative;z-index:1;margin:7px 0 8px;font-size:38px;line-height:1.08;letter-spacing:.015em}.hero p{position:relative;z-index:1;margin:0;max-width:720px;font-size:16px;line-height:1.65;opacity:.88}
+.hero-date{position:relative;z-index:1;margin-top:12px;display:inline-flex;align-items:center;gap:7px;padding:7px 10px;border-radius:999px;background:rgba(255,255,255,.10);border:1px solid rgba(255,255,255,.12);font-size:12px;font-weight:750;color:rgba(255,255,255,.9)}
+.stats{display:flex;gap:8px;flex-wrap:wrap;margin-top:17px;position:relative;z-index:1}.stat{min-width:100px;padding:10px 12px;border-radius:13px;background:rgba(255,255,255,.10);border:1px solid rgba(255,255,255,.11)}.stat b{display:block;font-size:24px;line-height:1.05}.stat span{font-size:11px;opacity:.74}
+.note{margin:12px 3px 10px;padding:12px 14px;border-radius:14px;background:rgba(255,255,255,.84);border:1px solid var(--line);color:#68798c;font-size:13px;line-height:1.65;box-shadow:0 5px 18px rgba(30,48,70,.035)}
+.region-nav{display:flex;gap:7px;overflow-x:auto;scrollbar-width:none;padding:2px 2px 14px;position:sticky;top:0;z-index:20;background:linear-gradient(180deg,rgba(243,246,249,.97) 0%,rgba(243,246,249,.90) 78%,rgba(243,246,249,0) 100%);backdrop-filter:blur(8px)}.region-nav::-webkit-scrollbar{display:none}.region-nav a{flex:0 0 auto;text-decoration:none;color:#415a73;background:#fff;border:1px solid #dfe5eb;border-radius:999px;padding:8px 11px;font-size:12px;font-weight:800;box-shadow:0 3px 12px rgba(30,48,70,.04)}.region-nav b{color:var(--navy)}
+.region-title{display:flex;align-items:end;justify-content:space-between;gap:12px;margin:10px 4px 11px;padding-top:6px}.region-title h2{margin:0;font-size:21px;color:#183858}.region-title span{font-size:12px;color:#8b98a7;font-weight:700}
+.community{background:#fff;border:1px solid var(--line);border-radius:22px;margin-bottom:17px;overflow:hidden;box-shadow:0 10px 28px rgba(30,48,70,.065)}.community-head{display:flex;justify-content:space-between;align-items:center;gap:12px;padding:17px 17px 7px}.tags{display:flex;gap:6px;margin-bottom:5px}.tags span{padding:5px 9px;border-radius:999px;background:#eef3f8;color:#49627c;font-size:11px;font-weight:800}.community h3{margin:0;color:#173958;font-size:27px;line-height:1.2}.deal-pill{padding:7px 10px;border-radius:999px;background:#f7efe3;color:#8a6332;font-size:11px;font-weight:800;white-space:nowrap}.address{padding:0 17px 9px;color:#8b97a4;font-size:11px;line-height:1.45}
+.deal-strip{display:grid;grid-template-columns:1.25fr repeat(3,1fr);gap:1px;margin:0 17px 14px;background:#e6eaee;border:1px solid #e6eaee;border-radius:14px;overflow:hidden}.deal-strip>div{padding:11px 10px;background:#fbfcfd;min-width:0}.deal-strip small{display:block;color:#929daa;font-size:10px;margin-bottom:3px}.deal-strip b{font-size:13px;color:#496079}.deal-strip .main strong{font-size:22px;color:var(--navy)}
+.shelf-head{display:flex;justify-content:space-between;align-items:center;gap:10px;padding:0 17px 9px}.shelf-head strong{font-size:15px;color:#30475f;display:flex;align-items:center;gap:7px}.shelf-head i{width:8px;height:8px;border-radius:50%;background:var(--green);box-shadow:0 0 0 4px rgba(43,116,96,.10)}.shelf-head small{font-size:10px;color:#9ca6b1}
+.rail{display:flex;gap:12px;overflow-x:auto;scroll-snap-type:x mandatory;padding:0 17px 17px;scrollbar-width:none}.rail::-webkit-scrollbar{display:none}.product-card{flex:0 0 min(300px,82vw);scroll-snap-align:start;border:1px solid #e0e5ea;border-radius:17px;overflow:hidden;background:#fff;box-shadow:0 8px 22px rgba(30,48,70,.075)}
+.photo-wrap{height:178px;position:relative;background:linear-gradient(135deg,#dfe7ef,#f1f4f7);overflow:hidden}.photo-wrap img{width:100%;height:100%;object-fit:cover;object-position:center;display:block;transition:transform .35s ease}.product-card:hover .photo-wrap img{transform:scale(1.02)}.photo-fallback{display:none;position:absolute;inset:0;align-items:center;justify-content:center;flex-direction:column;gap:7px;color:#75869a;font-weight:800;background:linear-gradient(135deg,#e6edf5,#f4f6f8)}.photo-fallback:before{content:"⌂";font-size:34px;color:#9aaabd}.photo-wrap.img-fail .photo-fallback{display:flex}
+.badges{position:absolute;left:9px;right:9px;top:9px;display:flex;justify-content:space-between;gap:8px}.badges span{padding:6px 8px;border-radius:999px;font-size:10px;font-weight:800;color:#fff;box-shadow:0 3px 10px rgba(0,0,0,.12)}.sale{background:linear-gradient(135deg,var(--orange),var(--orange2))}.source{background:rgba(17,41,70,.72);backdrop-filter:blur(5px)}
+.card-body{padding:13px}.card-title{font-size:17px;font-weight:850;line-height:1.38;color:#294159;min-height:47px}.price-row{display:flex;justify-content:space-between;align-items:baseline;gap:8px;margin-top:8px}.price-row strong{font-size:27px;color:#d85f18;letter-spacing:.01em}.price-row span{font-size:15px;color:#536a82;font-weight:800}.specs{display:flex;gap:7px;flex-wrap:wrap;margin-top:9px}.specs span{padding:6px 8px;border-radius:8px;background:#f3f6f8;color:#4f657b;font-size:12px;font-weight:700}.compare{margin-top:9px;color:#8996a4;font-size:10px}.cta{height:44px;margin-top:11px;border-radius:11px;padding:0 14px;display:flex;align-items:center;justify-content:space-between;background:linear-gradient(135deg,#102a4c,#173f6e);color:#fff;text-decoration:none;font-size:15px;font-weight:850;box-shadow:0 7px 18px rgba(16,42,76,.13)}
+.footer{text-align:center;color:#909ba7;font-size:10px;line-height:1.65;padding:8px 14px 0}.footer strong{color:#708095}.top-btn{position:fixed;right:14px;bottom:18px;width:42px;height:42px;border-radius:50%;display:flex;align-items:center;justify-content:center;background:rgba(16,42,76,.88);color:white;text-decoration:none;font-size:18px;box-shadow:0 8px 22px rgba(16,42,76,.22);z-index:30}
+@media(min-width:820px){.regions-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}.community{margin-bottom:0}.rail{overflow:visible}.product-card{flex:1 1 auto;max-width:none}.photo-wrap{height:190px}.region-title{grid-column:1/-1}.region-wrap{margin-bottom:22px}}
+@media(max-width:600px){.shell{padding:0 0 30px}.hero{border-radius:0 0 25px 25px;padding:23px 17px 20px}.hero h1{font-size:35px}.hero p{font-size:15px}.hero-date{font-size:11px}.stats{gap:7px}.stat{min-width:94px}.note{margin:11px 12px 7px}.region-nav{padding-left:10px;padding-right:10px}.region-title{margin-left:14px;margin-right:14px}.community{margin-left:8px;margin-right:8px;border-radius:19px}.community-head{padding:15px 14px 6px}.community h3{font-size:25px}.address{padding-left:14px;padding-right:14px}.deal-strip{margin:0 14px 13px;grid-template-columns:1.18fr 1fr}.deal-strip>div{padding:10px 9px}.deal-strip .main strong{font-size:22px}.shelf-head{padding:0 14px 9px}.rail{padding:0 14px 15px}.product-card{flex-basis:79vw}.photo-wrap{height:165px}.card-title{font-size:17px}.price-row strong{font-size:27px}.specs span{font-size:12px}.cta{font-size:15px}}
 </style>
 </head>
-<body>
+<body id="top">
 <div class="shell">
-<section class="hero"><div class="kicker">HSINCHU · WEEKLY MARKET PICK</div><h1>本週成交<br>同社區在售精選</h1><p>手機 LINE 快讀版：先看成交，再像逛商品櫃一樣比較同社區在售物件。</p><div class="stats"><div class="stat"><b>29</b><span>成交案件</span></div><div class="stat"><b>23</b><span>有同社區在售</span></div><div class="stat"><b>49</b><span>有效物件連結</span></div></div></section>
-<div class="demo-note">Demo v2｜字體加大、整體框架縮緊，並加入實際售屋頁照片。手機請左右滑動查看物件。</div>
-<section class="community"><div class="community-head"><div><div class="tags"><span>新竹市</span><span>TX-003</span></div><h2>竹科悅揚</h2></div><div class="deal-pill">本週成交</div></div><div class="deal-strip"><div class="main"><small>成交總價</small><strong>1,968 萬</strong></div><div><small>建物</small><b>33.04 坪</b></div><div><small>樓層</small><b>7/24 樓</b></div><div><small>日期</small><b>2026/08/09</b></div></div><div class="shelf-head"><strong><i></i>同社區在售精選</strong><small>左右滑動查看更多</small></div><div class="rail">
-<article class="product-card"><a class="photo-link" href="https://buy.yungching.com.tw/house/7121021" target="_blank" rel="noopener"><div class="photo-wrap"><img src="https://yccdn.yungching.com.tw/v1/image/?height=768&amp;key=NF58Ko5oaCtgi_znTJgx6ILw_zKZ7o9qvStmGBllrsgqQx-bMQUm6yCREvKSh7krqVhtUUJ4lA_cF1mBh5MY1RWd5eEaa7mn9qxu8f6s-rtKfVoBsurTgAnsNQ3b1ueVZBTVyE902uGua3iB7hgAAKPHTL2hxmCpYvJvW1CAemCnvFN7nCVaZX21v14UxXNsfG2teulhvTJFchn-Kai2cHxqHxwwV499hQFGymqo8g21doSW1ZZihJMNdK9xPvs2Ek0ZxqAri0pt0RURl6ZlTw&amp;width=1024" alt="竹科悅揚朝南外棟兩房露臺戶" loading="lazy" referrerpolicy="no-referrer" onerror="this.style.display='none';this.parentElement.classList.add('img-fail')"><div class="photo-fallback">物件照片</div><div class="badges"><span class="sale">在售 1</span><span class="source">永慶集團</span></div></div></a><div class="body"><div class="card-title">竹科悅揚朝南外棟兩房露臺戶</div><div class="price-row"><strong>2,498 萬</strong><span>32.58 坪</span></div><div class="specs"><span>2房2廳1衛</span><span>4/24 樓</span></div><a class="cta" href="https://buy.yungching.com.tw/house/7121021" target="_blank" rel="noopener"><span>查看物件</span><b>↗</b></a></div></article>
-<article class="product-card"><a class="photo-link" href="https://buy.yungching.com.tw/house/7395575" target="_blank" rel="noopener"><div class="photo-wrap"><img src="https://yccdn.yungching.com.tw/v1/image/?height=768&amp;key=NF58Ko5oaCvIx2mV_4FG-FicBtDdFpDJwMO1uthlnG-rq7Cl3VU52p9k-831dluOqVhtUUJ4lA_cF1mBh5MY1RWd5eEaa7mn9qxu8f6s-rtKfVoBsurTgAnsNQ3b1ueVZBTVyE902uGua3iB7hgAAKPHTL2hxmCpYvJvW1CAemCnvFN7nCVaZX21v14UxXNsfG2teulhvTJFchn-Kai2cHxqHxwwV499hQFGymqo8g21doSW1ZZihJMNdK9xPvs2Ek0ZxqAri0pt0RURl6ZlTw&amp;width=1024" alt="百米棟距景觀2房＋平車" loading="lazy" referrerpolicy="no-referrer" onerror="this.style.display='none';this.parentElement.classList.add('img-fail')"><div class="photo-fallback">物件照片</div><div class="badges"><span class="sale">在售 2</span><span class="source">永慶集團</span></div></div></a><div class="body"><div class="card-title">百米棟距景觀2房＋平車</div><div class="price-row"><strong>1,990 萬</strong><span>32.37 坪</span></div><div class="specs"><span>2房2廳1衛</span><span>6/24 樓</span></div><a class="cta" href="https://buy.yungching.com.tw/house/7395575" target="_blank" rel="noopener"><span>查看物件</span><b>↗</b></a></div></article>
-<article class="product-card"><a class="photo-link" href="https://buy.yungching.com.tw/house/7370158" target="_blank" rel="noopener"><div class="photo-wrap"><img src="https://yccdn.yungching.com.tw/v1/image/?height=768&amp;key=NF58Ko5oaCsaQK_xnnERJuOqdTaw528YlwGf7XrWctmjQ7e-Fn96drfc9AivQEpYqVhtUUJ4lA_cF1mBh5MY1RWd5eEaa7mn9qxu8f6s-rtKfVoBsurTgAnsNQ3b1ueVa0jD0JJgeWt02Xc92Hgeax9ptXAdU5ZuHyqQdxAoaDgB84hAAJBJ-aPJnP6QjjHNJdO-8s9VPXXQ_ruSEFqcK8ShYsvown2RbJENeZqhwTM&amp;width=1024" alt="小夫妻甜蜜兩房可直接入住" loading="lazy" referrerpolicy="no-referrer" onerror="this.style.display='none';this.parentElement.classList.add('img-fail')"><div class="photo-fallback">物件照片</div><div class="badges"><span class="sale">在售 3</span><span class="source">永慶集團</span></div></div></a><div class="body"><div class="card-title">小夫妻甜蜜兩房可直接入住</div><div class="price-row"><strong>2,088 萬</strong><span>32.87 坪</span></div><div class="specs"><span>2房2廳1衛</span><span>16/24 樓</span></div><a class="cta" href="https://buy.yungching.com.tw/house/7370158" target="_blank" rel="noopener"><span>查看物件</span><b>↗</b></a></div></article>
-</div></section>
-<section class="community"><div class="community-head"><div><div class="tags"><span>新竹市</span><span>TX-004</span></div><h2>竹科悅揚</h2></div><div class="deal-pill">本週成交</div></div><div class="deal-strip"><div class="main"><small>成交總價</small><strong>1,888 萬</strong></div><div><small>建物</small><b>32.91 坪</b></div><div><small>樓層</small><b>20/24 樓</b></div><div><small>日期</small><b>2026/08/09</b></div></div><div class="shelf-head"><strong><i></i>同社區在售精選</strong><small>左右滑動查看更多</small></div><div class="rail">
-<article class="product-card"><a class="photo-link" href="https://buy.yungching.com.tw/house/7322079" target="_blank" rel="noopener"><div class="photo-wrap"><img src="https://yccdn.yungching.com.tw/v1/image/?height=768&amp;key=NF58Ko5oaCsVA4vH0Ux243ovNWC0yjjjAfl2ThFZpxDPuvW-LyNbnFAY6rJiYEugqVhtUUJ4lA_cF1mBh5MY1RWd5eEaa7mn9qxu8f6s-rtKfVoBsurTgAnsNQ3b1ueVZBTVyE902uGua3iB7hgAAKPHTL2hxmCpYvJvW1CAemCnvFN7nCVaZX21v14UxXNsfG2teulhvTJFchn-Kai2cHxqHxwwV499hQFGymqo8g21doSW1ZZihJMNdK9xPvs2Ek0ZxqAri0pt0RURl6ZlTw&amp;width=1024" alt="外棟頂樓邊間質感兩房＋平車" loading="lazy" referrerpolicy="no-referrer" onerror="this.style.display='none';this.parentElement.classList.add('img-fail')"><div class="photo-fallback">物件照片</div><div class="badges"><span class="sale">在售 1</span><span class="source">永慶集團</span></div></div></a><div class="body"><div class="card-title">外棟頂樓邊間質感兩房＋平車</div><div class="price-row"><strong>2,288 萬</strong><span>33.43 坪</span></div><div class="specs"><span>2房2廳1衛</span><span>24/24 樓</span></div><a class="cta" href="https://buy.yungching.com.tw/house/7322079" target="_blank" rel="noopener"><span>查看物件</span><b>↗</b></a></div></article>
-<article class="product-card"><a class="photo-link" href="https://buy.yungching.com.tw/house/7459850" target="_blank" rel="noopener"><div class="photo-wrap"><img src="https://yccdn.yungching.com.tw/v1/image/?height=768&amp;key=NF58Ko5oaCs3JdmiBRxBE0I7IpbLmu64Lq3spIZjENY7zpfvjmjyhy5ATO8y1NBsqVhtUUJ4lA_cF1mBh5MY1RWd5eEaa7mn9qxu8f6s-rtKfVoBsurTgAnsNQ3b1ueVa0jD0JJgeWt02Xc92Hgeax9ptXAdU5ZuHyqQdxAoaDgB84hAAJBJ-aPJnP6QjjHNJdO-8s9VPXXQ_ruSEFqcK8ShYsvown2RbJENeZqhwTM&amp;width=1024" alt="次頂樓美裝潢三房充電樁" loading="lazy" referrerpolicy="no-referrer" onerror="this.style.display='none';this.parentElement.classList.add('img-fail')"><div class="photo-fallback">物件照片</div><div class="badges"><span class="sale">在售 2</span><span class="source">永慶集團</span></div></div></a><div class="body"><div class="card-title">次頂樓美裝潢三房充電樁</div><div class="price-row"><strong>2,968 萬</strong><span>45.92 坪</span></div><div class="specs"><span>3房2廳2衛</span><span>23/24 樓</span></div><a class="cta" href="https://buy.yungching.com.tw/house/7459850" target="_blank" rel="noopener"><span>查看物件</span><b>↗</b></a></div></article>
-</div></section>
-<div class="footer">本頁僅作市場資訊整理與物件比較參考；實際售價、刊登狀態與可看屋情況以原物件頁最新資訊為準。</div>
+<section class="hero">
+  <div class="kicker">HSINCHU · WEEKLY MARKET PICK</div>
+  <h1>本週成交<br>同社區在售精選</h1>
+  <p>先看本週真實成交，再直接比較同社區目前公開在售物件。手機版為 LINE 快讀優化。</p>
+  <div class="hero-date">2026/08/18 – 2026/08/24 · 新竹市／竹北／新竹縣／竹南／頭份</div>
+  <div class="stats">
+    <div class="stat"><b>44</b><span>有效成交案件</span></div>
+    <div class="stat"><b>19</b><span>有同社區在售</span></div>
+    <div class="stat"><b>19</b><span>有效物件連結</span></div>
+  </div>
+</section>
+<div class="note">本頁展示 <strong>19 組</strong>「成交＋同社區在售」配對；另有 <strong>25 筆</strong>成交目前未找到可確認同社區在售，故不放入商品卡。刊登售價與狀態以原物件頁即時資訊為準。</div>
+<nav class="region-nav" aria-label="區域快速導覽"><a href="#hsinchu">新竹市 <b>8</b></a><a href="#zhubei">竹北市 <b>5</b></a><a href="#county">新竹縣 <b>4</b></a><a href="#zhunan">竹南鎮 <b>1</b></a><a href="#toufen">頭份市 <b>1</b></a></nav><section class="region-wrap" id="hsinchu"><div class="region-title"><h2>新竹市</h2><span>8 組成交＋在售</span></div><div class="regions-grid">
+<article class="community">
+  <div class="community-head">
+    <div>
+      <div class="tags"><span>新竹市</span><span>TX008</span></div>
+      <h3>富宇-雲悅</h3>
+    </div>
+    <div class="deal-pill">本週成交</div>
+  </div>
+  <div class="address">新竹市東區埔頂一路252-300號</div>
+  <div class="deal-strip">
+    <div class="main"><small>成交總價</small><strong>3,130 萬</strong></div>
+    <div><small>建物</small><b>50.29 坪</b></div>
+    <div><small>樓層</small><b>5/14樓</b></div>
+    <div><small>日期</small><b>2026/08/23</b></div>
+  </div>
+  <div class="shelf-head"><strong><i></i>同社區在售精選</strong><small>點擊查看原物件頁</small></div>
+  <div class="rail">
+    <article class="product-card">
+      <a class="photo-link" href="https://www.sinyi.com.tw/buy/house/4647VZ" target="_blank" rel="noopener noreferrer">
+        <div class="photo-wrap">
+          <img src="https://res.sinyi.com.tw/buy/4647VZ/bigimg/A.JPG" alt="邊間雲悅美三房" loading="lazy" referrerpolicy="no-referrer" onerror="this.style.display='none';this.parentElement.classList.add('img-fail')">
+          <div class="photo-fallback">物件照片</div>
+          <div class="badges"><span class="sale">目前在售</span><span class="source">公開售屋頁</span></div>
+        </div>
+      </a>
+      <div class="card-body">
+        <div class="card-title">邊間雲悅美三房</div>
+        <div class="price-row"><strong>3,388 萬</strong><span>51.24 坪</span></div>
+        <div class="specs"><span>3房2廳2衛</span><span>7樓/14樓</span><span>大樓</span><span>1個坡道平面</span></div>
+        <div class="compare">與本週成交建坪差 0.95 坪</div>
+        <a class="cta" href="https://www.sinyi.com.tw/buy/house/4647VZ" target="_blank" rel="noopener noreferrer"><span>查看物件</span><b>↗</b></a>
+      </div>
+    </article>
+  </div>
+</article>
+<article class="community">
+  <div class="community-head">
+    <div>
+      <div class="tags"><span>新竹市</span><span>TX013</span></div>
+      <h3>金鋐微美</h3>
+    </div>
+    <div class="deal-pill">本週成交</div>
+  </div>
+  <div class="address">新竹市東區太原路102-150號</div>
+  <div class="deal-strip">
+    <div class="main"><small>成交總價</small><strong>1,580 萬</strong></div>
+    <div><small>建物</small><b>37.43 坪</b></div>
+    <div><small>樓層</small><b>4/12樓</b></div>
+    <div><small>日期</small><b>2026/08/23</b></div>
+  </div>
+  <div class="shelf-head"><strong><i></i>同社區在售精選</strong><small>點擊查看原物件頁</small></div>
+  <div class="rail">
+    <article class="product-card">
+      <a class="photo-link" href="https://www.sinyi.com.tw/buy/house/7744ZX" target="_blank" rel="noopener noreferrer">
+        <div class="photo-wrap">
+          <img src="https://res.sinyi.com.tw/buy/7744ZX/bigimg/A.JPG" alt="金鋐微美溫馨綠景屋" loading="lazy" referrerpolicy="no-referrer" onerror="this.style.display='none';this.parentElement.classList.add('img-fail')">
+          <div class="photo-fallback">物件照片</div>
+          <div class="badges"><span class="sale">目前在售</span><span class="source">公開售屋頁</span></div>
+        </div>
+      </a>
+      <div class="card-body">
+        <div class="card-title">金鋐微美溫馨綠景屋</div>
+        <div class="price-row"><strong>1,698 萬</strong><span>37.43 坪</span></div>
+        <div class="specs"><span>2房2廳2衛1室</span><span>4樓/12樓</span><span>大樓</span></div>
+        <div class="compare">與本週成交建坪差 0.00 坪</div>
+        <a class="cta" href="https://www.sinyi.com.tw/buy/house/7744ZX" target="_blank" rel="noopener noreferrer"><span>查看物件</span><b>↗</b></a>
+      </div>
+    </article>
+  </div>
+</article>
+<article class="community">
+  <div class="community-head">
+    <div>
+      <div class="tags"><span>新竹市</span><span>TX016</span></div>
+      <h3>公學新城甲區</h3>
+    </div>
+    <div class="deal-pill">本週成交</div>
+  </div>
+  <div class="address">新竹市東區新源街102-150號</div>
+  <div class="deal-strip">
+    <div class="main"><small>成交總價</small><strong>1,460 萬</strong></div>
+    <div><small>建物</small><b>42.28 坪</b></div>
+    <div><small>樓層</small><b>3/12樓</b></div>
+    <div><small>日期</small><b>2026/08/23</b></div>
+  </div>
+  <div class="shelf-head"><strong><i></i>同社區在售精選</strong><small>點擊查看原物件頁</small></div>
+  <div class="rail">
+    <article class="product-card">
+      <a class="photo-link" href="https://www.sinyi.com.tw/buy/house/7288YV" target="_blank" rel="noopener noreferrer">
+        <div class="photo-wrap">
+          <img src="https://res.sinyi.com.tw/buy/7288YV/bigimg/A.JPG" alt="公甲家庭最愛" loading="lazy" referrerpolicy="no-referrer" onerror="this.style.display='none';this.parentElement.classList.add('img-fail')">
+          <div class="photo-fallback">物件照片</div>
+          <div class="badges"><span class="sale">目前在售</span><span class="source">公開售屋頁</span></div>
+        </div>
+      </a>
+      <div class="card-body">
+        <div class="card-title">公甲家庭最愛</div>
+        <div class="price-row"><strong>1,786 萬</strong><span>39.62 坪</span></div>
+        <div class="specs"><span>3房2廳1.5衛</span><span>12樓/12樓</span><span>大樓</span></div>
+        <div class="compare">與本週成交建坪差 2.66 坪</div>
+        <a class="cta" href="https://www.sinyi.com.tw/buy/house/7288YV" target="_blank" rel="noopener noreferrer"><span>查看物件</span><b>↗</b></a>
+      </div>
+    </article>
+  </div>
+</article>
+<article class="community">
+  <div class="community-head">
+    <div>
+      <div class="tags"><span>新竹市</span><span>TX030</span></div>
+      <h3>國家藝術園區大無限</h3>
+    </div>
+    <div class="deal-pill">本週成交</div>
+  </div>
+  <div class="address">新竹市東區志平路102-150號</div>
+  <div class="deal-strip">
+    <div class="main"><small>成交總價</small><strong>2,380 萬</strong></div>
+    <div><small>建物</small><b>84.43 坪</b></div>
+    <div><small>樓層</small><b>5/14樓</b></div>
+    <div><small>日期</small><b>2026/08/22</b></div>
+  </div>
+  <div class="shelf-head"><strong><i></i>同社區在售精選</strong><small>點擊查看原物件頁</small></div>
+  <div class="rail">
+    <article class="product-card">
+      <a class="photo-link" href="https://www.sinyi.com.tw/buy/house/7959JX" target="_blank" rel="noopener noreferrer">
+        <div class="photo-wrap">
+          <img src="https://res.sinyi.com.tw/buy/7959JX/bigimg/A.JPG" alt="康橋．大無限綠景大３房" loading="lazy" referrerpolicy="no-referrer" onerror="this.style.display='none';this.parentElement.classList.add('img-fail')">
+          <div class="photo-fallback">物件照片</div>
+          <div class="badges"><span class="sale">目前在售</span><span class="source">公開售屋頁</span></div>
+        </div>
+      </a>
+      <div class="card-body">
+        <div class="card-title">康橋．大無限綠景大３房</div>
+        <div class="price-row"><strong>2,580 萬</strong><span>83.16 坪</span></div>
+        <div class="specs"><span>3房2廳3衛</span><span>5樓/14樓</span><span>大樓</span></div>
+        <div class="compare">與本週成交建坪差 1.27 坪</div>
+        <a class="cta" href="https://www.sinyi.com.tw/buy/house/7959JX" target="_blank" rel="noopener noreferrer"><span>查看物件</span><b>↗</b></a>
+      </div>
+    </article>
+  </div>
+</article>
+<article class="community">
+  <div class="community-head">
+    <div>
+      <div class="tags"><span>新竹市</span><span>TX056</span></div>
+      <h3>移動方城</h3>
+    </div>
+    <div class="deal-pill">本週成交</div>
+  </div>
+  <div class="address">新竹市東區中華路一段251-299號</div>
+  <div class="deal-strip">
+    <div class="main"><small>成交總價</small><strong>2,038 萬</strong></div>
+    <div><small>建物</small><b>46.35 坪</b></div>
+    <div><small>樓層</small><b>2/15樓</b></div>
+    <div><small>日期</small><b>2026/08/19</b></div>
+  </div>
+  <div class="shelf-head"><strong><i></i>同社區在售精選</strong><small>點擊查看原物件頁</small></div>
+  <div class="rail">
+    <article class="product-card">
+      <a class="photo-link" href="https://www.sinyi.com.tw/buy/house/0233KN" target="_blank" rel="noopener noreferrer">
+        <div class="photo-wrap">
+          <img src="https://res.sinyi.com.tw/buy/0233KN/bigimg/A.JPG" alt="三民移動方城三房視野美屋" loading="lazy" referrerpolicy="no-referrer" onerror="this.style.display='none';this.parentElement.classList.add('img-fail')">
+          <div class="photo-fallback">物件照片</div>
+          <div class="badges"><span class="sale">目前在售</span><span class="source">公開售屋頁</span></div>
+        </div>
+      </a>
+      <div class="card-body">
+        <div class="card-title">三民移動方城三房視野美屋</div>
+        <div class="price-row"><strong>2,598 萬</strong><span>49.23 坪</span></div>
+        <div class="specs"><span>3房2廳2衛</span><span>14樓/15樓</span><span>大樓</span></div>
+        <div class="compare">與本週成交建坪差 2.88 坪</div>
+        <a class="cta" href="https://www.sinyi.com.tw/buy/house/0233KN" target="_blank" rel="noopener noreferrer"><span>查看物件</span><b>↗</b></a>
+      </div>
+    </article>
+  </div>
+</article>
+<article class="community">
+  <div class="community-head">
+    <div>
+      <div class="tags"><span>新竹市</span><span>TX067</span></div>
+      <h3>中正伯爵</h3>
+    </div>
+    <div class="deal-pill">本週成交</div>
+  </div>
+  <div class="address">新竹市北區中正路485巷001-049號</div>
+  <div class="deal-strip">
+    <div class="main"><small>成交總價</small><strong>1,150 萬</strong></div>
+    <div><small>建物</small><b>41.96 坪</b></div>
+    <div><small>樓層</small><b>4/6樓</b></div>
+    <div><small>日期</small><b>2026/08/18</b></div>
+  </div>
+  <div class="shelf-head"><strong><i></i>同社區在售精選</strong><small>點擊查看原物件頁</small></div>
+  <div class="rail">
+    <article class="product-card">
+      <a class="photo-link" href="https://www.sinyi.com.tw/buy/house/8477YH" target="_blank" rel="noopener noreferrer">
+        <div class="photo-wrap">
+          <img src="https://res.sinyi.com.tw/buy/8477YH/bigimg/A.JPG" alt="中正伯爵立即入住四房車位" loading="lazy" referrerpolicy="no-referrer" onerror="this.style.display='none';this.parentElement.classList.add('img-fail')">
+          <div class="photo-fallback">物件照片</div>
+          <div class="badges"><span class="sale">目前在售</span><span class="source">公開售屋頁</span></div>
+        </div>
+      </a>
+      <div class="card-body">
+        <div class="card-title">中正伯爵立即入住四房車位</div>
+        <div class="price-row"><strong>1,698 萬</strong><span>49.11 坪</span></div>
+        <div class="specs"><span>4房2廳2衛</span><span>4樓/7樓</span><span>華廈</span></div>
+        <div class="compare">與本週成交建坪差 7.15 坪</div>
+        <a class="cta" href="https://www.sinyi.com.tw/buy/house/8477YH" target="_blank" rel="noopener noreferrer"><span>查看物件</span><b>↗</b></a>
+      </div>
+    </article>
+  </div>
+</article>
+<article class="community">
+  <div class="community-head">
+    <div>
+      <div class="tags"><span>新竹市</span><span>TX069</span></div>
+      <h3>美學苑</h3>
+    </div>
+    <div class="deal-pill">本週成交</div>
+  </div>
+  <div class="address">新竹市北區經國路二段501-549號</div>
+  <div class="deal-strip">
+    <div class="main"><small>成交總價</small><strong>1,250 萬</strong></div>
+    <div><small>建物</small><b>32.89 坪</b></div>
+    <div><small>樓層</small><b>13/13樓</b></div>
+    <div><small>日期</small><b>2026/08/18</b></div>
+  </div>
+  <div class="shelf-head"><strong><i></i>同社區在售精選</strong><small>點擊查看原物件頁</small></div>
+  <div class="rail">
+    <article class="product-card">
+      <a class="photo-link" href="https://www.sinyi.com.tw/buy/house/3064PV" target="_blank" rel="noopener noreferrer">
+        <div class="photo-wrap">
+          <img src="https://res.sinyi.com.tw/buy/3064PV/bigimg/A.JPG" alt="美學苑高樓層美裝潢" loading="lazy" referrerpolicy="no-referrer" onerror="this.style.display='none';this.parentElement.classList.add('img-fail')">
+          <div class="photo-fallback">物件照片</div>
+          <div class="badges"><span class="sale">目前在售</span><span class="source">公開售屋頁</span></div>
+        </div>
+      </a>
+      <div class="card-body">
+        <div class="card-title">美學苑高樓層美裝潢</div>
+        <div class="price-row"><strong>1,498 萬</strong><span>32.89 坪</span></div>
+        <div class="specs"><span>2房2廳1衛</span><span>11樓/13樓</span><span>大樓</span></div>
+        <div class="compare">與本週成交建坪差 0.00 坪</div>
+        <a class="cta" href="https://www.sinyi.com.tw/buy/house/3064PV" target="_blank" rel="noopener noreferrer"><span>查看物件</span><b>↗</b></a>
+      </div>
+    </article>
+  </div>
+</article>
+<article class="community">
+  <div class="community-head">
+    <div>
+      <div class="tags"><span>新竹市</span><span>TX120</span></div>
+      <h3>一品博觀社區</h3>
+    </div>
+    <div class="deal-pill">本週成交</div>
+  </div>
+  <div class="address">新竹市東區食品路41-10號9樓</div>
+  <div class="deal-strip">
+    <div class="main"><small>成交總價</small><strong>2,988 萬</strong></div>
+    <div><small>建物</small><b>54.142 坪</b></div>
+    <div><small>樓層</small><b>9樓</b></div>
+    <div><small>日期</small><b>本週</b></div>
+  </div>
+  <div class="shelf-head"><strong><i></i>同社區在售精選</strong><small>點擊查看原物件頁</small></div>
+  <div class="rail">
+    <article class="product-card">
+      <a class="photo-link" href="https://www.sinyi.com.tw/buy/house/2002XH" target="_blank" rel="noopener noreferrer">
+        <div class="photo-wrap">
+          <img src="https://res.sinyi.com.tw/buy/2002XH/bigimg/A.JPG" alt="近公園採光讚一品博觀" loading="lazy" referrerpolicy="no-referrer" onerror="this.style.display='none';this.parentElement.classList.add('img-fail')">
+          <div class="photo-fallback">物件照片</div>
+          <div class="badges"><span class="sale">目前在售</span><span class="source">公開售屋頁</span></div>
+        </div>
+      </a>
+      <div class="card-body">
+        <div class="card-title">近公園採光讚一品博觀</div>
+        <div class="price-row"><strong>2,680 萬</strong><span>46.61 坪</span></div>
+        <div class="specs"><span>3房2廳2衛</span><span>11樓/12樓</span><span>大樓</span></div>
+        <div class="compare">與本週成交建坪差 7.53 坪</div>
+        <a class="cta" href="https://www.sinyi.com.tw/buy/house/2002XH" target="_blank" rel="noopener noreferrer"><span>查看物件</span><b>↗</b></a>
+      </div>
+    </article>
+  </div>
+</article></div></section><section class="region-wrap" id="zhubei"><div class="region-title"><h2>竹北市</h2><span>5 組成交＋在售</span></div><div class="regions-grid">
+<article class="community">
+  <div class="community-head">
+    <div>
+      <div class="tags"><span>竹北市</span><span>TX003</span></div>
+      <h3>富宇御琚</h3>
+    </div>
+    <div class="deal-pill">本週成交</div>
+  </div>
+  <div class="address">新竹縣竹北市勝利十二街102-150號</div>
+  <div class="deal-strip">
+    <div class="main"><small>成交總價</small><strong>2,320 萬</strong></div>
+    <div><small>建物</small><b>37.56 坪</b></div>
+    <div><small>樓層</small><b>7/14樓</b></div>
+    <div><small>日期</small><b>2026/08/24</b></div>
+  </div>
+  <div class="shelf-head"><strong><i></i>同社區在售精選</strong><small>點擊查看原物件頁</small></div>
+  <div class="rail">
+    <article class="product-card">
+      <a class="photo-link" href="https://www.sinyi.com.tw/buy/house/6454SM" target="_blank" rel="noopener noreferrer">
+        <div class="photo-wrap">
+          <img src="https://res.sinyi.com.tw/buy/6454SM/bigimg/A.JPG" alt="專任富宇御琚後棟高樓２房" loading="lazy" referrerpolicy="no-referrer" onerror="this.style.display='none';this.parentElement.classList.add('img-fail')">
+          <div class="photo-fallback">物件照片</div>
+          <div class="badges"><span class="sale">目前在售</span><span class="source">公開售屋頁</span></div>
+        </div>
+      </a>
+      <div class="card-body">
+        <div class="card-title">專任富宇御琚後棟高樓２房</div>
+        <div class="price-row"><strong>2,488 萬</strong><span>37.56 坪</span></div>
+        <div class="specs"><span>2房2廳1衛</span><span>12樓/14樓</span><span>大樓</span><span>1個坡道平面</span></div>
+        <div class="compare">與本週成交建坪差 0.00 坪</div>
+        <a class="cta" href="https://www.sinyi.com.tw/buy/house/6454SM" target="_blank" rel="noopener noreferrer"><span>查看物件</span><b>↗</b></a>
+      </div>
+    </article>
+  </div>
+</article>
+<article class="community">
+  <div class="community-head">
+    <div>
+      <div class="tags"><span>竹北市</span><span>TX004</span></div>
+      <h3>映樸川</h3>
+    </div>
+    <div class="deal-pill">本週成交</div>
+  </div>
+  <div class="address">新竹縣竹北市環北路一段107巷001-049號</div>
+  <div class="deal-strip">
+    <div class="main"><small>成交總價</small><strong>2,250 萬</strong></div>
+    <div><small>建物</small><b>52.89 坪</b></div>
+    <div><small>樓層</small><b>2/15樓</b></div>
+    <div><small>日期</small><b>2026/08/24</b></div>
+  </div>
+  <div class="shelf-head"><strong><i></i>同社區在售精選</strong><small>點擊查看原物件頁</small></div>
+  <div class="rail">
+    <article class="product-card">
+      <a class="photo-link" href="https://www.sinyi.com.tw/buy/house/4735JL" target="_blank" rel="noopener noreferrer">
+        <div class="photo-wrap">
+          <img src="https://res.sinyi.com.tw/buy/4735JL/bigimg/A.JPG" alt="映樸川高樓視野戶" loading="lazy" referrerpolicy="no-referrer" onerror="this.style.display='none';this.parentElement.classList.add('img-fail')">
+          <div class="photo-fallback">物件照片</div>
+          <div class="badges"><span class="sale">目前在售</span><span class="source">公開售屋頁</span></div>
+        </div>
+      </a>
+      <div class="card-body">
+        <div class="card-title">映樸川高樓視野戶</div>
+        <div class="price-row"><strong>2,488 萬</strong><span>55.87 坪</span></div>
+        <div class="specs"><span>2房2廳2衛1室</span><span>7樓/15樓</span><span>大樓</span><span>1個坡道平面</span></div>
+        <div class="compare">與本週成交建坪差 2.98 坪</div>
+        <a class="cta" href="https://www.sinyi.com.tw/buy/house/4735JL" target="_blank" rel="noopener noreferrer"><span>查看物件</span><b>↗</b></a>
+      </div>
+    </article>
+  </div>
+</article>
+<article class="community">
+  <div class="community-head">
+    <div>
+      <div class="tags"><span>竹北市</span><span>TX038</span></div>
+      <h3>國賓大悅</h3>
+    </div>
+    <div class="deal-pill">本週成交</div>
+  </div>
+  <div class="address">新竹縣竹北市勝利八街一段201-249號</div>
+  <div class="deal-strip">
+    <div class="main"><small>成交總價</small><strong>1,868 萬</strong></div>
+    <div><small>建物</small><b>37.74 坪</b></div>
+    <div><small>樓層</small><b>14/27樓</b></div>
+    <div><small>日期</small><b>2026/08/21</b></div>
+  </div>
+  <div class="shelf-head"><strong><i></i>同社區在售精選</strong><small>點擊查看原物件頁</small></div>
+  <div class="rail">
+    <article class="product-card">
+      <a class="photo-link" href="https://www.sinyi.com.tw/buy/house/3874VL" target="_blank" rel="noopener noreferrer">
+        <div class="photo-wrap">
+          <img src="https://res.sinyi.com.tw/buy/3874VL/bigimg/A.JPG" alt="國賓大悅次頂樓精裝戶" loading="lazy" referrerpolicy="no-referrer" onerror="this.style.display='none';this.parentElement.classList.add('img-fail')">
+          <div class="photo-fallback">物件照片</div>
+          <div class="badges"><span class="sale">目前在售</span><span class="source">公開售屋頁</span></div>
+        </div>
+      </a>
+      <div class="card-body">
+        <div class="card-title">國賓大悅次頂樓精裝戶</div>
+        <div class="price-row"><strong>2,488 萬</strong><span>43.83 坪</span></div>
+        <div class="specs"><span>3房2廳2衛</span><span>26樓/27樓</span><span>大樓</span></div>
+        <div class="compare">與本週成交建坪差 6.09 坪</div>
+        <a class="cta" href="https://www.sinyi.com.tw/buy/house/3874VL" target="_blank" rel="noopener noreferrer"><span>查看物件</span><b>↗</b></a>
+      </div>
+    </article>
+  </div>
+</article>
+<article class="community">
+  <div class="community-head">
+    <div>
+      <div class="tags"><span>竹北市</span><span>TX060</span></div>
+      <h3>興富發水公園</h3>
+    </div>
+    <div class="deal-pill">本週成交</div>
+  </div>
+  <div class="address">新竹縣竹北市興隆路一段601-649號</div>
+  <div class="deal-strip">
+    <div class="main"><small>成交總價</small><strong>1,750 萬</strong></div>
+    <div><small>建物</small><b>34.13 坪</b></div>
+    <div><small>樓層</small><b>10/15樓</b></div>
+    <div><small>日期</small><b>2026/08/19</b></div>
+  </div>
+  <div class="shelf-head"><strong><i></i>同社區在售精選</strong><small>點擊查看原物件頁</small></div>
+  <div class="rail">
+    <article class="product-card">
+      <a class="photo-link" href="https://www.sinyi.com.tw/buy/house/5886HC" target="_blank" rel="noopener noreferrer">
+        <div class="photo-wrap">
+          <img src="https://res.sinyi.com.tw/buy/5886HC/bigimg/A.JPG" alt="誠可談｜水公園｜美裝兩房" loading="lazy" referrerpolicy="no-referrer" onerror="this.style.display='none';this.parentElement.classList.add('img-fail')">
+          <div class="photo-fallback">物件照片</div>
+          <div class="badges"><span class="sale">目前在售</span><span class="source">公開售屋頁</span></div>
+        </div>
+      </a>
+      <div class="card-body">
+        <div class="card-title">誠可談｜水公園｜美裝兩房</div>
+        <div class="price-row"><strong>1,898 萬</strong><span>33.77 坪</span></div>
+        <div class="specs"><span>2房2廳1衛</span><span>6樓/15樓</span><span>大樓</span><span>1個坡道平面</span></div>
+        <div class="compare">與本週成交建坪差 0.36 坪</div>
+        <a class="cta" href="https://www.sinyi.com.tw/buy/house/5886HC" target="_blank" rel="noopener noreferrer"><span>查看物件</span><b>↗</b></a>
+      </div>
+    </article>
+  </div>
+</article>
+<article class="community">
+  <div class="community-head">
+    <div>
+      <div class="tags"><span>竹北市</span><span>TX075</span></div>
+      <h3>德鑫SKY1</h3>
+    </div>
+    <div class="deal-pill">本週成交</div>
+  </div>
+  <div class="address">新竹縣竹北市勝利十一路102-150號</div>
+  <div class="deal-strip">
+    <div class="main"><small>成交總價</small><strong>2,200 萬</strong></div>
+    <div><small>建物</small><b>48.44 坪</b></div>
+    <div><small>樓層</small><b>13/21樓</b></div>
+    <div><small>日期</small><b>2026/08/18</b></div>
+  </div>
+  <div class="shelf-head"><strong><i></i>同社區在售精選</strong><small>點擊查看原物件頁</small></div>
+  <div class="rail">
+    <article class="product-card">
+      <a class="photo-link" href="https://www.sinyi.com.tw/buy/house/5915UQ" target="_blank" rel="noopener noreferrer">
+        <div class="photo-wrap">
+          <img src="https://res.sinyi.com.tw/buy/5915UQ/bigimg/A.JPG" alt="德鑫・ＳＫＹ１縣三核心" loading="lazy" referrerpolicy="no-referrer" onerror="this.style.display='none';this.parentElement.classList.add('img-fail')">
+          <div class="photo-fallback">物件照片</div>
+          <div class="badges"><span class="sale">目前在售</span><span class="source">公開售屋頁</span></div>
+        </div>
+      </a>
+      <div class="card-body">
+        <div class="card-title">德鑫・ＳＫＹ１縣三核心</div>
+        <div class="price-row"><strong>1,498 萬</strong><span>26.23 坪</span></div>
+        <div class="specs"><span>1房2廳1衛</span><span>4樓/21樓</span><span>大樓</span></div>
+        <div class="compare">與本週成交建坪差 22.21 坪</div>
+        <a class="cta" href="https://www.sinyi.com.tw/buy/house/5915UQ" target="_blank" rel="noopener noreferrer"><span>查看物件</span><b>↗</b></a>
+      </div>
+    </article>
+  </div>
+</article></div></section><section class="region-wrap" id="county"><div class="region-title"><h2>新竹縣</h2><span>4 組成交＋在售</span></div><div class="regions-grid">
+<article class="community">
+  <div class="community-head">
+    <div>
+      <div class="tags"><span>新竹縣</span><span>TX025</span></div>
+      <h3>弘峻理享城</h3>
+    </div>
+    <div class="deal-pill">本週成交</div>
+  </div>
+  <div class="address">新竹縣湖口鄉德和路10巷051-099號</div>
+  <div class="deal-strip">
+    <div class="main"><small>成交總價</small><strong>950 萬</strong></div>
+    <div><small>建物</small><b>42.51 坪</b></div>
+    <div><small>樓層</small><b>3/11樓</b></div>
+    <div><small>日期</small><b>2026/08/22</b></div>
+  </div>
+  <div class="shelf-head"><strong><i></i>同社區在售精選</strong><small>點擊查看原物件頁</small></div>
+  <div class="rail">
+    <article class="product-card">
+      <a class="photo-link" href="https://www.sinyi.com.tw/buy/house/CS187063HB" target="_blank" rel="noopener noreferrer">
+        <div class="photo-wrap">
+          <img src="https://res.sinyi.com.tw/buy/CS187063HB/bigimg/A.JPG" alt="湖口弘峻理享城三房車" loading="lazy" referrerpolicy="no-referrer" onerror="this.style.display='none';this.parentElement.classList.add('img-fail')">
+          <div class="photo-fallback">物件照片</div>
+          <div class="badges"><span class="sale">目前在售</span><span class="source">公開售屋頁</span></div>
+        </div>
+      </a>
+      <div class="card-body">
+        <div class="card-title">湖口弘峻理享城三房車</div>
+        <div class="price-row"><strong>1,180 萬</strong><span>35.72 坪</span></div>
+        <div class="specs"><span>3房</span><span>3樓/11樓</span><span>華廈</span></div>
+        <div class="compare">與本週成交建坪差 6.79 坪</div>
+        <a class="cta" href="https://www.sinyi.com.tw/buy/house/CS187063HB" target="_blank" rel="noopener noreferrer"><span>查看物件</span><b>↗</b></a>
+      </div>
+    </article>
+  </div>
+</article>
+<article class="community">
+  <div class="community-head">
+    <div>
+      <div class="tags"><span>新竹縣</span><span>TX026</span></div>
+      <h3>星都心</h3>
+    </div>
+    <div class="deal-pill">本週成交</div>
+  </div>
+  <div class="address">新竹縣竹東鎮光明路188巷002-050號</div>
+  <div class="deal-strip">
+    <div class="main"><small>成交總價</small><strong>1,600 萬</strong></div>
+    <div><small>建物</small><b>43.82 坪</b></div>
+    <div><small>樓層</small><b>2/14樓</b></div>
+    <div><small>日期</small><b>2026/08/22</b></div>
+  </div>
+  <div class="shelf-head"><strong><i></i>同社區在售精選</strong><small>點擊查看原物件頁</small></div>
+  <div class="rail">
+    <article class="product-card">
+      <a class="photo-link" href="https://www.sinyi.com.tw/buy/house/7254ZM" target="_blank" rel="noopener noreferrer">
+        <div class="photo-wrap">
+          <img src="https://res.sinyi.com.tw/buy/7254ZM/bigimg/A.JPG" alt="星都心純住視野三房" loading="lazy" referrerpolicy="no-referrer" onerror="this.style.display='none';this.parentElement.classList.add('img-fail')">
+          <div class="photo-fallback">物件照片</div>
+          <div class="badges"><span class="sale">目前在售</span><span class="source">公開售屋頁</span></div>
+        </div>
+      </a>
+      <div class="card-body">
+        <div class="card-title">星都心純住視野三房</div>
+        <div class="price-row"><strong>1,950 萬</strong><span>45.88 坪</span></div>
+        <div class="specs"><span>3房2廳2衛</span><span>11樓/14樓</span><span>大樓</span><span>1個坡道平面</span></div>
+        <div class="compare">與本週成交建坪差 2.06 坪</div>
+        <a class="cta" href="https://www.sinyi.com.tw/buy/house/7254ZM" target="_blank" rel="noopener noreferrer"><span>查看物件</span><b>↗</b></a>
+      </div>
+    </article>
+  </div>
+</article>
+<article class="community">
+  <div class="community-head">
+    <div>
+      <div class="tags"><span>新竹縣</span><span>TX028</span></div>
+      <h3>新豐一號</h3>
+    </div>
+    <div class="deal-pill">本週成交</div>
+  </div>
+  <div class="address">新竹縣新豐鄉康樂路一段510巷001-049號</div>
+  <div class="deal-strip">
+    <div class="main"><small>成交總價</small><strong>1,030 萬</strong></div>
+    <div><small>建物</small><b>32.71 坪</b></div>
+    <div><small>樓層</small><b>7/7樓</b></div>
+    <div><small>日期</small><b>2026/08/22</b></div>
+  </div>
+  <div class="shelf-head"><strong><i></i>同社區在售精選</strong><small>點擊查看原物件頁</small></div>
+  <div class="rail">
+    <article class="product-card">
+      <a class="photo-link" href="https://www.sinyi.com.tw/buy/house/VB01883GH" target="_blank" rel="noopener noreferrer">
+        <div class="photo-wrap">
+          <img src="https://res.sinyi.com.tw/buy/VB01883GH/bigimg/A.JPG" alt="新豐1號6樓漂亮華廈" loading="lazy" referrerpolicy="no-referrer" onerror="this.style.display='none';this.parentElement.classList.add('img-fail')">
+          <div class="photo-fallback">物件照片</div>
+          <div class="badges"><span class="sale">目前在售</span><span class="source">公開售屋頁</span></div>
+        </div>
+      </a>
+      <div class="card-body">
+        <div class="card-title">新豐1號6樓漂亮華廈</div>
+        <div class="price-row"><strong>998 萬</strong><span>27.68 坪</span></div>
+        <div class="specs"><span>2房2廳1衛</span><span>6樓/11樓</span><span>大樓</span></div>
+        <div class="compare">與本週成交建坪差 5.03 坪</div>
+        <a class="cta" href="https://www.sinyi.com.tw/buy/house/VB01883GH" target="_blank" rel="noopener noreferrer"><span>查看物件</span><b>↗</b></a>
+      </div>
+    </article>
+  </div>
+</article>
+<article class="community">
+  <div class="community-head">
+    <div>
+      <div class="tags"><span>新竹縣</span><span>TX049</span></div>
+      <h3>富廣美美</h3>
+    </div>
+    <div class="deal-pill">本週成交</div>
+  </div>
+  <div class="address">新竹縣竹東鎮工業一路002-050號</div>
+  <div class="deal-strip">
+    <div class="main"><small>成交總價</small><strong>1,310 萬</strong></div>
+    <div><small>建物</small><b>33.38 坪</b></div>
+    <div><small>樓層</small><b>7/15樓</b></div>
+    <div><small>日期</small><b>2026/08/20</b></div>
+  </div>
+  <div class="shelf-head"><strong><i></i>同社區在售精選</strong><small>點擊查看原物件頁</small></div>
+  <div class="rail">
+    <article class="product-card">
+      <a class="photo-link" href="https://www.sinyi.com.tw/buy/house/JS104087HB" target="_blank" rel="noopener noreferrer">
+        <div class="photo-wrap">
+          <img src="https://res.sinyi.com.tw/buy/JS104087HB/bigimg/A.JPG" alt="竹東富廣美美兩房+平車" loading="lazy" referrerpolicy="no-referrer" onerror="this.style.display='none';this.parentElement.classList.add('img-fail')">
+          <div class="photo-fallback">物件照片</div>
+          <div class="badges"><span class="sale">目前在售</span><span class="source">公開售屋頁</span></div>
+        </div>
+      </a>
+      <div class="card-body">
+        <div class="card-title">竹東富廣美美兩房+平車</div>
+        <div class="price-row"><strong>1,538 萬</strong><span>34.02 坪</span></div>
+        <div class="specs"><span>2房2廳1衛</span><span>8樓/15樓</span><span>大樓</span></div>
+        <div class="compare">與本週成交建坪差 0.64 坪</div>
+        <a class="cta" href="https://www.sinyi.com.tw/buy/house/JS104087HB" target="_blank" rel="noopener noreferrer"><span>查看物件</span><b>↗</b></a>
+      </div>
+    </article>
+  </div>
+</article></div></section><section class="region-wrap" id="zhunan"><div class="region-title"><h2>竹南鎮</h2><span>1 組成交＋在售</span></div><div class="regions-grid">
+<article class="community">
+  <div class="community-head">
+    <div>
+      <div class="tags"><span>竹南鎮</span><span>TX062</span></div>
+      <h3>立景悅</h3>
+    </div>
+    <div class="deal-pill">本週成交</div>
+  </div>
+  <div class="address">苗栗縣竹南鎮光復路411巷001-049號</div>
+  <div class="deal-strip">
+    <div class="main"><small>成交總價</small><strong>1,050 萬</strong></div>
+    <div><small>建物</small><b>48.68 坪</b></div>
+    <div><small>樓層</small><b>4/10樓</b></div>
+    <div><small>日期</small><b>2026/08/19</b></div>
+  </div>
+  <div class="shelf-head"><strong><i></i>同社區在售精選</strong><small>點擊查看原物件頁</small></div>
+  <div class="rail">
+    <article class="product-card">
+      <a class="photo-link" href="https://www.sinyi.com.tw/buy/house/BS62638HB" target="_blank" rel="noopener noreferrer">
+        <div class="photo-wrap">
+          <img src="https://res.sinyi.com.tw/buy/BS62638HB/bigimg/A.JPG" alt="C103竹南全新立景悅10A" loading="lazy" referrerpolicy="no-referrer" onerror="this.style.display='none';this.parentElement.classList.add('img-fail')">
+          <div class="photo-fallback">物件照片</div>
+          <div class="badges"><span class="sale">目前在售</span><span class="source">公開售屋頁</span></div>
+        </div>
+      </a>
+      <div class="card-body">
+        <div class="card-title">C103竹南全新立景悅10A</div>
+        <div class="price-row"><strong>1,988 萬</strong><span>67.88 坪</span></div>
+        <div class="specs"><span>4房2廳2衛</span><span>10樓/10樓</span><span>華廈</span></div>
+        <div class="compare">與本週成交建坪差 19.20 坪</div>
+        <a class="cta" href="https://www.sinyi.com.tw/buy/house/BS62638HB" target="_blank" rel="noopener noreferrer"><span>查看物件</span><b>↗</b></a>
+      </div>
+    </article>
+  </div>
+</article></div></section><section class="region-wrap" id="toufen"><div class="region-title"><h2>頭份市</h2><span>1 組成交＋在售</span></div><div class="regions-grid">
+<article class="community">
+  <div class="community-head">
+    <div>
+      <div class="tags"><span>頭份市</span><span>TX140</span></div>
+      <h3>昌隆廣場-上禾旺</h3>
+    </div>
+    <div class="deal-pill">本週成交</div>
+  </div>
+  <div class="address">苗栗縣頭份市昌隆一街118號11樓</div>
+  <div class="deal-strip">
+    <div class="main"><small>成交總價</small><strong>1,350 萬</strong></div>
+    <div><small>建物</small><b>42.173 坪</b></div>
+    <div><small>樓層</small><b>11樓</b></div>
+    <div><small>日期</small><b>本週</b></div>
+  </div>
+  <div class="shelf-head"><strong><i></i>同社區在售精選</strong><small>點擊查看原物件頁</small></div>
+  <div class="rail">
+    <article class="product-card">
+      <a class="photo-link" href="https://www.sinyi.com.tw/buy/house/6874CF" target="_blank" rel="noopener noreferrer">
+        <div class="photo-wrap">
+          <img src="https://res.sinyi.com.tw/buy/6874CF/bigimg/A.JPG" alt="＃上禾旺大３房外棟採光戶" loading="lazy" referrerpolicy="no-referrer" onerror="this.style.display='none';this.parentElement.classList.add('img-fail')">
+          <div class="photo-fallback">物件照片</div>
+          <div class="badges"><span class="sale">目前在售</span><span class="source">公開售屋頁</span></div>
+        </div>
+      </a>
+      <div class="card-body">
+        <div class="card-title">＃上禾旺大３房外棟採光戶</div>
+        <div class="price-row"><strong>1,758 萬</strong><span>49.16 坪</span></div>
+        <div class="specs"><span>3房2廳2衛</span><span>13樓/15樓</span><span>大樓</span></div>
+        <div class="compare">與本週成交建坪差 6.99 坪</div>
+        <a class="cta" href="https://www.sinyi.com.tw/buy/house/6874CF" target="_blank" rel="noopener noreferrer"><span>查看物件</span><b>↗</b></a>
+      </div>
+    </article>
+  </div>
+</article></div></section>
+<div class="footer"><strong>2026/08/18–08/24 市場資料整理</strong><br>本頁僅作成交與公開在售物件比較參考；實際售價、刊登狀態、格局、坪數與可看屋情況以原物件頁最新資訊為準。</div>
 </div>
+<a class="top-btn" href="#top" aria-label="回到頂端">↑</a>
 </body>
 </html>
