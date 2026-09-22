@@ -1,0 +1,69 @@
+name: Verify Weekly Housing Pages
+on:
+  push:
+    paths:
+      - ".github/workflows/verify-weekly-pages.yml"
+  workflow_dispatch:
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - name: Wait for current GitHub Pages deployment
+        shell: bash
+        run: |
+          set -euo pipefail
+          URL="https://notr19910630-netizen.github.io/weekly-housing/?verify=${GITHUB_SHA}"
+          ok=0
+          for i in $(seq 1 18); do
+            code=$(curl -L -sS -o /tmp/page.html -w "%{http_code}" "$URL" || true)
+            echo "attempt=$i http=$code"
+            if [ "$code" = "200" ] && grep -q "2026/09/15–09/21" /tmp/page.html && grep -q "新竹竹北住宅市場週報" /tmp/page.html; then
+              ok=1
+              break
+            fi
+            sleep 10
+          done
+          test "$ok" = "1"
+          echo "PUBLIC_HTML_CURRENT=true"
+          echo "deal_cards=$(grep -o 'class=\"deal-card filterable\"' /tmp/page.html | wc -l)"
+          echo "listing_buttons=$(grep -o '>查看物件 <' /tmp/page.html | wc -l)"
+          echo "listing_urls=$(grep -o 'https://buy.yungching.com.tw/house/[0-9]*' /tmp/page.html | sort -u | wc -l)"
+      - name: Browser render desktop and mobile
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p /tmp/pw && cd /tmp/pw
+          npm init -y >/dev/null 2>&1
+          npm install playwright@1.55.0 >/dev/null 2>&1
+          npx playwright install --with-deps chromium >/dev/null 2>&1
+          cat > verify.mjs <<'JS'
+          import { chromium } from 'playwright';
+          const url='https://notr19910630-netizen.github.io/weekly-housing/?verify='+Date.now();
+          const browser=await chromium.launch({headless:true});
+          for (const [name,w,h] of [['desktop',1440,1100],['mobile',390,844]]) {
+            const page=await browser.newPage({viewport:{width:w,height:h}});
+            await page.goto(url,{waitUntil:'networkidle',timeout:90000});
+            const data=await page.evaluate(() => {
+              const cards=[...document.querySelectorAll('.deal-card')];
+              const ctas=[...document.querySelectorAll('.cta')];
+              const imgs=[...document.querySelectorAll('.listing-card img')];
+              const visibleCtas=ctas.filter(a=>{const r=a.getBoundingClientRect();return r.width>0&&r.height>0}).length;
+              const badButtons=ctas.filter(a=>!a.href||!a.href.startsWith('https://buy.yungching.com.tw/house/')).length;
+              return {
+                title:document.title,
+                cards:cards.length,
+                ctas:ctas.length,
+                visibleCtas,
+                badButtons,
+                images:imgs.length,
+                horizontalOverflow:document.documentElement.scrollWidth>window.innerWidth+2
+              };
+            });
+            console.log(name.toUpperCase(), JSON.stringify(data));
+            if (!data.title.includes('2026/09/15') || data.cards!==61 || data.ctas!==31 || data.visibleCtas!==31 || data.badButtons!==0 || data.horizontalOverflow) process.exitCode=1;
+            await page.close();
+          }
+          await browser.close();
+          JS
+          node verify.mjs
