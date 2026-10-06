@@ -3,8 +3,8 @@
   "stage": "FINAL",
   "period_start": "2026/09/29",
   "period_end": "2026/10/05",
-  "version_time": "2026-10-06T09:17:43+08:00",
-  "final_verified_at": "2026-10-06T09:17:43+08:00",
+  "version_time": "2026-10-06T10:43:09+08:00",
+  "final_verified_at": "2026-10-06T10:43:09+08:00",
   "source_page_count": 6,
   "counts": {
     "CONFIRMED_TRANSACTION": 71,
@@ -92,7 +92,7 @@
           "layout": "3房2廳2衛",
           "parking": "坡道平面固定車位",
           "initial_verified_at": "2026-10-06T08:27:12+08:00",
-          "final_verified_at": "2026-10-06T09:13:49+08:00"
+          "final_verified_at": "2026-10-06T10:34:08+08:00"
         }
       ],
       "availability_note": null
@@ -136,7 +136,7 @@
           "layout": "3房2廳2衛",
           "parking": "坡道平面固定車位",
           "initial_verified_at": "2026-10-06T08:27:12+08:00",
-          "final_verified_at": "2026-10-06T09:13:52+08:00"
+          "final_verified_at": "2026-10-06T10:34:12+08:00"
         }
       ],
       "availability_note": null
@@ -218,7 +218,7 @@
           "layout": "2房2廳1衛",
           "parking": "坡道平面固定車位",
           "initial_verified_at": "2026-10-06T08:31:12+08:00",
-          "final_verified_at": "2026-10-06T09:13:55+08:00"
+          "final_verified_at": "2026-10-06T10:34:16+08:00"
         }
       ],
       "availability_note": null
@@ -267,7 +267,7 @@
           "layout": "3房2廳2衛",
           "parking": "坡道機械固定車位",
           "initial_verified_at": "2026-10-06T08:33:08+08:00",
-          "final_verified_at": "2026-10-06T09:14:24+08:00"
+          "final_verified_at": "2026-10-06T10:34:19+08:00"
         },
         {
           "listing_id": "S037-L2",
@@ -282,7 +282,7 @@
           "layout": "2房2廳1衛",
           "parking": "坡道機械固定車位",
           "initial_verified_at": "2026-10-06T08:33:10+08:00",
-          "final_verified_at": "2026-10-06T09:14:26+08:00"
+          "final_verified_at": "2026-10-06T10:34:21+08:00"
         }
       ],
       "availability_note": null
@@ -331,7 +331,7 @@
           "layout": "2房1廳1衛",
           "parking": "坡道平面",
           "initial_verified_at": "2026-10-06T08:33:43+08:00",
-          "final_verified_at": "2026-10-06T09:14:27+08:00"
+          "final_verified_at": "2026-10-06T10:34:24+08:00"
         },
         {
           "listing_id": "S038-L2",
@@ -346,7 +346,7 @@
           "layout": "2房2廳1衛",
           "parking": "坡道平面固定車位",
           "initial_verified_at": "2026-10-06T08:33:45+08:00",
-          "final_verified_at": "2026-10-06T09:14:29+08:00"
+          "final_verified_at": "2026-10-06T10:34:32+08:00"
         }
       ],
       "availability_note": null
@@ -451,7 +451,7 @@
           "layout": "3房2廳2衛",
           "parking": "坡道平面1個",
           "initial_verified_at": "2026-10-06T08:37:57+08:00",
-          "final_verified_at": "2026-10-06T09:14:56+08:00"
+          "final_verified_at": "2026-10-06T10:35:23+08:00"
         }
       ],
       "availability_note": null
@@ -523,7 +523,7 @@
           "layout": "3房2廳2衛",
           "parking": "未提供",
           "initial_verified_at": "2026-10-06T08:39:20+08:00",
-          "final_verified_at": "2026-10-06T09:14:59+08:00"
+          "final_verified_at": "2026-10-06T10:36:01+08:00"
         }
       ],
       "availability_note": null
@@ -589,18 +589,18 @@
       "listings": [
         {
           "listing_id": "S005-L1",
-          "url": "https://www.sinyi.com.tw/buy/house/3056YW",
+          "url": "https://www.hbhousing.com.tw/detail?sn=s3056YW",
           "title": "專任中華ＤＣ高樓視野兩房",
           "community": "中華DC",
           "address": "新竹縣竹北市中華路",
-          "platform": "信義房屋",
+          "platform": "住商不動產（信義合作刊登）",
           "price_wan": 1788,
           "total_building_ping": 44.6,
           "floor": "14/14",
           "layout": "2房2廳1衛",
           "parking": "坡道平面1個",
-          "initial_verified_at": "2026-10-06T08:43:04+08:00",
-          "final_verified_at": "2026-10-06T09:15:09+08:00"
+          "initial_verified_at": "2026-10-06T10:42:38+08:00",
+          "final_verified_at": "2026-10-06T10:43:09+08:00"
         }
       ],
       "availability_note": null
@@ -643,7 +643,7 @@
           "layout": "3房2廳2衛",
           "parking": "坡道機械固定車位",
           "initial_verified_at": "2026-10-06T08:43:57+08:00",
-          "final_verified_at": "2026-10-06T09:15:20+08:00"
+          "final_verified_at": "2026-10-06T10:37:16+08:00"
         }
       ],
       "availability_note": null
@@ -691,7 +691,7 @@
           "layout": "3房2廳2衛",
           "parking": "連號雙車位",
           "initial_verified_at": "2026-10-06T08:47:41+08:00",
-          "final_verified_at": "2026-10-06T09:15:30+08:00"
+          "final_verified_at": "2026-10-06T10:37:18+08:00"
         }
       ],
       "availability_note": null
@@ -772,7 +772,7 @@
           "layout": "3房2廳2衛",
           "parking": "坡道平面固定車位",
           "initial_verified_at": "2026-10-06T08:49:00+08:00",
-          "final_verified_at": "2026-10-06T09:15:31+08:00"
+          "final_verified_at": "2026-10-06T10:37:20+08:00"
         },
         {
           "listing_id": "S049-L2",
@@ -786,7 +786,7 @@
           "layout": "3房2廳2衛",
           "parking": "坡道平面固定車位",
           "initial_verified_at": "2026-10-06T08:49:12+08:00",
-          "final_verified_at": "2026-10-06T09:15:34+08:00"
+          "final_verified_at": "2026-10-06T10:37:23+08:00"
         },
         {
           "listing_id": "S049-L3",
@@ -800,7 +800,7 @@
           "layout": "3房2廳2衛",
           "parking": "雙平面固定車位",
           "initial_verified_at": "2026-10-06T08:49:14+08:00",
-          "final_verified_at": "2026-10-06T09:15:36+08:00"
+          "final_verified_at": "2026-10-06T10:37:25+08:00"
         }
       ],
       "availability_note": null
@@ -909,7 +909,7 @@
           "layout": "2房2廳1衛",
           "parking": "坡道平面固定車位",
           "initial_verified_at": "2026-10-06T08:51:24+08:00",
-          "final_verified_at": "2026-10-06T09:15:43+08:00"
+          "final_verified_at": "2026-10-06T10:37:28+08:00"
         }
       ],
       "availability_note": null
@@ -952,7 +952,7 @@
           "layout": "2房2廳1衛",
           "parking": "坡道平面固定車位",
           "initial_verified_at": "2026-10-06T08:51:46+08:00",
-          "final_verified_at": "2026-10-06T09:15:45+08:00"
+          "final_verified_at": "2026-10-06T10:37:37+08:00"
         },
         {
           "listing_id": "S057-L2",
@@ -966,7 +966,7 @@
           "layout": "2房2廳1衛",
           "parking": "坡道平面固定車位",
           "initial_verified_at": "2026-10-06T08:51:48+08:00",
-          "final_verified_at": "2026-10-06T09:15:49+08:00"
+          "final_verified_at": "2026-10-06T10:37:39+08:00"
         },
         {
           "listing_id": "S057-L3",
@@ -980,7 +980,7 @@
           "layout": "2房2廳1衛",
           "parking": "坡道平面固定車位",
           "initial_verified_at": "2026-10-06T08:52:03+08:00",
-          "final_verified_at": "2026-10-06T09:15:50+08:00"
+          "final_verified_at": "2026-10-06T10:37:44+08:00"
         }
       ],
       "availability_note": null
@@ -1061,7 +1061,7 @@
           "layout": "3房2廳2衛",
           "parking": "坡道平面固定車位B2",
           "initial_verified_at": "2026-10-06T08:53:31+08:00",
-          "final_verified_at": "2026-10-06T09:15:52+08:00"
+          "final_verified_at": "2026-10-06T10:37:45+08:00"
         }
       ],
       "availability_note": null
@@ -1109,7 +1109,7 @@
           "layout": "3房2廳2衛",
           "parking": "平面車位B3，9.434坪",
           "initial_verified_at": "2026-10-06T08:54:30+08:00",
-          "final_verified_at": "2026-10-06T09:16:21+08:00"
+          "final_verified_at": "2026-10-06T10:38:21+08:00"
         },
         {
           "listing_id": "S018-L2",
@@ -1124,7 +1124,7 @@
           "parking": "B2平面車位，已含售金",
           "area_note": "權狀37.8坪；車位面積未提供",
           "initial_verified_at": "2026-10-06T08:54:41+08:00",
-          "final_verified_at": "2026-10-06T09:16:24+08:00"
+          "final_verified_at": "2026-10-06T10:38:50+08:00"
         },
         {
           "listing_id": "S018-L3",
@@ -1138,7 +1138,7 @@
           "layout": "3房2廳2衛",
           "parking": "平面車位9.434坪已含售金",
           "initial_verified_at": "2026-10-06T08:54:58+08:00",
-          "final_verified_at": "2026-10-06T09:16:35+08:00"
+          "final_verified_at": "2026-10-06T10:38:53+08:00"
         }
       ],
       "availability_note": null
@@ -1181,7 +1181,7 @@
           "layout": "3房2廳2衛",
           "parking": "坡道平面固定車位",
           "initial_verified_at": "2026-10-06T08:56:15+08:00",
-          "final_verified_at": "2026-10-06T09:16:37+08:00"
+          "final_verified_at": "2026-10-06T10:38:55+08:00"
         },
         {
           "listing_id": "S039-L2",
@@ -1195,7 +1195,7 @@
           "layout": "3房2廳2衛",
           "parking": "坡道平面固定車位",
           "initial_verified_at": "2026-10-06T08:56:18+08:00",
-          "final_verified_at": "2026-10-06T09:16:39+08:00"
+          "final_verified_at": "2026-10-06T10:38:57+08:00"
         }
       ],
       "availability_note": null
@@ -1300,7 +1300,7 @@
           "layout": "3房2廳2衛",
           "parking": "B2坡道平面",
           "initial_verified_at": "2026-10-06T09:02:43+08:00",
-          "final_verified_at": "2026-10-06T09:16:58+08:00"
+          "final_verified_at": "2026-10-06T10:39:17+08:00"
         }
       ],
       "availability_note": null
@@ -1349,7 +1349,7 @@
           "layout": "3房2廳2衛",
           "parking": "坡道平面",
           "initial_verified_at": "2026-10-06T09:03:07+08:00",
-          "final_verified_at": "2026-10-06T09:17:01+08:00"
+          "final_verified_at": "2026-10-06T10:39:19+08:00"
         }
       ],
       "availability_note": null
@@ -1393,7 +1393,7 @@
           "layout": "3房2廳2衛",
           "parking": "柱邊平面固定車位",
           "initial_verified_at": "2026-10-06T09:03:41+08:00",
-          "final_verified_at": "2026-10-06T09:17:03+08:00"
+          "final_verified_at": "2026-10-06T10:39:26+08:00"
         },
         {
           "listing_id": "S023-L2",
@@ -1408,7 +1408,7 @@
           "layout": "2房2廳1衛",
           "parking": "坡道機械固定車位",
           "initial_verified_at": "2026-10-06T09:03:43+08:00",
-          "final_verified_at": "2026-10-06T09:17:06+08:00"
+          "final_verified_at": "2026-10-06T10:39:28+08:00"
         }
       ],
       "availability_note": null
@@ -1452,7 +1452,7 @@
           "layout": "3房2廳2衛",
           "parking": "平面柱邊大車位",
           "initial_verified_at": "2026-10-06T09:04:42+08:00",
-          "final_verified_at": "2026-10-06T09:17:09+08:00"
+          "final_verified_at": "2026-10-06T10:39:31+08:00"
         }
       ],
       "availability_note": null
@@ -1501,7 +1501,7 @@
           "layout": "2房2廳1衛",
           "parking": "坡道平面固定車位",
           "initial_verified_at": "2026-10-06T09:05:13+08:00",
-          "final_verified_at": "2026-10-06T09:17:18+08:00"
+          "final_verified_at": "2026-10-06T10:39:33+08:00"
         }
       ],
       "availability_note": null
@@ -1545,7 +1545,7 @@
           "layout": "3房2廳2衛",
           "parking": "未提供",
           "initial_verified_at": "2026-10-06T09:06:32+08:00",
-          "final_verified_at": "2026-10-06T09:17:20+08:00"
+          "final_verified_at": "2026-10-06T10:39:35+08:00"
         }
       ],
       "availability_note": null
@@ -1578,7 +1578,7 @@
       "listings": [
         {
           "listing_id": "S025-L1",
-          "url": "https://buy.housefun.com.tw/Buy/house/7062716/",
+          "url": "https://buy.housefun.com.tw/buy/house/7062716",
           "title": "高大特區棋琴25重奏高樓景觀全新未住2+1房平車",
           "community": "棋琴25重奏",
           "address": "高雄市楠梓區大學三十五街",
@@ -1589,11 +1589,11 @@
           "layout": "2房2廳2衛（案名2+1房）",
           "parking": "坡道平面固定車位",
           "initial_verified_at": "2026-10-06T09:07:16+08:00",
-          "final_verified_at": "2026-10-06T09:17:22+08:00"
+          "final_verified_at": "2026-10-06T10:39:37+08:00"
         },
         {
           "listing_id": "S025-L2",
-          "url": "https://buy.housefun.com.tw/Buy/house/7056552/",
+          "url": "https://buy.housefun.com.tw/buy/house/7056552",
           "title": "高大特區棋琴25重奏全新未住三房平車",
           "community": "棋琴25重奏",
           "address": "高雄市楠梓區大學三十五街",
@@ -1604,7 +1604,7 @@
           "layout": "3房2廳2衛",
           "parking": "坡道平面",
           "initial_verified_at": "2026-10-06T09:07:18+08:00",
-          "final_verified_at": "2026-10-06T09:17:24+08:00"
+          "final_verified_at": "2026-10-06T10:39:44+08:00"
         }
       ],
       "availability_note": null
@@ -1642,7 +1642,7 @@
       "listings": [
         {
           "listing_id": "S031-L1",
-          "url": "https://buy.housefun.com.tw/Buy/house/7032119/",
+          "url": "https://buy.housefun.com.tw/buy/house/7032119",
           "title": "登陽城之華4房雙平車",
           "community": "登陽城之華",
           "address": "台中市北屯區敦富六街",
@@ -1653,7 +1653,7 @@
           "layout": "4房2廳2衛",
           "parking": "雙坡道平面",
           "initial_verified_at": "2026-10-06T09:07:48+08:00",
-          "final_verified_at": "2026-10-06T09:17:26+08:00"
+          "final_verified_at": "2026-10-06T10:39:46+08:00"
         }
       ],
       "availability_note": null
@@ -1686,7 +1686,7 @@
       "listings": [
         {
           "listing_id": "S041-L1",
-          "url": "https://buy.housefun.com.tw/Buy/house/6784574/",
+          "url": "https://buy.housefun.com.tw/buy/house/6784574",
           "title": "老街溪畔鴻築吾江衛浴開窗二房車",
           "community": "鴻築吾江",
           "address": "桃園市平鎮區延平路二段",
@@ -1697,7 +1697,7 @@
           "layout": "2房2廳1衛",
           "parking": "坡道機械固定車位",
           "initial_verified_at": "2026-10-06T09:08:17+08:00",
-          "final_verified_at": "2026-10-06T09:17:33+08:00"
+          "final_verified_at": "2026-10-06T10:39:48+08:00"
         }
       ],
       "availability_note": null
@@ -1741,7 +1741,7 @@
           "layout": "3房2廳2衛",
           "parking": "無車位",
           "initial_verified_at": "2026-10-06T09:09:24+08:00",
-          "final_verified_at": "2026-10-06T09:17:35+08:00"
+          "final_verified_at": "2026-10-06T10:39:52+08:00"
         },
         {
           "listing_id": "S043-L2",
@@ -1756,7 +1756,7 @@
           "layout": "2房2廳1衛",
           "parking": "無車位",
           "initial_verified_at": "2026-10-06T09:09:27+08:00",
-          "final_verified_at": "2026-10-06T09:17:39+08:00"
+          "final_verified_at": "2026-10-06T10:39:56+08:00"
         },
         {
           "listing_id": "S043-L3",
@@ -1771,7 +1771,7 @@
           "layout": "4房2廳2衛",
           "parking": "無車位",
           "initial_verified_at": "2026-10-06T09:09:37+08:00",
-          "final_verified_at": "2026-10-06T09:17:43+08:00"
+          "final_verified_at": "2026-10-06T10:40:02+08:00"
         }
       ],
       "availability_note": null
@@ -2703,5 +2703,5 @@
       "listings": []
     }
   ],
-  "manifest_hash": "7653551e2488a74c0f7876a3405f2a3d97a379361c0459eabb38dc68f2ab97f6"
+  "manifest_hash": "8e3f4f2545b9219cca799e0822d60452a8460b62681f2e0f8607b0358cbf5b24"
 }
