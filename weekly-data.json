@@ -5944,6 +5944,7 @@
     }
   ],
   "retention_limit": 4,
+  "publication_status": "PENDING_QA",
   "release_manifest": [
     {
       "run_id": "housing_20261013_a67a003a31",
@@ -5960,5 +5961,5 @@
       "final_verified_at": "2026-10-06T10:43:09+08:00"
     }
   ],
-  "release_hash": "b10bf1e2c4da664b458b89c657f612a9b7bd98ff655e3d014f6a334ff7ab6f51"
+  "release_hash": "8b1176eeb8a4639071e9c10ef224abce61a2895490bcab020ed063420b0239ae"
 }
