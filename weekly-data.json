@@ -13,7 +13,11 @@
         "other_transaction_count": 49,
         "community_cases_with_pass": 29,
         "community_cases_without_pass": 20,
-        "unique_valid_listing_count": 27
+        "unique_valid_listing_count": 27,
+        "building_huaxia_count": 49,
+        "townhouse_villa_count": 15,
+        "land_count": 17,
+        "other_property_type_count": 17
       },
       "transactions": [
         {
@@ -3386,8 +3390,8 @@
         }
       ],
       "final_verified_at": "2026-10-19T16:58:31.954Z",
-      "version_time": "2026-10-19T16:59:03.990570+00:00",
-      "manifest_hash": "634d45a79821b58ade71e12a40d14cc1510afaafbe8ce2b3862e72415f2ae909"
+      "version_time": "2026-10-19T17:22:02.034408+00:00",
+      "manifest_hash": "e24b4bd4455563971597c5525f1360d1bb4eb65b85cdc42bb8b3b4b2f54ff52b"
     },
     {
       "run_id": "housing_20261013_a67a003a31",
@@ -9336,7 +9340,7 @@
       "run_id": "housing_20261020_0604b1d80e",
       "period_start": "2026/10/13",
       "period_end": "2026/10/19",
-      "manifest_hash": "634d45a79821b58ade71e12a40d14cc1510afaafbe8ce2b3862e72415f2ae909",
+      "manifest_hash": "e24b4bd4455563971597c5525f1360d1bb4eb65b85cdc42bb8b3b4b2f54ff52b",
       "final_verified_at": "2026-10-19T16:58:31.954Z"
     },
     {
@@ -9354,5 +9358,5 @@
       "final_verified_at": "2026-10-06T10:43:09+08:00"
     }
   ],
-  "release_hash": "add6c3add647f40dd41dc3c5ee7297d23833e9422b58450d7b117a883c54d089"
+  "release_hash": "b8033ce6072de5188203da82ca240cdd34e6b5c5107187ed3525a3987bb2afd2"
 }
