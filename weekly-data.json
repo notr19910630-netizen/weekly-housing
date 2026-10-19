@@ -14,10 +14,14 @@
         "community_cases_with_pass": 29,
         "community_cases_without_pass": 20,
         "unique_valid_listing_count": 27,
-        "building_huaxia_count": 49,
-        "townhouse_villa_count": 15,
+        "building_huaxia_count": 56,
+        "townhouse_villa_count": 12,
         "land_count": 17,
-        "other_property_type_count": 17
+        "other_property_type_count": 13,
+        "apartment_count": 3,
+        "shop_count": 4,
+        "office_count": 2,
+        "unclassified_property_count": 4
       },
       "transactions": [
         {
@@ -67,7 +71,8 @@
               "verification_status": "PASS"
             }
           ],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "大樓／華廈"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S010",
@@ -116,7 +121,8 @@
               "verification_status": "PASS"
             }
           ],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "大樓／華廈"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S015",
@@ -144,7 +150,8 @@
           "layout_raw": null,
           "parking_raw": "無車位",
           "listings": [],
-          "availability_note": "本次未取得可確認的同社區在售"
+          "availability_note": "本次未取得可確認的同社區在售",
+          "property_category": "大樓／華廈"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S021",
@@ -188,7 +195,8 @@
               "verification_status": "PASS"
             }
           ],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "大樓／華廈"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S025",
@@ -237,7 +245,8 @@
               "verification_status": "PASS"
             }
           ],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "大樓／華廈"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S027",
@@ -281,7 +290,8 @@
               "verification_status": "PASS"
             }
           ],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "大樓／華廈"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S029",
@@ -309,7 +319,8 @@
           "layout_raw": null,
           "parking_raw": "無車位",
           "listings": [],
-          "availability_note": "本次未取得可確認的同社區在售"
+          "availability_note": "本次未取得可確認的同社區在售",
+          "property_category": "大樓／華廈"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S030",
@@ -337,7 +348,8 @@
           "layout_raw": null,
           "parking_raw": "有車位",
           "listings": [],
-          "availability_note": "本次未取得可確認的同社區在售"
+          "availability_note": "本次未取得可確認的同社區在售",
+          "property_category": "大樓／華廈"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S035",
@@ -386,7 +398,8 @@
               "verification_status": "PASS"
             }
           ],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "大樓／華廈"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S057",
@@ -430,7 +443,8 @@
               "verification_status": "PASS"
             }
           ],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "大樓／華廈"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S059",
@@ -458,7 +472,8 @@
           "layout_raw": null,
           "parking_raw": "有車位",
           "listings": [],
-          "availability_note": "本次未取得可確認的同社區在售"
+          "availability_note": "本次未取得可確認的同社區在售",
+          "property_category": "大樓／華廈"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S067",
@@ -491,7 +506,8 @@
           "layout_raw": null,
           "parking_raw": "有車位",
           "listings": [],
-          "availability_note": "本次未取得可確認的同社區在售"
+          "availability_note": "本次未取得可確認的同社區在售",
+          "property_category": "大樓／華廈"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S068",
@@ -540,7 +556,8 @@
               "verification_status": "PASS"
             }
           ],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "大樓／華廈"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S075",
@@ -589,7 +606,8 @@
               "verification_status": "PASS"
             }
           ],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "大樓／華廈"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S093",
@@ -617,7 +635,8 @@
           "layout_raw": null,
           "parking_raw": "無車位",
           "listings": [],
-          "availability_note": "本次未取得可確認的同社區在售"
+          "availability_note": "本次未取得可確認的同社區在售",
+          "property_category": "大樓／華廈"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S100",
@@ -661,7 +680,8 @@
               "verification_status": "PASS"
             }
           ],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "大樓／華廈"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S104",
@@ -694,7 +714,8 @@
           "layout_raw": null,
           "parking_raw": "有車位",
           "listings": [],
-          "availability_note": "本次未取得可確認的同社區在售"
+          "availability_note": "本次未取得可確認的同社區在售",
+          "property_category": "大樓／華廈"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S033",
@@ -743,7 +764,8 @@
               "verification_status": "PASS"
             }
           ],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "大樓／華廈"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S034",
@@ -792,7 +814,8 @@
               "verification_status": "PASS"
             }
           ],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "大樓／華廈"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S037",
@@ -825,7 +848,8 @@
           "layout_raw": null,
           "parking_raw": "有車位",
           "listings": [],
-          "availability_note": "本次未取得可確認的同社區在售"
+          "availability_note": "本次未取得可確認的同社區在售",
+          "property_category": "大樓／華廈"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S048",
@@ -869,7 +893,8 @@
               "verification_status": "PASS"
             }
           ],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "大樓／華廈"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S050",
@@ -918,7 +943,8 @@
               "verification_status": "PASS"
             }
           ],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "大樓／華廈"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S051",
@@ -967,7 +993,8 @@
               "verification_status": "PASS"
             }
           ],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "大樓／華廈"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S052",
@@ -1000,7 +1027,8 @@
           "layout_raw": null,
           "parking_raw": "有車位",
           "listings": [],
-          "availability_note": "本次未取得可確認的同社區在售"
+          "availability_note": "本次未取得可確認的同社區在售",
+          "property_category": "大樓／華廈"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S053",
@@ -1049,7 +1077,8 @@
               "verification_status": "PASS"
             }
           ],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "大樓／華廈"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S054",
@@ -1098,7 +1127,8 @@
               "verification_status": "PASS"
             }
           ],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "大樓／華廈"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S062",
@@ -1126,7 +1156,8 @@
           "layout_raw": null,
           "parking_raw": "有車位",
           "listings": [],
-          "availability_note": "本次未取得可確認的同社區在售"
+          "availability_note": "本次未取得可確認的同社區在售",
+          "property_category": "大樓／華廈"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S066",
@@ -1154,7 +1185,8 @@
           "layout_raw": null,
           "parking_raw": "有車位",
           "listings": [],
-          "availability_note": "本次未取得可確認的同社區在售"
+          "availability_note": "本次未取得可確認的同社區在售",
+          "property_category": "大樓／華廈"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S080",
@@ -1182,7 +1214,8 @@
           "layout_raw": null,
           "parking_raw": "無車位",
           "listings": [],
-          "availability_note": "本次未取得可確認的同社區在售"
+          "availability_note": "本次未取得可確認的同社區在售",
+          "property_category": "大樓／華廈"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S082",
@@ -1231,7 +1264,8 @@
               "verification_status": "PASS"
             }
           ],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "大樓／華廈"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S083",
@@ -1280,7 +1314,8 @@
               "verification_status": "PASS"
             }
           ],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "大樓／華廈"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S086",
@@ -1329,7 +1364,8 @@
               "verification_status": "PASS"
             }
           ],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "大樓／華廈"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S102",
@@ -1362,7 +1398,8 @@
           "layout_raw": null,
           "parking_raw": "有車位",
           "listings": [],
-          "availability_note": "本次未取得可確認的同社區在售"
+          "availability_note": "本次未取得可確認的同社區在售",
+          "property_category": "大樓／華廈"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S012",
@@ -1411,7 +1448,8 @@
               "verification_status": "PASS"
             }
           ],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "大樓／華廈"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S020",
@@ -1444,7 +1482,8 @@
           "layout_raw": null,
           "parking_raw": "有車位",
           "listings": [],
-          "availability_note": "本次未取得可確認的同社區在售"
+          "availability_note": "本次未取得可確認的同社區在售",
+          "property_category": "大樓／華廈"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S074",
@@ -1493,7 +1532,8 @@
               "verification_status": "PASS"
             }
           ],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "大樓／華廈"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S087",
@@ -1537,7 +1577,8 @@
               "verification_status": "PASS"
             }
           ],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "大樓／華廈"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S092",
@@ -1586,7 +1627,8 @@
               "verification_status": "PASS"
             }
           ],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "大樓／華廈"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S097",
@@ -1630,7 +1672,8 @@
               "verification_status": "PASS"
             }
           ],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "大樓／華廈"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S003",
@@ -1658,7 +1701,8 @@
           "layout_raw": null,
           "parking_raw": "無車位",
           "listings": [],
-          "availability_note": "本次未取得可確認的同社區在售"
+          "availability_note": "本次未取得可確認的同社區在售",
+          "property_category": "大樓／華廈"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S004",
@@ -1686,7 +1730,8 @@
           "layout_raw": null,
           "parking_raw": "有車位",
           "listings": [],
-          "availability_note": "本次未取得可確認的同社區在售"
+          "availability_note": "本次未取得可確認的同社區在售",
+          "property_category": "大樓／華廈"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S055",
@@ -1730,7 +1775,8 @@
               "verification_status": "PASS"
             }
           ],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "大樓／華廈"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S069",
@@ -1758,7 +1804,8 @@
           "layout_raw": null,
           "parking_raw": "有車位",
           "listings": [],
-          "availability_note": "本次未取得可確認的同社區在售"
+          "availability_note": "本次未取得可確認的同社區在售",
+          "property_category": "大樓／華廈"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S017",
@@ -1802,7 +1849,8 @@
               "verification_status": "PASS"
             }
           ],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "大樓／華廈"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S019",
@@ -1851,7 +1899,8 @@
               "verification_status": "PASS"
             }
           ],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "大樓／華廈"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S095",
@@ -1900,7 +1949,8 @@
               "verification_status": "PASS"
             }
           ],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "大樓／華廈"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S043",
@@ -1928,7 +1978,8 @@
           "layout_raw": null,
           "parking_raw": "有車位",
           "listings": [],
-          "availability_note": "本次未取得可確認的同社區在售"
+          "availability_note": "本次未取得可確認的同社區在售",
+          "property_category": "大樓／華廈"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S046",
@@ -1956,7 +2007,8 @@
           "layout_raw": null,
           "parking_raw": "有車位",
           "listings": [],
-          "availability_note": "本次未取得可確認的同社區在售"
+          "availability_note": "本次未取得可確認的同社區在售",
+          "property_category": "大樓／華廈"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S045",
@@ -1989,7 +2041,8 @@
           "layout_raw": null,
           "parking_raw": "有車位",
           "listings": [],
-          "availability_note": "本次未取得可確認的同社區在售"
+          "availability_note": "本次未取得可確認的同社區在售",
+          "property_category": "大樓／華廈"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S001",
@@ -2017,7 +2070,8 @@
           "layout_raw": null,
           "parking_raw": null,
           "listings": [],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "土地"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S002",
@@ -2045,7 +2099,8 @@
           "layout_raw": null,
           "parking_raw": "無車位",
           "listings": [],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "透天／別墅"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S005",
@@ -2073,7 +2128,8 @@
           "layout_raw": null,
           "parking_raw": "無車位",
           "listings": [],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "公寓"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S006",
@@ -2101,7 +2157,8 @@
           "layout_raw": null,
           "parking_raw": null,
           "listings": [],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "土地"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S007",
@@ -2129,7 +2186,8 @@
           "layout_raw": null,
           "parking_raw": "有車位",
           "listings": [],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "透天／別墅"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S008",
@@ -2157,7 +2215,8 @@
           "layout_raw": null,
           "parking_raw": null,
           "listings": [],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "土地"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S011",
@@ -2185,7 +2244,8 @@
           "layout_raw": null,
           "parking_raw": "無車位",
           "listings": [],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "透天／別墅"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S013",
@@ -2218,7 +2278,8 @@
           "layout_raw": null,
           "parking_raw": "有車位",
           "listings": [],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "大樓／華廈"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S016",
@@ -2246,7 +2307,8 @@
           "layout_raw": null,
           "parking_raw": "無車位",
           "listings": [],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "透天／別墅"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S018",
@@ -2274,7 +2336,8 @@
           "layout_raw": null,
           "parking_raw": null,
           "listings": [],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "土地"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S022",
@@ -2302,7 +2365,8 @@
           "layout_raw": null,
           "parking_raw": "無車位",
           "listings": [],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "店面／住店"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S023",
@@ -2330,7 +2394,8 @@
           "layout_raw": null,
           "parking_raw": null,
           "listings": [],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "土地"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S024",
@@ -2358,7 +2423,8 @@
           "layout_raw": null,
           "parking_raw": "有車位",
           "listings": [],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "店面／住店"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S026",
@@ -2386,7 +2452,8 @@
           "layout_raw": null,
           "parking_raw": null,
           "listings": [],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "土地"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S031",
@@ -2419,7 +2486,8 @@
           "layout_raw": null,
           "parking_raw": "無車位",
           "listings": [],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "透天／別墅"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S032",
@@ -2447,7 +2515,8 @@
           "layout_raw": null,
           "parking_raw": "無車位",
           "listings": [],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "類型待確認"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S036",
@@ -2475,7 +2544,8 @@
           "layout_raw": null,
           "parking_raw": "無車位",
           "listings": [],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "透天／別墅"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S038",
@@ -2503,7 +2573,8 @@
           "layout_raw": null,
           "parking_raw": "無車位",
           "listings": [],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "公寓"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S039",
@@ -2531,7 +2602,8 @@
           "layout_raw": null,
           "parking_raw": "有車位",
           "listings": [],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "商辦"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S040",
@@ -2559,7 +2631,8 @@
           "layout_raw": null,
           "parking_raw": "有車位",
           "listings": [],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "大樓／華廈"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S041",
@@ -2587,7 +2660,8 @@
           "layout_raw": null,
           "parking_raw": "無車位",
           "listings": [],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "店面／住店"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S044",
@@ -2615,7 +2689,8 @@
           "layout_raw": null,
           "parking_raw": null,
           "listings": [],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "土地"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S047",
@@ -2648,7 +2723,8 @@
           "layout_raw": null,
           "parking_raw": "有車位",
           "listings": [],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "大樓／華廈"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S049",
@@ -2676,7 +2752,8 @@
           "layout_raw": null,
           "parking_raw": "有車位",
           "listings": [],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "商辦"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S058",
@@ -2704,7 +2781,8 @@
           "layout_raw": null,
           "parking_raw": null,
           "listings": [],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "土地"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S060",
@@ -2732,7 +2810,8 @@
           "layout_raw": null,
           "parking_raw": "無車位",
           "listings": [],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "類型待確認"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S061",
@@ -2760,7 +2839,8 @@
           "layout_raw": null,
           "parking_raw": "無車位",
           "listings": [],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "透天／別墅"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S063",
@@ -2788,7 +2868,8 @@
           "layout_raw": null,
           "parking_raw": null,
           "listings": [],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "土地"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S064",
@@ -2816,7 +2897,8 @@
           "layout_raw": null,
           "parking_raw": "無車位",
           "listings": [],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "透天／別墅"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S065",
@@ -2844,7 +2926,8 @@
           "layout_raw": null,
           "parking_raw": "無車位",
           "listings": [],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "透天／別墅"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S071",
@@ -2872,7 +2955,8 @@
           "layout_raw": null,
           "parking_raw": null,
           "listings": [],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "土地"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S072",
@@ -2900,7 +2984,8 @@
           "layout_raw": null,
           "parking_raw": null,
           "listings": [],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "土地"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S073",
@@ -2928,7 +3013,8 @@
           "layout_raw": null,
           "parking_raw": "無車位",
           "listings": [],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "店面／住店"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S076",
@@ -2956,7 +3042,8 @@
           "layout_raw": null,
           "parking_raw": null,
           "listings": [],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "土地"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S077",
@@ -2984,7 +3071,8 @@
           "layout_raw": null,
           "parking_raw": null,
           "listings": [],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "土地"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S078",
@@ -3012,7 +3100,8 @@
           "layout_raw": null,
           "parking_raw": null,
           "listings": [],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "土地"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S079",
@@ -3040,7 +3129,8 @@
           "layout_raw": null,
           "parking_raw": "無車位",
           "listings": [],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "類型待確認"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S081",
@@ -3068,7 +3158,8 @@
           "layout_raw": null,
           "parking_raw": null,
           "listings": [],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "土地"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S085",
@@ -3096,7 +3187,8 @@
           "layout_raw": null,
           "parking_raw": null,
           "listings": [],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "土地"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S088",
@@ -3124,7 +3216,8 @@
           "layout_raw": null,
           "parking_raw": "有車位",
           "listings": [],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "大樓／華廈"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S089",
@@ -3152,7 +3245,8 @@
           "layout_raw": null,
           "parking_raw": "有車位",
           "listings": [],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "公寓"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S090",
@@ -3180,7 +3274,8 @@
           "layout_raw": null,
           "parking_raw": "無車位",
           "listings": [],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "大樓／華廈"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S091",
@@ -3213,7 +3308,8 @@
           "layout_raw": null,
           "parking_raw": "有車位",
           "listings": [],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "大樓／華廈"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S094",
@@ -3241,7 +3337,8 @@
           "layout_raw": null,
           "parking_raw": "無車位",
           "listings": [],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "透天／別墅"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S096",
@@ -3269,7 +3366,8 @@
           "layout_raw": null,
           "parking_raw": null,
           "listings": [],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "土地"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S099",
@@ -3297,7 +3395,8 @@
           "layout_raw": null,
           "parking_raw": "無車位",
           "listings": [],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "透天／別墅"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S101",
@@ -3330,7 +3429,8 @@
           "layout_raw": null,
           "parking_raw": "有車位",
           "listings": [],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "大樓／華廈"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S103",
@@ -3358,7 +3458,8 @@
           "layout_raw": null,
           "parking_raw": "有車位",
           "listings": [],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "類型待確認"
         },
         {
           "transaction_id": "housing_20261020_0604b1d80e_S105",
@@ -3386,12 +3487,43 @@
           "layout_raw": null,
           "parking_raw": "有車位",
           "listings": [],
-          "availability_note": null
+          "availability_note": null,
+          "property_category": "透天／別墅"
         }
       ],
       "final_verified_at": "2026-10-19T16:58:31.954Z",
-      "version_time": "2026-10-19T17:22:02.034408+00:00",
-      "manifest_hash": "e24b4bd4455563971597c5525f1360d1bb4eb65b85cdc42bb8b3b4b2f54ff52b"
+      "version_time": "2026-10-19T17:33:28.113108+00:00",
+      "property_category_counts": [
+        {
+          "category": "大樓／華廈",
+          "count": 56
+        },
+        {
+          "category": "透天／別墅",
+          "count": 12
+        },
+        {
+          "category": "土地",
+          "count": 17
+        },
+        {
+          "category": "公寓",
+          "count": 3
+        },
+        {
+          "category": "店面／住店",
+          "count": 4
+        },
+        {
+          "category": "商辦",
+          "count": 2
+        },
+        {
+          "category": "類型待確認",
+          "count": 4
+        }
+      ],
+      "manifest_hash": "4f2382ac5ea98c14050804944e8ac169acd96b21d6ab556033788a7ca39de528"
     },
     {
       "run_id": "housing_20261013_a67a003a31",
@@ -9340,7 +9472,7 @@
       "run_id": "housing_20261020_0604b1d80e",
       "period_start": "2026/10/13",
       "period_end": "2026/10/19",
-      "manifest_hash": "e24b4bd4455563971597c5525f1360d1bb4eb65b85cdc42bb8b3b4b2f54ff52b",
+      "manifest_hash": "4f2382ac5ea98c14050804944e8ac169acd96b21d6ab556033788a7ca39de528",
       "final_verified_at": "2026-10-19T16:58:31.954Z"
     },
     {
@@ -9358,5 +9490,5 @@
       "final_verified_at": "2026-10-06T10:43:09+08:00"
     }
   ],
-  "release_hash": "b8033ce6072de5188203da82ca240cdd34e6b5c5107187ed3525a3987bb2afd2"
+  "release_hash": "2d697007971ec285c9c98dd57b01c5c82db8c4113622e27a2c3104c343fb4c88"
 }
