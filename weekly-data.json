@@ -1,7 +1,3394 @@
 {
   "schema_version": "four-week-v1",
-  "latest_week_id": "housing_20261013_a67a003a31",
+  "latest_week_id": "housing_20261020_0604b1d80e",
   "weeks": [
+    {
+      "run_id": "housing_20261020_0604b1d80e",
+      "stage": "FINAL",
+      "period_start": "2026/10/13",
+      "period_end": "2026/10/19",
+      "counts": {
+        "CONFIRMED_TRANSACTION": 98,
+        "community_building_count": 49,
+        "other_transaction_count": 49,
+        "community_cases_with_pass": 29,
+        "community_cases_without_pass": 20,
+        "unique_valid_listing_count": 27
+      },
+      "transactions": [
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S009",
+          "source_id": "S009",
+          "source_order": 9,
+          "display_order": 1,
+          "group": "COMMUNITY_BUILDING",
+          "region": "新竹市",
+          "district": "東區",
+          "title": "瑞典綠洲視野三房",
+          "community_name": "瑞典綠洲",
+          "product_type": "社區住宅大樓／華廈",
+          "date": "2026/10/18",
+          "price_wan": 2588.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "44.890",
+              "unit": "坪"
+            },
+            {
+              "label": "含車位",
+              "value_text": "11.040",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹市東區東新路152-200號",
+          "floor_raw": "11-11/15樓",
+          "building_age_years": 6.1,
+          "layout_raw": null,
+          "parking_raw": "有車位",
+          "listings": [
+            {
+              "listing_id": "L001",
+              "url": "https://buy.housefun.com.tw/Buy/house/7127157/",
+              "title": "瑞典綠洲｜東南向邊間美裝三房平車",
+              "platform": "好房網",
+              "price_wan": 3128.0,
+              "total_building_ping": 46.77,
+              "floor": "6/15樓",
+              "layout": "3房(室)2廳2衛",
+              "parking": "坡道平面 固定車位",
+              "initial_verified_at": "2026-10-19T16:39:27.790Z",
+              "final_verified_at": "2026-10-19T16:56:36.238Z",
+              "community": "瑞典綠洲",
+              "verification_status": "PASS"
+            }
+          ],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S010",
+          "source_id": "S010",
+          "source_order": 10,
+          "display_order": 2,
+          "group": "COMMUNITY_BUILDING",
+          "region": "新竹市",
+          "district": "東區",
+          "title": "竹科悅揚 朝南面關埔國小視野戶",
+          "community_name": "竹科悅揚",
+          "product_type": "社區住宅大樓／華廈",
+          "date": "2026/10/18",
+          "price_wan": 2030.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "32.790",
+              "unit": "坪"
+            },
+            {
+              "label": "含車位",
+              "value_text": "7.690",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹市東區埔頂二路002-050號",
+          "floor_raw": "21-21/24樓",
+          "building_age_years": 5.8,
+          "layout_raw": null,
+          "parking_raw": "有車位",
+          "listings": [
+            {
+              "listing_id": "L002",
+              "url": "https://buy.housefun.com.tw/Buy/house/7122673/",
+              "title": "專任【竹科悅揚】近園區、學區高樓採光宅",
+              "platform": "好房網",
+              "price_wan": 1988.0,
+              "total_building_ping": 33.97,
+              "floor": "23/24樓",
+              "layout": "2房(室)2廳1衛",
+              "parking": "坡道平面 固定車位",
+              "initial_verified_at": "2026-10-19T16:40:44.835Z",
+              "final_verified_at": "2026-10-19T16:56:37.524Z",
+              "community": "竹科悅揚",
+              "verification_status": "PASS"
+            }
+          ],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S015",
+          "source_id": "S015",
+          "source_order": 15,
+          "display_order": 3,
+          "group": "COMMUNITY_BUILDING",
+          "region": "新竹市",
+          "district": "北區",
+          "title": "大唐帝苑｜次頂樓1+1景觀宅《雙陽台、巨城商圈》",
+          "community_name": "大唐帝苑",
+          "product_type": "社區住宅大樓／華廈",
+          "date": "2026/10/18",
+          "price_wan": 656.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "16.410",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹市北區田美三街48巷001-049號",
+          "floor_raw": "14-14/15樓",
+          "building_age_years": 35.8,
+          "layout_raw": null,
+          "parking_raw": "無車位",
+          "listings": [],
+          "availability_note": "本次未取得可確認的同社區在售"
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S021",
+          "source_id": "S021",
+          "source_order": 21,
+          "display_order": 4,
+          "group": "COMMUNITY_BUILDING",
+          "region": "新竹市",
+          "district": "東區",
+          "title": "專任!近竹科園區·新鮮人的最愛·金山街套房+車位",
+          "community_name": "活力館NO1/Vigor活力館NO1",
+          "product_type": "社區住宅大樓／華廈",
+          "date": "2026/10/17",
+          "price_wan": 650.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "10.200",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹市東區金山二十三街051-099號",
+          "floor_raw": "3-3/6樓",
+          "building_age_years": 20.9,
+          "layout_raw": null,
+          "parking_raw": "有車位",
+          "listings": [
+            {
+              "listing_id": "L003",
+              "url": "https://buy.housefun.com.tw/Buy/house/7124353/",
+              "title": "專任~近竹科/金山/活力館次頂樓/樓中樓",
+              "platform": "好房網",
+              "price_wan": 639.0,
+              "total_building_ping": 8.17,
+              "floor": "5/6樓",
+              "layout": "1房(室)1廳1衛",
+              "parking": "未提供",
+              "initial_verified_at": "2026-10-19T16:40:47.139Z",
+              "final_verified_at": "2026-10-19T16:56:42.659Z",
+              "community": "活力館NO1/Vigor活力館NO1",
+              "verification_status": "PASS"
+            }
+          ],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S025",
+          "source_id": "S025",
+          "source_order": 25,
+          "display_order": 5,
+          "group": "COMMUNITY_BUILDING",
+          "region": "新竹市",
+          "district": "北區",
+          "title": "布達佩斯美學苑首購明亮大2房+大車位",
+          "community_name": "布達佩斯／美學苑",
+          "product_type": "社區住宅大樓／華廈",
+          "date": "2026/10/17",
+          "price_wan": 1320.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "32.880",
+              "unit": "坪"
+            },
+            {
+              "label": "含車位",
+              "value_text": "6.560",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹市北區經國路二段501-549號",
+          "floor_raw": "2-2/13樓",
+          "building_age_years": 19.8,
+          "layout_raw": null,
+          "parking_raw": "有車位",
+          "listings": [
+            {
+              "listing_id": "L025",
+              "url": "https://community.rakuya.com.tw/50695/sell/info?ehid=08124135808798b&from=communitySearchSell",
+              "title": "【美學苑】高樓溫馨美宅｜輕裝潢・兩房平車首選",
+              "platform": "樂屋網",
+              "price_wan": 1498,
+              "total_building_ping": 32.89,
+              "floor": "11/13樓",
+              "layout": "2房2廳1衛",
+              "parking": "坡道平面式",
+              "initial_verified_at": "2026-10-19T16:49:44.840Z",
+              "final_verified_at": "2026-10-19T16:58:19.499Z",
+              "community": "布達佩斯／美學苑",
+              "verification_status": "PASS"
+            }
+          ],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S027",
+          "source_id": "S027",
+          "source_order": 27,
+          "display_order": 6,
+          "group": "COMMUNITY_BUILDING",
+          "region": "新竹市",
+          "district": "東區",
+          "title": "關埔特區｜竹科潤隆｜美兩房",
+          "community_name": "竹科潤隆",
+          "product_type": "社區住宅大樓／華廈",
+          "date": "2026/10/17",
+          "price_wan": 1910.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "33.670",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹市東區埔頂三路002-050號",
+          "floor_raw": "26-26/29樓",
+          "building_age_years": 3.4,
+          "layout_raw": null,
+          "parking_raw": "有車位",
+          "listings": [
+            {
+              "listing_id": "L004",
+              "url": "https://buy.housefun.com.tw/Buy/house/7109083/",
+              "title": "竹科潤隆，高樓層，竹科新貴首選・輕鬆入主關埔核心",
+              "platform": "好房網",
+              "price_wan": 2188.0,
+              "total_building_ping": 31.69,
+              "floor": "21/29樓",
+              "layout": "2房(室)2廳1衛",
+              "parking": "坡道平面 固定車位",
+              "initial_verified_at": "2026-10-19T16:40:49.349Z",
+              "final_verified_at": "2026-10-19T16:56:44.352Z",
+              "community": "竹科潤隆",
+              "verification_status": "PASS"
+            }
+          ],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S029",
+          "source_id": "S029",
+          "source_order": 29,
+          "display_order": 7,
+          "group": "COMMUNITY_BUILDING",
+          "region": "新竹市",
+          "district": "北區",
+          "title": "湳雅大魯閣｜帝王庭園邊間雙面採光",
+          "community_name": "帝王庭園",
+          "product_type": "社區住宅大樓／華廈",
+          "date": "2026/10/17",
+          "price_wan": 375.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "17.590",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹市北區金竹路102巷002-050號",
+          "floor_raw": "2-2/7樓",
+          "building_age_years": 34.6,
+          "layout_raw": null,
+          "parking_raw": "無車位",
+          "listings": [],
+          "availability_note": "本次未取得可確認的同社區在售"
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S030",
+          "source_id": "S030",
+          "source_order": 30,
+          "display_order": 8,
+          "group": "COMMUNITY_BUILDING",
+          "region": "新竹市",
+          "district": "北區",
+          "title": "湳雅大全聯昌益御品典雅4房平車",
+          "community_name": "昌益御品",
+          "product_type": "社區住宅大樓／華廈",
+          "date": "2026/10/17",
+          "price_wan": 1581.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "49.230",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹市北區湳雅街351-399號",
+          "floor_raw": "2-2/8樓",
+          "building_age_years": 28.3,
+          "layout_raw": null,
+          "parking_raw": "有車位",
+          "listings": [],
+          "availability_note": "本次未取得可確認的同社區在售"
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S035",
+          "source_id": "S035",
+          "source_order": 35,
+          "display_order": 9,
+          "group": "COMMUNITY_BUILDING",
+          "region": "新竹市",
+          "district": "香山區",
+          "title": "未來21｜１＋１平車視野美屋《面公園絕佳美景！》",
+          "community_name": "未來21",
+          "product_type": "社區住宅大樓／華廈",
+          "date": "2026/10/17",
+          "price_wan": 1050.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "34.960",
+              "unit": "坪"
+            },
+            {
+              "label": "含車位",
+              "value_text": "9.900",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹市香山區牛埔路101-149號",
+          "floor_raw": "14-14/15樓",
+          "building_age_years": 18.7,
+          "layout_raw": null,
+          "parking_raw": "有車位",
+          "listings": [
+            {
+              "listing_id": "L005",
+              "url": "https://buy.housefun.com.tw/Buy/house/7114045/",
+              "title": "牛埔【未來21】一房一廳｜平面車位",
+              "platform": "好房網",
+              "price_wan": 1098.0,
+              "total_building_ping": 35.61,
+              "floor": "7/14樓",
+              "layout": "1房(室)1廳1衛",
+              "parking": "坡道平面 固定車位",
+              "initial_verified_at": "2026-10-19T16:41:38.732Z",
+              "final_verified_at": "2026-10-19T16:56:45.728Z",
+              "community": "未來21",
+              "verification_status": "PASS"
+            }
+          ],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S057",
+          "source_id": "S057",
+          "source_order": 57,
+          "display_order": 10,
+          "group": "COMMUNITY_BUILDING",
+          "region": "新竹市",
+          "district": "東區",
+          "title": "觀璞 絕美採光視野珍稀2+1房加車位",
+          "community_name": "觀璞",
+          "product_type": "社區住宅大樓／華廈",
+          "date": "2026/10/16",
+          "price_wan": 1700.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "35.290",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹市東區長春街62巷002-050號",
+          "floor_raw": "7-7/13樓",
+          "building_age_years": 20.0,
+          "layout_raw": null,
+          "parking_raw": "有車位",
+          "listings": [
+            {
+              "listing_id": "L006",
+              "url": "https://buy.housefun.com.tw/Buy/house/7005600/",
+              "title": "專任觀璞高樓層大兩房平車專屬車位",
+              "platform": "好房網",
+              "price_wan": 1898.0,
+              "total_building_ping": 36.85,
+              "floor": "12/13樓",
+              "layout": "2房(室)2廳1衛",
+              "parking": "坡道平面 固定車位",
+              "initial_verified_at": "2026-10-19T16:41:44.011Z",
+              "final_verified_at": "2026-10-19T16:56:50.329Z",
+              "community": "觀璞",
+              "verification_status": "PASS"
+            }
+          ],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S059",
+          "source_id": "S059",
+          "source_order": 59,
+          "display_order": 11,
+          "group": "COMMUNITY_BUILDING",
+          "region": "新竹市",
+          "district": "東區",
+          "title": "獨家-市中心首購繁榮商圈三房帶車位",
+          "community_name": "翰林天下",
+          "product_type": "社區住宅大樓／華廈",
+          "date": "2026/10/16",
+          "price_wan": 970.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "34.370",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹市東區振興路102-150號",
+          "floor_raw": "2-2/7樓",
+          "building_age_years": 33.1,
+          "layout_raw": null,
+          "parking_raw": "有車位",
+          "listings": [],
+          "availability_note": "本次未取得可確認的同社區在售"
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S067",
+          "source_id": "S067",
+          "source_order": 67,
+          "display_order": 12,
+          "group": "COMMUNITY_BUILDING",
+          "region": "新竹市",
+          "district": "東區",
+          "title": "近園區[學府首席1]東區質感大3房+子母車位",
+          "community_name": "學府首席1期",
+          "product_type": "社區住宅大樓／華廈",
+          "date": "2026/10/15",
+          "price_wan": 1870.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "54.160",
+              "unit": "坪"
+            },
+            {
+              "label": "含車位",
+              "value_text": "15.520",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹市東區明湖路243巷152-200號",
+          "floor_raw": "1-1/7樓",
+          "building_age_years": 2.5,
+          "layout_raw": null,
+          "parking_raw": "有車位",
+          "listings": [],
+          "availability_note": "本次未取得可確認的同社區在售"
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S068",
+          "source_id": "S068",
+          "source_order": 68,
+          "display_order": 13,
+          "group": "COMMUNITY_BUILDING",
+          "region": "新竹市",
+          "district": "香山區",
+          "title": "探索21｜漂亮綠景平車美三房《單坪不到37萬！》",
+          "community_name": "探索21",
+          "product_type": "社區住宅大樓／華廈",
+          "date": "2026/10/15",
+          "price_wan": 1480.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "46.510",
+              "unit": "坪"
+            },
+            {
+              "label": "含車位",
+              "value_text": "8.850",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹市香山區經國路三段92巷16弄001-049號",
+          "floor_raw": "6-6/15樓",
+          "building_age_years": 16.2,
+          "layout_raw": null,
+          "parking_raw": "有車位",
+          "listings": [
+            {
+              "listing_id": "L007",
+              "url": "https://buy.housefun.com.tw/Buy/house/7117707/",
+              "title": "【探索21】高樓採光溫馨三房+雙車位",
+              "platform": "好房網",
+              "price_wan": 1788.0,
+              "total_building_ping": 52.74,
+              "floor": "8/15樓",
+              "layout": "3房(室)2廳2衛",
+              "parking": "坡道平面 固定車位",
+              "initial_verified_at": "2026-10-19T16:41:46.298Z",
+              "final_verified_at": "2026-10-19T16:57:02.049Z",
+              "community": "探索21",
+              "verification_status": "PASS"
+            }
+          ],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S075",
+          "source_id": "S075",
+          "source_order": 75,
+          "display_order": 14,
+          "group": "COMMUNITY_BUILDING",
+          "region": "新竹市",
+          "district": "北區",
+          "title": "湳雅大魯閣生活圈/昌傑典典高樓景觀3房平車",
+          "community_name": "昌傑典典",
+          "product_type": "社區住宅大樓／華廈",
+          "date": "2026/10/14",
+          "price_wan": 2200.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "45.650",
+              "unit": "坪"
+            },
+            {
+              "label": "含車位",
+              "value_text": "7.640",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹市北區湳雅街301-349號",
+          "floor_raw": "14-14/14樓",
+          "building_age_years": 8.5,
+          "layout_raw": null,
+          "parking_raw": "有車位",
+          "listings": [
+            {
+              "listing_id": "L008",
+              "url": "https://buy.housefun.com.tw/Buy/house/6740450/",
+              "title": "昌傑典典｜精品飯店風宅｜次頂樓｜單雙車位自由選",
+              "platform": "好房網",
+              "price_wan": 2550.0,
+              "total_building_ping": 45.75,
+              "floor": "13/14樓",
+              "layout": "2房(室)2廳2衛",
+              "parking": "坡道平面 固定車位",
+              "initial_verified_at": "2026-10-19T16:42:57.798Z",
+              "final_verified_at": "2026-10-19T16:57:03.824Z",
+              "community": "昌傑典典",
+              "verification_status": "PASS"
+            }
+          ],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S093",
+          "source_id": "S093",
+          "source_order": 93,
+          "display_order": 15,
+          "group": "COMMUNITY_BUILDING",
+          "region": "新竹市",
+          "district": "東區",
+          "title": "巨城三民商圈採光3+1房",
+          "community_name": "建輝大樓",
+          "product_type": "社區住宅大樓／華廈",
+          "date": "2026/10/13",
+          "price_wan": 1150.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "33.950",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹市東區民族路201-249號",
+          "floor_raw": "5-5/6樓",
+          "building_age_years": 47.9,
+          "layout_raw": null,
+          "parking_raw": "無車位",
+          "listings": [],
+          "availability_note": "本次未取得可確認的同社區在售"
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S100",
+          "source_id": "S100",
+          "source_order": 100,
+          "display_order": 16,
+          "group": "COMMUNITY_BUILDING",
+          "region": "新竹市",
+          "district": "北區",
+          "title": "市區巨城南寮煙波行館大三房車位",
+          "community_name": "煙波行館",
+          "product_type": "社區住宅大樓／華廈",
+          "date": "2026/10/13",
+          "price_wan": 888.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "36.320",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹市北區天府路一段501-549號",
+          "floor_raw": "5-5/14樓",
+          "building_age_years": 18.4,
+          "layout_raw": null,
+          "parking_raw": "有車位",
+          "listings": [
+            {
+              "listing_id": "L009",
+              "url": "https://buy.housefun.com.tw/Buy/house/7113250/",
+              "title": "煙波行館 稀有3房車位 高樓1層2戶",
+              "platform": "好房網",
+              "price_wan": 980.0,
+              "total_building_ping": 35.1,
+              "floor": "12/14樓",
+              "layout": "3房(室)2廳2衛",
+              "parking": "坡道機械 固定車位",
+              "initial_verified_at": "2026-10-19T16:43:00.429Z",
+              "final_verified_at": "2026-10-19T16:57:06.282Z",
+              "community": "煙波行館",
+              "verification_status": "PASS"
+            }
+          ],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S104",
+          "source_id": "S104",
+          "source_order": 104,
+          "display_order": 17,
+          "group": "COMMUNITY_BUILDING",
+          "region": "新竹市",
+          "district": "北區",
+          "title": "【微笑南寮】大兩房雙衛浴｜全新交屋｜B1車位",
+          "community_name": "微笑南寮",
+          "product_type": "社區住宅大樓／華廈",
+          "date": "2026/10/13",
+          "price_wan": 1310.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "35.470",
+              "unit": "坪"
+            },
+            {
+              "label": "含車位",
+              "value_text": "7.460",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹市北區中清路一段002-050號",
+          "floor_raw": "4-4/14樓",
+          "building_age_years": 0.9,
+          "layout_raw": null,
+          "parking_raw": "有車位",
+          "listings": [],
+          "availability_note": "本次未取得可確認的同社區在售"
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S033",
+          "source_id": "S033",
+          "source_order": 33,
+          "display_order": 18,
+          "group": "COMMUNITY_BUILDING",
+          "region": "竹北市",
+          "district": "竹北市",
+          "title": "德鑫御寶高樓視野明亮三房平車可裝充電樁",
+          "community_name": "德鑫御寶",
+          "product_type": "社區住宅大樓／華廈",
+          "date": "2026/10/17",
+          "price_wan": 2170.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "54.060",
+              "unit": "坪"
+            },
+            {
+              "label": "含車位",
+              "value_text": "9.590",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹縣竹北市華興三街001-049號",
+          "floor_raw": "13-13/14樓",
+          "building_age_years": 9.1,
+          "layout_raw": null,
+          "parking_raw": "有車位",
+          "listings": [
+            {
+              "listing_id": "L010",
+              "url": "https://buy.housefun.com.tw/Buy/house/7053093/",
+              "title": "竹北實驗高中~德鑫御寶~3房平車~",
+              "platform": "好房網",
+              "price_wan": 2288.0,
+              "total_building_ping": 55.07,
+              "floor": "2/14樓",
+              "layout": "3房(室)2廳2衛",
+              "parking": "坡道平面 固定車位",
+              "initial_verified_at": "2026-10-19T16:43:02.560Z",
+              "final_verified_at": "2026-10-19T16:57:08.433Z",
+              "community": "德鑫御寶",
+              "verification_status": "PASS"
+            }
+          ],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S034",
+          "source_id": "S034",
+          "source_order": 34,
+          "display_order": 19,
+          "group": "COMMUNITY_BUILDING",
+          "region": "竹北市",
+          "district": "竹北市",
+          "title": "成功學區【成功大道】雙主臥3+1房+雙平面車位",
+          "community_name": "成功大道",
+          "product_type": "社區住宅大樓／華廈",
+          "date": "2026/10/17",
+          "price_wan": 3450.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "80.720",
+              "unit": "坪"
+            },
+            {
+              "label": "含車位",
+              "value_text": "18.960",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹縣竹北市成功八路152-200號",
+          "floor_raw": "16-16/19樓",
+          "building_age_years": 12.0,
+          "layout_raw": null,
+          "parking_raw": "有車位",
+          "listings": [
+            {
+              "listing_id": "L011",
+              "url": "https://buy.housefun.com.tw/Buy/house/7067404/",
+              "title": "專任【成功大道】屋況維護到拎包即可入住!!!",
+              "platform": "好房網",
+              "price_wan": 3580.0,
+              "total_building_ping": 76.07,
+              "floor": "9/19樓",
+              "layout": "3房(室)2廳2衛",
+              "parking": "坡道平面 固定車位",
+              "initial_verified_at": "2026-10-19T16:43:04.441Z",
+              "final_verified_at": "2026-10-19T16:57:10.185Z",
+              "community": "成功大道",
+              "verification_status": "PASS"
+            }
+          ],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S037",
+          "source_id": "S037",
+          "source_order": 37,
+          "display_order": 20,
+          "group": "COMMUNITY_BUILDING",
+          "region": "竹北市",
+          "district": "竹北市",
+          "title": "品CASA｜ai園區稀有大三房平車",
+          "community_name": "品CASA",
+          "product_type": "社區住宅大樓／華廈",
+          "date": "2026/10/17",
+          "price_wan": 2106.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "45.480",
+              "unit": "坪"
+            },
+            {
+              "label": "含車位",
+              "value_text": "5.010",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹縣竹北市文孝街002-050號",
+          "floor_raw": "5-5/7樓",
+          "building_age_years": 14.5,
+          "layout_raw": null,
+          "parking_raw": "有車位",
+          "listings": [],
+          "availability_note": "本次未取得可確認的同社區在售"
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S048",
+          "source_id": "S048",
+          "source_order": 48,
+          "display_order": 21,
+          "group": "COMMUNITY_BUILDING",
+          "region": "竹北市",
+          "district": "竹北市",
+          "title": "華興【實心甜】高樓景觀戶~四房+EMS充電平車",
+          "community_name": "實心甜",
+          "product_type": "社區住宅大樓／華廈",
+          "date": "2026/10/16",
+          "price_wan": 2800.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "56.240",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹縣竹北市環北路五段402-450號",
+          "floor_raw": "9-9/14樓",
+          "building_age_years": 8.7,
+          "layout_raw": null,
+          "parking_raw": "有車位",
+          "listings": [
+            {
+              "listing_id": "L012",
+              "url": "https://buy.housefun.com.tw/Buy/house/7028099/",
+              "title": "竹北4改3房視野戶｜華興重劃《子母大平車》實心甜",
+              "platform": "好房網",
+              "price_wan": 3280.0,
+              "total_building_ping": 67.88,
+              "floor": "13/14樓",
+              "layout": "3房(室)2廳2衛",
+              "parking": "坡道平面 固定車位",
+              "initial_verified_at": "2026-10-19T16:44:05.615Z",
+              "final_verified_at": "2026-10-19T16:57:13.035Z",
+              "community": "實心甜",
+              "verification_status": "PASS"
+            }
+          ],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S050",
+          "source_id": "S050",
+          "source_order": 50,
+          "display_order": 22,
+          "group": "COMMUNITY_BUILDING",
+          "region": "竹北市",
+          "district": "竹北市",
+          "title": "通勤園區、高鐵皆便利[國賓大悅]高樓兩房平車",
+          "community_name": "國賓大悅",
+          "product_type": "社區住宅大樓／華廈",
+          "date": "2026/10/16",
+          "price_wan": 1825.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "37.820",
+              "unit": "坪"
+            },
+            {
+              "label": "含車位",
+              "value_text": "9.020",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹縣竹北市勝利八街一段201-249號",
+          "floor_raw": "26-26/27樓",
+          "building_age_years": 10.4,
+          "layout_raw": null,
+          "parking_raw": "有車位",
+          "listings": [
+            {
+              "listing_id": "L013",
+              "url": "https://buy.housefun.com.tw/Buy/house/7126844/",
+              "title": "專任\"國賓大悅\"外棟大兩房質感裝潢+平車",
+              "platform": "好房網",
+              "price_wan": 1988.0,
+              "total_building_ping": 37.82,
+              "floor": "16/27樓",
+              "layout": "2房(室)2廳1衛",
+              "parking": "坡道平面 固定車位",
+              "initial_verified_at": "2026-10-19T16:44:07.863Z",
+              "final_verified_at": "2026-10-19T16:57:20.486Z",
+              "community": "國賓大悅",
+              "verification_status": "PASS"
+            }
+          ],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S051",
+          "source_id": "S051",
+          "source_order": 51,
+          "display_order": 23,
+          "group": "COMMUNITY_BUILDING",
+          "region": "竹北市",
+          "district": "竹北市",
+          "title": "專任-高鐵東興明星學區水林園綠景三房車位",
+          "community_name": "水林園",
+          "product_type": "社區住宅大樓／華廈",
+          "date": "2026/10/16",
+          "price_wan": 2428.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "46.120",
+              "unit": "坪"
+            },
+            {
+              "label": "含車位",
+              "value_text": "5.570",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹縣竹北市六家五路一段202-250號",
+          "floor_raw": "4-4/14樓",
+          "building_age_years": 14.9,
+          "layout_raw": null,
+          "parking_raw": "有車位",
+          "listings": [
+            {
+              "listing_id": "L014",
+              "url": "https://buy.housefun.com.tw/Buy/house/7062503/",
+              "title": "近高鐵【富宇水林園】視野三房＋平車",
+              "platform": "好房網",
+              "price_wan": 2988.0,
+              "total_building_ping": 51.79,
+              "floor": "6/13樓",
+              "layout": "3房(室)2廳2衛",
+              "parking": "坡道平面 固定車位",
+              "initial_verified_at": "2026-10-19T16:44:15.571Z",
+              "final_verified_at": "2026-10-19T16:57:23.932Z",
+              "community": "水林園",
+              "verification_status": "PASS"
+            }
+          ],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S052",
+          "source_id": "S052",
+          "source_order": 52,
+          "display_order": 24,
+          "group": "COMMUNITY_BUILDING",
+          "region": "竹北市",
+          "district": "竹北市",
+          "title": "川睦森睦 主附33.9坪大2+1房採光佳電車友善",
+          "community_name": "森睦",
+          "product_type": "社區住宅大樓／華廈",
+          "date": "2026/10/16",
+          "price_wan": 2250.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "58.220",
+              "unit": "坪"
+            },
+            {
+              "label": "含車位",
+              "value_text": "9.810",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹縣竹北市華興五街001-049號",
+          "floor_raw": "4-4/14樓",
+          "building_age_years": 12.8,
+          "layout_raw": null,
+          "parking_raw": "有車位",
+          "listings": [],
+          "availability_note": "本次未取得可確認的同社區在售"
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S053",
+          "source_id": "S053",
+          "source_order": 53,
+          "display_order": 25,
+          "group": "COMMUNITY_BUILDING",
+          "region": "竹北市",
+          "district": "竹北市",
+          "title": "公園1號~AI/遠百商圈高樓美兩房+平車",
+          "community_name": "公園1號",
+          "product_type": "社區住宅大樓／華廈",
+          "date": "2026/10/16",
+          "price_wan": 1540.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "32.020",
+              "unit": "坪"
+            },
+            {
+              "label": "含車位",
+              "value_text": "9.020",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹縣竹北市十興路一段252-300號",
+          "floor_raw": "14-14/15樓",
+          "building_age_years": 8.3,
+          "layout_raw": null,
+          "parking_raw": "有車位",
+          "listings": [
+            {
+              "listing_id": "L015",
+              "url": "https://buy.housefun.com.tw/Buy/house/7127205/",
+              "title": "公園一號~AI/遠百商圈中高樓美兩房+平車",
+              "platform": "好房網",
+              "price_wan": 1790.0,
+              "total_building_ping": 33.43,
+              "floor": "7/15樓",
+              "layout": "2房(室)2廳1衛",
+              "parking": "坡道平面 固定車位",
+              "initial_verified_at": "2026-10-19T16:44:18.755Z",
+              "final_verified_at": "2026-10-19T16:57:28.398Z",
+              "community": "公園1號",
+              "verification_status": "PASS"
+            }
+          ],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S054",
+          "source_id": "S054",
+          "source_order": 54,
+          "display_order": 26,
+          "group": "COMMUNITY_BUILDING",
+          "region": "竹北市",
+          "district": "竹北市",
+          "title": "縣三「鼎風硯」三房雙車高樓層視野戶",
+          "community_name": "鼎風硯",
+          "product_type": "社區住宅大樓／華廈",
+          "date": "2026/10/16",
+          "price_wan": 2980.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "57.310",
+              "unit": "坪"
+            },
+            {
+              "label": "含車位",
+              "value_text": "17.520",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹縣竹北市嘉興一街052-100號",
+          "floor_raw": "12-12/15樓",
+          "building_age_years": 2.7,
+          "layout_raw": null,
+          "parking_raw": "有車位",
+          "listings": [
+            {
+              "listing_id": "L016",
+              "url": "https://buy.housefun.com.tw/Buy/house/7000462/",
+              "title": "鼎風硯-四房雙車位",
+              "platform": "好房網",
+              "price_wan": 3888.0,
+              "total_building_ping": 62.89,
+              "floor": "6/15樓",
+              "layout": "4房(室)2廳2衛",
+              "parking": "坡道平面 固定車位",
+              "initial_verified_at": "2026-10-19T16:44:20.794Z",
+              "final_verified_at": "2026-10-19T16:57:31.605Z",
+              "community": "鼎風硯",
+              "verification_status": "PASS"
+            }
+          ],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S062",
+          "source_id": "S062",
+          "source_order": 62,
+          "display_order": 27,
+          "group": "COMMUNITY_BUILDING",
+          "region": "竹北市",
+          "district": "竹北市",
+          "title": "高鐵東興學區【三上家天下】綠帶環繞3+1房雙平車",
+          "community_name": "三上家天下",
+          "product_type": "社區住宅大樓／華廈",
+          "date": "2026/10/15",
+          "price_wan": 4398.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "84.980",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹縣竹北市嘉豐南路二段051-099號",
+          "floor_raw": "8-8/19樓",
+          "building_age_years": 14.0,
+          "layout_raw": null,
+          "parking_raw": "有車位",
+          "listings": [],
+          "availability_note": "本次未取得可確認的同社區在售"
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S066",
+          "source_id": "S066",
+          "source_order": 66,
+          "display_order": 28,
+          "group": "COMMUNITY_BUILDING",
+          "region": "竹北市",
+          "district": "竹北市",
+          "title": "阡陌晴｜稀有一樓挑高大空間＋20坪大後院",
+          "community_name": "阡陌晴",
+          "product_type": "社區住宅大樓／華廈",
+          "date": "2026/10/15",
+          "price_wan": 1800.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "51.810",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹縣竹北市聯興一街168巷001-049號",
+          "floor_raw": "1-1/15樓",
+          "building_age_years": 1.4,
+          "layout_raw": null,
+          "parking_raw": "有車位",
+          "listings": [],
+          "availability_note": "本次未取得可確認的同社區在售"
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S080",
+          "source_id": "S080",
+          "source_order": 80,
+          "display_order": 29,
+          "group": "COMMUNITY_BUILDING",
+          "region": "竹北市",
+          "district": "竹北市",
+          "title": "超殺價格｜竹北後站CP值最高大兩房",
+          "community_name": "名人廣場",
+          "product_type": "社區住宅大樓／華廈",
+          "date": "2026/10/14",
+          "price_wan": 1050.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "43.180",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹縣竹北市新泰路052-100號",
+          "floor_raw": "9-9/10樓",
+          "building_age_years": 24.7,
+          "layout_raw": null,
+          "parking_raw": "無車位",
+          "listings": [],
+          "availability_note": "本次未取得可確認的同社區在售"
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S082",
+          "source_id": "S082",
+          "source_order": 82,
+          "display_order": 30,
+          "group": "COMMUNITY_BUILDING",
+          "region": "竹北市",
+          "district": "竹北市",
+          "title": "TechPark｜高鐵特區｜高樓層三房平車",
+          "community_name": "豐邑TECH PARK",
+          "product_type": "社區住宅大樓／華廈",
+          "date": "2026/10/14",
+          "price_wan": 2750.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "47.290",
+              "unit": "坪"
+            },
+            {
+              "label": "含車位",
+              "value_text": "11.890",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹縣竹北市光明六路東二段401-449號",
+          "floor_raw": "24-24/24樓",
+          "building_age_years": 3.0,
+          "layout_raw": null,
+          "parking_raw": "有車位",
+          "listings": [
+            {
+              "listing_id": "L027",
+              "url": "https://community.rakuya.com.tw/52838/sell/info?ehid=0592fb220872628&from=communitySearchSell",
+              "title": "[睦家] 竹北高鐵特區綠景三房車",
+              "platform": "樂屋網",
+              "price_wan": 3380,
+              "total_building_ping": 52.36,
+              "floor": "4/24樓",
+              "layout": "3房2廳2衛",
+              "parking": "坡道平面式",
+              "initial_verified_at": "2026-10-19T16:53:00.069Z",
+              "final_verified_at": "2026-10-19T16:58:23.417Z",
+              "community": "豐邑TECH PARK",
+              "verification_status": "PASS"
+            }
+          ],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S083",
+          "source_id": "S083",
+          "source_order": 83,
+          "display_order": 31,
+          "group": "COMMUNITY_BUILDING",
+          "region": "竹北市",
+          "district": "竹北市",
+          "title": "原摺｜台元園區旁．四改三房．雙主臥雙平車",
+          "community_name": "原摺",
+          "product_type": "社區住宅大樓／華廈",
+          "date": "2026/10/14",
+          "price_wan": 3640.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "94.000",
+              "unit": "坪"
+            },
+            {
+              "label": "含車位",
+              "value_text": "15.080",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹縣竹北市環北路一段107巷002-050號",
+          "floor_raw": "5-5/13樓",
+          "building_age_years": 12.5,
+          "layout_raw": null,
+          "parking_raw": "有車位",
+          "listings": [
+            {
+              "listing_id": "L024",
+              "url": "https://buy.housefun.com.tw/buy/house/7088495",
+              "title": "竹北【原摺】一層一戶雙車位高檔大三房",
+              "platform": "好房網",
+              "price_wan": 5168.0,
+              "total_building_ping": 94.0,
+              "floor": "3/13樓",
+              "layout": "3房(室)2廳3衛",
+              "parking": "坡道平面",
+              "initial_verified_at": "2026-10-19T16:51:27.707Z",
+              "final_verified_at": "2026-10-19T16:57:33.527Z",
+              "community": "原摺",
+              "verification_status": "PASS"
+            }
+          ],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S086",
+          "source_id": "S086",
+          "source_order": 86,
+          "display_order": 32,
+          "group": "COMMUNITY_BUILDING",
+          "region": "竹北市",
+          "district": "竹北市",
+          "title": "公園1號｜高樓景觀面公園裝潢2房平車｜AI園區",
+          "community_name": "公園1號",
+          "product_type": "社區住宅大樓／華廈",
+          "date": "2026/10/14",
+          "price_wan": 1680.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "32.110",
+              "unit": "坪"
+            },
+            {
+              "label": "含車位",
+              "value_text": "9.020",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹縣竹北市十興路一段252-300號",
+          "floor_raw": "13-13/15樓",
+          "building_age_years": 8.3,
+          "layout_raw": null,
+          "parking_raw": "有車位",
+          "listings": [
+            {
+              "listing_id": "L015",
+              "url": "https://buy.housefun.com.tw/Buy/house/7127205/",
+              "title": "公園一號~AI/遠百商圈中高樓美兩房+平車",
+              "platform": "好房網",
+              "price_wan": 1790.0,
+              "total_building_ping": 33.43,
+              "floor": "7/15樓",
+              "layout": "2房(室)2廳1衛",
+              "parking": "坡道平面 固定車位",
+              "initial_verified_at": "2026-10-19T16:44:18.755Z",
+              "final_verified_at": "2026-10-19T16:57:28.398Z",
+              "community": "公園1號",
+              "verification_status": "PASS"
+            }
+          ],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S102",
+          "source_id": "S102",
+          "source_order": 102,
+          "display_order": 33,
+          "group": "COMMUNITY_BUILDING",
+          "region": "竹北市",
+          "district": "竹北市",
+          "title": "縣三ai園區德鑫sky1東南向三房陽光宅+平車",
+          "community_name": "德鑫SKY1",
+          "product_type": "社區住宅大樓／華廈",
+          "date": "2026/10/13",
+          "price_wan": 2488.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "48.100",
+              "unit": "坪"
+            },
+            {
+              "label": "含車位",
+              "value_text": "9.020",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹縣竹北市勝利十一路102-150號",
+          "floor_raw": "15-15/21樓",
+          "building_age_years": 10.1,
+          "layout_raw": null,
+          "parking_raw": "有車位",
+          "listings": [],
+          "availability_note": "本次未取得可確認的同社區在售"
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S012",
+          "source_id": "S012",
+          "source_order": 12,
+          "display_order": 34,
+          "group": "COMMUNITY_BUILDING",
+          "region": "新竹縣其他地區",
+          "district": "竹東鎮",
+          "title": "登記住宅【星都滙D區】朝南高樓二房B1平車星都匯",
+          "community_name": "星都滙D區",
+          "product_type": "社區住宅大樓／華廈",
+          "date": "2026/10/18",
+          "price_wan": 1490.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "35.280",
+              "unit": "坪"
+            },
+            {
+              "label": "含車位",
+              "value_text": "9.430",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹縣竹東鎮旭光一路052-100號",
+          "floor_raw": "12-12/14樓",
+          "building_age_years": 0.4,
+          "layout_raw": null,
+          "parking_raw": "有車位",
+          "listings": [
+            {
+              "listing_id": "L026",
+              "url": "https://www.hbhousing.com.tw/detail?sn=s9738UR",
+              "title": "星都匯Ｄ區住宅２房車位",
+              "platform": "住商不動產",
+              "price_wan": 1498,
+              "total_building_ping": 34.78,
+              "floor": "14/14樓",
+              "layout": "2房2廳1衛",
+              "parking": "坡道平面",
+              "initial_verified_at": "2026-10-19T16:49:55.035Z",
+              "final_verified_at": "2026-10-19T16:58:31.954Z",
+              "community": "星都滙D區",
+              "verification_status": "PASS"
+            }
+          ],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S020",
+          "source_id": "S020",
+          "source_order": 20,
+          "display_order": 35,
+          "group": "COMMUNITY_BUILDING",
+          "region": "新竹縣其他地區",
+          "district": "新豐鄉",
+          "title": "心豐花園全新兩房平車",
+          "community_name": "心豐花園",
+          "product_type": "社區住宅大樓／華廈",
+          "date": "2026/10/17",
+          "price_wan": 918.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "31.020",
+              "unit": "坪"
+            },
+            {
+              "label": "含車位",
+              "value_text": "14.870",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹縣新豐鄉榮華街39巷100弄001-049號",
+          "floor_raw": "3-3/14樓",
+          "building_age_years": 1.9,
+          "layout_raw": null,
+          "parking_raw": "有車位",
+          "listings": [],
+          "availability_note": "本次未取得可確認的同社區在售"
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S074",
+          "source_id": "S074",
+          "source_order": 74,
+          "display_order": 36,
+          "group": "COMMUNITY_BUILDING",
+          "region": "新竹縣其他地區",
+          "district": "新埔鎮",
+          "title": "專任行情佳瓚成三房送美美裝潢+平面車位",
+          "community_name": "佳瓚成",
+          "product_type": "社區住宅大樓／華廈",
+          "date": "2026/10/15",
+          "price_wan": 1470.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "42.450",
+              "unit": "坪"
+            },
+            {
+              "label": "含車位",
+              "value_text": "8.710",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹縣新埔鎮福德街351-399號",
+          "floor_raw": "9-9/15樓",
+          "building_age_years": 4.5,
+          "layout_raw": null,
+          "parking_raw": "有車位",
+          "listings": [
+            {
+              "listing_id": "L023",
+              "url": "https://buy.housefun.com.tw/Buy/house/6952229/",
+              "title": "佳瓚成高樓朝南三房+平車",
+              "platform": "好房網",
+              "price_wan": 1598.0,
+              "total_building_ping": 43.38,
+              "floor": "12/15樓",
+              "layout": "3房(室)2廳2衛",
+              "parking": "坡道平面 固定車位",
+              "initial_verified_at": "2026-10-19T16:51:21.363Z",
+              "final_verified_at": "2026-10-19T16:57:35.353Z",
+              "community": "佳瓚成",
+              "verification_status": "PASS"
+            }
+          ],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S087",
+          "source_id": "S087",
+          "source_order": 87,
+          "display_order": 37,
+          "group": "COMMUNITY_BUILDING",
+          "region": "新竹縣其他地區",
+          "district": "竹東鎮",
+          "title": "【凱悅名園】竹東二重首購低總價有陽台美套房",
+          "community_name": "凱悅名園",
+          "product_type": "社區住宅大樓／華廈",
+          "date": "2026/10/14",
+          "price_wan": 280.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "12.930",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹縣竹東鎮中興路二段318巷32弄001-049號",
+          "floor_raw": "11-11/11樓",
+          "building_age_years": 32.9,
+          "layout_raw": null,
+          "parking_raw": "無車位",
+          "listings": [
+            {
+              "listing_id": "L017",
+              "url": "https://buy.housefun.com.tw/Buy/house/6944723/",
+              "title": "【凱悅名園】工研院旁 首購低總價大套房",
+              "platform": "好房網",
+              "price_wan": 318.0,
+              "total_building_ping": 13.71,
+              "floor": "5/11樓",
+              "layout": "1房(室)1廳1衛",
+              "parking": "未提供",
+              "initial_verified_at": "2026-10-19T16:47:54.471Z",
+              "final_verified_at": "2026-10-19T16:57:46.289Z",
+              "community": "凱悅名園",
+              "verification_status": "PASS"
+            }
+          ],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S092",
+          "source_id": "S092",
+          "source_order": 92,
+          "display_order": 38,
+          "group": "COMMUNITY_BUILDING",
+          "region": "新竹縣其他地區",
+          "district": "新埔鎮",
+          "title": "【佳瓚成】高樓視野戶｜三房加平車",
+          "community_name": "佳瓚成",
+          "product_type": "社區住宅大樓／華廈",
+          "date": "2026/10/13",
+          "price_wan": 1400.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "42.100",
+              "unit": "坪"
+            },
+            {
+              "label": "含車位",
+              "value_text": "8.380",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹縣新埔鎮福德街351-399號",
+          "floor_raw": "13-13/15樓",
+          "building_age_years": 4.5,
+          "layout_raw": null,
+          "parking_raw": "有車位",
+          "listings": [
+            {
+              "listing_id": "L023",
+              "url": "https://buy.housefun.com.tw/Buy/house/6952229/",
+              "title": "佳瓚成高樓朝南三房+平車",
+              "platform": "好房網",
+              "price_wan": 1598.0,
+              "total_building_ping": 43.38,
+              "floor": "12/15樓",
+              "layout": "3房(室)2廳2衛",
+              "parking": "坡道平面 固定車位",
+              "initial_verified_at": "2026-10-19T16:51:21.363Z",
+              "final_verified_at": "2026-10-19T16:57:35.353Z",
+              "community": "佳瓚成",
+              "verification_status": "PASS"
+            }
+          ],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S097",
+          "source_id": "S097",
+          "source_order": 97,
+          "display_order": 39,
+          "group": "COMMUNITY_BUILDING",
+          "region": "新竹縣其他地區",
+          "district": "竹東鎮",
+          "title": "東方三期 : 自住&投資置產 / 溫馨三房+平車",
+          "community_name": "東方新都三期",
+          "product_type": "社區住宅大樓／華廈",
+          "date": "2026/10/13",
+          "price_wan": 615.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "30.280",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹縣竹東鎮光武街051-099號",
+          "floor_raw": "3-3/9樓",
+          "building_age_years": 30.5,
+          "layout_raw": null,
+          "parking_raw": "有車位",
+          "listings": [
+            {
+              "listing_id": "L018",
+              "url": "https://buy.housefun.com.tw/Buy/house/7109769/",
+              "title": "溫馨東方三期~三房+平面車位",
+              "platform": "好房網",
+              "price_wan": 798.0,
+              "total_building_ping": 36.82,
+              "floor": "1/9樓",
+              "layout": "3房(室)2廳2衛",
+              "parking": "固定車位",
+              "initial_verified_at": "2026-10-19T16:47:56.179Z",
+              "final_verified_at": "2026-10-19T16:57:47.845Z",
+              "community": "東方新都三期",
+              "verification_status": "PASS"
+            }
+          ],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S003",
+          "source_id": "S003",
+          "source_order": 3,
+          "display_order": 40,
+          "group": "COMMUNITY_BUILDING",
+          "region": "竹南鎮",
+          "district": "竹南鎮",
+          "title": "【四季典藏】竹南 輕屋齡 低總價 溫馨美兩房",
+          "community_name": "四季典藏",
+          "product_type": "社區住宅大樓／華廈",
+          "date": "2026/10/18",
+          "price_wan": 630.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "22.180",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "苗栗縣竹南鎮仁德路259巷001-049號",
+          "floor_raw": "2-2/5樓",
+          "building_age_years": 7.4,
+          "layout_raw": null,
+          "parking_raw": "無車位",
+          "listings": [],
+          "availability_note": "本次未取得可確認的同社區在售"
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S004",
+          "source_id": "S004",
+          "source_order": 4,
+          "display_order": 41,
+          "group": "COMMUNITY_BUILDING",
+          "region": "竹南鎮",
+          "district": "竹南鎮",
+          "title": "專任｜竹南綠逸五房雙車位大坪數典藏豪廈",
+          "community_name": "竹南綠逸",
+          "product_type": "社區住宅大樓／華廈",
+          "date": "2026/10/18",
+          "price_wan": 1600.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "64.120",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "苗栗縣竹南鎮蕃社001-049號",
+          "floor_raw": "4-4/5樓",
+          "building_age_years": 6.4,
+          "layout_raw": null,
+          "parking_raw": "有車位",
+          "listings": [],
+          "availability_note": "本次未取得可確認的同社區在售"
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S055",
+          "source_id": "S055",
+          "source_order": 55,
+          "display_order": 42,
+          "group": "COMMUNITY_BUILDING",
+          "region": "竹南鎮",
+          "district": "竹南鎮",
+          "title": "竹南台積電美兩房兩衛浴平車",
+          "community_name": "凱泉天悅",
+          "product_type": "社區住宅大樓／華廈",
+          "date": "2026/10/16",
+          "price_wan": 933.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "36.550",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "苗栗縣竹南鎮科專六路302-350號",
+          "floor_raw": "10-10/11樓",
+          "building_age_years": 10.0,
+          "layout_raw": null,
+          "parking_raw": "有車位",
+          "listings": [
+            {
+              "listing_id": "L022",
+              "url": "https://buy.housefun.com.tw/Buy/house/7051020/",
+              "title": "【凱泉天悅】大埔２房雙衛浴對外窗＋平面車位",
+              "platform": "好房網",
+              "price_wan": 1080.0,
+              "total_building_ping": 35.38,
+              "floor": "2/11樓",
+              "layout": "2房(室)2廳2衛",
+              "parking": "坡道平面 固定車位",
+              "initial_verified_at": "2026-10-19T16:51:16.962Z",
+              "final_verified_at": "2026-10-19T16:57:49.756Z",
+              "community": "凱泉天悅",
+              "verification_status": "PASS"
+            }
+          ],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S069",
+          "source_id": "S069",
+          "source_order": 69,
+          "display_order": 43,
+          "group": "COMMUNITY_BUILDING",
+          "region": "竹南鎮",
+          "district": "竹南鎮",
+          "title": "專任-竹南後站-2房+平車+輕屋齡",
+          "community_name": "悅捷市",
+          "product_type": "社區住宅大樓／華廈",
+          "date": "2026/10/15",
+          "price_wan": 1050.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "35.290",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "苗栗縣竹南鎮維新路317巷001-049號",
+          "floor_raw": "6-6/14樓",
+          "building_age_years": 5.0,
+          "layout_raw": null,
+          "parking_raw": "有車位",
+          "listings": [],
+          "availability_note": "本次未取得可確認的同社區在售"
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S017",
+          "source_id": "S017",
+          "source_order": 17,
+          "display_order": 44,
+          "group": "COMMUNITY_BUILDING",
+          "region": "頭份市",
+          "district": "頭份市",
+          "title": "美居仰森｜質感２＋１房附車位《竹南運動公園旁！》",
+          "community_name": "美居仰森",
+          "product_type": "社區住宅大樓／華廈",
+          "date": "2026/10/18",
+          "price_wan": 1200.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "39.820",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "苗栗縣頭份市公園三街052-100號",
+          "floor_raw": "9-9/14樓",
+          "building_age_years": 11.4,
+          "layout_raw": null,
+          "parking_raw": "有車位",
+          "listings": [
+            {
+              "listing_id": "L019",
+              "url": "https://buy.housefun.com.tw/Buy/house/7032806/",
+              "title": "【美居仰森】露臺戶、運動公園2+1房附車位",
+              "platform": "好房網",
+              "price_wan": 1238.0,
+              "total_building_ping": 39.31,
+              "floor": "2/14樓",
+              "layout": "2房(室)2廳2衛",
+              "parking": "坡道機械 固定車位",
+              "initial_verified_at": "2026-10-19T16:51:11.476Z",
+              "final_verified_at": "2026-10-19T16:57:53.461Z",
+              "community": "美居仰森",
+              "verification_status": "PASS"
+            }
+          ],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S019",
+          "source_id": "S019",
+          "source_order": 19,
+          "display_order": 45,
+          "group": "COMMUNITY_BUILDING",
+          "region": "頭份市",
+          "district": "頭份市",
+          "title": "頭份交流道旁幸福首擇採光大三房平車",
+          "community_name": "幸福首擇",
+          "product_type": "社區住宅大樓／華廈",
+          "date": "2026/10/18",
+          "price_wan": 1208.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "52.810",
+              "unit": "坪"
+            },
+            {
+              "label": "含車位",
+              "value_text": "9.350",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "苗栗縣頭份市中正一路501-549號",
+          "floor_raw": "4-4/9樓",
+          "building_age_years": 7.9,
+          "layout_raw": null,
+          "parking_raw": "有車位",
+          "listings": [
+            {
+              "listing_id": "L020",
+              "url": "https://buy.housefun.com.tw/Buy/house/7096112/",
+              "title": "首購最愛-頭份【幸福首擇】日光三房平車美居",
+              "platform": "好房網",
+              "price_wan": 1288.0,
+              "total_building_ping": 47.46,
+              "floor": "3/9樓",
+              "layout": "3房(室)2廳2衛",
+              "parking": "坡道平面 固定車位",
+              "initial_verified_at": "2026-10-19T16:51:13.592Z",
+              "final_verified_at": "2026-10-19T16:57:55.612Z",
+              "community": "幸福首擇",
+              "verification_status": "PASS"
+            }
+          ],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S095",
+          "source_id": "S095",
+          "source_order": 95,
+          "display_order": 46,
+          "group": "COMMUNITY_BUILDING",
+          "region": "頭份市",
+          "district": "頭份市",
+          "title": "頭份昌隆廣場上好雙陽台三房平車美宅",
+          "community_name": "昌隆廣場上好",
+          "product_type": "社區住宅大樓／華廈",
+          "date": "2026/10/13",
+          "price_wan": 1315.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "46.830",
+              "unit": "坪"
+            },
+            {
+              "label": "含車位",
+              "value_text": "9.750",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "苗栗縣頭份市昌隆一街051-099號",
+          "floor_raw": "5-5/15樓",
+          "building_age_years": 6.2,
+          "layout_raw": null,
+          "parking_raw": "有車位",
+          "listings": [
+            {
+              "listing_id": "L021",
+              "url": "https://buy.housefun.com.tw/Buy/house/6876561/",
+              "title": "昌隆上好三房平車廈A3144-住商頭份中央店",
+              "platform": "好房網",
+              "price_wan": 1488.0,
+              "total_building_ping": 41.98,
+              "floor": "6/15樓",
+              "layout": "3房(室)2廳1衛",
+              "parking": "坡道平面 有",
+              "initial_verified_at": "2026-10-19T16:51:15.273Z",
+              "final_verified_at": "2026-10-19T16:57:56.951Z",
+              "community": "昌隆廣場上好",
+              "verification_status": "PASS"
+            }
+          ],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S043",
+          "source_id": "S043",
+          "source_order": 43,
+          "display_order": 47,
+          "group": "COMMUNITY_BUILDING",
+          "region": "桃園市",
+          "district": "中壢區",
+          "title": "中壢體育園區、家樂福生活圈|【狀元府】低總價三房",
+          "community_name": "狀元府",
+          "product_type": "社區住宅大樓／華廈",
+          "date": "2026/10/17",
+          "price_wan": 716.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "36.640",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "桃園市中壢區龍興路668巷002-050號",
+          "floor_raw": "4-4/8樓",
+          "building_age_years": 29.9,
+          "layout_raw": null,
+          "parking_raw": "有車位",
+          "listings": [],
+          "availability_note": "本次未取得可確認的同社區在售"
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S046",
+          "source_id": "S046",
+          "source_order": 46,
+          "display_order": 48,
+          "group": "COMMUNITY_BUILDING",
+          "region": "桃園市",
+          "district": "八德區",
+          "title": "桃園八德「捷運親家」低總價首購二房/平車",
+          "community_name": "捷運親家",
+          "product_type": "社區住宅大樓／華廈",
+          "date": "2026/10/17",
+          "price_wan": 500.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "22.920",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "桃園市八德區茄苳路91巷002-050號",
+          "floor_raw": "6-6/6樓",
+          "building_age_years": 32.3,
+          "layout_raw": null,
+          "parking_raw": "有車位",
+          "listings": [],
+          "availability_note": "本次未取得可確認的同社區在售"
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S045",
+          "source_id": "S045",
+          "source_order": 45,
+          "display_order": 49,
+          "group": "COMMUNITY_BUILDING",
+          "region": "台北市",
+          "district": "南港區",
+          "title": "南港中央研究院《冠德中研》高樓景觀三房平車",
+          "community_name": "冠德中研",
+          "product_type": "社區住宅大樓／華廈",
+          "date": "2026/10/17",
+          "price_wan": 4200.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "63.370",
+              "unit": "坪"
+            },
+            {
+              "label": "含車位",
+              "value_text": "15.710",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "台北市南港區研究院路二段61巷001-049號",
+          "floor_raw": "15-15/18樓",
+          "building_age_years": 12.8,
+          "layout_raw": null,
+          "parking_raw": "有車位",
+          "listings": [],
+          "availability_note": "本次未取得可確認的同社區在售"
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S001",
+          "source_id": "S001",
+          "source_order": 1,
+          "display_order": 50,
+          "group": "OTHER_TRANSACTION",
+          "region": "新竹縣其他地區",
+          "district": "湖口鄉",
+          "title": "民善路都計內美田",
+          "community_name": "",
+          "product_type": "土地",
+          "date": "2026/10/19",
+          "price_wan": 1004.4,
+          "areas": [
+            {
+              "label": "土地",
+              "value_text": "324.000",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹縣湖口鄉德興段",
+          "floor_raw": null,
+          "building_age_years": null,
+          "layout_raw": null,
+          "parking_raw": null,
+          "listings": [],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S002",
+          "source_id": "S002",
+          "source_order": 2,
+          "display_order": 51,
+          "group": "OTHER_TRANSACTION",
+          "region": "頭份市",
+          "district": "頭份市",
+          "title": "頭份百坪孝親大地坪透天",
+          "community_name": "",
+          "product_type": "透天／別墅",
+          "date": "2026/10/18",
+          "price_wan": 1600.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "101.580",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "苗栗縣頭份市永忠街052-100號",
+          "floor_raw": "1-3/3樓",
+          "building_age_years": 30.7,
+          "layout_raw": null,
+          "parking_raw": "無車位",
+          "listings": [],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S005",
+          "source_id": "S005",
+          "source_order": 5,
+          "display_order": 52,
+          "group": "OTHER_TRANSACTION",
+          "region": "新竹市",
+          "district": "東區",
+          "title": "早安園區溫馨裝潢-三房//近科學園區/可租車位",
+          "community_name": "早安園區",
+          "product_type": "公寓",
+          "date": "2026/10/18",
+          "price_wan": 1055.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "28.250",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹市東區光復路一段576巷16弄001-049號",
+          "floor_raw": "2-2/5樓",
+          "building_age_years": 31.5,
+          "layout_raw": null,
+          "parking_raw": "無車位",
+          "listings": [],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S006",
+          "source_id": "S006",
+          "source_order": 6,
+          "display_order": 53,
+          "group": "OTHER_TRANSACTION",
+          "region": "新竹市",
+          "district": "新竹市",
+          "title": "竹科台積二奈米/清交大學/高翠25坪建地",
+          "community_name": "",
+          "product_type": "土地",
+          "date": "2026/10/18",
+          "price_wan": 1323.0,
+          "areas": [
+            {
+              "label": "土地",
+              "value_text": "25.110",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹市新竹市科學段一小段",
+          "floor_raw": null,
+          "building_age_years": null,
+          "layout_raw": null,
+          "parking_raw": null,
+          "listings": [],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S007",
+          "source_id": "S007",
+          "source_order": 7,
+          "display_order": 54,
+          "group": "OTHER_TRANSACTION",
+          "region": "新竹市",
+          "district": "香山區",
+          "title": "竹科莊園|自有大庭院|綠意山林為鄰|全套房|雙車",
+          "community_name": "",
+          "product_type": "透天／別墅",
+          "date": "2026/10/18",
+          "price_wan": 1980.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "59.210",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹市香山區中華路六段647巷136弄501-549號",
+          "floor_raw": "1-4/4樓",
+          "building_age_years": 1.0,
+          "layout_raw": null,
+          "parking_raw": "有車位",
+          "listings": [],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S008",
+          "source_id": "S008",
+          "source_order": 8,
+          "display_order": 55,
+          "group": "OTHER_TRANSACTION",
+          "region": "新竹縣其他地區",
+          "district": "新豐鄉",
+          "title": "新豐埔和美農地",
+          "community_name": "",
+          "product_type": "土地",
+          "date": "2026/10/18",
+          "price_wan": 1215.0,
+          "areas": [
+            {
+              "label": "土地",
+              "value_text": "750.500",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹縣新豐鄉後湖段埔和小段",
+          "floor_raw": null,
+          "building_age_years": null,
+          "layout_raw": null,
+          "parking_raw": null,
+          "listings": [],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S011",
+          "source_id": "S011",
+          "source_order": 11,
+          "display_order": 56,
+          "group": "OTHER_TRANSACTION",
+          "region": "竹北市",
+          "district": "竹北市",
+          "title": "專任|台知園區|超值稀有美透天",
+          "community_name": "",
+          "product_type": "透天／別墅",
+          "date": "2026/10/18",
+          "price_wan": 1428.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "55.390",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹縣竹北市興海街103巷20弄001-049號",
+          "floor_raw": "1-4/4樓",
+          "building_age_years": 32.3,
+          "layout_raw": null,
+          "parking_raw": "無車位",
+          "listings": [],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S013",
+          "source_id": "S013",
+          "source_order": 13,
+          "display_order": 57,
+          "group": "OTHER_TRANSACTION",
+          "region": "頭份市",
+          "district": "頭份市",
+          "title": "居品twin park",
+          "community_name": "",
+          "product_type": "類型待確認（住宅／預售狀態）",
+          "date": "2026/10/18",
+          "price_wan": 1367.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "48.240",
+              "unit": "坪"
+            },
+            {
+              "label": "含車位",
+              "value_text": "9.730",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "苗栗縣頭份市公北三路",
+          "floor_raw": "5-5/18樓",
+          "building_age_years": null,
+          "layout_raw": null,
+          "parking_raw": "有車位",
+          "listings": [],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S016",
+          "source_id": "S016",
+          "source_order": 16,
+          "display_order": 58,
+          "group": "OTHER_TRANSACTION",
+          "region": "竹北市",
+          "district": "竹北市",
+          "title": "近華興重劃區｜屋況極佳免整理直接入住｜雙車庫",
+          "community_name": "",
+          "product_type": "類型待確認（社區名稱或住宅類型未確認）",
+          "date": "2026/10/18",
+          "price_wan": 2525.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "79.020",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹縣竹北市中央路253巷002-050號",
+          "floor_raw": "1-4/4樓",
+          "building_age_years": 25.3,
+          "layout_raw": null,
+          "parking_raw": "無車位",
+          "listings": [],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S018",
+          "source_id": "S018",
+          "source_order": 18,
+          "display_order": 59,
+          "group": "OTHER_TRANSACTION",
+          "region": "新竹縣其他地區",
+          "district": "竹東鎮",
+          "title": "園區三期徵收農地",
+          "community_name": "",
+          "product_type": "土地",
+          "date": "2026/10/18",
+          "price_wan": 4646.0,
+          "areas": [
+            {
+              "label": "土地",
+              "value_text": "309.090",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹縣竹東鎮柯子湖段",
+          "floor_raw": null,
+          "building_age_years": null,
+          "layout_raw": null,
+          "parking_raw": null,
+          "listings": [],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S022",
+          "source_id": "S022",
+          "source_order": 22,
+          "display_order": 60,
+          "group": "OTHER_TRANSACTION",
+          "region": "新竹縣其他地區",
+          "district": "湖口鄉",
+          "title": "獨家專任【湖口工業區旁】透天住店",
+          "community_name": "",
+          "product_type": "透天／店面",
+          "date": "2026/10/17",
+          "price_wan": 650.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "25.590",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹縣湖口鄉吉祥街002-050號",
+          "floor_raw": "1-2/2樓",
+          "building_age_years": 48.5,
+          "layout_raw": null,
+          "parking_raw": "無車位",
+          "listings": [],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S023",
+          "source_id": "S023",
+          "source_order": 23,
+          "display_order": 61,
+          "group": "OTHER_TRANSACTION",
+          "region": "新竹縣其他地區",
+          "district": "竹東鎮",
+          "title": "雞油林道路用地",
+          "community_name": "",
+          "product_type": "土地",
+          "date": "2026/10/17",
+          "price_wan": 15.5,
+          "areas": [
+            {
+              "label": "土地",
+              "value_text": "0.910",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹縣竹東鎮鷄油林段",
+          "floor_raw": null,
+          "building_age_years": null,
+          "layout_raw": null,
+          "parking_raw": null,
+          "listings": [],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S024",
+          "source_id": "S024",
+          "source_order": 24,
+          "display_order": 62,
+          "group": "OTHER_TRANSACTION",
+          "region": "新竹市",
+          "district": "香山區",
+          "title": "專任牛埔坤山和園雙車臨11米路住店",
+          "community_name": "",
+          "product_type": "透天／店面",
+          "date": "2026/10/17",
+          "price_wan": 2306.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "90.310",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹市香山區牛埔東路192巷001-049號",
+          "floor_raw": "1-4/4樓",
+          "building_age_years": 25.2,
+          "layout_raw": null,
+          "parking_raw": "有車位",
+          "listings": [],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S026",
+          "source_id": "S026",
+          "source_order": 26,
+          "display_order": 63,
+          "group": "OTHER_TRANSACTION",
+          "region": "新竹縣其他地區",
+          "district": "竹東鎮",
+          "title": "持分地",
+          "community_name": "",
+          "product_type": "土地",
+          "date": "2026/10/17",
+          "price_wan": 38.1489,
+          "areas": [
+            {
+              "label": "土地",
+              "value_text": "12.720",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹縣竹東鎮頭重埔段",
+          "floor_raw": null,
+          "building_age_years": null,
+          "layout_raw": null,
+          "parking_raw": null,
+          "listings": [],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S031",
+          "source_id": "S031",
+          "source_order": 31,
+          "display_order": 64,
+          "group": "OTHER_TRANSACTION",
+          "region": "桃園市",
+          "district": "觀音區",
+          "title": "專任桃園觀音社區型5房透天平車｜低於行情",
+          "community_name": "自在宏觀華廈區",
+          "product_type": "透天",
+          "date": "2026/10/17",
+          "price_wan": 966.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "82.420",
+              "unit": "坪"
+            },
+            {
+              "label": "含車位",
+              "value_text": "7.920",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "桃園市觀音區信義路182巷001-049號",
+          "floor_raw": "1-3/3樓",
+          "building_age_years": 11.8,
+          "layout_raw": null,
+          "parking_raw": "無車位",
+          "listings": [],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S032",
+          "source_id": "S032",
+          "source_order": 32,
+          "display_order": 65,
+          "group": "OTHER_TRANSACTION",
+          "region": "竹北市",
+          "district": "竹北市",
+          "title": "台大商務套房-遠百商圈+雙學區-高樓全新翻修",
+          "community_name": "台大商務套房",
+          "product_type": "類型待確認（住宅／辦公用途）",
+          "date": "2026/10/17",
+          "price_wan": 650.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "10.910",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹縣竹北市勝利六街002-050號",
+          "floor_raw": "9-9/10樓",
+          "building_age_years": 22.6,
+          "layout_raw": null,
+          "parking_raw": "無車位",
+          "listings": [],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S036",
+          "source_id": "S036",
+          "source_order": 36,
+          "display_order": 66,
+          "group": "OTHER_TRANSACTION",
+          "region": "新竹市",
+          "district": "東區",
+          "title": "竹市東區臨路透天",
+          "community_name": "",
+          "product_type": "透天／別墅",
+          "date": "2026/10/17",
+          "price_wan": 4500.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "42.960",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹市東區民主路002-050號",
+          "floor_raw": "1-2/2樓",
+          "building_age_years": null,
+          "layout_raw": null,
+          "parking_raw": "無車位",
+          "listings": [],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S038",
+          "source_id": "S038",
+          "source_order": 38,
+          "display_order": 67,
+          "group": "OTHER_TRANSACTION",
+          "region": "新竹市",
+          "district": "北區",
+          "title": "光華稀有三房美寓",
+          "community_name": "",
+          "product_type": "公寓",
+          "date": "2026/10/17",
+          "price_wan": 626.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "19.980",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹市北區國華街052-100號",
+          "floor_raw": "3-3/5樓",
+          "building_age_years": 44.5,
+          "layout_raw": null,
+          "parking_raw": "無車位",
+          "listings": [],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S039",
+          "source_id": "S039",
+          "source_order": 39,
+          "display_order": 68,
+          "group": "OTHER_TRANSACTION",
+          "region": "新竹市",
+          "district": "東區",
+          "title": "清大將軍村『世紀鑫城』質感邊間高樓戶",
+          "community_name": "世紀鑫城世紀區",
+          "product_type": "辦公",
+          "date": "2026/10/17",
+          "price_wan": 2605.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "44.310",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹市東區金城三路001-049號",
+          "floor_raw": "11-11/15樓",
+          "building_age_years": 8.9,
+          "layout_raw": null,
+          "parking_raw": "有車位",
+          "listings": [],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S040",
+          "source_id": "S040",
+          "source_order": 40,
+          "display_order": 69,
+          "group": "OTHER_TRANSACTION",
+          "region": "新竹市",
+          "district": "北區",
+          "title": "【專】森林首席旁｜電梯美套房+大平車 | 衛浴窗",
+          "community_name": "",
+          "product_type": "類型待確認（社區名稱或住宅類型未確認）",
+          "date": "2026/10/17",
+          "price_wan": 586.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "25.460",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹市北區武陵路196巷1弄002-050號",
+          "floor_raw": "4-4/5樓",
+          "building_age_years": 35.0,
+          "layout_raw": null,
+          "parking_raw": "有車位",
+          "listings": [],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S041",
+          "source_id": "S041",
+          "source_order": 41,
+          "display_order": 70,
+          "group": "OTHER_TRANSACTION",
+          "region": "新竹縣其他地區",
+          "district": "湖口鄉",
+          "title": "湖口國小｜八德路旁臨路金透店《鄰近湖口老街商圈》",
+          "community_name": "",
+          "product_type": "透天／店面",
+          "date": "2026/10/17",
+          "price_wan": 1050.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "62.100",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹縣湖口鄉八德路二段101-149號",
+          "floor_raw": "1-3/3樓",
+          "building_age_years": null,
+          "layout_raw": null,
+          "parking_raw": "無車位",
+          "listings": [],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S044",
+          "source_id": "S044",
+          "source_order": 44,
+          "display_order": 71,
+          "group": "OTHER_TRANSACTION",
+          "region": "新竹縣其他地區",
+          "district": "竹東鎮",
+          "title": "園區三期6.7倍高公告持分徵收地",
+          "community_name": "",
+          "product_type": "土地",
+          "date": "2026/10/17",
+          "price_wan": 1800.0,
+          "areas": [
+            {
+              "label": "土地",
+              "value_text": "67.160",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹縣竹東鎮頭重埔段",
+          "floor_raw": null,
+          "building_age_years": null,
+          "layout_raw": null,
+          "parking_raw": null,
+          "listings": [],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S047",
+          "source_id": "S047",
+          "source_order": 47,
+          "display_order": 72,
+          "group": "OTHER_TRANSACTION",
+          "region": "新竹市",
+          "district": "北區",
+          "title": "市區面公園溫馨大四房",
+          "community_name": "",
+          "product_type": "類型待確認（社區名稱或住宅類型未確認）",
+          "date": "2026/10/17",
+          "price_wan": 2770.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "67.880",
+              "unit": "坪"
+            },
+            {
+              "label": "含車位",
+              "value_text": "21.190",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹市北區金雅東街002-050號",
+          "floor_raw": "3-3/12樓",
+          "building_age_years": 4.5,
+          "layout_raw": null,
+          "parking_raw": "有車位",
+          "listings": [],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S049",
+          "source_id": "S049",
+          "source_order": 49,
+          "display_order": 73,
+          "group": "OTHER_TRANSACTION",
+          "region": "新竹縣其他地區",
+          "district": "竹東鎮",
+          "title": "稀有【昌益環宇市】黃金十樓3室+B1大車位",
+          "community_name": "環宇市",
+          "product_type": "辦公",
+          "date": "2026/10/16",
+          "price_wan": 1680.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "45.990",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹縣竹東鎮光明路126巷65弄001-049號",
+          "floor_raw": "10-10/14樓",
+          "building_age_years": 11.3,
+          "layout_raw": null,
+          "parking_raw": "有車位",
+          "listings": [],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S058",
+          "source_id": "S058",
+          "source_order": 58,
+          "display_order": 74,
+          "group": "OTHER_TRANSACTION",
+          "region": "竹北市",
+          "district": "竹北市",
+          "title": "竹北道路用地",
+          "community_name": "",
+          "product_type": "土地",
+          "date": "2026/10/16",
+          "price_wan": 3506.0,
+          "areas": [
+            {
+              "label": "土地",
+              "value_text": "103.000",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹縣竹北市省道段",
+          "floor_raw": null,
+          "building_age_years": null,
+          "layout_raw": null,
+          "parking_raw": null,
+          "listings": [],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S060",
+          "source_id": "S060",
+          "source_order": 60,
+          "display_order": 75,
+          "group": "OTHER_TRANSACTION",
+          "region": "竹北市",
+          "district": "竹北市",
+          "title": "超便宜豐采520高樓層視野戶棟距佳",
+          "community_name": "",
+          "product_type": "類型待確認（住宅／預售狀態）",
+          "date": "2026/10/16",
+          "price_wan": 926.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "18.730",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹縣竹北市自強北路",
+          "floor_raw": "22-22/32樓",
+          "building_age_years": null,
+          "layout_raw": null,
+          "parking_raw": "無車位",
+          "listings": [],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S061",
+          "source_id": "S061",
+          "source_order": 61,
+          "display_order": 76,
+          "group": "OTHER_TRANSACTION",
+          "region": "竹南鎮",
+          "district": "竹南鎮",
+          "title": "【重劃區】大面寬雙車美透天，沉穩、內斂生活感十足",
+          "community_name": "單寧紅",
+          "product_type": "透天／別墅",
+          "date": "2026/10/16",
+          "price_wan": 2180.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "55.470",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "苗栗縣竹南鎮大埔三街195巷001-049號",
+          "floor_raw": "1-4/4樓",
+          "building_age_years": 2.9,
+          "layout_raw": null,
+          "parking_raw": "無車位",
+          "listings": [],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S063",
+          "source_id": "S063",
+          "source_order": 63,
+          "display_order": 77,
+          "group": "OTHER_TRANSACTION",
+          "region": "苗栗縣",
+          "district": "通霄鎮",
+          "title": "苗栗通霄｜綠意鄉村渡假風休閒木屋",
+          "community_name": "",
+          "product_type": "土地",
+          "date": "2026/10/15",
+          "price_wan": 688.0,
+          "areas": [
+            {
+              "label": "土地",
+              "value_text": "825.760",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "苗栗縣通霄鎮北勢窩段",
+          "floor_raw": null,
+          "building_age_years": null,
+          "layout_raw": null,
+          "parking_raw": null,
+          "listings": [],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S064",
+          "source_id": "S064",
+          "source_order": 64,
+          "display_order": 78,
+          "group": "OTHER_TRANSACTION",
+          "region": "桃園市",
+          "district": "平鎮",
+          "title": "平鎮天津街透天",
+          "community_name": "",
+          "product_type": "透天／別墅",
+          "date": "2026/10/15",
+          "price_wan": 1037.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "58.990",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "桃園市平鎮區天津街150巷13弄001-049號",
+          "floor_raw": "-1-2/2樓",
+          "building_age_years": 33.4,
+          "layout_raw": null,
+          "parking_raw": "無車位",
+          "listings": [],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S065",
+          "source_id": "S065",
+          "source_order": 65,
+          "display_order": 79,
+          "group": "OTHER_TRANSACTION",
+          "region": "新竹縣其他地區",
+          "district": "湖口鄉",
+          "title": "蘋果案件~北湖車站雙車位輕屋齡孝親別墅",
+          "community_name": "站前大時代-透天區",
+          "product_type": "透天／別墅",
+          "date": "2026/10/15",
+          "price_wan": 1190.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "36.350",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹縣湖口鄉嘉興路一段89巷001-049號",
+          "floor_raw": "1-3/3樓",
+          "building_age_years": 5.5,
+          "layout_raw": null,
+          "parking_raw": "無車位",
+          "listings": [],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S071",
+          "source_id": "S071",
+          "source_order": 71,
+          "display_order": 80,
+          "group": "OTHER_TRANSACTION",
+          "region": "新竹縣其他地區",
+          "district": "竹東鎮",
+          "title": "專任-竹科三期投資徵收田",
+          "community_name": "",
+          "product_type": "土地",
+          "date": "2026/10/15",
+          "price_wan": 680.0,
+          "areas": [
+            {
+              "label": "土地",
+              "value_text": "36.910",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹縣竹東鎮二重埔段",
+          "floor_raw": null,
+          "building_age_years": null,
+          "layout_raw": null,
+          "parking_raw": null,
+          "listings": [],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S072",
+          "source_id": "S072",
+          "source_order": 72,
+          "display_order": 81,
+          "group": "OTHER_TRANSACTION",
+          "region": "新竹縣其他地區",
+          "district": "芎林鄉",
+          "title": "芎林-文山路建地",
+          "community_name": "",
+          "product_type": "土地",
+          "date": "2026/10/15",
+          "price_wan": 1650.0,
+          "areas": [
+            {
+              "label": "土地",
+              "value_text": "35.090",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹縣芎林鄉鳳林段",
+          "floor_raw": null,
+          "building_age_years": null,
+          "layout_raw": null,
+          "parking_raw": null,
+          "listings": [],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S073",
+          "source_id": "S073",
+          "source_order": 73,
+          "display_order": 82,
+          "group": "OTHER_TRANSACTION",
+          "region": "新竹縣其他地區",
+          "district": "湖口鄉",
+          "title": "湖口工業區｜大地坪６套房臨路透店｜出價談~",
+          "community_name": "",
+          "product_type": "透天／店面",
+          "date": "2026/10/15",
+          "price_wan": 1445.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "77.870",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹縣湖口鄉仁樂路151-199號",
+          "floor_raw": "1-3/3樓",
+          "building_age_years": 21.3,
+          "layout_raw": null,
+          "parking_raw": "無車位",
+          "listings": [],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S076",
+          "source_id": "S076",
+          "source_order": 76,
+          "display_order": 83,
+          "group": "OTHER_TRANSACTION",
+          "region": "新竹市",
+          "district": "新竹市",
+          "title": "大遠百.城隍商圈商二美建地",
+          "community_name": "",
+          "product_type": "土地",
+          "date": "2026/10/14",
+          "price_wan": 554.0,
+          "areas": [
+            {
+              "label": "土地",
+              "value_text": "21.180",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹市新竹市南門段二小段",
+          "floor_raw": null,
+          "building_age_years": null,
+          "layout_raw": null,
+          "parking_raw": null,
+          "listings": [],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S077",
+          "source_id": "S077",
+          "source_order": 77,
+          "display_order": 84,
+          "group": "OTHER_TRANSACTION",
+          "region": "新竹市",
+          "district": "新竹市",
+          "title": "大遠百.城隍商圈商二美建地I",
+          "community_name": "",
+          "product_type": "土地",
+          "date": "2026/10/14",
+          "price_wan": 270.0,
+          "areas": [
+            {
+              "label": "土地",
+              "value_text": "3.230",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹市新竹市南門段二小段",
+          "floor_raw": null,
+          "building_age_years": null,
+          "layout_raw": null,
+          "parking_raw": null,
+          "listings": [],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S078",
+          "source_id": "S078",
+          "source_order": 78,
+          "display_order": 85,
+          "group": "OTHER_TRANSACTION",
+          "region": "新竹市",
+          "district": "新竹市",
+          "title": "大遠百.城隍商圈商二美建地II",
+          "community_name": "",
+          "product_type": "土地",
+          "date": "2026/10/14",
+          "price_wan": 500.0,
+          "areas": [
+            {
+              "label": "土地",
+              "value_text": "6.450",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹市新竹市南門段二小段",
+          "floor_raw": null,
+          "building_age_years": null,
+          "layout_raw": null,
+          "parking_raw": null,
+          "listings": [],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S079",
+          "source_id": "S079",
+          "source_order": 79,
+          "display_order": 86,
+          "group": "OTHER_TRANSACTION",
+          "region": "新竹市",
+          "district": "北區",
+          "title": "清大南院｜首購邊間明亮美三房《翻新屋況即可入住》",
+          "community_name": "",
+          "product_type": "類型待確認（社區名稱或住宅類型未確認）",
+          "date": "2026/10/14",
+          "price_wan": 530.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "25.130",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹市北區成德路102-150號",
+          "floor_raw": "3-3/5樓",
+          "building_age_years": 35.2,
+          "layout_raw": null,
+          "parking_raw": "無車位",
+          "listings": [],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S081",
+          "source_id": "S081",
+          "source_order": 81,
+          "display_order": 87,
+          "group": "OTHER_TRANSACTION",
+          "region": "苗栗縣",
+          "district": "造橋鄉",
+          "title": "苗栗縣造橋鄉大地坪農地臨路",
+          "community_name": "",
+          "product_type": "土地",
+          "date": "2026/10/14",
+          "price_wan": 380.0,
+          "areas": [
+            {
+              "label": "土地",
+              "value_text": "2534.860",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "苗栗縣造橋鄉大地坪農地臨路",
+          "floor_raw": null,
+          "building_age_years": null,
+          "layout_raw": null,
+          "parking_raw": null,
+          "listings": [],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S085",
+          "source_id": "S085",
+          "source_order": 85,
+          "display_order": 88,
+          "group": "OTHER_TRANSACTION",
+          "region": "新竹縣其他地區",
+          "district": "竹東鎮",
+          "title": "商圈田",
+          "community_name": "",
+          "product_type": "土地",
+          "date": "2026/10/14",
+          "price_wan": 2070.0,
+          "areas": [
+            {
+              "label": "土地",
+              "value_text": "0.000",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹縣竹東鎮柯子湖段",
+          "floor_raw": null,
+          "building_age_years": null,
+          "layout_raw": null,
+          "parking_raw": null,
+          "listings": [],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S088",
+          "source_id": "S088",
+          "source_order": 88,
+          "display_order": 89,
+          "group": "OTHER_TRANSACTION",
+          "region": "新竹市",
+          "district": "北區",
+          "title": "光華公道五大魯閣優仕明亮大三房附車位",
+          "community_name": "",
+          "product_type": "類型待確認（社區名稱或住宅類型未確認）",
+          "date": "2026/10/14",
+          "price_wan": 1200.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "39.460",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹市北區光華二街051-099號",
+          "floor_raw": "4-4/7樓",
+          "building_age_years": 29.3,
+          "layout_raw": null,
+          "parking_raw": "有車位",
+          "listings": [],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S089",
+          "source_id": "S089",
+          "source_order": 89,
+          "display_order": 90,
+          "group": "OTHER_TRANSACTION",
+          "region": "新竹市",
+          "district": "香山區",
+          "title": "最划算三房平車｜邊間三面採光｜雙衛浴開窗｜海景戶",
+          "community_name": "",
+          "product_type": "類型待確認（社區名稱或住宅類型未確認）",
+          "date": "2026/10/14",
+          "price_wan": 520.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "28.600",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹市香山區中華路四段451巷110弄002-050號",
+          "floor_raw": "5-5/5樓",
+          "building_age_years": 34.0,
+          "layout_raw": null,
+          "parking_raw": "有車位",
+          "listings": [],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S090",
+          "source_id": "S090",
+          "source_order": 90,
+          "display_order": 91,
+          "group": "OTHER_TRANSACTION",
+          "region": "新竹市",
+          "district": "北區",
+          "title": "愛世代｜絕美邊間明亮樓中樓《西門國小旁衛浴開窗》",
+          "community_name": "",
+          "product_type": "類型待確認（社區名稱或住宅類型未確認）",
+          "date": "2026/10/13",
+          "price_wan": 488.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "11.640",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹市北區北新街051-099號",
+          "floor_raw": "5-5/5樓",
+          "building_age_years": 19.6,
+          "layout_raw": null,
+          "parking_raw": "無車位",
+          "listings": [],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S091",
+          "source_id": "S091",
+          "source_order": 91,
+          "display_order": 92,
+          "group": "OTHER_TRANSACTION",
+          "region": "新北市",
+          "district": "板橋區",
+          "title": "新北板橋【忠順樂富】2+1房 平車",
+          "community_name": "忠順樂富",
+          "product_type": "類型待確認（住宅／預售狀態）",
+          "date": "2026/10/13",
+          "price_wan": 1550.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "36.230",
+              "unit": "坪"
+            },
+            {
+              "label": "含車位",
+              "value_text": "9.760",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新北市板橋區滿平街【忠順樂富】A3棟8樓",
+          "floor_raw": "8-8/14樓",
+          "building_age_years": null,
+          "layout_raw": null,
+          "parking_raw": "有車位",
+          "listings": [],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S094",
+          "source_id": "S094",
+          "source_order": 94,
+          "display_order": 93,
+          "group": "OTHER_TRANSACTION",
+          "region": "新竹縣其他地區",
+          "district": "北埔鄉",
+          "title": "北埔清幽美別墅",
+          "community_name": "",
+          "product_type": "透天／別墅",
+          "date": "2026/10/13",
+          "price_wan": 780.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "60.830",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹縣北埔鄉小分林002-050號",
+          "floor_raw": "1-4/4樓",
+          "building_age_years": 29.4,
+          "layout_raw": null,
+          "parking_raw": "無車位",
+          "listings": [],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S096",
+          "source_id": "S096",
+          "source_order": 96,
+          "display_order": 94,
+          "group": "OTHER_TRANSACTION",
+          "region": "頭份市",
+          "district": "頭份市",
+          "title": "頭份濫坑近中油產業道路大面積農牧用地A",
+          "community_name": "",
+          "product_type": "土地",
+          "date": "2026/10/13",
+          "price_wan": 220.0,
+          "areas": [
+            {
+              "label": "土地",
+              "value_text": "4714.970",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "苗栗縣頭份市濫坑段",
+          "floor_raw": null,
+          "building_age_years": null,
+          "layout_raw": null,
+          "parking_raw": null,
+          "listings": [],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S099",
+          "source_id": "S099",
+          "source_order": 99,
+          "display_order": 95,
+          "group": "OTHER_TRANSACTION",
+          "region": "新竹縣其他地區",
+          "district": "竹東鎮",
+          "title": "專任-竹東長春路靜巷懷舊透天",
+          "community_name": "",
+          "product_type": "透天／別墅",
+          "date": "2026/10/13",
+          "price_wan": 530.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "66.570",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹縣竹東鎮長春路一段287巷001-049號",
+          "floor_raw": "1-4/4樓",
+          "building_age_years": 42.7,
+          "layout_raw": null,
+          "parking_raw": "無車位",
+          "listings": [],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S101",
+          "source_id": "S101",
+          "source_order": 101,
+          "display_order": 96,
+          "group": "OTHER_TRANSACTION",
+          "region": "竹北市",
+          "district": "竹北市",
+          "title": "高鐵區全新綠景大兩房︱樹稍景觀露台戶",
+          "community_name": "",
+          "product_type": "類型待確認（社區名稱或住宅類型未確認）",
+          "date": "2026/10/13",
+          "price_wan": 1858.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "26.650",
+              "unit": "坪"
+            },
+            {
+              "label": "含車位",
+              "value_text": "1.150",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹縣竹北市復興三路一段052-100號",
+          "floor_raw": "2-2/5樓",
+          "building_age_years": 1.8,
+          "layout_raw": null,
+          "parking_raw": "有車位",
+          "listings": [],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S103",
+          "source_id": "S103",
+          "source_order": 103,
+          "display_order": 97,
+          "group": "OTHER_TRANSACTION",
+          "region": "新竹市",
+          "district": "北區",
+          "title": "市區三房車位",
+          "community_name": "",
+          "product_type": "類型待確認（社區名稱或住宅類型未確認）",
+          "date": "2026/10/13",
+          "price_wan": 1050.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "45.910",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹市北區竹光路001-049號",
+          "floor_raw": "4-4/14樓",
+          "building_age_years": 31.9,
+          "layout_raw": null,
+          "parking_raw": "有車位",
+          "listings": [],
+          "availability_note": null
+        },
+        {
+          "transaction_id": "housing_20261020_0604b1d80e_S105",
+          "source_id": "S105",
+          "source_order": 105,
+          "display_order": 98,
+          "group": "OTHER_TRANSACTION",
+          "region": "新竹縣其他地區",
+          "district": "竹東鎮",
+          "title": "竹東下公館老宅免千萬透天",
+          "community_name": "",
+          "product_type": "透天／別墅",
+          "date": "2026/10/13",
+          "price_wan": 580.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "29.060",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹縣竹東鎮安東路43巷002-050號",
+          "floor_raw": "1-2/2樓",
+          "building_age_years": 48.4,
+          "layout_raw": null,
+          "parking_raw": "有車位",
+          "listings": [],
+          "availability_note": null
+        }
+      ],
+      "final_verified_at": "2026-10-19T16:58:31.954Z",
+      "version_time": "2026-10-19T16:59:03.990570+00:00",
+      "manifest_hash": "634d45a79821b58ade71e12a40d14cc1510afaafbe8ce2b3862e72415f2ae909"
+    },
     {
       "run_id": "housing_20261013_a67a003a31",
       "stage": "FINAL",
@@ -5946,6 +9333,13 @@
   "retention_limit": 4,
   "release_manifest": [
     {
+      "run_id": "housing_20261020_0604b1d80e",
+      "period_start": "2026/10/13",
+      "period_end": "2026/10/19",
+      "manifest_hash": "634d45a79821b58ade71e12a40d14cc1510afaafbe8ce2b3862e72415f2ae909",
+      "final_verified_at": "2026-10-19T16:58:31.954Z"
+    },
+    {
       "run_id": "housing_20261013_a67a003a31",
       "period_start": "2026/10/06",
       "period_end": "2026/10/12",
@@ -5960,5 +9354,5 @@
       "final_verified_at": "2026-10-06T10:43:09+08:00"
     }
   ],
-  "release_hash": "b10bf1e2c4da664b458b89c657f612a9b7bd98ff655e3d014f6a334ff7ab6f51"
+  "release_hash": "add6c3add647f40dd41dc3c5ee7297d23833e9422b58450d7b117a883c54d089"
 }
