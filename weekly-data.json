@@ -11930,5 +11930,2128 @@
       "final_verified_at": "2026-10-06T10:43:09+08:00"
     }
   ],
-  "release_hash": "620f4eee794f2a65a47609b8b4d7baea10d382d21b3dec51222bdfdceeec97cf"
+  "current_link_audit": {
+    "run_id": "link_recheck_20261027",
+    "requested_scope": "使用者明確要求每個連結重新QA，涵蓋目前四週；保留歷史行情快照，另加當前連結狀態",
+    "started_at": "2026-10-26T17:07:11.068Z",
+    "last_verified_at": "2026-10-26T17:15:59.759Z",
+    "counts": {
+      "unique_urls": 124,
+      "detail_pages_attempted": 82,
+      "not_opened_after_platform_stop": 42,
+      "PASS": 72,
+      "FAIL": 6,
+      "UNVERIFIED": 46
+    },
+    "platform_status": {
+      "buy.housefun.com.tw": {
+        "status": "PLATFORM_UNAVAILABLE",
+        "normal_recovery_attempts": 1,
+        "evidence": "連續3個不同物件403；重新載入仍403；沒有據此宣稱已成交"
+      }
+    },
+    "records": [
+      {
+        "url": "https://buy.yungching.com.tw/house/7551907",
+        "status": "PASS",
+        "reason_code": "ACTIVE_DETAIL_CONFIRMED",
+        "reason": "單一原物件主頁、總價、建物總坪數及聯絡／預約均可見，無主物件已售下架提示",
+        "checked_at": "2026-10-26T17:07:11.068Z",
+        "attempted": true,
+        "landed_url": "https://buy.yungching.com.tw/house/7551907",
+        "current_values": {
+          "price_wan": 490.0,
+          "total_building_ping": 13.01,
+          "floor": "11/14樓",
+          "layout": "1房1廳1衛"
+        },
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261027_005ba34571"
+        ]
+      },
+      {
+        "url": "https://buy.yungching.com.tw/house/7283511",
+        "status": "PASS",
+        "reason_code": "ACTIVE_DETAIL_CONFIRMED",
+        "reason": "單一原物件主頁、總價、建物總坪數及聯絡／預約均可見，無主物件已售下架提示",
+        "checked_at": "2026-10-26T17:07:12.904Z",
+        "attempted": true,
+        "landed_url": "https://buy.yungching.com.tw/house/7283511",
+        "current_values": {
+          "price_wan": 1880.0,
+          "total_building_ping": 41.85,
+          "floor": "2/15樓",
+          "layout": "3房2廳2衛"
+        },
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261027_005ba34571"
+        ]
+      },
+      {
+        "url": "https://community.rakuya.com.tw/59019/sell/info?ehid=06eee6344852518&from=communitySearchSell",
+        "status": "PASS",
+        "reason_code": "ACTIVE_DETAIL_CONFIRMED",
+        "reason": "單一原物件主頁、總價、建物總坪數及聯絡／預約均可見，無主物件已售下架提示",
+        "checked_at": "2026-10-26T17:07:22.278Z",
+        "attempted": true,
+        "landed_url": "https://community.rakuya.com.tw/59019/sell/info?ehid=06eee6344852518&from=communitySearchSell",
+        "current_values": {
+          "price_wan": 1480.0,
+          "total_building_ping": 49.82,
+          "floor": "8/15樓",
+          "layout": "3房2廳2衛"
+        },
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261027_005ba34571"
+        ]
+      },
+      {
+        "url": "https://community.rakuya.com.tw/50738/sell/info?ehid=0a13b7329021799&from=communitySearchSell",
+        "status": "PASS",
+        "reason_code": "ACTIVE_DETAIL_CONFIRMED",
+        "reason": "單一原物件主頁、總價、建物總坪數及聯絡／預約均可見，無主物件已售下架提示",
+        "checked_at": "2026-10-26T17:07:36.408Z",
+        "attempted": true,
+        "landed_url": "https://community.rakuya.com.tw/50738/sell/info?ehid=0a13b7329021799&from=communitySearchSell",
+        "current_values": {
+          "price_wan": 378.0,
+          "total_building_ping": 11.05,
+          "floor": "5/8樓",
+          "layout": "1房1廳1衛"
+        },
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261027_005ba34571"
+        ]
+      },
+      {
+        "url": "https://community.rakuya.com.tw/34184/sell/info?ehid=063cb7338222127&from=communitySearchSell",
+        "status": "PASS",
+        "reason_code": "ACTIVE_DETAIL_CONFIRMED",
+        "reason": "單一原物件主頁、總價、建物總坪數及聯絡／預約均可見，無主物件已售下架提示",
+        "checked_at": "2026-10-26T17:07:38.793Z",
+        "attempted": true,
+        "landed_url": "https://community.rakuya.com.tw/34184/sell/info?ehid=063cb7338222127&from=communitySearchSell",
+        "current_values": {
+          "price_wan": 1498.0,
+          "total_building_ping": 39.44,
+          "floor": "3/7樓",
+          "layout": "3房2廳2衛"
+        },
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261027_005ba34571"
+        ]
+      },
+      {
+        "url": "https://buy.yungching.com.tw/house/7128366",
+        "status": "PASS",
+        "reason_code": "ACTIVE_DETAIL_CONFIRMED",
+        "reason": "單一原物件主頁、總價、建物總坪數及聯絡／預約均可見，無主物件已售下架提示",
+        "checked_at": "2026-10-26T17:07:40.246Z",
+        "attempted": true,
+        "landed_url": "https://buy.yungching.com.tw/house/7128366",
+        "current_values": {
+          "price_wan": 3488.0,
+          "total_building_ping": 59.51,
+          "floor": "4/22樓",
+          "layout": "2房2廳2衛"
+        },
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261027_005ba34571"
+        ]
+      },
+      {
+        "url": "https://buy.yungching.com.tw/house/7374305",
+        "status": "PASS",
+        "reason_code": "ACTIVE_DETAIL_CONFIRMED",
+        "reason": "單一原物件主頁、總價、建物總坪數及聯絡／預約均可見，無主物件已售下架提示",
+        "checked_at": "2026-10-26T17:07:41.993Z",
+        "attempted": true,
+        "landed_url": "https://buy.yungching.com.tw/house/7374305",
+        "current_values": {
+          "price_wan": 450.0,
+          "total_building_ping": 13.56,
+          "floor": "6/11樓",
+          "layout": "1房1廳1衛"
+        },
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261027_005ba34571"
+        ]
+      },
+      {
+        "url": "https://buy.yungching.com.tw/house/7400644",
+        "status": "PASS",
+        "reason_code": "ACTIVE_DETAIL_CONFIRMED",
+        "reason": "單一原物件主頁、總價、建物總坪數及聯絡／預約均可見，無主物件已售下架提示",
+        "checked_at": "2026-10-26T17:07:42.960Z",
+        "attempted": true,
+        "landed_url": "https://buy.yungching.com.tw/house/7400644",
+        "current_values": {
+          "price_wan": 1688.0,
+          "total_building_ping": 32.16,
+          "floor": "23/23樓",
+          "layout": "2房1廳1衛"
+        },
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261027_005ba34571"
+        ]
+      },
+      {
+        "url": "https://buy.yungching.com.tw/house/7394223",
+        "status": "PASS",
+        "reason_code": "ACTIVE_DETAIL_CONFIRMED",
+        "reason": "單一原物件主頁、總價、建物總坪數及聯絡／預約均可見，無主物件已售下架提示",
+        "checked_at": "2026-10-26T17:07:44.677Z",
+        "attempted": true,
+        "landed_url": "https://buy.yungching.com.tw/house/7394223",
+        "current_values": {
+          "price_wan": 1898.0,
+          "total_building_ping": 33.77,
+          "floor": "6/15樓",
+          "layout": "2房2廳1衛"
+        },
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261027_005ba34571"
+        ]
+      },
+      {
+        "url": "https://www.sinyi.com.tw/buy/house/3299ZU",
+        "status": "PASS",
+        "reason_code": "ACTIVE_DETAIL_CONFIRMED",
+        "reason": "單一原物件主頁、總價、建物總坪數及聯絡／預約均可見，無主物件已售下架提示",
+        "checked_at": "2026-10-26T17:07:59.746Z",
+        "attempted": true,
+        "landed_url": "https://www.sinyi.com.tw/buy/house/3299ZU",
+        "current_values": {
+          "price_wan": 3968.0,
+          "total_building_ping": 69.39,
+          "floor": "12/24樓",
+          "layout": "4房2廳2衛"
+        },
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261027_005ba34571"
+        ]
+      },
+      {
+        "url": "https://buy.yungching.com.tw/house/7443768",
+        "status": "PASS",
+        "reason_code": "ACTIVE_DETAIL_CONFIRMED",
+        "reason": "單一原物件主頁、總價、建物總坪數及聯絡／預約均可見，無主物件已售下架提示",
+        "checked_at": "2026-10-26T17:08:01.523Z",
+        "attempted": true,
+        "landed_url": "https://buy.yungching.com.tw/house/7443768",
+        "current_values": {
+          "price_wan": 1988.0,
+          "total_building_ping": 30.01,
+          "floor": "2/14樓",
+          "layout": "1房1廳1衛"
+        },
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261027_005ba34571"
+        ]
+      },
+      {
+        "url": "https://community.rakuya.com.tw/58952/sell/info?ehid=0d9e6534668979e&from=communitySearchSell",
+        "status": "PASS",
+        "reason_code": "ACTIVE_DETAIL_CONFIRMED",
+        "reason": "單一原物件主頁、總價、建物總坪數及聯絡／預約均可見，無主物件已售下架提示",
+        "checked_at": "2026-10-26T17:08:05.147Z",
+        "attempted": true,
+        "landed_url": "https://community.rakuya.com.tw/58952/sell/info?ehid=0d9e6534668979e&from=communitySearchSell",
+        "current_values": {
+          "price_wan": 2698.0,
+          "total_building_ping": 48.1,
+          "floor": "15/21樓",
+          "layout": "3房2廳2衛"
+        },
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261027_005ba34571"
+        ]
+      },
+      {
+        "url": "https://buy.yungching.com.tw/house/7515346",
+        "status": "PASS",
+        "reason_code": "ACTIVE_DETAIL_CONFIRMED",
+        "reason": "單一原物件主頁、總價、建物總坪數及聯絡／預約均可見，無主物件已售下架提示",
+        "checked_at": "2026-10-26T17:08:06.641Z",
+        "attempted": true,
+        "landed_url": "https://buy.yungching.com.tw/house/7515346",
+        "current_values": {
+          "price_wan": 2398.0,
+          "total_building_ping": 48.88,
+          "floor": "6/19樓",
+          "layout": "3房2廳2衛"
+        },
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261027_005ba34571"
+        ]
+      },
+      {
+        "url": "https://buy.yungching.com.tw/house/7490151",
+        "status": "PASS",
+        "reason_code": "ACTIVE_DETAIL_CONFIRMED",
+        "reason": "單一原物件主頁、總價、建物總坪數及聯絡／預約均可見，無主物件已售下架提示",
+        "checked_at": "2026-10-26T17:08:08.423Z",
+        "attempted": true,
+        "landed_url": "https://buy.yungching.com.tw/house/7490151",
+        "current_values": {
+          "price_wan": 988.0,
+          "total_building_ping": 29.58,
+          "floor": "5/10樓",
+          "layout": "3房2廳2衛"
+        },
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261027_005ba34571"
+        ]
+      },
+      {
+        "url": "https://community.rakuya.com.tw/26745/sell/info?ehid=060530355135881&from=communitySearchSell",
+        "status": "PASS",
+        "reason_code": "ACTIVE_DETAIL_CONFIRMED",
+        "reason": "單一原物件主頁、總價、建物總坪數及聯絡／預約均可見，無主物件已售下架提示",
+        "checked_at": "2026-10-26T17:08:11.587Z",
+        "attempted": true,
+        "landed_url": "https://community.rakuya.com.tw/26745/sell/info?ehid=060530355135881&from=communitySearchSell",
+        "current_values": {
+          "price_wan": 2658.0,
+          "total_building_ping": 51.29,
+          "floor": "21/24樓",
+          "layout": "3房2廳2衛"
+        },
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261027_005ba34571"
+        ]
+      },
+      {
+        "url": "https://buy.yungching.com.tw/house/7264306",
+        "status": "PASS",
+        "reason_code": "ACTIVE_DETAIL_CONFIRMED",
+        "reason": "單一原物件主頁、總價、建物總坪數及聯絡／預約均可見，無主物件已售下架提示",
+        "checked_at": "2026-10-26T17:08:13.679Z",
+        "attempted": true,
+        "landed_url": "https://buy.yungching.com.tw/house/7264306",
+        "current_values": {
+          "price_wan": 2566.0,
+          "total_building_ping": 53.17,
+          "floor": "21/23樓",
+          "layout": "2房2廳2衛"
+        },
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261027_005ba34571"
+        ]
+      },
+      {
+        "url": "https://buy.houseprice.tw/house/37681328_2066064",
+        "status": "PASS",
+        "reason_code": "ACTIVE_DETAIL_CONFIRMED",
+        "reason": "單一原物件主頁、總價、建物總坪數及聯絡／預約均可見，無主物件已售下架提示",
+        "checked_at": "2026-10-26T17:08:20.530Z",
+        "attempted": true,
+        "landed_url": "https://buy.houseprice.tw/house/37681328_2066064",
+        "current_values": {
+          "price_wan": 1538.0,
+          "total_building_ping": 37.47,
+          "floor": "7/7樓",
+          "layout": "2房2廳2衛"
+        },
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261027_005ba34571"
+        ]
+      },
+      {
+        "url": "https://buy.yungching.com.tw/house/7556955",
+        "status": "PASS",
+        "reason_code": "ACTIVE_DETAIL_CONFIRMED",
+        "reason": "單一原物件主頁、總價、建物總坪數及聯絡／預約均可見，無主物件已售下架提示",
+        "checked_at": "2026-10-26T17:08:32.229Z",
+        "attempted": true,
+        "landed_url": "https://buy.yungching.com.tw/house/7556955",
+        "current_values": {
+          "price_wan": 2198.0,
+          "total_building_ping": 47.0,
+          "floor": "14/14樓",
+          "layout": "3房2廳2衛"
+        },
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261027_005ba34571"
+        ]
+      },
+      {
+        "url": "https://buy.yungching.com.tw/house/7477221",
+        "status": "PASS",
+        "reason_code": "ACTIVE_DETAIL_CONFIRMED",
+        "reason": "單一原物件主頁、總價、建物總坪數及聯絡／預約均可見，無主物件已售下架提示",
+        "checked_at": "2026-10-26T17:08:34.009Z",
+        "attempted": true,
+        "landed_url": "https://buy.yungching.com.tw/house/7477221",
+        "current_values": {
+          "price_wan": 1498.0,
+          "total_building_ping": 47.4,
+          "floor": "3/13樓",
+          "layout": "3房2廳2衛"
+        },
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261027_005ba34571"
+        ]
+      },
+      {
+        "url": "https://buy.yungching.com.tw/house/7363337",
+        "status": "PASS",
+        "reason_code": "ACTIVE_DETAIL_CONFIRMED",
+        "reason": "單一原物件主頁、總價、建物總坪數及聯絡／預約均可見，無主物件已售下架提示",
+        "checked_at": "2026-10-26T17:08:35.374Z",
+        "attempted": true,
+        "landed_url": "https://buy.yungching.com.tw/house/7363337",
+        "current_values": {
+          "price_wan": 1398.0,
+          "total_building_ping": 42.26,
+          "floor": "1/5樓",
+          "layout": "3房2廳2衛"
+        },
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261027_005ba34571"
+        ]
+      },
+      {
+        "url": "https://buy.yungching.com.tw/house/7211008",
+        "status": "PASS",
+        "reason_code": "ACTIVE_DETAIL_CONFIRMED",
+        "reason": "單一原物件主頁、總價、建物總坪數及聯絡／預約均可見，無主物件已售下架提示",
+        "checked_at": "2026-10-26T17:08:37.379Z",
+        "attempted": true,
+        "landed_url": "https://buy.yungching.com.tw/house/7211008",
+        "current_values": {
+          "price_wan": 1438.0,
+          "total_building_ping": 35.52,
+          "floor": "5/15樓",
+          "layout": "2房2廳1衛"
+        },
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261027_005ba34571"
+        ]
+      },
+      {
+        "url": "https://buy.yungching.com.tw/house/7117293",
+        "status": "PASS",
+        "reason_code": "ACTIVE_DETAIL_CONFIRMED",
+        "reason": "單一原物件主頁、總價、建物總坪數及聯絡／預約均可見，無主物件已售下架提示",
+        "checked_at": "2026-10-26T17:08:38.962Z",
+        "attempted": true,
+        "landed_url": "https://buy.yungching.com.tw/house/7117293",
+        "current_values": {
+          "price_wan": 1880.0,
+          "total_building_ping": 46.68,
+          "floor": "14/14樓",
+          "layout": "3房2廳2衛"
+        },
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261027_005ba34571"
+        ]
+      },
+      {
+        "url": "https://buy.yungching.com.tw/house/7552748",
+        "status": "PASS",
+        "reason_code": "ACTIVE_DETAIL_CONFIRMED",
+        "reason": "單一原物件主頁、總價、建物總坪數及聯絡／預約均可見，無主物件已售下架提示",
+        "checked_at": "2026-10-26T17:08:40.343Z",
+        "attempted": true,
+        "landed_url": "https://buy.yungching.com.tw/house/7552748",
+        "current_values": {
+          "price_wan": 1758.0,
+          "total_building_ping": 50.76,
+          "floor": "7/11樓",
+          "layout": "3房2廳2衛"
+        },
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261027_005ba34571"
+        ]
+      },
+      {
+        "url": "https://community.rakuya.com.tw/42788/sell/info?ehid=04182a31656659a&from=communitySearchSell",
+        "status": "PASS",
+        "reason_code": "ACTIVE_DETAIL_CONFIRMED",
+        "reason": "單一原物件主頁、總價、建物總坪數及聯絡／預約均可見，無主物件已售下架提示",
+        "checked_at": "2026-10-26T17:08:43.314Z",
+        "attempted": true,
+        "landed_url": "https://community.rakuya.com.tw/42788/sell/info?ehid=04182a31656659a&from=communitySearchSell",
+        "current_values": {
+          "price_wan": 1188.0,
+          "total_building_ping": 48.83,
+          "floor": "12/14樓",
+          "layout": "3房2廳2衛"
+        },
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261027_005ba34571"
+        ]
+      },
+      {
+        "url": "https://community.rakuya.com.tw/53154/sell/info?ehid=04c0d035069819b&from=communitySearchSell",
+        "status": "PASS",
+        "reason_code": "ACTIVE_DETAIL_CONFIRMED",
+        "reason": "單一原物件主頁、總價、建物總坪數及聯絡／預約均可見，無主物件已售下架提示",
+        "checked_at": "2026-10-26T17:08:45.897Z",
+        "attempted": true,
+        "landed_url": "https://community.rakuya.com.tw/53154/sell/info?ehid=04c0d035069819b&from=communitySearchSell",
+        "current_values": {
+          "price_wan": 1258.0,
+          "total_building_ping": 35.26,
+          "floor": "4/15樓",
+          "layout": "2房2廳1衛"
+        },
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261027_005ba34571"
+        ]
+      },
+      {
+        "url": "https://buy.housefun.com.tw/Buy/house/7127157/",
+        "status": "PASS",
+        "reason_code": "ACTIVE_DETAIL_CONFIRMED",
+        "reason": "單一原物件主頁、總價、建物總坪數及聯絡／預約均可見，無主物件已售下架提示",
+        "checked_at": "2026-10-26T17:10:04.953Z",
+        "attempted": true,
+        "landed_url": "https://buy.housefun.com.tw/Buy/house/7127157/",
+        "current_values": {
+          "price_wan": 3128.0,
+          "total_building_ping": 46.77,
+          "floor": "6/15樓",
+          "layout": "3房(室)2廳2衛"
+        },
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261020_0604b1d80e"
+        ]
+      },
+      {
+        "url": "https://buy.housefun.com.tw/Buy/house/7122673/",
+        "status": "PASS",
+        "reason_code": "ACTIVE_DETAIL_CONFIRMED",
+        "reason": "單一原物件主頁、總價、建物總坪數及聯絡／預約均可見，無主物件已售下架提示",
+        "checked_at": "2026-10-26T17:10:06.211Z",
+        "attempted": true,
+        "landed_url": "https://buy.housefun.com.tw/Buy/house/7122673/",
+        "current_values": {
+          "price_wan": 1988.0,
+          "total_building_ping": 33.97,
+          "floor": "23/24樓",
+          "layout": "2房(室)2廳1衛"
+        },
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261020_0604b1d80e"
+        ]
+      },
+      {
+        "url": "https://buy.housefun.com.tw/Buy/house/7124353/",
+        "status": "PASS",
+        "reason_code": "ACTIVE_DETAIL_CONFIRMED",
+        "reason": "單一原物件主頁、總價、建物總坪數及聯絡／預約均可見，無主物件已售下架提示",
+        "checked_at": "2026-10-26T17:10:07.652Z",
+        "attempted": true,
+        "landed_url": "https://buy.housefun.com.tw/Buy/house/7124353/",
+        "current_values": {
+          "price_wan": 639.0,
+          "total_building_ping": 8.17,
+          "floor": "5/6樓",
+          "layout": "1房(室)1廳1衛"
+        },
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261020_0604b1d80e"
+        ]
+      },
+      {
+        "url": "https://community.rakuya.com.tw/50695/sell/info?ehid=08124135808798b&from=communitySearchSell",
+        "status": "PASS",
+        "reason_code": "ACTIVE_DETAIL_CONFIRMED",
+        "reason": "單一原物件主頁、總價、建物總坪數及聯絡／預約均可見，無主物件已售下架提示",
+        "checked_at": "2026-10-26T17:09:02.439Z",
+        "attempted": true,
+        "landed_url": "https://community.rakuya.com.tw/50695/sell/info?ehid=08124135808798b&from=communitySearchSell",
+        "current_values": {
+          "price_wan": 1498,
+          "total_building_ping": 32.89,
+          "floor": "11/13樓",
+          "layout": "2房2廳1衛"
+        },
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261020_0604b1d80e"
+        ]
+      },
+      {
+        "url": "https://buy.housefun.com.tw/Buy/house/7109083/",
+        "status": "PASS",
+        "reason_code": "ACTIVE_DETAIL_CONFIRMED",
+        "reason": "單一原物件主頁、總價、建物總坪數及聯絡／預約均可見，無主物件已售下架提示",
+        "checked_at": "2026-10-26T17:09:04.696Z",
+        "attempted": true,
+        "landed_url": "https://buy.housefun.com.tw/Buy/house/7109083/",
+        "current_values": {
+          "price_wan": 2188.0,
+          "total_building_ping": 31.69,
+          "floor": "21/29樓",
+          "layout": "2房(室)2廳1衛"
+        },
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261020_0604b1d80e"
+        ]
+      },
+      {
+        "url": "https://buy.housefun.com.tw/Buy/house/7114045/",
+        "status": "PASS",
+        "reason_code": "ACTIVE_DETAIL_CONFIRMED",
+        "reason": "單一原物件主頁、總價、建物總坪數及聯絡／預約均可見，無主物件已售下架提示",
+        "checked_at": "2026-10-26T17:09:06.910Z",
+        "attempted": true,
+        "landed_url": "https://buy.housefun.com.tw/Buy/house/7114045/",
+        "current_values": {
+          "price_wan": 1098.0,
+          "total_building_ping": 35.61,
+          "floor": "7/14樓",
+          "layout": "1房(室)1廳1衛"
+        },
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261020_0604b1d80e"
+        ]
+      },
+      {
+        "url": "https://buy.housefun.com.tw/Buy/house/7005600/",
+        "status": "PASS",
+        "reason_code": "ACTIVE_DETAIL_CONFIRMED",
+        "reason": "單一原物件主頁、總價、建物總坪數及聯絡／預約均可見，無主物件已售下架提示",
+        "checked_at": "2026-10-26T17:09:10.106Z",
+        "attempted": true,
+        "landed_url": "https://buy.housefun.com.tw/Buy/house/7005600/",
+        "current_values": {
+          "price_wan": 1898.0,
+          "total_building_ping": 36.85,
+          "floor": "12/13樓",
+          "layout": "2房(室)2廳1衛"
+        },
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261020_0604b1d80e"
+        ]
+      },
+      {
+        "url": "https://buy.housefun.com.tw/Buy/house/7117707/",
+        "status": "PASS",
+        "reason_code": "ACTIVE_DETAIL_CONFIRMED",
+        "reason": "單一原物件主頁、總價、建物總坪數及聯絡／預約均可見，無主物件已售下架提示",
+        "checked_at": "2026-10-26T17:09:11.810Z",
+        "attempted": true,
+        "landed_url": "https://buy.housefun.com.tw/Buy/house/7117707/",
+        "current_values": {
+          "price_wan": 1788.0,
+          "total_building_ping": 52.74,
+          "floor": "8/15樓",
+          "layout": "3房(室)2廳2衛"
+        },
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261020_0604b1d80e"
+        ]
+      },
+      {
+        "url": "https://buy.housefun.com.tw/Buy/house/6740450/",
+        "status": "PASS",
+        "reason_code": "ACTIVE_DETAIL_CONFIRMED",
+        "reason": "單一原物件主頁、總價、建物總坪數及聯絡／預約均可見，無主物件已售下架提示",
+        "checked_at": "2026-10-26T17:10:09.337Z",
+        "attempted": true,
+        "landed_url": "https://buy.housefun.com.tw/Buy/house/6740450/",
+        "current_values": {
+          "price_wan": 2550.0,
+          "total_building_ping": 45.75,
+          "floor": "13/14樓",
+          "layout": "2房(室)2廳2衛"
+        },
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261020_0604b1d80e"
+        ]
+      },
+      {
+        "url": "https://buy.housefun.com.tw/Buy/house/7113250/",
+        "status": "PASS",
+        "reason_code": "ACTIVE_DETAIL_CONFIRMED",
+        "reason": "單一原物件主頁、總價、建物總坪數及聯絡／預約均可見，無主物件已售下架提示",
+        "checked_at": "2026-10-26T17:10:10.961Z",
+        "attempted": true,
+        "landed_url": "https://buy.housefun.com.tw/Buy/house/7113250/",
+        "current_values": {
+          "price_wan": 980.0,
+          "total_building_ping": 35.1,
+          "floor": "12/14樓",
+          "layout": "3房(室)2廳2衛"
+        },
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261020_0604b1d80e"
+        ]
+      },
+      {
+        "url": "https://buy.housefun.com.tw/Buy/house/7053093/",
+        "status": "PASS",
+        "reason_code": "ACTIVE_DETAIL_CONFIRMED",
+        "reason": "單一原物件主頁、總價、建物總坪數及聯絡／預約均可見，無主物件已售下架提示",
+        "checked_at": "2026-10-26T17:10:13.408Z",
+        "attempted": true,
+        "landed_url": "https://buy.housefun.com.tw/Buy/house/7053093/",
+        "current_values": {
+          "price_wan": 2288.0,
+          "total_building_ping": 55.07,
+          "floor": "2/14樓",
+          "layout": "3房(室)2廳2衛"
+        },
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261020_0604b1d80e"
+        ]
+      },
+      {
+        "url": "https://buy.housefun.com.tw/Buy/house/7067404/",
+        "status": "PASS",
+        "reason_code": "ACTIVE_DETAIL_CONFIRMED",
+        "reason": "單一原物件主頁、總價、建物總坪數及聯絡／預約均可見，無主物件已售下架提示",
+        "checked_at": "2026-10-26T17:10:15.869Z",
+        "attempted": true,
+        "landed_url": "https://buy.housefun.com.tw/Buy/house/7067404/",
+        "current_values": {
+          "price_wan": 3580.0,
+          "total_building_ping": 76.07,
+          "floor": "9/19樓",
+          "layout": "3房(室)2廳2衛"
+        },
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261020_0604b1d80e"
+        ]
+      },
+      {
+        "url": "https://buy.housefun.com.tw/Buy/house/7028099/",
+        "status": "PASS",
+        "reason_code": "ACTIVE_DETAIL_CONFIRMED",
+        "reason": "單一原物件主頁、總價、建物總坪數及聯絡／預約均可見，無主物件已售下架提示",
+        "checked_at": "2026-10-26T17:10:17.764Z",
+        "attempted": true,
+        "landed_url": "https://buy.housefun.com.tw/Buy/house/7028099/",
+        "current_values": {
+          "price_wan": 3280.0,
+          "total_building_ping": 67.88,
+          "floor": "13/14樓",
+          "layout": "3房(室)2廳2衛"
+        },
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261020_0604b1d80e"
+        ]
+      },
+      {
+        "url": "https://buy.housefun.com.tw/Buy/house/7126844/",
+        "status": "PASS",
+        "reason_code": "ACTIVE_DETAIL_CONFIRMED",
+        "reason": "單一原物件主頁、總價、建物總坪數及聯絡／預約均可見，無主物件已售下架提示",
+        "checked_at": "2026-10-26T17:10:43.786Z",
+        "attempted": true,
+        "landed_url": "https://buy.housefun.com.tw/Buy/house/7126844/",
+        "current_values": {
+          "price_wan": 1988.0,
+          "total_building_ping": 37.82,
+          "floor": "16/27樓",
+          "layout": "2房(室)2廳1衛"
+        },
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261020_0604b1d80e"
+        ]
+      },
+      {
+        "url": "https://buy.housefun.com.tw/Buy/house/7062503/",
+        "status": "PASS",
+        "reason_code": "ACTIVE_DETAIL_CONFIRMED",
+        "reason": "單一原物件主頁、總價、建物總坪數及聯絡／預約均可見，無主物件已售下架提示",
+        "checked_at": "2026-10-26T17:10:46.980Z",
+        "attempted": true,
+        "landed_url": "https://buy.housefun.com.tw/Buy/house/7062503/",
+        "current_values": {
+          "price_wan": 2988.0,
+          "total_building_ping": 51.79,
+          "floor": "6/13樓",
+          "layout": "3房(室)2廳2衛"
+        },
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261020_0604b1d80e"
+        ]
+      },
+      {
+        "url": "https://buy.housefun.com.tw/Buy/house/7127205/",
+        "status": "PASS",
+        "reason_code": "ACTIVE_DETAIL_CONFIRMED",
+        "reason": "單一原物件主頁、總價、建物總坪數及聯絡／預約均可見，無主物件已售下架提示",
+        "checked_at": "2026-10-26T17:10:48.538Z",
+        "attempted": true,
+        "landed_url": "https://buy.housefun.com.tw/Buy/house/7127205/",
+        "current_values": {
+          "price_wan": 1790.0,
+          "total_building_ping": 33.43,
+          "floor": "7/15樓",
+          "layout": "2房(室)2廳1衛"
+        },
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261020_0604b1d80e",
+          "housing_20261020_0604b1d80e"
+        ]
+      },
+      {
+        "url": "https://buy.housefun.com.tw/Buy/house/7000462/",
+        "status": "PASS",
+        "reason_code": "ACTIVE_DETAIL_CONFIRMED",
+        "reason": "單一原物件主頁、總價、建物總坪數及聯絡／預約均可見，無主物件已售下架提示",
+        "checked_at": "2026-10-26T17:10:50.631Z",
+        "attempted": true,
+        "landed_url": "https://buy.housefun.com.tw/Buy/house/7000462/",
+        "current_values": {
+          "price_wan": 3888.0,
+          "total_building_ping": 62.89,
+          "floor": "6/15樓",
+          "layout": "4房(室)2廳2衛"
+        },
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261020_0604b1d80e"
+        ]
+      },
+      {
+        "url": "https://community.rakuya.com.tw/52838/sell/info?ehid=0592fb220872628&from=communitySearchSell",
+        "status": "FAIL",
+        "reason_code": "WRONG_LISTING",
+        "reason": "原竹北高鐵三房連結轉至中壢農地，地區、用途及坪數均不符",
+        "checked_at": "2026-10-26T17:10:59.704Z",
+        "attempted": true,
+        "landed_url": "https://www.rakuya.com.tw/sell_item/info?ehid=0592fb220872628&from=communitySearchSell",
+        "current_values": null,
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261020_0604b1d80e"
+        ]
+      },
+      {
+        "url": "https://buy.housefun.com.tw/buy/house/7088495",
+        "status": "PASS",
+        "reason_code": "ACTIVE_DETAIL_CONFIRMED",
+        "reason": "單一原物件主頁、總價、建物總坪數及聯絡／預約均可見，無主物件已售下架提示",
+        "checked_at": "2026-10-26T17:11:01.687Z",
+        "attempted": true,
+        "landed_url": "https://buy.housefun.com.tw/buy/house/7088495",
+        "current_values": {
+          "price_wan": 5168.0,
+          "total_building_ping": 94.0,
+          "floor": "3/13樓",
+          "layout": "3房(室)2廳3衛"
+        },
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261020_0604b1d80e"
+        ]
+      },
+      {
+        "url": "https://www.hbhousing.com.tw/detail?sn=s9738UR",
+        "status": "PASS",
+        "reason_code": "ACTIVE_DETAIL_CONFIRMED",
+        "reason": "單一原物件主頁、總價、建物總坪數及聯絡／預約均可見，無主物件已售下架提示",
+        "checked_at": "2026-10-26T17:11:13.900Z",
+        "attempted": true,
+        "landed_url": "https://www.hbhousing.com.tw/detail?sn=s9738UR",
+        "current_values": {
+          "price_wan": 1498,
+          "total_building_ping": 34.78,
+          "floor": "14/14樓",
+          "layout": "2房2廳1衛"
+        },
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261020_0604b1d80e"
+        ]
+      },
+      {
+        "url": "https://buy.housefun.com.tw/Buy/house/6952229/",
+        "status": "PASS",
+        "reason_code": "ACTIVE_DETAIL_CONFIRMED",
+        "reason": "單一原物件主頁、總價、建物總坪數及聯絡／預約均可見，無主物件已售下架提示",
+        "checked_at": "2026-10-26T17:11:15.652Z",
+        "attempted": true,
+        "landed_url": "https://buy.housefun.com.tw/Buy/house/6952229/",
+        "current_values": {
+          "price_wan": 1598.0,
+          "total_building_ping": 43.38,
+          "floor": "12/15樓",
+          "layout": "3房(室)2廳2衛"
+        },
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261020_0604b1d80e",
+          "housing_20261020_0604b1d80e"
+        ]
+      },
+      {
+        "url": "https://buy.housefun.com.tw/Buy/house/6944723/",
+        "status": "PASS",
+        "reason_code": "ACTIVE_DETAIL_CONFIRMED",
+        "reason": "單一原物件主頁、總價、建物總坪數及聯絡／預約均可見，無主物件已售下架提示",
+        "checked_at": "2026-10-26T17:11:30.997Z",
+        "attempted": true,
+        "landed_url": "https://buy.housefun.com.tw/Buy/house/6944723/",
+        "current_values": {
+          "price_wan": 318.0,
+          "total_building_ping": 13.71,
+          "floor": "5/11樓",
+          "layout": "1房(室)1廳1衛"
+        },
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261020_0604b1d80e"
+        ]
+      },
+      {
+        "url": "https://buy.housefun.com.tw/Buy/house/7109769/",
+        "status": "PASS",
+        "reason_code": "ACTIVE_DETAIL_CONFIRMED",
+        "reason": "單一原物件主頁、總價、建物總坪數及聯絡／預約均可見，無主物件已售下架提示",
+        "checked_at": "2026-10-26T17:11:32.969Z",
+        "attempted": true,
+        "landed_url": "https://buy.housefun.com.tw/Buy/house/7109769/",
+        "current_values": {
+          "price_wan": 798.0,
+          "total_building_ping": 36.82,
+          "floor": "1/9樓",
+          "layout": "3房(室)2廳2衛"
+        },
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261020_0604b1d80e"
+        ]
+      },
+      {
+        "url": "https://buy.housefun.com.tw/Buy/house/7051020/",
+        "status": "PASS",
+        "reason_code": "ACTIVE_DETAIL_CONFIRMED",
+        "reason": "單一原物件主頁、總價、建物總坪數及聯絡／預約均可見，無主物件已售下架提示",
+        "checked_at": "2026-10-26T17:11:34.752Z",
+        "attempted": true,
+        "landed_url": "https://buy.housefun.com.tw/Buy/house/7051020/",
+        "current_values": {
+          "price_wan": 1080.0,
+          "total_building_ping": 35.38,
+          "floor": "2/11樓",
+          "layout": "2房(室)2廳2衛"
+        },
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261020_0604b1d80e"
+        ]
+      },
+      {
+        "url": "https://buy.housefun.com.tw/Buy/house/7032806/",
+        "status": "PASS",
+        "reason_code": "ACTIVE_DETAIL_CONFIRMED",
+        "reason": "單一原物件主頁、總價、建物總坪數及聯絡／預約均可見，無主物件已售下架提示",
+        "checked_at": "2026-10-26T17:11:36.640Z",
+        "attempted": true,
+        "landed_url": "https://buy.housefun.com.tw/Buy/house/7032806/",
+        "current_values": {
+          "price_wan": 1238.0,
+          "total_building_ping": 39.31,
+          "floor": "2/14樓",
+          "layout": "2房(室)2廳2衛"
+        },
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261020_0604b1d80e"
+        ]
+      },
+      {
+        "url": "https://buy.housefun.com.tw/Buy/house/7096112/",
+        "status": "PASS",
+        "reason_code": "ACTIVE_DETAIL_CONFIRMED",
+        "reason": "單一原物件主頁、總價、建物總坪數及聯絡／預約均可見，無主物件已售下架提示",
+        "checked_at": "2026-10-26T17:11:40.034Z",
+        "attempted": true,
+        "landed_url": "https://buy.housefun.com.tw/Buy/house/7096112/",
+        "current_values": {
+          "price_wan": 1288.0,
+          "total_building_ping": 47.46,
+          "floor": "3/9樓",
+          "layout": "3房(室)2廳2衛"
+        },
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261020_0604b1d80e"
+        ]
+      },
+      {
+        "url": "https://buy.housefun.com.tw/Buy/house/6876561/",
+        "status": "PASS",
+        "reason_code": "ACTIVE_DETAIL_CONFIRMED",
+        "reason": "單一原物件主頁、總價、建物總坪數及聯絡／預約均可見，無主物件已售下架提示",
+        "checked_at": "2026-10-26T17:11:42.833Z",
+        "attempted": true,
+        "landed_url": "https://buy.housefun.com.tw/Buy/house/6876561/",
+        "current_values": {
+          "price_wan": 1488.0,
+          "total_building_ping": 41.98,
+          "floor": "6/15樓",
+          "layout": "3房(室)2廳1衛"
+        },
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261020_0604b1d80e"
+        ]
+      },
+      {
+        "url": "https://community.rakuya.com.tw/58430/sell/info?ehid=04863d337038158&from=communitySearchSell",
+        "status": "PASS",
+        "reason_code": "ACTIVE_DETAIL_CONFIRMED",
+        "reason": "單一原物件主頁、總價、建物總坪數及聯絡／預約均可見，無主物件已售下架提示",
+        "checked_at": "2026-10-26T17:11:46.299Z",
+        "attempted": true,
+        "landed_url": "https://community.rakuya.com.tw/58430/sell/info?ehid=04863d337038158&from=communitySearchSell",
+        "current_values": {
+          "price_wan": 2688.0,
+          "total_building_ping": 49.98,
+          "floor": "5/15樓",
+          "layout": "4房2廳2衛"
+        },
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261013_a67a003a31"
+        ]
+      },
+      {
+        "url": "https://buy.housefun.com.tw/Buy/house/7054036/",
+        "status": "PASS",
+        "reason_code": "ACTIVE_DETAIL_CONFIRMED",
+        "reason": "單一原物件主頁、總價、建物總坪數及聯絡／預約均可見，無主物件已售下架提示",
+        "checked_at": "2026-10-26T17:11:48.061Z",
+        "attempted": true,
+        "landed_url": "https://buy.housefun.com.tw/Buy/house/7054036/",
+        "current_values": {
+          "price_wan": 2458.0,
+          "total_building_ping": 50.6,
+          "floor": "3/15樓",
+          "layout": "3房2廳2衛"
+        },
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261013_a67a003a31"
+        ]
+      },
+      {
+        "url": "https://buy.housefun.com.tw/Buy/house/7071591/",
+        "status": "UNVERIFIED",
+        "reason_code": "PLATFORM_UNAVAILABLE",
+        "reason": "好房網連續物件頁回傳403；一次正常重新載入仍失敗，本次停止該平台後續請求",
+        "checked_at": "2026-10-26T17:12:00.596Z",
+        "attempted": true,
+        "landed_url": "https://buy.housefun.com.tw/Buy/house/7071591/",
+        "current_values": null,
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261013_a67a003a31"
+        ]
+      },
+      {
+        "url": "https://buy.housefun.com.tw/Buy/house/7045715/",
+        "status": "UNVERIFIED",
+        "reason_code": "PLATFORM_UNAVAILABLE",
+        "reason": "好房網連續物件頁回傳403；一次正常重新載入仍失敗，本次停止該平台後續請求",
+        "checked_at": "2026-10-26T17:12:00.756Z",
+        "attempted": true,
+        "landed_url": "https://buy.housefun.com.tw/Buy/house/7045715/",
+        "current_values": null,
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261013_a67a003a31"
+        ]
+      },
+      {
+        "url": "https://buy.housefun.com.tw/Buy/house/7112336/",
+        "status": "UNVERIFIED",
+        "reason_code": "PLATFORM_UNAVAILABLE",
+        "reason": "好房網連續物件頁回傳403；一次正常重新載入仍失敗，本次停止該平台後續請求",
+        "checked_at": "2026-10-26T17:12:00.908Z",
+        "attempted": true,
+        "landed_url": "https://buy.housefun.com.tw/Buy/house/7112336/",
+        "current_values": null,
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261013_a67a003a31"
+        ]
+      },
+      {
+        "url": "https://community.rakuya.com.tw/89243/sell/info?ehid=03f58232923744b&from=communitySearchSell",
+        "status": "PASS",
+        "reason_code": "ACTIVE_DETAIL_CONFIRMED",
+        "reason": "單一原物件主頁、總價、建物總坪數及聯絡／預約均可見，無主物件已售下架提示",
+        "checked_at": "2026-10-26T17:12:03.577Z",
+        "attempted": true,
+        "landed_url": "https://community.rakuya.com.tw/89243/sell/info?ehid=03f58232923744b&from=communitySearchSell",
+        "current_values": {
+          "price_wan": 4500.0,
+          "total_building_ping": 62.91,
+          "floor": "11/12樓",
+          "layout": "1房2廳2衛"
+        },
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261013_a67a003a31"
+        ]
+      },
+      {
+        "url": "https://community.rakuya.com.tw/32690/sell/info?ehid=02108433918008a&from=communityInfo",
+        "status": "FAIL",
+        "reason_code": "WRONG_LISTING",
+        "reason": "原國泰禾三房連結轉至竹北大境透天，社區、坪數及樓層不符",
+        "checked_at": "2026-10-26T17:12:07.147Z",
+        "attempted": true,
+        "landed_url": "https://www.rakuya.com.tw/sell_item/info?ehid=02108433918008a&from=communityInfo",
+        "current_values": null,
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261013_a67a003a31"
+        ]
+      },
+      {
+        "url": "https://community.rakuya.com.tw/32690/sell/info?ehid=0ab7b4343134606&from=communityInfo",
+        "status": "PASS",
+        "reason_code": "ACTIVE_DETAIL_CONFIRMED",
+        "reason": "單一原物件主頁、總價、建物總坪數及聯絡／預約均可見，無主物件已售下架提示",
+        "checked_at": "2026-10-26T17:12:10.029Z",
+        "attempted": true,
+        "landed_url": "https://community.rakuya.com.tw/32690/sell/info?ehid=0ab7b4343134606&from=communityInfo",
+        "current_values": {
+          "price_wan": 3516.0,
+          "total_building_ping": 51.67,
+          "floor": "5/22樓",
+          "layout": "2房2廳2衛"
+        },
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261013_a67a003a31"
+        ]
+      },
+      {
+        "url": "https://community.rakuya.com.tw/32690/sell/info?ehid=02c04a331045430&from=communityInfo",
+        "status": "FAIL",
+        "reason_code": "CLOSED",
+        "reason": "平台明示「物件已成交或關閉」",
+        "checked_at": "2026-10-26T17:12:14.873Z",
+        "attempted": true,
+        "landed_url": "https://community.rakuya.com.tw/32690/sell/info?ehid=02c04a331045430&from=communityInfo",
+        "current_values": null,
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261013_a67a003a31"
+        ]
+      },
+      {
+        "url": "https://buy.housefun.com.tw/Buy/house/6611629/",
+        "status": "UNVERIFIED",
+        "reason_code": "PLATFORM_UNAVAILABLE",
+        "reason": "好房網連續物件頁回傳403；一次正常重新載入仍失敗，本次停止該平台後續請求",
+        "checked_at": "2026-10-26T17:12:45.659Z",
+        "attempted": true,
+        "landed_url": "https://buy.housefun.com.tw/Buy/house/6611629/",
+        "current_values": null,
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261013_a67a003a31"
+        ]
+      },
+      {
+        "url": "https://buy.housefun.com.tw/Buy/house/7030499/",
+        "status": "UNVERIFIED",
+        "reason_code": "PLATFORM_UNAVAILABLE",
+        "reason": "好房網連續物件頁回傳403；一次正常重新載入仍失敗，本次停止該平台後續請求",
+        "checked_at": null,
+        "attempted": false,
+        "landed_url": null,
+        "current_values": null,
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261013_a67a003a31"
+        ]
+      },
+      {
+        "url": "https://buy.housefun.com.tw/Buy/house/7040061/",
+        "status": "UNVERIFIED",
+        "reason_code": "PLATFORM_UNAVAILABLE",
+        "reason": "好房網連續物件頁回傳403；一次正常重新載入仍失敗，本次停止該平台後續請求",
+        "checked_at": null,
+        "attempted": false,
+        "landed_url": null,
+        "current_values": null,
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261013_a67a003a31"
+        ]
+      },
+      {
+        "url": "https://buy.housefun.com.tw/Buy/house/7081440/",
+        "status": "UNVERIFIED",
+        "reason_code": "PLATFORM_UNAVAILABLE",
+        "reason": "好房網連續物件頁回傳403；一次正常重新載入仍失敗，本次停止該平台後續請求",
+        "checked_at": null,
+        "attempted": false,
+        "landed_url": null,
+        "current_values": null,
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261013_a67a003a31"
+        ]
+      },
+      {
+        "url": "https://buy.housefun.com.tw/Buy/house/7118371/",
+        "status": "UNVERIFIED",
+        "reason_code": "PLATFORM_UNAVAILABLE",
+        "reason": "好房網連續物件頁回傳403；一次正常重新載入仍失敗，本次停止該平台後續請求",
+        "checked_at": null,
+        "attempted": false,
+        "landed_url": null,
+        "current_values": null,
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261013_a67a003a31"
+        ]
+      },
+      {
+        "url": "https://buy.housefun.com.tw/Buy/house/7038430/",
+        "status": "UNVERIFIED",
+        "reason_code": "PLATFORM_UNAVAILABLE",
+        "reason": "好房網連續物件頁回傳403；一次正常重新載入仍失敗，本次停止該平台後續請求",
+        "checked_at": null,
+        "attempted": false,
+        "landed_url": null,
+        "current_values": null,
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261013_a67a003a31",
+          "housing_20261006_6280d038e9"
+        ]
+      },
+      {
+        "url": "https://community.rakuya.com.tw/50675/sell/info?ehid=04ef7b33444003f&from=communitySearchSell",
+        "status": "PASS",
+        "reason_code": "ACTIVE_DETAIL_CONFIRMED",
+        "reason": "單一原物件主頁、總價、建物總坪數及聯絡／預約均可見，無主物件已售下架提示",
+        "checked_at": "2026-10-26T17:12:55.170Z",
+        "attempted": true,
+        "landed_url": "https://community.rakuya.com.tw/50675/sell/info?ehid=04ef7b33444003f&from=communitySearchSell",
+        "current_values": {
+          "price_wan": 358,
+          "total_building_ping": 12.64,
+          "floor": "5/12樓",
+          "layout": "1房（廳數未提供）1衛"
+        },
+        "values_changed": true,
+        "affected_week_ids": [
+          "housing_20261013_a67a003a31"
+        ]
+      },
+      {
+        "url": "https://community.rakuya.com.tw/50675/sell/info?ehid=0a363d335571614&from=communitySearchSell",
+        "status": "PASS",
+        "reason_code": "ACTIVE_DETAIL_CONFIRMED",
+        "reason": "單一原物件主頁、總價、建物總坪數及聯絡／預約均可見，無主物件已售下架提示",
+        "checked_at": "2026-10-26T17:12:57.955Z",
+        "attempted": true,
+        "landed_url": "https://community.rakuya.com.tw/50675/sell/info?ehid=0a363d335571614&from=communitySearchSell",
+        "current_values": {
+          "price_wan": 338.0,
+          "total_building_ping": 8.53,
+          "floor": "3/12樓",
+          "layout": "1房1廳1衛"
+        },
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261013_a67a003a31"
+        ]
+      },
+      {
+        "url": "https://community.rakuya.com.tw/50675/sell/info?ehid=0e62cf318721961&from=communitySearchSell",
+        "status": "PASS",
+        "reason_code": "ACTIVE_DETAIL_CONFIRMED",
+        "reason": "單一原物件主頁、總價、建物總坪數及聯絡／預約均可見，無主物件已售下架提示",
+        "checked_at": "2026-10-26T17:13:01.061Z",
+        "attempted": true,
+        "landed_url": "https://community.rakuya.com.tw/50675/sell/info?ehid=0e62cf318721961&from=communitySearchSell",
+        "current_values": {
+          "price_wan": 358.0,
+          "total_building_ping": 9.52,
+          "floor": "3/12樓",
+          "layout": "1房1廳1衛"
+        },
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261013_a67a003a31"
+        ]
+      },
+      {
+        "url": "https://buy.housefun.com.tw/Buy/house/7086210/",
+        "status": "UNVERIFIED",
+        "reason_code": "PLATFORM_UNAVAILABLE",
+        "reason": "好房網連續物件頁回傳403；一次正常重新載入仍失敗，本次停止該平台後續請求",
+        "checked_at": null,
+        "attempted": false,
+        "landed_url": null,
+        "current_values": null,
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261013_a67a003a31"
+        ]
+      },
+      {
+        "url": "https://buy.housefun.com.tw/buy/house/6436401",
+        "status": "UNVERIFIED",
+        "reason_code": "PLATFORM_UNAVAILABLE",
+        "reason": "好房網連續物件頁回傳403；一次正常重新載入仍失敗，本次停止該平台後續請求",
+        "checked_at": null,
+        "attempted": false,
+        "landed_url": null,
+        "current_values": null,
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261013_a67a003a31"
+        ]
+      },
+      {
+        "url": "https://buy.housefun.com.tw/buy/house/6993803",
+        "status": "UNVERIFIED",
+        "reason_code": "PLATFORM_UNAVAILABLE",
+        "reason": "好房網連續物件頁回傳403；一次正常重新載入仍失敗，本次停止該平台後續請求",
+        "checked_at": null,
+        "attempted": false,
+        "landed_url": null,
+        "current_values": null,
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261013_a67a003a31"
+        ]
+      },
+      {
+        "url": "https://buy.housefun.com.tw/Buy/house/6982025/",
+        "status": "UNVERIFIED",
+        "reason_code": "PLATFORM_UNAVAILABLE",
+        "reason": "好房網連續物件頁回傳403；一次正常重新載入仍失敗，本次停止該平台後續請求",
+        "checked_at": null,
+        "attempted": false,
+        "landed_url": null,
+        "current_values": null,
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261013_a67a003a31"
+        ]
+      },
+      {
+        "url": "https://buy.housefun.com.tw/Buy/house/6480564/",
+        "status": "UNVERIFIED",
+        "reason_code": "PLATFORM_UNAVAILABLE",
+        "reason": "好房網連續物件頁回傳403；一次正常重新載入仍失敗，本次停止該平台後續請求",
+        "checked_at": null,
+        "attempted": false,
+        "landed_url": null,
+        "current_values": null,
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261013_a67a003a31"
+        ]
+      },
+      {
+        "url": "https://buy.housefun.com.tw/Buy/house/7115702/",
+        "status": "UNVERIFIED",
+        "reason_code": "PLATFORM_UNAVAILABLE",
+        "reason": "好房網連續物件頁回傳403；一次正常重新載入仍失敗，本次停止該平台後續請求",
+        "checked_at": null,
+        "attempted": false,
+        "landed_url": null,
+        "current_values": null,
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261013_a67a003a31"
+        ]
+      },
+      {
+        "url": "https://buy.housefun.com.tw/Buy/house/7043743/",
+        "status": "UNVERIFIED",
+        "reason_code": "PLATFORM_UNAVAILABLE",
+        "reason": "好房網連續物件頁回傳403；一次正常重新載入仍失敗，本次停止該平台後續請求",
+        "checked_at": null,
+        "attempted": false,
+        "landed_url": null,
+        "current_values": null,
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261013_a67a003a31"
+        ]
+      },
+      {
+        "url": "https://buy.housefun.com.tw/Buy/house/7101008/",
+        "status": "UNVERIFIED",
+        "reason_code": "PLATFORM_UNAVAILABLE",
+        "reason": "好房網連續物件頁回傳403；一次正常重新載入仍失敗，本次停止該平台後續請求",
+        "checked_at": null,
+        "attempted": false,
+        "landed_url": null,
+        "current_values": null,
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261013_a67a003a31"
+        ]
+      },
+      {
+        "url": "https://buy.housefun.com.tw/Buy/house/7010025/",
+        "status": "UNVERIFIED",
+        "reason_code": "PLATFORM_UNAVAILABLE",
+        "reason": "好房網連續物件頁回傳403；一次正常重新載入仍失敗，本次停止該平台後續請求",
+        "checked_at": null,
+        "attempted": false,
+        "landed_url": null,
+        "current_values": null,
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261013_a67a003a31"
+        ]
+      },
+      {
+        "url": "https://buy.housefun.com.tw/Buy/house/7120984/",
+        "status": "UNVERIFIED",
+        "reason_code": "PLATFORM_UNAVAILABLE",
+        "reason": "好房網連續物件頁回傳403；一次正常重新載入仍失敗，本次停止該平台後續請求",
+        "checked_at": null,
+        "attempted": false,
+        "landed_url": null,
+        "current_values": null,
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261013_a67a003a31"
+        ]
+      },
+      {
+        "url": "https://buy.housefun.com.tw/buy/house/7015650",
+        "status": "UNVERIFIED",
+        "reason_code": "PLATFORM_UNAVAILABLE",
+        "reason": "好房網連續物件頁回傳403；一次正常重新載入仍失敗，本次停止該平台後續請求",
+        "checked_at": null,
+        "attempted": false,
+        "landed_url": null,
+        "current_values": null,
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261013_a67a003a31"
+        ]
+      },
+      {
+        "url": "https://buy.housefun.com.tw/Buy/house/6982649/",
+        "status": "UNVERIFIED",
+        "reason_code": "PLATFORM_UNAVAILABLE",
+        "reason": "好房網連續物件頁回傳403；一次正常重新載入仍失敗，本次停止該平台後續請求",
+        "checked_at": null,
+        "attempted": false,
+        "landed_url": null,
+        "current_values": null,
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261013_a67a003a31"
+        ]
+      },
+      {
+        "url": "https://sale.591.com.tw/home/house/detail/2/20930345.html",
+        "status": "PASS",
+        "reason_code": "ACTIVE_DETAIL_CONFIRMED",
+        "reason": "單一原物件主頁、總價、建物總坪數及聯絡／預約均可見，無主物件已售下架提示",
+        "checked_at": "2026-10-26T17:13:11.280Z",
+        "attempted": true,
+        "landed_url": "https://sale.591.com.tw/home/house/detail/2/20930345.html",
+        "current_values": {
+          "price_wan": 2860.0,
+          "total_building_ping": 66.12,
+          "floor": "7/14樓",
+          "layout": "4房2廳2衛1陽台"
+        },
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261013_a67a003a31",
+          "housing_20261013_a67a003a31"
+        ]
+      },
+      {
+        "url": "https://buy.yungching.com.tw/house/7245903",
+        "status": "PASS",
+        "reason_code": "ACTIVE_DETAIL_CONFIRMED",
+        "reason": "單一原物件主頁、總價、建物總坪數及聯絡／預約均可見，無主物件已售下架提示",
+        "checked_at": "2026-10-26T17:13:18.067Z",
+        "attempted": true,
+        "landed_url": "https://buy.yungching.com.tw/house/7245903",
+        "current_values": {
+          "price_wan": 958.0,
+          "total_building_ping": 25.5,
+          "floor": "3/5樓",
+          "layout": "2房2廳2衛"
+        },
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261013_a67a003a31"
+        ]
+      },
+      {
+        "url": "https://community.rakuya.com.tw/98303/sell/info?ehid=00988a355246019&from=communitySearchSell",
+        "status": "PASS",
+        "reason_code": "ACTIVE_DETAIL_CONFIRMED",
+        "reason": "單一原物件主頁、總價、建物總坪數及聯絡／預約均可見，無主物件已售下架提示",
+        "checked_at": "2026-10-26T17:13:22.048Z",
+        "attempted": true,
+        "landed_url": "https://community.rakuya.com.tw/98303/sell/info?ehid=00988a355246019&from=communitySearchSell",
+        "current_values": {
+          "price_wan": 998,
+          "total_building_ping": 25.49,
+          "floor": "5/5樓",
+          "layout": "2房2廳2衛"
+        },
+        "values_changed": true,
+        "affected_week_ids": [
+          "housing_20261013_a67a003a31"
+        ]
+      },
+      {
+        "url": "https://buy.yungching.com.tw/house/7502226",
+        "status": "PASS",
+        "reason_code": "ACTIVE_DETAIL_CONFIRMED",
+        "reason": "單一原物件主頁、總價、建物總坪數及聯絡／預約均可見，無主物件已售下架提示",
+        "checked_at": "2026-10-26T17:13:23.660Z",
+        "attempted": true,
+        "landed_url": "https://buy.yungching.com.tw/house/7502226",
+        "current_values": {
+          "price_wan": 1950.0,
+          "total_building_ping": 49.02,
+          "floor": "7/15樓",
+          "layout": "3房2廳2衛"
+        },
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261013_a67a003a31"
+        ]
+      },
+      {
+        "url": "https://buy.housefun.com.tw/Buy/house/7073822/",
+        "status": "UNVERIFIED",
+        "reason_code": "PLATFORM_UNAVAILABLE",
+        "reason": "好房網連續物件頁回傳403；一次正常重新載入仍失敗，本次停止該平台後續請求",
+        "checked_at": null,
+        "attempted": false,
+        "landed_url": null,
+        "current_values": null,
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261006_6280d038e9"
+        ]
+      },
+      {
+        "url": "https://buy.housefun.com.tw/Buy/house/6921478/",
+        "status": "UNVERIFIED",
+        "reason_code": "PLATFORM_UNAVAILABLE",
+        "reason": "好房網連續物件頁回傳403；一次正常重新載入仍失敗，本次停止該平台後續請求",
+        "checked_at": null,
+        "attempted": false,
+        "landed_url": null,
+        "current_values": null,
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261006_6280d038e9"
+        ]
+      },
+      {
+        "url": "https://buy.housefun.com.tw/Buy/house/7017292/",
+        "status": "UNVERIFIED",
+        "reason_code": "PLATFORM_UNAVAILABLE",
+        "reason": "好房網連續物件頁回傳403；一次正常重新載入仍失敗，本次停止該平台後續請求",
+        "checked_at": null,
+        "attempted": false,
+        "landed_url": null,
+        "current_values": null,
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261006_6280d038e9"
+        ]
+      },
+      {
+        "url": "https://buy.housefun.com.tw/Buy/house/7068694/",
+        "status": "UNVERIFIED",
+        "reason_code": "PLATFORM_UNAVAILABLE",
+        "reason": "好房網連續物件頁回傳403；一次正常重新載入仍失敗，本次停止該平台後續請求",
+        "checked_at": null,
+        "attempted": false,
+        "landed_url": null,
+        "current_values": null,
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261006_6280d038e9"
+        ]
+      },
+      {
+        "url": "https://buy.housefun.com.tw/Buy/house/6373664/",
+        "status": "UNVERIFIED",
+        "reason_code": "PLATFORM_UNAVAILABLE",
+        "reason": "好房網連續物件頁回傳403；一次正常重新載入仍失敗，本次停止該平台後續請求",
+        "checked_at": null,
+        "attempted": false,
+        "landed_url": null,
+        "current_values": null,
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261006_6280d038e9"
+        ]
+      },
+      {
+        "url": "https://buy.housefun.com.tw/Buy/house/6115067/",
+        "status": "UNVERIFIED",
+        "reason_code": "PLATFORM_UNAVAILABLE",
+        "reason": "好房網連續物件頁回傳403；一次正常重新載入仍失敗，本次停止該平台後續請求",
+        "checked_at": null,
+        "attempted": false,
+        "landed_url": null,
+        "current_values": null,
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261006_6280d038e9"
+        ]
+      },
+      {
+        "url": "https://www.sinyi.com.tw/buy/house/1576KN",
+        "status": "PASS",
+        "reason_code": "ACTIVE_DETAIL_CONFIRMED",
+        "reason": "單一原物件主頁、總價、建物總坪數及聯絡／預約均可見，無主物件已售下架提示",
+        "checked_at": "2026-10-26T17:13:59.225Z",
+        "attempted": true,
+        "landed_url": "https://www.sinyi.com.tw/buy/house/1576KN",
+        "current_values": {
+          "price_wan": 1498,
+          "total_building_ping": 44.14,
+          "floor": "8/12",
+          "layout": "3房2廳2衛"
+        },
+        "values_changed": true,
+        "affected_week_ids": [
+          "housing_20261006_6280d038e9"
+        ]
+      },
+      {
+        "url": "https://buy.housefun.com.tw/buy/house/7031534",
+        "status": "UNVERIFIED",
+        "reason_code": "PLATFORM_UNAVAILABLE",
+        "reason": "好房網連續物件頁回傳403；一次正常重新載入仍失敗，本次停止該平台後續請求",
+        "checked_at": null,
+        "attempted": false,
+        "landed_url": null,
+        "current_values": null,
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261006_6280d038e9"
+        ]
+      },
+      {
+        "url": "https://www.hbhousing.com.tw/detail?sn=s3056YW",
+        "status": "PASS",
+        "reason_code": "ACTIVE_DETAIL_CONFIRMED",
+        "reason": "單一原物件主頁、總價、建物總坪數及聯絡／預約均可見，無主物件已售下架提示",
+        "checked_at": "2026-10-26T17:14:03.765Z",
+        "attempted": true,
+        "landed_url": "https://www.hbhousing.com.tw/detail?sn=s3056YW",
+        "current_values": {
+          "price_wan": 1788,
+          "total_building_ping": 44.6,
+          "floor": "14/14",
+          "layout": "2房2廳1衛"
+        },
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261006_6280d038e9"
+        ]
+      },
+      {
+        "url": "https://buy.yungching.com.tw/house/7482781",
+        "status": "FAIL",
+        "reason_code": "REMOVED",
+        "reason": "平台明示「物件已下架」，原房屋資料已不存在",
+        "checked_at": "2026-10-26T17:14:07.654Z",
+        "attempted": true,
+        "landed_url": "https://buy.yungching.com.tw/house/7482781",
+        "current_values": null,
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261006_6280d038e9"
+        ]
+      },
+      {
+        "url": "https://buy.yungching.com.tw/house/6617233",
+        "status": "PASS",
+        "reason_code": "ACTIVE_DETAIL_CONFIRMED",
+        "reason": "單一原物件主頁、總價、建物總坪數及聯絡／預約均可見，無主物件已售下架提示",
+        "checked_at": "2026-10-26T17:14:09.064Z",
+        "attempted": true,
+        "landed_url": "https://buy.yungching.com.tw/house/6617233",
+        "current_values": {
+          "price_wan": 6500,
+          "total_building_ping": 94.27,
+          "floor": "18/22",
+          "layout": "3房2廳2衛"
+        },
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261006_6280d038e9"
+        ]
+      },
+      {
+        "url": "https://buy.housefun.com.tw/Buy/house/7076290/",
+        "status": "UNVERIFIED",
+        "reason_code": "PLATFORM_UNAVAILABLE",
+        "reason": "好房網連續物件頁回傳403；一次正常重新載入仍失敗，本次停止該平台後續請求",
+        "checked_at": null,
+        "attempted": false,
+        "landed_url": null,
+        "current_values": null,
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261006_6280d038e9"
+        ]
+      },
+      {
+        "url": "https://buy.housefun.com.tw/Buy/house/7058094/",
+        "status": "UNVERIFIED",
+        "reason_code": "PLATFORM_UNAVAILABLE",
+        "reason": "好房網連續物件頁回傳403；一次正常重新載入仍失敗，本次停止該平台後續請求",
+        "checked_at": null,
+        "attempted": false,
+        "landed_url": null,
+        "current_values": null,
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261006_6280d038e9"
+        ]
+      },
+      {
+        "url": "https://buy.housefun.com.tw/Buy/house/7013362/",
+        "status": "UNVERIFIED",
+        "reason_code": "PLATFORM_UNAVAILABLE",
+        "reason": "好房網連續物件頁回傳403；一次正常重新載入仍失敗，本次停止該平台後續請求",
+        "checked_at": null,
+        "attempted": false,
+        "landed_url": null,
+        "current_values": null,
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261006_6280d038e9"
+        ]
+      },
+      {
+        "url": "https://buy.housefun.com.tw/Buy/house/7048610/",
+        "status": "UNVERIFIED",
+        "reason_code": "PLATFORM_UNAVAILABLE",
+        "reason": "好房網連續物件頁回傳403；一次正常重新載入仍失敗，本次停止該平台後續請求",
+        "checked_at": null,
+        "attempted": false,
+        "landed_url": null,
+        "current_values": null,
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261006_6280d038e9"
+        ]
+      },
+      {
+        "url": "https://buy.housefun.com.tw/Buy/house/7093443/",
+        "status": "UNVERIFIED",
+        "reason_code": "PLATFORM_UNAVAILABLE",
+        "reason": "好房網連續物件頁回傳403；一次正常重新載入仍失敗，本次停止該平台後續請求",
+        "checked_at": null,
+        "attempted": false,
+        "landed_url": null,
+        "current_values": null,
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261006_6280d038e9"
+        ]
+      },
+      {
+        "url": "https://buy.housefun.com.tw/Buy/house/7016235/",
+        "status": "UNVERIFIED",
+        "reason_code": "PLATFORM_UNAVAILABLE",
+        "reason": "好房網連續物件頁回傳403；一次正常重新載入仍失敗，本次停止該平台後續請求",
+        "checked_at": null,
+        "attempted": false,
+        "landed_url": null,
+        "current_values": null,
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261006_6280d038e9"
+        ]
+      },
+      {
+        "url": "https://buy.housefun.com.tw/Buy/house/6991189/",
+        "status": "UNVERIFIED",
+        "reason_code": "PLATFORM_UNAVAILABLE",
+        "reason": "好房網連續物件頁回傳403；一次正常重新載入仍失敗，本次停止該平台後續請求",
+        "checked_at": null,
+        "attempted": false,
+        "landed_url": null,
+        "current_values": null,
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261006_6280d038e9"
+        ]
+      },
+      {
+        "url": "https://buy.housefun.com.tw/Buy/house/6981383/",
+        "status": "UNVERIFIED",
+        "reason_code": "PLATFORM_UNAVAILABLE",
+        "reason": "好房網連續物件頁回傳403；一次正常重新載入仍失敗，本次停止該平台後續請求",
+        "checked_at": null,
+        "attempted": false,
+        "landed_url": null,
+        "current_values": null,
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261006_6280d038e9"
+        ]
+      },
+      {
+        "url": "https://sale.591.com.tw/home/house/detail/2/21019783.html?from=marketList&index=1&isBid=0&gtm_page_previous=%E4%B8%AD%E5%8F%A4%E7%A4%BE%E5%8D%80%E8%A9%B3%E6%83%85%E9%A0%81&itm_source=community&itm_medium=list_in_sale",
+        "status": "FAIL",
+        "reason_code": "IDENTITY_CHANGED",
+        "reason": "原11/14樓、47.19坪現為14/14樓、47坪；案名、開價及樓層均有變，無法確認仍為原物件",
+        "checked_at": "2026-10-26T17:14:13.326Z",
+        "attempted": true,
+        "landed_url": "https://sale.591.com.tw/home/house/detail/2/21019783.html?from=marketList&index=1&isBid=0&gtm_page_previous=%E4%B8%AD%E5%8F%A4%E7%A4%BE%E5%8D%80%E8%A9%B3%E6%83%85%E9%A0%81&itm_source=community&itm_medium=list_in_sale",
+        "current_values": null,
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261006_6280d038e9"
+        ]
+      },
+      {
+        "url": "https://sale.591.com.tw/home/house/detail/2/21012595.html?from=marketList&index=4&isBid=0&gtm_page_previous=%E4%B8%AD%E5%8F%A4%E7%A4%BE%E5%8D%80%E8%A9%B3%E6%83%85%E9%A0%81&itm_source=community&itm_medium=list_in_sale",
+        "status": "PASS",
+        "reason_code": "ACTIVE_DETAIL_CONFIRMED",
+        "reason": "單一原物件主頁、總價、建物總坪數及聯絡／預約均可見，無主物件已售下架提示",
+        "checked_at": "2026-10-26T17:14:16.647Z",
+        "attempted": true,
+        "landed_url": "https://sale.591.com.tw/home/house/detail/2/21012595.html?from=marketList&index=4&isBid=0&gtm_page_previous=%E4%B8%AD%E5%8F%A4%E7%A4%BE%E5%8D%80%E8%A9%B3%E6%83%85%E9%A0%81&itm_source=community&itm_medium=list_in_sale",
+        "current_values": {
+          "price_wan": 2188,
+          "total_building_ping": 37.8,
+          "floor": "8/14",
+          "layout": "3房2廳2衛"
+        },
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261006_6280d038e9"
+        ]
+      },
+      {
+        "url": "https://sale.591.com.tw/home/house/detail/2/21010224.html?from=marketList&index=5&isBid=0&gtm_page_previous=%E4%B8%AD%E5%8F%A4%E7%A4%BE%E5%8D%80%E8%A9%B3%E6%83%85%E9%A0%81&itm_source=community&itm_medium=list_in_sale",
+        "status": "PASS",
+        "reason_code": "ACTIVE_DETAIL_CONFIRMED",
+        "reason": "單一原物件主頁、總價、建物總坪數及聯絡／預約均可見，無主物件已售下架提示",
+        "checked_at": "2026-10-26T17:14:48.246Z",
+        "attempted": true,
+        "landed_url": "https://sale.591.com.tw/home/house/detail/2/21010224.html?from=marketList&index=5&isBid=0&gtm_page_previous=%E4%B8%AD%E5%8F%A4%E7%A4%BE%E5%8D%80%E8%A9%B3%E6%83%85%E9%A0%81&itm_source=community&itm_medium=list_in_sale",
+        "current_values": {
+          "price_wan": 2358,
+          "total_building_ping": 49.4,
+          "floor": "9/14",
+          "layout": "3房2廳2衛"
+        },
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261006_6280d038e9"
+        ]
+      },
+      {
+        "url": "https://buy.housefun.com.tw/Buy/house/7110164/",
+        "status": "UNVERIFIED",
+        "reason_code": "PLATFORM_UNAVAILABLE",
+        "reason": "好房網連續物件頁回傳403；一次正常重新載入仍失敗，本次停止該平台後續請求",
+        "checked_at": null,
+        "attempted": false,
+        "landed_url": null,
+        "current_values": null,
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261006_6280d038e9"
+        ]
+      },
+      {
+        "url": "https://buy.housefun.com.tw/Buy/house/7107832/",
+        "status": "UNVERIFIED",
+        "reason_code": "PLATFORM_UNAVAILABLE",
+        "reason": "好房網連續物件頁回傳403；一次正常重新載入仍失敗，本次停止該平台後續請求",
+        "checked_at": null,
+        "attempted": false,
+        "landed_url": null,
+        "current_values": null,
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261006_6280d038e9"
+        ]
+      },
+      {
+        "url": "https://community.rakuya.com.tw/68165/sell/info?ehid=050a8a35648202b&from=communityInfo",
+        "status": "FAIL",
+        "reason_code": "CLOSED",
+        "reason": "平台明示「物件已成交或關閉」",
+        "checked_at": "2026-10-26T17:14:52.621Z",
+        "attempted": true,
+        "landed_url": "https://community.rakuya.com.tw/68165/sell/info?ehid=050a8a35648202b&from=communityInfo",
+        "current_values": null,
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261006_6280d038e9"
+        ]
+      },
+      {
+        "url": "https://buy.housefun.com.tw/Buy/house/7099604/",
+        "status": "UNVERIFIED",
+        "reason_code": "PLATFORM_UNAVAILABLE",
+        "reason": "好房網連續物件頁回傳403；一次正常重新載入仍失敗，本次停止該平台後續請求",
+        "checked_at": null,
+        "attempted": false,
+        "landed_url": null,
+        "current_values": null,
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261006_6280d038e9"
+        ]
+      },
+      {
+        "url": "https://buy.housefun.com.tw/Buy/house/7086087/",
+        "status": "UNVERIFIED",
+        "reason_code": "PLATFORM_UNAVAILABLE",
+        "reason": "好房網連續物件頁回傳403；一次正常重新載入仍失敗，本次停止該平台後續請求",
+        "checked_at": null,
+        "attempted": false,
+        "landed_url": null,
+        "current_values": null,
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261006_6280d038e9"
+        ]
+      },
+      {
+        "url": "https://buy.housefun.com.tw/Buy/house/7086854/",
+        "status": "UNVERIFIED",
+        "reason_code": "PLATFORM_UNAVAILABLE",
+        "reason": "好房網連續物件頁回傳403；一次正常重新載入仍失敗，本次停止該平台後續請求",
+        "checked_at": null,
+        "attempted": false,
+        "landed_url": null,
+        "current_values": null,
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261006_6280d038e9"
+        ]
+      },
+      {
+        "url": "https://buy.yungching.com.tw/house/7244822",
+        "status": "PASS",
+        "reason_code": "ACTIVE_DETAIL_CONFIRMED",
+        "reason": "單一原物件主頁、總價、建物總坪數及聯絡／預約均可見，無主物件已售下架提示",
+        "checked_at": "2026-10-26T17:14:54.065Z",
+        "attempted": true,
+        "landed_url": "https://buy.yungching.com.tw/house/7244822",
+        "current_values": {
+          "price_wan": 1398,
+          "total_building_ping": 44.65,
+          "floor": "4/5",
+          "layout": "3房2廳2衛"
+        },
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261006_6280d038e9"
+        ]
+      },
+      {
+        "url": "https://buy.housefun.com.tw/Buy/house/7073652/",
+        "status": "UNVERIFIED",
+        "reason_code": "PLATFORM_UNAVAILABLE",
+        "reason": "好房網連續物件頁回傳403；一次正常重新載入仍失敗，本次停止該平台後續請求",
+        "checked_at": null,
+        "attempted": false,
+        "landed_url": null,
+        "current_values": null,
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261006_6280d038e9"
+        ]
+      },
+      {
+        "url": "https://buy.yungching.com.tw/house/6948457",
+        "status": "PASS",
+        "reason_code": "ACTIVE_DETAIL_CONFIRMED",
+        "reason": "單一原物件主頁、總價、建物總坪數及聯絡／預約均可見，無主物件已售下架提示",
+        "checked_at": "2026-10-26T17:14:55.627Z",
+        "attempted": true,
+        "landed_url": "https://buy.yungching.com.tw/house/6948457",
+        "current_values": {
+          "price_wan": 1068,
+          "total_building_ping": 35.6,
+          "floor": "2/9",
+          "layout": "3房2廳2衛"
+        },
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261006_6280d038e9"
+        ]
+      },
+      {
+        "url": "https://buy.housefun.com.tw/buy/house/7062716",
+        "status": "UNVERIFIED",
+        "reason_code": "PLATFORM_UNAVAILABLE",
+        "reason": "好房網連續物件頁回傳403；一次正常重新載入仍失敗，本次停止該平台後續請求",
+        "checked_at": null,
+        "attempted": false,
+        "landed_url": null,
+        "current_values": null,
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261006_6280d038e9"
+        ]
+      },
+      {
+        "url": "https://buy.housefun.com.tw/buy/house/7056552",
+        "status": "UNVERIFIED",
+        "reason_code": "PLATFORM_UNAVAILABLE",
+        "reason": "好房網連續物件頁回傳403；一次正常重新載入仍失敗，本次停止該平台後續請求",
+        "checked_at": null,
+        "attempted": false,
+        "landed_url": null,
+        "current_values": null,
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261006_6280d038e9"
+        ]
+      },
+      {
+        "url": "https://buy.housefun.com.tw/buy/house/7032119",
+        "status": "UNVERIFIED",
+        "reason_code": "PLATFORM_UNAVAILABLE",
+        "reason": "好房網連續物件頁回傳403；一次正常重新載入仍失敗，本次停止該平台後續請求",
+        "checked_at": null,
+        "attempted": false,
+        "landed_url": null,
+        "current_values": null,
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261006_6280d038e9"
+        ]
+      },
+      {
+        "url": "https://buy.housefun.com.tw/buy/house/6784574",
+        "status": "UNVERIFIED",
+        "reason_code": "PLATFORM_UNAVAILABLE",
+        "reason": "好房網連續物件頁回傳403；一次正常重新載入仍失敗，本次停止該平台後續請求",
+        "checked_at": null,
+        "attempted": false,
+        "landed_url": null,
+        "current_values": null,
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261006_6280d038e9"
+        ]
+      },
+      {
+        "url": "https://community.rakuya.com.tw/4182/sell/info?ehid=0dd3f6326813343&from=communitySearchSell",
+        "status": "PASS",
+        "reason_code": "ACTIVE_DETAIL_CONFIRMED",
+        "reason": "單一原物件主頁、總價、建物總坪數及聯絡／預約均可見，無主物件已售下架提示",
+        "checked_at": "2026-10-26T17:14:57.986Z",
+        "attempted": true,
+        "landed_url": "https://community.rakuya.com.tw/4182/sell/info?ehid=0dd3f6326813343&from=communitySearchSell",
+        "current_values": {
+          "price_wan": 920,
+          "total_building_ping": 37.28,
+          "floor": "3/7",
+          "layout": "3房2廳2衛"
+        },
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261006_6280d038e9"
+        ]
+      },
+      {
+        "url": "https://community.rakuya.com.tw/4182/sell/info?ehid=0ef46335631969b&from=communitySearchSell",
+        "status": "PASS",
+        "reason_code": "ACTIVE_DETAIL_CONFIRMED",
+        "reason": "單一原物件主頁、總價、建物總坪數及聯絡／預約均可見，無主物件已售下架提示",
+        "checked_at": "2026-10-26T17:15:01.387Z",
+        "attempted": true,
+        "landed_url": "https://community.rakuya.com.tw/4182/sell/info?ehid=0ef46335631969b&from=communitySearchSell",
+        "current_values": {
+          "price_wan": 598,
+          "total_building_ping": 20.16,
+          "floor": "3/7",
+          "layout": "2房2廳1衛"
+        },
+        "values_changed": true,
+        "affected_week_ids": [
+          "housing_20261006_6280d038e9"
+        ]
+      },
+      {
+        "url": "https://community.rakuya.com.tw/4182/sell/info?ehid=01f5e033517655c&from=communitySearchSell",
+        "status": "PASS",
+        "reason_code": "ACTIVE_DETAIL_CONFIRMED",
+        "reason": "單一原物件主頁、總價、建物總坪數及聯絡／預約均可見，無主物件已售下架提示",
+        "checked_at": "2026-10-26T17:15:59.759Z",
+        "attempted": true,
+        "landed_url": "https://community.rakuya.com.tw/4182/sell/info?ehid=01f5e033517655c&from=communitySearchSell",
+        "current_values": {
+          "price_wan": 938,
+          "total_building_ping": 39.22,
+          "floor": "7/7",
+          "layout": "4房2廳2衛"
+        },
+        "values_changed": false,
+        "affected_week_ids": [
+          "housing_20261006_6280d038e9"
+        ]
+      }
+    ]
+  },
+  "release_hash": "2f75f9f0ab45ed008db8fcb2ac592fc2651cb1c336795551b68da06abdbe28bd"
 }
