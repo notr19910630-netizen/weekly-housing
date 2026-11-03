@@ -2887,9 +2887,35 @@
           "transaction_ids": [
             "housing_20261103_images_38e594015a_P1R9"
           ],
-          "listings": [],
+          "listings": [
+            {
+              "inventory_listing_id": "N7348773",
+              "total_building_ping": 39.72,
+              "floor": "6/12樓",
+              "layout": "3房2廳2衛",
+              "parking": "坡道機械固定車位",
+              "source_links": [
+                {
+                  "url": "https://buy.yungching.com.tw/house/7348773",
+                  "platform": "永慶房仲網",
+                  "price_wan": 1498.0,
+                  "total_building_ping": 39.72,
+                  "title": "稀有釋出 培英學區3房+平移休旅車位 後站生活圈",
+                  "final_verified_at": "2026-11-03T02:20:48.471Z"
+                },
+                {
+                  "url": "https://buy.yungching.com.tw/house/7346823",
+                  "platform": "永慶房仲網",
+                  "price_wan": 1498.0,
+                  "total_building_ping": 39.72,
+                  "title": "南大後站麗池公園「天下至寶」明亮3房車位",
+                  "final_verified_at": "2026-11-03T02:22:05.799Z"
+                }
+              ]
+            }
+          ],
           "coverage_note": "部分來源尚未確認，物件資訊以原平台為準",
-          "checked_at": null
+          "checked_at": "2026-11-03T02:22:05.799Z"
         },
         {
           "community_key": "新竹市|文教新城",
@@ -2911,7 +2937,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 1650.0,
                   "total_building_ping": 42.33,
-                  "final_verified_at": "2026-11-02T18:39:52Z"
+                  "final_verified_at": "2026-11-02T18:39:52Z",
+                  "title": "清大旁建功學區專任文教新城前後陽台採光明亮大三房"
                 }
               ]
             },
@@ -2927,7 +2954,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 1988.0,
                   "total_building_ping": 48.22,
-                  "final_verified_at": "2026-11-02T18:39:53Z"
+                  "final_verified_at": "2026-11-02T18:39:53Z",
+                  "title": "清大文教新城超大三房將軍戶景觀樓層"
                 }
               ]
             }
@@ -2966,13 +2994,31 @@
                   "platform": "永慶房仲網",
                   "price_wan": 1698.0,
                   "total_building_ping": 41.99,
-                  "final_verified_at": "2026-11-02T18:39:54Z"
+                  "final_verified_at": "2026-11-02T18:39:54Z",
+                  "title": "專任~清大邊間光復國宅三房車位華廈"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "N5769DR",
+              "total_building_ping": 41.99,
+              "floor": "8/15樓",
+              "layout": "3房2廳2衛",
+              "parking": null,
+              "source_links": [
+                {
+                  "url": "https://www.sinyi.com.tw/buy/house/5769DR",
+                  "platform": "信義房屋",
+                  "price_wan": 1888.0,
+                  "total_building_ping": 41.99,
+                  "title": "近清大有管理三房",
+                  "final_verified_at": "2026-11-03T02:23:33.906Z"
                 }
               ]
             }
           ],
           "coverage_note": "部分來源尚未確認，物件資訊以原平台為準",
-          "checked_at": "2026-11-02T18:39:54Z"
+          "checked_at": "2026-11-03T02:23:33.906Z"
         },
         {
           "community_key": "新竹市|竹科悅揚",
@@ -2996,7 +3042,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 1888.0,
                   "total_building_ping": 25.1,
-                  "final_verified_at": "2026-11-02T18:39:25Z"
+                  "final_verified_at": "2026-11-02T18:39:25Z",
+                  "title": "竹科悅揚｜精裝採光美２房"
                 }
               ]
             },
@@ -3012,7 +3059,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 2028.0,
                   "total_building_ping": 33.08,
-                  "final_verified_at": "2026-11-02T18:39:27Z"
+                  "final_verified_at": "2026-11-02T18:39:27Z",
+                  "title": "竹科悅揚採光2房車"
                 }
               ]
             },
@@ -3028,7 +3076,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 2038.0,
                   "total_building_ping": 33.96,
-                  "final_verified_at": "2026-11-02T18:39:28Z"
+                  "final_verified_at": "2026-11-02T18:39:28Z",
+                  "title": "近園區｜好市多｜竹科悅揚高樓採光美兩房"
                 }
               ]
             },
@@ -3044,7 +3093,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 2058.0,
                   "total_building_ping": 33.1,
-                  "final_verified_at": "2026-11-02T18:39:30Z"
+                  "final_verified_at": "2026-11-02T18:39:30Z",
+                  "title": "竹科５分！關埔、好市多商圈｜竹科悅揚外棟朝南２房"
                 }
               ]
             },
@@ -3060,7 +3110,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 2058.0,
                   "total_building_ping": 32.91,
-                  "final_verified_at": "2026-11-02T18:39:31Z"
+                  "final_verified_at": "2026-11-02T18:39:31Z",
+                  "title": "竹科悅揚近園區關埔東區costco二房平車"
                 }
               ]
             },
@@ -3076,7 +3127,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 2058.0,
                   "total_building_ping": 32.4,
-                  "final_verified_at": "2026-11-02T18:39:32Z"
+                  "final_verified_at": "2026-11-02T18:39:32Z",
+                  "title": "竹科悅揚 中高樓層採光兩房+平車(可安裝充電樁)"
                 }
               ]
             },
@@ -3092,7 +3144,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 2068.0,
                   "total_building_ping": 33.05,
-                  "final_verified_at": "2026-11-02T18:39:33Z"
+                  "final_verified_at": "2026-11-02T18:39:33Z",
+                  "title": "【竹科悅揚】高樓採光2房附B2平面車位/面迪卡儂"
                 }
               ]
             },
@@ -3108,7 +3161,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 2088.0,
                   "total_building_ping": 33.43,
-                  "final_verified_at": "2026-11-02T18:39:34Z"
+                  "final_verified_at": "2026-11-02T18:39:34Z",
+                  "title": "專任竹科悦揚~外棟頂樓邊間~質感兩房+B2平車"
                 }
               ]
             },
@@ -3124,7 +3178,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 2088.0,
                   "total_building_ping": 33.04,
-                  "final_verified_at": "2026-11-02T18:39:35Z"
+                  "final_verified_at": "2026-11-02T18:39:35Z",
+                  "title": "好市多｜星巴克商圈｜竹科悅揚｜質感兩房平車"
                 }
               ]
             },
@@ -3140,7 +3195,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 2088.0,
                   "total_building_ping": 32.87,
-                  "final_verified_at": "2026-11-02T18:39:36Z"
+                  "final_verified_at": "2026-11-02T18:39:36Z",
+                  "title": "悅揚10/31上午可看房 小夫妻甜蜜兩房直接入住"
                 }
               ]
             },
@@ -3156,7 +3212,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 2198.0,
                   "total_building_ping": 33.64,
-                  "final_verified_at": "2026-11-02T18:39:38Z"
+                  "final_verified_at": "2026-11-02T18:39:38Z",
+                  "title": "關埔核心好市多商圈竹科悅揚兩房平面車位"
                 }
               ]
             },
@@ -3172,7 +3229,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 2250.0,
                   "total_building_ping": 33.31,
-                  "final_verified_at": "2026-11-02T18:39:39Z"
+                  "final_verified_at": "2026-11-02T18:39:39Z",
+                  "title": "好市多商圈 竹科悅揚 高樓精美二改三房+平車"
                 }
               ]
             },
@@ -3188,7 +3246,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 2498.0,
                   "total_building_ping": 32.58,
-                  "final_verified_at": "2026-11-02T18:39:41Z"
+                  "final_verified_at": "2026-11-02T18:39:41Z",
+                  "title": "竹科悅揚朝南外棟兩房露臺戶面星巴克關埔國小"
                 }
               ]
             },
@@ -3204,7 +3263,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 2738.0,
                   "total_building_ping": 47.19,
-                  "final_verified_at": "2026-11-02T18:39:42Z"
+                  "final_verified_at": "2026-11-02T18:39:42Z",
+                  "title": "竹科人社區首選!!!!竹科悅揚高樓層三房平車"
                 }
               ]
             },
@@ -3220,7 +3280,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 2800.0,
                   "total_building_ping": 46.12,
-                  "final_verified_at": "2026-11-02T18:39:43Z"
+                  "final_verified_at": "2026-11-02T18:39:43Z",
+                  "title": "竹科悅揚朝南3房平車-電動車友善-喜歡出價談"
                 }
               ]
             },
@@ -3236,7 +3297,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 2800.0,
                   "total_building_ping": 33.08,
-                  "final_verified_at": "2026-11-02T18:39:45Z"
+                  "final_verified_at": "2026-11-02T18:39:45Z",
+                  "title": "竹科悅揚高樓層美裝潢兩房"
                 }
               ]
             },
@@ -3252,7 +3314,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 2850.0,
                   "total_building_ping": 45.25,
-                  "final_verified_at": "2026-11-02T18:39:46Z"
+                  "final_verified_at": "2026-11-02T18:39:46Z",
+                  "title": "關埔好市多竹科悅揚全室裝潢即刻入住"
                 }
               ]
             },
@@ -3268,7 +3331,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 2888.0,
                   "total_building_ping": 45.92,
-                  "final_verified_at": "2026-11-02T18:39:47Z"
+                  "final_verified_at": "2026-11-02T18:39:47Z",
+                  "title": "關埔好市多｜竹科悅揚｜次頂樓美裝潢三房充電樁"
                 }
               ]
             },
@@ -3284,7 +3348,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 2988.0,
                   "total_building_ping": 42.71,
-                  "final_verified_at": "2026-11-02T18:39:48Z"
+                  "final_verified_at": "2026-11-02T18:39:48Z",
+                  "title": "假日可看房 專任竹科悅揚稀有大陽台"
                 }
               ]
             },
@@ -3300,7 +3365,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 3088.0,
                   "total_building_ping": 47.19,
-                  "final_verified_at": "2026-11-02T18:39:50Z"
+                  "final_verified_at": "2026-11-02T18:39:50Z",
+                  "title": "專任-關埔竹科悅揚角間三改二平車採光美屋"
                 }
               ]
             },
@@ -3316,13 +3382,114 @@
                   "platform": "永慶房仲網",
                   "price_wan": 3188.0,
                   "total_building_ping": 46.04,
-                  "final_verified_at": "2026-11-02T18:39:51Z"
+                  "final_verified_at": "2026-11-02T18:39:51Z",
+                  "title": "竹科悅揚無限視野高樓層優質戶三房"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "N6815HU",
+              "total_building_ping": 46.87,
+              "floor": "24/24樓",
+              "layout": "3房2廳2衛",
+              "parking": "1個坡道平面(車位總價：150萬)",
+              "source_links": [
+                {
+                  "url": "https://www.sinyi.com.tw/buy/house/6815HU",
+                  "platform": "信義房屋",
+                  "price_wan": 2698.0,
+                  "total_building_ping": 46.87,
+                  "title": "竹科悅揚朝東南三房",
+                  "final_verified_at": "2026-11-03T02:23:13.123Z"
+                },
+                {
+                  "url": "https://www.hbhousing.com.tw/detail?sn=s6815HU",
+                  "platform": "住商不動產",
+                  "price_wan": 2698.0,
+                  "total_building_ping": 46.87,
+                  "title": "竹科悅揚朝東南三房",
+                  "final_verified_at": "2026-11-03T02:23:47.277Z"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "N9495RC",
+              "total_building_ping": 25.63,
+              "floor": "5/24樓",
+              "layout": "1房2廳1衛1室",
+              "parking": null,
+              "source_links": [
+                {
+                  "url": "https://www.sinyi.com.tw/buy/house/9495RC",
+                  "platform": "信義房屋",
+                  "price_wan": 1850.0,
+                  "total_building_ping": 25.63,
+                  "title": "近關埔國小竹科悅揚",
+                  "final_verified_at": "2026-11-03T02:23:15.263Z"
+                },
+                {
+                  "url": "https://www.hbhousing.com.tw/detail?sn=s9495RC",
+                  "platform": "住商不動產",
+                  "price_wan": 1850.0,
+                  "total_building_ping": 25.63,
+                  "title": "近關埔國小竹科悅揚",
+                  "final_verified_at": "2026-11-03T02:23:50.234Z"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "N8967NK",
+              "total_building_ping": 33.05,
+              "floor": "11/24樓",
+              "layout": "2房2廳1衛",
+              "parking": "1個坡道平面",
+              "source_links": [
+                {
+                  "url": "https://www.sinyi.com.tw/buy/house/8967NK",
+                  "platform": "信義房屋",
+                  "price_wan": 1950.0,
+                  "total_building_ping": 33.05,
+                  "title": "竹科悅揚高樓採光兩房車位",
+                  "final_verified_at": "2026-11-03T02:23:17.662Z"
+                },
+                {
+                  "url": "https://www.hbhousing.com.tw/detail?sn=s8967NK",
+                  "platform": "住商不動產",
+                  "price_wan": 1950.0,
+                  "total_building_ping": 33.05,
+                  "title": "竹科悅揚高樓採光兩房車位",
+                  "final_verified_at": "2026-11-03T02:23:48.800Z"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "N5336CK",
+              "total_building_ping": 45.27,
+              "floor": "9/24樓",
+              "layout": "3房2廳2衛",
+              "parking": "1個坡道平面",
+              "source_links": [
+                {
+                  "url": "https://www.sinyi.com.tw/buy/house/5336CK",
+                  "platform": "信義房屋",
+                  "price_wan": 2998.0,
+                  "total_building_ping": 45.27,
+                  "title": "專任竹科悅揚三房平面車位",
+                  "final_verified_at": "2026-11-03T02:23:19.689Z"
+                },
+                {
+                  "url": "https://www.hbhousing.com.tw/detail?sn=s5336CK",
+                  "platform": "住商不動產",
+                  "price_wan": 2998.0,
+                  "total_building_ping": 45.27,
+                  "title": "專任竹科悅揚三房平面車位",
+                  "final_verified_at": "2026-11-03T02:23:51.781Z"
                 }
               ]
             }
           ],
           "coverage_note": "部分來源尚未確認，物件資訊以原平台為準",
-          "checked_at": "2026-11-02T18:39:51Z"
+          "checked_at": "2026-11-03T02:23:51.781Z"
         },
         {
           "community_key": "新竹市|觀璞",
@@ -3344,7 +3511,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 1898.0,
                   "total_building_ping": 36.85,
-                  "final_verified_at": "2026-11-02T18:43:30Z"
+                  "final_verified_at": "2026-11-02T18:43:30Z",
+                  "title": "專任觀璞高樓層大兩房平車專屬車位"
                 }
               ]
             },
@@ -3360,7 +3528,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 2328.0,
                   "total_building_ping": 39.26,
-                  "final_verified_at": "2026-11-02T18:43:32Z"
+                  "final_verified_at": "2026-11-02T18:43:32Z",
+                  "title": "觀璞 絕景雲海視野3房加車位"
                 }
               ]
             },
@@ -3376,7 +3545,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 2980.0,
                   "total_building_ping": 59.71,
-                  "final_verified_at": "2026-11-02T18:43:33Z"
+                  "final_verified_at": "2026-11-02T18:43:33Z",
+                  "title": "關埔四房雙平車不到3000萬"
                 }
               ]
             }
@@ -3415,7 +3585,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 3080.0,
                   "total_building_ping": 40.75,
-                  "final_verified_at": "2026-11-02T18:39:55Z"
+                  "final_verified_at": "2026-11-02T18:39:55Z",
+                  "title": "關埔區朝南採光精心設計質感大兩房"
                 }
               ]
             },
@@ -3431,7 +3602,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 3380.0,
                   "total_building_ping": 50.29,
-                  "final_verified_at": "2026-11-02T18:39:56Z"
+                  "final_verified_at": "2026-11-02T18:39:56Z",
+                  "title": "專任富宇雲悅高樓明亮美裝平車三房"
                 }
               ]
             }
@@ -3459,7 +3631,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 2280.0,
                   "total_building_ping": 48.6,
-                  "final_verified_at": "2026-11-02T18:39:58Z"
+                  "final_verified_at": "2026-11-02T18:39:58Z",
+                  "title": "獨家金雅昕景澤高樓最大典雅3房"
                 }
               ]
             }
@@ -3487,7 +3660,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 2458.0,
                   "total_building_ping": 39.6,
-                  "final_verified_at": "2026-11-02T18:39:59Z"
+                  "final_verified_at": "2026-11-02T18:39:59Z",
+                  "title": "專任｜關埔｜興世代大二房+大車位｜好市多商圈"
                 }
               ]
             },
@@ -3503,13 +3677,31 @@
                   "platform": "永慶房仲網",
                   "price_wan": 3588.0,
                   "total_building_ping": 59.03,
-                  "final_verified_at": "2026-11-02T18:40:00Z"
+                  "final_verified_at": "2026-11-02T18:40:00Z",
+                  "title": "興世代/稀有3+1房+車位/光武國中關埔國小學區"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "N7572183",
+              "total_building_ping": 52.15,
+              "floor": "12/22樓",
+              "layout": "3房2廳2衛",
+              "parking": "坡道平面固定車位",
+              "source_links": [
+                {
+                  "url": "https://buy.yungching.com.tw/house/7572183",
+                  "platform": "永慶房仲網",
+                  "price_wan": 2958.0,
+                  "total_building_ping": 52.15,
+                  "title": "興世代|明星學區|高樓漂亮3+1房|平面車位",
+                  "final_verified_at": "2026-11-03T02:20:50.061Z"
                 }
               ]
             }
           ],
           "coverage_note": "部分來源尚未確認，物件資訊以原平台為準",
-          "checked_at": "2026-11-02T18:40:00Z"
+          "checked_at": "2026-11-03T02:20:50.061Z"
         },
         {
           "community_key": "新竹市|公學新城乙區",
@@ -3531,13 +3723,31 @@
                   "platform": "永慶房仲網",
                   "price_wan": 1658.0,
                   "total_building_ping": 39.01,
-                  "final_verified_at": "2026-11-02T18:40:59Z"
+                  "final_verified_at": "2026-11-02T18:40:59Z",
+                  "title": "【公學新城乙區】竹科馬偕清大商圈採光三改四抽車位"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "N7264117",
+              "total_building_ping": 39.04,
+              "floor": "3/12樓",
+              "layout": "3房2廳2衛",
+              "parking": null,
+              "source_links": [
+                {
+                  "url": "https://buy.yungching.com.tw/house/7264117",
+                  "platform": "永慶房仲網",
+                  "price_wan": 1700.0,
+                  "total_building_ping": 39.04,
+                  "title": "專任~公學新城乙區三房-建功培英學區-車位可抽",
+                  "final_verified_at": "2026-11-03T02:20:51.508Z"
                 }
               ]
             }
           ],
           "coverage_note": "部分來源尚未確認，物件資訊以原平台為準",
-          "checked_at": "2026-11-02T18:40:59Z"
+          "checked_at": "2026-11-03T02:20:51.508Z"
         },
         {
           "community_key": "新竹市|華清社區",
@@ -3559,7 +3769,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 2188.0,
                   "total_building_ping": 51.83,
-                  "final_verified_at": "2026-11-02T18:41:07Z"
+                  "final_verified_at": "2026-11-02T18:41:07Z",
+                  "title": "【華清社區】社區電梯已更新3+1房平車景觀戶"
                 }
               ]
             },
@@ -3575,7 +3786,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 3089.0,
                   "total_building_ping": 75.69,
-                  "final_verified_at": "2026-11-02T18:41:10Z"
+                  "final_verified_at": "2026-11-02T18:41:10Z",
+                  "title": "華清大空間四房平車"
                 }
               ]
             }
@@ -3604,7 +3816,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 1488.0,
                   "total_building_ping": 33.49,
-                  "final_verified_at": "2026-11-02T18:41:11Z"
+                  "final_verified_at": "2026-11-02T18:41:11Z",
+                  "title": "【鴻築MM21】簡約風裝潢~溫馨1+1房+平車"
                 }
               ]
             },
@@ -3620,7 +3833,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 1588.0,
                   "total_building_ping": 44.54,
-                  "final_verified_at": "2026-11-02T18:41:11Z"
+                  "final_verified_at": "2026-11-02T18:41:11Z",
+                  "title": "MM21標準三房+獨立大平面車位"
                 }
               ]
             },
@@ -3636,7 +3850,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 1688.0,
                   "total_building_ping": 45.5,
-                  "final_verified_at": "2026-11-02T18:41:13Z"
+                  "final_verified_at": "2026-11-02T18:41:13Z",
+                  "title": "【專】MM21綠景美三房平車樹海戶"
                 }
               ]
             },
@@ -3652,7 +3867,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 1768.0,
                   "total_building_ping": 43.87,
-                  "final_verified_at": "2026-11-02T18:41:14Z"
+                  "final_verified_at": "2026-11-02T18:41:14Z",
+                  "title": "【鴻築MM21】稀有釋出｜質感三房平車景觀戶"
                 }
               ]
             },
@@ -3668,13 +3884,65 @@
                   "platform": "永慶房仲網",
                   "price_wan": 2788.0,
                   "total_building_ping": 71.6,
-                  "final_verified_at": "2026-11-02T18:41:16Z"
+                  "final_verified_at": "2026-11-02T18:41:16Z",
+                  "title": "MM21 | 溫馨採光大四房＋雙車 | 絕美屋況"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "N7242703",
+              "total_building_ping": 43.87,
+              "floor": "12/15樓",
+              "layout": "3房2廳2衛",
+              "parking": "坡道平面固定車位",
+              "source_links": [
+                {
+                  "url": "https://buy.yungching.com.tw/house/7242703",
+                  "platform": "永慶房仲網",
+                  "price_wan": 1680.0,
+                  "total_building_ping": 43.87,
+                  "title": "MM21｜3房改２＋１採光超強《平面大車位》",
+                  "final_verified_at": "2026-11-03T02:20:53.396Z"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "N7355364",
+              "total_building_ping": 43.39,
+              "floor": "13/15樓",
+              "layout": "3房2廳2衛",
+              "parking": "坡道平面固定車位",
+              "source_links": [
+                {
+                  "url": "https://buy.yungching.com.tw/house/7355364",
+                  "platform": "永慶房仲網",
+                  "price_wan": 1768.0,
+                  "total_building_ping": 43.39,
+                  "title": "近景觀大道.MM21高樓採光三房",
+                  "final_verified_at": "2026-11-03T02:20:55.291Z"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "N7554880",
+              "total_building_ping": 52.25,
+              "floor": "6/15樓",
+              "layout": "3房2廳2衛",
+              "parking": "坡道平面固定車位",
+              "source_links": [
+                {
+                  "url": "https://buy.yungching.com.tw/house/7554880",
+                  "platform": "永慶房仲網",
+                  "price_wan": 1890.0,
+                  "total_building_ping": 52.25,
+                  "title": "MM21-稀有明亮通風-三房全開窗-雙車首選美宅",
+                  "final_verified_at": "2026-11-03T02:20:56.753Z"
                 }
               ]
             }
           ],
           "coverage_note": "部分來源尚未確認，物件資訊以原平台為準",
-          "checked_at": "2026-11-02T18:41:16Z"
+          "checked_at": "2026-11-03T02:20:56.753Z"
         },
         {
           "community_key": "新竹市|煙波行館",
@@ -3697,7 +3965,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 998.0,
                   "total_building_ping": 39.84,
-                  "final_verified_at": "2026-11-02T18:41:18Z"
+                  "final_verified_at": "2026-11-02T18:41:18Z",
+                  "title": "【專任】煙波行館｜青安首選朝南三房''大平車''"
                 }
               ]
             },
@@ -3713,7 +3982,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 1150.0,
                   "total_building_ping": 39.3,
-                  "final_verified_at": "2026-11-02T18:41:19Z"
+                  "final_verified_at": "2026-11-02T18:41:19Z",
+                  "title": "煙波行館三房+平車"
                 }
               ]
             },
@@ -3729,13 +3999,48 @@
                   "platform": "永慶房仲網",
                   "price_wan": 1258.0,
                   "total_building_ping": 47.33,
-                  "final_verified_at": "2026-11-02T18:41:21Z"
+                  "final_verified_at": "2026-11-02T18:41:21Z",
+                  "title": "煙波行館景觀四房平車新青安3.0輕鬆成家"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "N7549221",
+              "total_building_ping": 35.1,
+              "floor": "12/14樓",
+              "layout": "3房2廳2衛",
+              "parking": "坡道機械固定車位",
+              "source_links": [
+                {
+                  "url": "https://buy.yungching.com.tw/house/7549221",
+                  "platform": "永慶房仲網",
+                  "price_wan": 980.0,
+                  "total_building_ping": 35.1,
+                  "title": "煙波行館 稀有3房車位 高樓1層2戶",
+                  "final_verified_at": "2026-11-03T02:20:59.271Z"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "N6863595",
+              "total_building_ping": 38.2,
+              "floor": "4/14樓",
+              "layout": "4房2廳2衛",
+              "parking": null,
+              "source_links": [
+                {
+                  "url": "https://buy.yungching.com.tw/house/6863595",
+                  "platform": "永慶房仲網",
+                  "price_wan": 1488.0,
+                  "total_building_ping": 38.2,
+                  "title": "煙波行館全新整理美四房",
+                  "final_verified_at": "2026-11-03T02:21:00.753Z"
                 }
               ]
             }
           ],
           "coverage_note": "部分來源尚未確認，物件資訊以原平台為準",
-          "checked_at": "2026-11-02T18:41:21Z"
+          "checked_at": "2026-11-03T02:21:00.753Z"
         },
         {
           "community_key": "新竹市|富春居",
@@ -3757,7 +4062,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 2088.0,
                   "total_building_ping": 36.7,
-                  "final_verified_at": "2026-11-02T18:41:23Z"
+                  "final_verified_at": "2026-11-02T18:41:23Z",
+                  "title": "專任!【COSTCO旁｜關埔精華】富春居2房平車"
                 }
               ]
             },
@@ -3773,7 +4079,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 2238.0,
                   "total_building_ping": 36.7,
-                  "final_verified_at": "2026-11-02T18:41:24Z"
+                  "final_verified_at": "2026-11-02T18:41:24Z",
+                  "title": "關埔商圈緊鄰COSTCO富宇富春居高樓裝潢兩房"
                 }
               ]
             },
@@ -3789,13 +4096,48 @@
                   "platform": "永慶房仲網",
                   "price_wan": 3698.0,
                   "total_building_ping": 53.4,
-                  "final_verified_at": "2026-11-02T18:41:26Z"
+                  "final_verified_at": "2026-11-02T18:41:26Z",
+                  "title": "【關埔核心商圈·富春居】近好市多~精美三房平車"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "N7389786",
+              "total_building_ping": 67.98,
+              "floor": "8/21樓",
+              "layout": "3房2廳2衛",
+              "parking": "坡道平面固定車位",
+              "source_links": [
+                {
+                  "url": "https://buy.yungching.com.tw/house/7389786",
+                  "platform": "永慶房仲網",
+                  "price_wan": 3468.0,
+                  "total_building_ping": 67.98,
+                  "title": "富春居3房雙車.關埔~好市多黃金商圈溫馨住家",
+                  "final_verified_at": "2026-11-03T02:21:02.653Z"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "Ns2109HR",
+              "total_building_ping": 32.78,
+              "floor": "11/21樓",
+              "layout": "2房--廳2衛",
+              "parking": "有車, 坡道平面",
+              "source_links": [
+                {
+                  "url": "https://www.hbhousing.com.tw/detail?sn=s2109HR",
+                  "platform": "住商不動產",
+                  "price_wan": 1698.0,
+                  "total_building_ping": 32.78,
+                  "title": "㊖富春居㊖關埔來財首選",
+                  "final_verified_at": "2026-11-03T02:23:45.692Z"
                 }
               ]
             }
           ],
           "coverage_note": "部分來源尚未確認，物件資訊以原平台為準",
-          "checked_at": "2026-11-02T18:41:26Z"
+          "checked_at": "2026-11-03T02:23:45.692Z"
         },
         {
           "community_key": "新竹市|春福HI INN",
@@ -3817,7 +4159,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 1030.0,
                   "total_building_ping": 32.38,
-                  "final_verified_at": "2026-11-02T18:41:27Z"
+                  "final_verified_at": "2026-11-02T18:41:27Z",
+                  "title": "春福HI INN兩房平車視野戶"
                 }
               ]
             },
@@ -3833,7 +4176,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 1098.0,
                   "total_building_ping": 37.15,
-                  "final_verified_at": "2026-11-02T18:41:29Z"
+                  "final_verified_at": "2026-11-02T18:41:29Z",
+                  "title": "春福HIINN｜輕屋齡大兩房平車《近西濱、68》"
                 }
               ]
             },
@@ -3849,7 +4193,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 1180.0,
                   "total_building_ping": 37.15,
-                  "final_verified_at": "2026-11-02T18:41:31Z"
+                  "final_verified_at": "2026-11-02T18:41:31Z",
+                  "title": "春福Hi inn邊間明亮｜方正大二房平車"
                 }
               ]
             },
@@ -3865,7 +4210,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 1288.0,
                   "total_building_ping": 36.86,
-                  "final_verified_at": "2026-11-02T18:41:33Z"
+                  "final_verified_at": "2026-11-02T18:41:33Z",
+                  "title": "春福HI INN2改1房三面採光視野戶+平車"
                 }
               ]
             },
@@ -3881,7 +4227,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 1598.0,
                   "total_building_ping": 46.63,
-                  "final_verified_at": "2026-11-02T18:41:34Z"
+                  "final_verified_at": "2026-11-02T18:41:34Z",
+                  "title": "南寮好生活｜Hi inn三房平車｜幸福成家"
                 }
               ]
             },
@@ -3897,7 +4244,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 1798.0,
                   "total_building_ping": 47.6,
-                  "final_verified_at": "2026-11-02T18:41:36Z"
+                  "final_verified_at": "2026-11-02T18:41:36Z",
+                  "title": "春福HI INN美裝潢三房平車"
                 }
               ]
             }
@@ -3936,7 +4284,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 1598.0,
                   "total_building_ping": 44.54,
-                  "final_verified_at": "2026-11-02T18:41:37Z"
+                  "final_verified_at": "2026-11-02T18:41:37Z",
+                  "title": "香山牛埔|樂巢代百萬裝潢２＋１房大露台 B1平車"
                 }
               ]
             },
@@ -3952,7 +4301,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 1698.0,
                   "total_building_ping": 49.02,
-                  "final_verified_at": "2026-11-02T18:41:39Z"
+                  "final_verified_at": "2026-11-02T18:41:39Z",
+                  "title": "樂巢代稀有三房B1平車超值首購宅"
                 }
               ]
             }
@@ -3980,7 +4330,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 498.0,
                   "total_building_ping": 19.84,
-                  "final_verified_at": "2026-11-02T18:41:40Z"
+                  "final_verified_at": "2026-11-02T18:41:40Z",
+                  "title": "森之妍竹科小資族首選收租電梯美套房"
                 }
               ]
             },
@@ -3996,7 +4347,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 568.0,
                   "total_building_ping": 21.38,
-                  "final_verified_at": "2026-11-02T18:41:41Z"
+                  "final_verified_at": "2026-11-02T18:41:41Z",
+                  "title": "竹科小資族 《森之妍》平車大套房"
                 }
               ]
             }
@@ -4024,7 +4376,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 498.0,
                   "total_building_ping": 15.26,
-                  "final_verified_at": "2026-11-02T18:41:42Z"
+                  "final_verified_at": "2026-11-02T18:41:42Z",
+                  "title": "煙波主人近科學園區花園綠意美套房"
                 }
               ]
             },
@@ -4040,7 +4393,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 798.0,
                   "total_building_ping": 35.96,
-                  "final_verified_at": "2026-11-02T18:41:43Z"
+                  "final_verified_at": "2026-11-02T18:41:43Z",
+                  "title": "煙波主人｜稀有大坪數一房一廳＋平面車位"
                 }
               ]
             }
@@ -4055,9 +4409,27 @@
           "transaction_ids": [
             "housing_20261103_images_38e594015a_P1R10"
           ],
-          "listings": [],
+          "listings": [
+            {
+              "inventory_listing_id": "N7320993",
+              "total_building_ping": 45.85,
+              "floor": "3/11樓",
+              "layout": "3房2廳2衛",
+              "parking": "坡道平面固定車位",
+              "source_links": [
+                {
+                  "url": "https://buy.yungching.com.tw/house/7320993",
+                  "platform": "永慶房仲網",
+                  "price_wan": 2279.0,
+                  "total_building_ping": 45.85,
+                  "title": "華興『久煜恬園』全新落成樹梢美三房",
+                  "final_verified_at": "2026-11-03T02:21:04.044Z"
+                }
+              ]
+            }
+          ],
           "coverage_note": "部分來源尚未確認，物件資訊以原平台為準",
-          "checked_at": null
+          "checked_at": "2026-11-03T02:21:04.044Z"
         },
         {
           "community_key": "竹北市|蔚藍海",
@@ -4077,9 +4449,27 @@
           "transaction_ids": [
             "housing_20261103_images_38e594015a_P2R4"
           ],
-          "listings": [],
+          "listings": [
+            {
+              "inventory_listing_id": "N7172CJ",
+              "total_building_ping": 52.96,
+              "floor": "4/9樓",
+              "layout": "4房2廳2衛",
+              "parking": "1個坡道平面",
+              "source_links": [
+                {
+                  "url": "https://www.sinyi.com.tw/buy/house/7172CJ",
+                  "platform": "信義房屋",
+                  "price_wan": 1980.0,
+                  "total_building_ping": 52.96,
+                  "title": "文化溱邸雙採光四房美居",
+                  "final_verified_at": "2026-11-03T02:23:08.375Z"
+                }
+              ]
+            }
+          ],
           "coverage_note": "部分來源尚未確認，物件資訊以原平台為準",
-          "checked_at": null
+          "checked_at": "2026-11-03T02:23:08.375Z"
         },
         {
           "community_key": "竹北市|冠軍城峰",
@@ -4101,7 +4491,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 1900.0,
                   "total_building_ping": 55.46,
-                  "final_verified_at": "2026-11-02T18:41:44Z"
+                  "final_verified_at": "2026-11-02T18:41:44Z",
+                  "title": "竹北冠軍城峰"
                 }
               ]
             },
@@ -4117,13 +4508,48 @@
                   "platform": "永慶房仲網",
                   "price_wan": 1988.0,
                   "total_building_ping": 53.19,
-                  "final_verified_at": "2026-11-02T18:41:45Z"
+                  "final_verified_at": "2026-11-02T18:41:45Z",
+                  "title": "竹北中央路│華興重劃│冠軍城峰三房大車位"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "N7428586",
+              "total_building_ping": 53.19,
+              "floor": "12/15樓",
+              "layout": "3房2廳2衛",
+              "parking": "坡道平面固定車位",
+              "source_links": [
+                {
+                  "url": "https://buy.yungching.com.tw/house/7428586",
+                  "platform": "永慶房仲網",
+                  "price_wan": 2288.0,
+                  "total_building_ping": 53.19,
+                  "title": "竹北國小旁~冠軍城峰高樓採光美3房平車",
+                  "final_verified_at": "2026-11-03T02:21:05.258Z"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "N7352371",
+              "total_building_ping": 55.46,
+              "floor": "9/15樓",
+              "layout": "3房2廳2衛",
+              "parking": "坡道平面固定車位",
+              "source_links": [
+                {
+                  "url": "https://buy.yungching.com.tw/house/7352371",
+                  "platform": "永慶房仲網",
+                  "price_wan": 2388.0,
+                  "total_building_ping": 55.46,
+                  "title": "冠軍城峰~華興區視野戶三房+平車",
+                  "final_verified_at": "2026-11-03T02:21:06.779Z"
                 }
               ]
             }
           ],
           "coverage_note": "部分來源尚未確認，物件資訊以原平台為準",
-          "checked_at": "2026-11-02T18:41:45Z"
+          "checked_at": "2026-11-03T02:21:06.779Z"
         },
         {
           "community_key": "竹北市|四季繪",
@@ -4145,7 +4571,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 1720.0,
                   "total_building_ping": 32.76,
-                  "final_verified_at": "2026-11-02T18:42:16Z"
+                  "final_verified_at": "2026-11-02T18:42:16Z",
+                  "title": "首購成家/勝利國中/四季繪兩房兩衛＋車位"
                 }
               ]
             }
@@ -4173,13 +4600,31 @@
                   "platform": "永慶房仲網",
                   "price_wan": 2388.0,
                   "total_building_ping": 56.19,
-                  "final_verified_at": "2026-11-02T18:42:17Z"
+                  "final_verified_at": "2026-11-02T18:42:17Z",
+                  "title": "河岸朝南第一排/大河戀/質感景觀3+1房"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "N7497607",
+              "total_building_ping": 44.83,
+              "floor": "8/15樓",
+              "layout": "2房1廳1衛",
+              "parking": "坡道平面固定車位",
+              "source_links": [
+                {
+                  "url": "https://buy.yungching.com.tw/house/7497607",
+                  "platform": "永慶房仲網",
+                  "price_wan": 1898.0,
+                  "total_building_ping": 44.83,
+                  "title": "大河戀溫馨裝潢美2房",
+                  "final_verified_at": "2026-11-03T02:21:07.987Z"
                 }
               ]
             }
           ],
           "coverage_note": "部分來源尚未確認，物件資訊以原平台為準",
-          "checked_at": "2026-11-02T18:42:17Z"
+          "checked_at": "2026-11-03T02:21:07.987Z"
         },
         {
           "community_key": "竹北市|興築興時代",
@@ -4201,7 +4646,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 2100.0,
                   "total_building_ping": 39.34,
-                  "final_verified_at": "2026-11-02T18:42:18Z"
+                  "final_verified_at": "2026-11-02T18:42:18Z",
+                  "title": "專任-AI台元雙園區興時代兩房景觀戶+平面車位"
                 }
               ]
             },
@@ -4217,7 +4663,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 2398.0,
                   "total_building_ping": 46.41,
-                  "final_verified_at": "2026-11-02T18:42:20Z"
+                  "final_verified_at": "2026-11-02T18:42:20Z",
+                  "title": "竹北 興時代 三房平車大露臺戶 近AI 台元園區"
                 }
               ]
             },
@@ -4233,13 +4680,65 @@
                   "platform": "永慶房仲網",
                   "price_wan": 2588.0,
                   "total_building_ping": 49.45,
-                  "final_verified_at": "2026-11-02T18:42:21Z"
+                  "final_verified_at": "2026-11-02T18:42:21Z",
+                  "title": "｜興築興時代｜AI園區三房平車"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "N7560103",
+              "total_building_ping": 48.17,
+              "floor": "24/24樓",
+              "layout": "3房2廳2衛",
+              "parking": "坡道平面固定車位",
+              "source_links": [
+                {
+                  "url": "https://buy.yungching.com.tw/house/7560103",
+                  "platform": "永慶房仲網",
+                  "price_wan": 2468.0,
+                  "total_building_ping": 48.17,
+                  "title": "勝利學區/興築興時代/24樓高樓景觀/三房+平車",
+                  "final_verified_at": "2026-11-03T02:21:10.031Z"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "N7366291",
+              "total_building_ping": 46.41,
+              "floor": "10/24樓",
+              "layout": "3房2廳2衛",
+              "parking": null,
+              "source_links": [
+                {
+                  "url": "https://buy.yungching.com.tw/house/7366291",
+                  "platform": "永慶房仲網",
+                  "price_wan": 2568.0,
+                  "total_building_ping": 46.41,
+                  "title": "興時代｜客廳看綠庭｜美裝三房平車",
+                  "final_verified_at": "2026-11-03T02:21:28.996Z"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "N1974ST",
+              "total_building_ping": 39.65,
+              "floor": "24/24樓",
+              "layout": "2房2廳1衛",
+              "parking": "1個坡道平面",
+              "source_links": [
+                {
+                  "url": "https://www.sinyi.com.tw/buy/house/1974ST",
+                  "platform": "信義房屋",
+                  "price_wan": 1880.0,
+                  "total_building_ping": 39.65,
+                  "title": "ＡＩ遠百興時代視野大兩房",
+                  "final_verified_at": "2026-11-03T02:23:10.745Z"
                 }
               ]
             }
           ],
           "coverage_note": "部分來源尚未確認，物件資訊以原平台為準",
-          "checked_at": "2026-11-02T18:42:21Z"
+          "checked_at": "2026-11-03T02:23:10.745Z"
         },
         {
           "community_key": "竹北市|京茂富天廈River1/RiverOne",
@@ -4261,7 +4760,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 3188.0,
                   "total_building_ping": 53.3,
-                  "final_verified_at": "2026-11-02T18:42:22Z"
+                  "final_verified_at": "2026-11-02T18:42:22Z",
+                  "title": "專任竹北京茂RIVER1河岸十里長堤景觀2房平車"
                 }
               ]
             }
@@ -4289,7 +4789,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 2588.0,
                   "total_building_ping": 52.76,
-                  "final_verified_at": "2026-11-02T18:42:23Z"
+                  "final_verified_at": "2026-11-02T18:42:23Z",
+                  "title": "AI智慧園區首排仁發香榭溫馨三房附平車"
                 }
               ]
             },
@@ -4305,7 +4806,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 7150.0,
                   "total_building_ping": 756.49,
-                  "final_verified_at": "2026-11-02T18:42:24Z"
+                  "final_verified_at": "2026-11-02T18:42:24Z",
+                  "title": "仁發香榭投報自用物件"
                 }
               ],
               "note": "本件開價含住宅與58個車位，建物總坪數含車位。"
@@ -4345,7 +4847,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 3888.0,
                   "total_building_ping": 51.81,
-                  "final_verified_at": "2026-11-02T18:42:25Z"
+                  "final_verified_at": "2026-11-02T18:42:25Z",
+                  "title": "獨家！喬立『Page One』大三房~永久視野宅"
                 }
               ]
             }
@@ -4373,13 +4876,31 @@
                   "platform": "永慶房仲網",
                   "price_wan": 2188.0,
                   "total_building_ping": 41.57,
-                  "final_verified_at": "2026-11-02T18:42:26Z"
+                  "final_verified_at": "2026-11-02T18:42:26Z",
+                  "title": "高鐵特區搶手富宇水花園二房平面車位"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "N7435948",
+              "total_building_ping": 35.85,
+              "floor": "3/12樓",
+              "layout": "2房2廳1衛",
+              "parking": "坡道機械固定車位",
+              "source_links": [
+                {
+                  "url": "https://buy.yungching.com.tw/house/7435948",
+                  "platform": "永慶房仲網",
+                  "price_wan": 2058.0,
+                  "total_building_ping": 35.85,
+                  "title": "高鐵區富宇水花園兩房一車",
+                  "final_verified_at": "2026-11-03T02:21:30.196Z"
                 }
               ]
             }
           ],
           "coverage_note": "部分來源尚未確認，物件資訊以原平台為準",
-          "checked_at": "2026-11-02T18:42:26Z"
+          "checked_at": "2026-11-03T02:21:30.196Z"
         },
         {
           "community_key": "竹北市|時尚鉑晶",
@@ -4401,13 +4922,31 @@
                   "platform": "永慶房仲網",
                   "price_wan": 2098.0,
                   "total_building_ping": 50.74,
-                  "final_verified_at": "2026-11-02T18:42:29Z"
+                  "final_verified_at": "2026-11-02T18:42:29Z",
+                  "title": "【時尚鉑晶】採光優質大三房｜格局方正・明亮舒適"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "N7512922",
+              "total_building_ping": 53.28,
+              "floor": "8/13樓",
+              "layout": "3房2廳2衛",
+              "parking": "坡道平面固定車位",
+              "source_links": [
+                {
+                  "url": "https://buy.yungching.com.tw/house/7512922",
+                  "platform": "永慶房仲網",
+                  "price_wan": 2388.0,
+                  "total_building_ping": 53.28,
+                  "title": "【時尚鉑晶】8樓採光視野佳｜3房＋B1平面車位",
+                  "final_verified_at": "2026-11-03T02:21:31.659Z"
                 }
               ]
             }
           ],
           "coverage_note": "部分來源尚未確認，物件資訊以原平台為準",
-          "checked_at": "2026-11-02T18:42:29Z"
+          "checked_at": "2026-11-03T02:21:31.659Z"
         },
         {
           "community_key": "新竹縣其他地區|豐韻",
@@ -4440,13 +4979,31 @@
                   "platform": "永慶房仲網",
                   "price_wan": 1368.0,
                   "total_building_ping": 36.72,
-                  "final_verified_at": "2026-11-02T18:42:30Z"
+                  "final_verified_at": "2026-11-02T18:42:30Z",
+                  "title": "明新重劃/富宇明星樂/朝南採光大二房平車"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "N7581919",
+              "total_building_ping": 52.15,
+              "floor": "9/9樓",
+              "layout": "3房2廳2衛",
+              "parking": "坡道平面固定車位",
+              "source_links": [
+                {
+                  "url": "https://buy.yungching.com.tw/house/7581919",
+                  "platform": "永慶房仲網",
+                  "price_wan": 1888.0,
+                  "total_building_ping": 52.15,
+                  "title": "富宇明星樂-夜景美不勝收(正三房+雙車)",
+                  "final_verified_at": "2026-11-03T02:22:08.455Z"
                 }
               ]
             }
           ],
           "coverage_note": "部分來源尚未確認，物件資訊以原平台為準",
-          "checked_at": "2026-11-02T18:42:30Z"
+          "checked_at": "2026-11-03T02:22:08.455Z"
         },
         {
           "community_key": "新竹縣其他地區|惠安名園",
@@ -4480,7 +5037,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 1513.0,
                   "total_building_ping": 43.74,
-                  "final_verified_at": "2026-11-02T18:42:31Z"
+                  "final_verified_at": "2026-11-02T18:42:31Z",
+                  "title": "[和發善藝]至善重劃區 高樓層視野戶三房平車"
                 }
               ]
             },
@@ -4496,7 +5054,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 1558.0,
                   "total_building_ping": 46.54,
-                  "final_verified_at": "2026-11-02T18:42:32Z"
+                  "final_verified_at": "2026-11-02T18:42:32Z",
+                  "title": "至善重劃區和發善藝全新三房平車樹梢戶B1大車位"
                 }
               ]
             },
@@ -4512,7 +5071,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 1639.0,
                   "total_building_ping": 46.41,
-                  "final_verified_at": "2026-11-02T18:42:33Z"
+                  "final_verified_at": "2026-11-02T18:42:33Z",
+                  "title": "至善重劃區~善藝朝南三房車位"
                 }
               ]
             },
@@ -4528,13 +5088,48 @@
                   "platform": "永慶房仲網",
                   "price_wan": 1758.0,
                   "total_building_ping": 55.2,
-                  "final_verified_at": "2026-11-02T18:42:35Z"
+                  "final_verified_at": "2026-11-02T18:42:35Z",
+                  "title": "近竹科【和發善藝】三房雙平車全社區最低價"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "N7514517",
+              "total_building_ping": 34.18,
+              "floor": "10/14樓",
+              "layout": "2房2廳1衛",
+              "parking": "坡道平面固定車位",
+              "source_links": [
+                {
+                  "url": "https://buy.yungching.com.tw/house/7514517",
+                  "platform": "永慶房仲網",
+                  "price_wan": 1080.0,
+                  "total_building_ping": 34.18,
+                  "title": "竹東至善重劃區【和發善藝】兩房平車視野戶",
+                  "final_verified_at": "2026-11-03T02:21:33.244Z"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "N7388709",
+              "total_building_ping": 46.53,
+              "floor": "12/15樓",
+              "layout": "3房2廳2衛",
+              "parking": "坡道平面固定車位",
+              "source_links": [
+                {
+                  "url": "https://buy.yungching.com.tw/house/7388709",
+                  "platform": "永慶房仲網",
+                  "price_wan": 1698.0,
+                  "total_building_ping": 46.53,
+                  "title": "竹東和發善藝至善重劃區全新景觀三房附平車",
+                  "final_verified_at": "2026-11-03T02:21:34.401Z"
                 }
               ]
             }
           ],
           "coverage_note": "部分來源尚未確認，物件資訊以原平台為準",
-          "checked_at": "2026-11-02T18:42:35Z"
+          "checked_at": "2026-11-03T02:21:34.401Z"
         },
         {
           "community_key": "新竹縣其他地區|微風名園",
@@ -4556,7 +5151,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 1498.0,
                   "total_building_ping": 46.62,
-                  "final_verified_at": "2026-11-02T18:42:36Z"
+                  "final_verified_at": "2026-11-02T18:42:36Z",
+                  "title": "誠售最划算一禾寅建設微風名園ㄧ主+陽25坪"
                 }
               ]
             },
@@ -4572,7 +5168,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 1680.0,
                   "total_building_ping": 46.65,
-                  "final_verified_at": "2026-11-02T18:42:37Z"
+                  "final_verified_at": "2026-11-02T18:42:37Z",
+                  "title": "微風名園朝南景觀美三房"
                 }
               ]
             },
@@ -4588,7 +5185,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 1688.0,
                   "total_building_ping": 46.42,
-                  "final_verified_at": "2026-11-02T18:42:38Z"
+                  "final_verified_at": "2026-11-02T18:42:38Z",
+                  "title": "微風名園禾寅建設高樓層3房+車位"
                 }
               ]
             }
@@ -4616,13 +5214,48 @@
                   "platform": "永慶房仲網",
                   "price_wan": 788.0,
                   "total_building_ping": 23.25,
-                  "final_verified_at": "2026-11-02T18:42:39Z"
+                  "final_verified_at": "2026-11-02T18:42:39Z",
+                  "title": "築夢輕奢2房拎包入住湖口力成悅豐"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "N7526817",
+              "total_building_ping": 24.3,
+              "floor": "5/5樓",
+              "layout": "2房2廳1衛",
+              "parking": null,
+              "source_links": [
+                {
+                  "url": "https://buy.yungching.com.tw/house/7526817",
+                  "platform": "永慶房仲網",
+                  "price_wan": 1080.0,
+                  "total_building_ping": 24.3,
+                  "title": "正成功路旁信勢國小全新平車華廈",
+                  "final_verified_at": "2026-11-03T02:21:35.921Z"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "N7460219",
+              "total_building_ping": 24.3,
+              "floor": "4/5樓",
+              "layout": "2房2廳1衛",
+              "parking": "固定車位",
+              "source_links": [
+                {
+                  "url": "https://buy.yungching.com.tw/house/7460219",
+                  "platform": "永慶房仲網",
+                  "price_wan": 1150.0,
+                  "total_building_ping": 24.3,
+                  "title": "湖口後站2房",
+                  "final_verified_at": "2026-11-03T02:21:37.600Z"
                 }
               ]
             }
           ],
           "coverage_note": "部分來源尚未確認，物件資訊以原平台為準",
-          "checked_at": "2026-11-02T18:42:39Z"
+          "checked_at": "2026-11-03T02:21:37.600Z"
         },
         {
           "community_key": "新竹縣其他地區|環球市",
@@ -4642,9 +5275,27 @@
           "transaction_ids": [
             "housing_20261103_images_38e594015a_P8R4"
           ],
-          "listings": [],
+          "listings": [
+            {
+              "inventory_listing_id": "N1605LJ",
+              "total_building_ping": 46.78,
+              "floor": "7/11樓",
+              "layout": "2房2廳2衛1室",
+              "parking": "1個坡道平面(車位總價：140萬)",
+              "source_links": [
+                {
+                  "url": "https://www.sinyi.com.tw/buy/house/1605LJ",
+                  "platform": "信義房屋",
+                  "price_wan": 1578.0,
+                  "total_building_ping": 46.78,
+                  "title": "里峰里白裝潢美屋",
+                  "final_verified_at": "2026-11-03T02:23:37.829Z"
+                }
+              ]
+            }
+          ],
           "coverage_note": "部分來源尚未確認，物件資訊以原平台為準",
-          "checked_at": null
+          "checked_at": "2026-11-03T02:23:37.829Z"
         },
         {
           "community_key": "新竹縣其他地區|御花園",
@@ -4677,7 +5328,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 688.0,
                   "total_building_ping": 26.44,
-                  "final_verified_at": "2026-11-02T18:42:40Z"
+                  "final_verified_at": "2026-11-02T18:42:40Z",
+                  "title": "勝麗A+｜竹南視野戶｜兩房首購首選"
                 }
               ]
             },
@@ -4693,7 +5345,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 868.0,
                   "total_building_ping": 30.67,
-                  "final_verified_at": "2026-11-02T18:42:41Z"
+                  "final_verified_at": "2026-11-02T18:42:41Z",
+                  "title": "專任|勝麗A+|高樓面東視野戶|超大兩房機上車位"
                 }
               ]
             },
@@ -4709,7 +5362,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 868.0,
                   "total_building_ping": 30.64,
-                  "final_verified_at": "2026-11-02T18:42:42Z"
+                  "final_verified_at": "2026-11-02T18:42:42Z",
+                  "title": "{專任}勝麗A+|景觀舒適2房+1車"
                 }
               ]
             },
@@ -4725,7 +5379,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 1028.0,
                   "total_building_ping": 30.56,
-                  "final_verified_at": "2026-11-02T18:42:44Z"
+                  "final_verified_at": "2026-11-02T18:42:44Z",
+                  "title": "【勝麗A+】兩房溫馨車位美廈"
                 }
               ]
             },
@@ -4741,13 +5396,31 @@
                   "platform": "永慶房仲網",
                   "price_wan": 1458.0,
                   "total_building_ping": 52.58,
-                  "final_verified_at": "2026-11-02T18:42:45Z"
+                  "final_verified_at": "2026-11-02T18:42:45Z",
+                  "title": "竹南勝麗A+優質4房大平車"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "N7512387",
+              "total_building_ping": 41.97,
+              "floor": "9/15樓",
+              "layout": "3房2廳2衛",
+              "parking": "固定車位",
+              "source_links": [
+                {
+                  "url": "https://buy.yungching.com.tw/house/7512387",
+                  "platform": "永慶房仲網",
+                  "price_wan": 1198.0,
+                  "total_building_ping": 41.97,
+                  "title": "【勝麗A+】竹南景觀溫馨美裝潢三房平車",
+                  "final_verified_at": "2026-11-03T02:21:38.828Z"
                 }
               ]
             }
           ],
           "coverage_note": "部分來源尚未確認，物件資訊以原平台為準",
-          "checked_at": "2026-11-02T18:42:45Z"
+          "checked_at": "2026-11-03T02:21:38.828Z"
         },
         {
           "community_key": "竹南鎮|品未來一期",
@@ -4767,9 +5440,27 @@
           "transaction_ids": [
             "housing_20261103_images_38e594015a_P7R12"
           ],
-          "listings": [],
+          "listings": [
+            {
+              "inventory_listing_id": "N7429218",
+              "total_building_ping": 25.5,
+              "floor": "5/5樓",
+              "layout": "2房2廳2衛",
+              "parking": null,
+              "source_links": [
+                {
+                  "url": "https://buy.yungching.com.tw/house/7429218",
+                  "platform": "永慶房仲網",
+                  "price_wan": 988.0,
+                  "total_building_ping": 25.5,
+                  "title": "龍昇街【真心】全新兩房兩衛浴｜平面車位",
+                  "final_verified_at": "2026-11-03T02:21:40.387Z"
+                }
+              ]
+            }
+          ],
           "coverage_note": "部分來源尚未確認，物件資訊以原平台為準",
-          "checked_at": null
+          "checked_at": "2026-11-03T02:21:40.387Z"
         },
         {
           "community_key": "頭份市|銀河星鑽",
@@ -4791,7 +5482,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 458.0,
                   "total_building_ping": 21.87,
-                  "final_verified_at": "2026-11-02T18:42:46Z"
+                  "final_verified_at": "2026-11-02T18:42:46Z",
+                  "title": "銀河星鑽 稀有釋出好房 自用出租皆可有VIEW"
                 }
               ]
             }
@@ -4819,7 +5511,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 788.0,
                   "total_building_ping": 35.88,
-                  "final_verified_at": "2026-11-02T18:42:48Z"
+                  "final_verified_at": "2026-11-02T18:42:48Z",
+                  "title": "專任頭份雲天大地大兩房+平車"
                 }
               ]
             },
@@ -4835,7 +5528,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 828.0,
                   "total_building_ping": 37.88,
-                  "final_verified_at": "2026-11-02T18:42:49Z"
+                  "final_verified_at": "2026-11-02T18:42:49Z",
+                  "title": "質感裝潢大兩房平車『雲天大地』"
                 }
               ]
             },
@@ -4851,7 +5545,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 1088.0,
                   "total_building_ping": 48.44,
-                  "final_verified_at": "2026-11-02T18:43:08Z"
+                  "final_verified_at": "2026-11-02T18:43:08Z",
+                  "title": "【雲天大地】近國道花園生活大3房平車"
                 }
               ]
             },
@@ -4867,13 +5562,31 @@
                   "platform": "永慶房仲網",
                   "price_wan": 1250.0,
                   "total_building_ping": 47.89,
-                  "final_verified_at": "2026-11-02T18:43:09Z"
+                  "final_verified_at": "2026-11-02T18:43:09Z",
+                  "title": "雲天大地｜三改二精品美宅｜平面車位首選"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "N6918363",
+              "total_building_ping": 48.77,
+              "floor": "6/7樓",
+              "layout": "3房2廳2衛",
+              "parking": "坡道平面固定車位",
+              "source_links": [
+                {
+                  "url": "https://buy.yungching.com.tw/house/6918363",
+                  "platform": "永慶房仲網",
+                  "price_wan": 1160.0,
+                  "total_building_ping": 48.77,
+                  "title": "【雲天大地】綠景美三房｜平面車位",
+                  "final_verified_at": "2026-11-03T02:21:42.211Z"
                 }
               ]
             }
           ],
           "coverage_note": "部分來源尚未確認，物件資訊以原平台為準",
-          "checked_at": "2026-11-02T18:43:09Z"
+          "checked_at": "2026-11-03T02:21:42.211Z"
         },
         {
           "community_key": "頭份市|昌隆上賀",
@@ -4895,7 +5608,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 1068.0,
                   "total_building_ping": 32.84,
-                  "final_verified_at": "2026-11-02T18:43:10Z"
+                  "final_verified_at": "2026-11-02T18:43:10Z",
+                  "title": "全新【昌隆上賀】｜小資兩房平車美廈"
                 }
               ]
             },
@@ -4911,7 +5625,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 1256.0,
                   "total_building_ping": 36.44,
-                  "final_verified_at": "2026-11-02T18:43:11Z"
+                  "final_verified_at": "2026-11-02T18:43:11Z",
+                  "title": "昌隆全新高樓層大兩房平面車位"
                 }
               ]
             },
@@ -4927,7 +5642,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 1256.0,
                   "total_building_ping": 36.44,
-                  "final_verified_at": "2026-11-02T18:43:12Z"
+                  "final_verified_at": "2026-11-02T18:43:12Z",
+                  "title": "昌隆全新上賀中高樓大兩房"
                 }
               ]
             },
@@ -4943,7 +5659,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 1398.0,
                   "total_building_ping": 43.97,
-                  "final_verified_at": "2026-11-02T18:43:13Z"
+                  "final_verified_at": "2026-11-02T18:43:13Z",
+                  "title": "【昌隆上賀】全新高坪效邊間三房B1平車"
                 }
               ]
             },
@@ -4959,7 +5676,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 1560.0,
                   "total_building_ping": 45.83,
-                  "final_verified_at": "2026-11-02T18:43:15Z"
+                  "final_verified_at": "2026-11-02T18:43:15Z",
+                  "title": "昌隆上賀 全新交屋 視野美景 高樓三房平車"
                 }
               ]
             },
@@ -4975,7 +5693,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 1688.0,
                   "total_building_ping": 48.2,
-                  "final_verified_at": "2026-11-02T18:43:16Z"
+                  "final_verified_at": "2026-11-02T18:43:16Z",
+                  "title": "昌隆廣場【上賀】超美採光三房 + 柱邊大車位"
                 }
               ]
             },
@@ -4991,13 +5710,31 @@
                   "platform": "永慶房仲網",
                   "price_wan": 1766.0,
                   "total_building_ping": 48.31,
-                  "final_verified_at": "2026-11-02T18:43:17Z"
+                  "final_verified_at": "2026-11-02T18:43:17Z",
+                  "title": "【昌隆上賀】舒適外棟優質美宅"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "N7480462",
+              "total_building_ping": 49.17,
+              "floor": "8/14樓",
+              "layout": "3房2廳2衛",
+              "parking": "坡道平面固定車位",
+              "source_links": [
+                {
+                  "url": "https://buy.yungching.com.tw/house/7480462",
+                  "platform": "永慶房仲網",
+                  "price_wan": 1758.0,
+                  "total_building_ping": 49.17,
+                  "title": "頭份全新交屋！｜昌隆上賀｜最佳採光三房+平車",
+                  "final_verified_at": "2026-11-03T02:22:07.293Z"
                 }
               ]
             }
           ],
           "coverage_note": "部分來源尚未確認，物件資訊以原平台為準",
-          "checked_at": "2026-11-02T18:43:17Z"
+          "checked_at": "2026-11-03T02:22:07.293Z"
         },
         {
           "community_key": "頭份市|昌隆廣場-上旺",
@@ -5019,7 +5756,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 1250.0,
                   "total_building_ping": 41.15,
-                  "final_verified_at": "2026-11-02T18:43:18Z"
+                  "final_verified_at": "2026-11-02T18:43:18Z",
+                  "title": "頭份核心生活圈【昌隆上旺】輕屋齡大主臥兩房平車"
                 }
               ]
             },
@@ -5035,7 +5773,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 1488.0,
                   "total_building_ping": 47.13,
-                  "final_verified_at": "2026-11-02T18:43:19Z"
+                  "final_verified_at": "2026-11-02T18:43:19Z",
+                  "title": "專任 | 精巧裝潢 |上旺3房露台戶平車"
                 }
               ]
             },
@@ -5051,7 +5790,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 1588.0,
                   "total_building_ping": 49.39,
-                  "final_verified_at": "2026-11-02T18:43:20Z"
+                  "final_verified_at": "2026-11-02T18:43:20Z",
+                  "title": "昌隆上旺_質感精裝 三房平車 高樓視野景觀宅"
                 }
               ]
             },
@@ -5067,13 +5807,31 @@
                   "platform": "永慶房仲網",
                   "price_wan": 1768.0,
                   "total_building_ping": 48.19,
-                  "final_verified_at": "2026-11-02T18:43:21Z"
+                  "final_verified_at": "2026-11-02T18:43:21Z",
+                  "title": "外棟｜坐北朝南｜昌隆廣場｜上旺3房平車｜出價談"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "N7580631",
+              "total_building_ping": 49.44,
+              "floor": "9/15樓",
+              "layout": "3房2廳2衛",
+              "parking": "坡道平面固定車位",
+              "source_links": [
+                {
+                  "url": "https://buy.yungching.com.tw/house/7580631",
+                  "platform": "永慶房仲網",
+                  "price_wan": 1568.0,
+                  "total_building_ping": 49.44,
+                  "title": "頭份昌隆上旺高樓層三房平車廈",
+                  "final_verified_at": "2026-11-03T02:21:59.168Z"
                 }
               ]
             }
           ],
           "coverage_note": "部分來源尚未確認，物件資訊以原平台為準",
-          "checked_at": "2026-11-02T18:43:21Z"
+          "checked_at": "2026-11-03T02:21:59.168Z"
         },
         {
           "community_key": "頭份市|勝旺好旺",
@@ -5095,7 +5853,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 1398.0,
                   "total_building_ping": 49.42,
-                  "final_verified_at": "2026-11-02T18:43:22Z"
+                  "final_verified_at": "2026-11-02T18:43:22Z",
+                  "title": "專任-昌隆好旺｜清新質感花園露臺3房平車"
                 }
               ]
             },
@@ -5111,13 +5870,82 @@
                   "platform": "永慶房仲網",
                   "price_wan": 2050.0,
                   "total_building_ping": 70.53,
-                  "final_verified_at": "2026-11-02T18:43:23Z"
+                  "final_verified_at": "2026-11-02T18:43:23Z",
+                  "title": "【勝旺好旺】昌隆面南3+1房次頂樓連號雙車位"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "N7350507",
+              "total_building_ping": 38.2,
+              "floor": "7/14樓",
+              "layout": "2房2廳1衛",
+              "parking": null,
+              "source_links": [
+                {
+                  "url": "https://buy.yungching.com.tw/house/7350507",
+                  "platform": "永慶房仲網",
+                  "price_wan": 1188.0,
+                  "total_building_ping": 38.2,
+                  "title": "【昌隆廣場】勝旺好旺｜2房附平車",
+                  "final_verified_at": "2026-11-03T02:22:00.234Z"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "N7285845",
+              "total_building_ping": 38.2,
+              "floor": "4/14樓",
+              "layout": "2房2廳1衛",
+              "parking": "坡道平面固定車位",
+              "source_links": [
+                {
+                  "url": "https://buy.yungching.com.tw/house/7285845",
+                  "platform": "永慶房仲網",
+                  "price_wan": 1250.0,
+                  "total_building_ping": 38.2,
+                  "title": "昌隆【勝旺好旺】樂居二房平車宅",
+                  "final_verified_at": "2026-11-03T02:22:01.619Z"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "N7393043",
+              "total_building_ping": 51.18,
+              "floor": "3/14樓",
+              "layout": "3房2廳2衛",
+              "parking": "坡道平面固定車位",
+              "source_links": [
+                {
+                  "url": "https://buy.yungching.com.tw/house/7393043",
+                  "platform": "永慶房仲網",
+                  "price_wan": 1598.0,
+                  "total_building_ping": 51.18,
+                  "title": "頭份昌隆【好旺】輕裝三房+平車",
+                  "final_verified_at": "2026-11-03T02:22:03.164Z"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "N7350348",
+              "total_building_ping": 70.86,
+              "floor": "9/14樓",
+              "layout": "4房2廳2衛",
+              "parking": "坡道平面固定車位",
+              "source_links": [
+                {
+                  "url": "https://buy.yungching.com.tw/house/7350348",
+                  "platform": "永慶房仲網",
+                  "price_wan": 1998.0,
+                  "total_building_ping": 70.86,
+                  "title": "降價通知｜朝南帝王座向｜四房主+附近35坪+雙車",
+                  "final_verified_at": "2026-11-03T02:22:04.573Z"
                 }
               ]
             }
           ],
           "coverage_note": "部分來源尚未確認，物件資訊以原平台為準",
-          "checked_at": "2026-11-02T18:43:23Z"
+          "checked_at": "2026-11-03T02:22:04.573Z"
         },
         {
           "community_key": "桃園市|麗寶U生活",
@@ -5139,7 +5967,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 1188.0,
                   "total_building_ping": 35.91,
-                  "final_verified_at": "2026-11-02T18:43:26Z"
+                  "final_verified_at": "2026-11-02T18:43:26Z",
+                  "title": "大業大有成熟商圈麗寶U生活低總價2房車"
                 }
               ]
             },
@@ -5155,7 +5984,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 1280.0,
                   "total_building_ping": 44.2,
-                  "final_verified_at": "2026-11-02T18:43:27Z"
+                  "final_verified_at": "2026-11-02T18:43:27Z",
+                  "title": "全聯/小北/7-11旁~麗寶U生活邊間3房車"
                 }
               ]
             },
@@ -5171,7 +6001,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 1388.0,
                   "total_building_ping": 44.14,
-                  "final_verified_at": "2026-11-02T18:43:28Z"
+                  "final_verified_at": "2026-11-02T18:43:28Z",
+                  "title": "大業大有商圈，低總價最超值U生活三房車"
                 }
               ]
             },
@@ -5187,7 +6018,8 @@
                   "platform": "永慶房仲網",
                   "price_wan": 1588.0,
                   "total_building_ping": 41.04,
-                  "final_verified_at": "2026-11-02T18:43:29Z"
+                  "final_verified_at": "2026-11-02T18:43:29Z",
+                  "title": "麗寶U生活 裝潢舒適3+1房車"
                 }
               ]
             }
@@ -5202,9 +6034,27 @@
           "transaction_ids": [
             "housing_20261103_images_38e594015a_P6R11"
           ],
-          "listings": [],
+          "listings": [
+            {
+              "inventory_listing_id": "N4253HH",
+              "total_building_ping": 43.44,
+              "floor": "4/15樓",
+              "layout": "3房2廳2衛",
+              "parking": "1個坡道平面",
+              "source_links": [
+                {
+                  "url": "https://www.sinyi.com.tw/buy/house/4253HH",
+                  "platform": "信義房屋",
+                  "price_wan": 1148.0,
+                  "total_building_ping": 43.44,
+                  "title": "輕鬆成家首選│三鶯雲深白",
+                  "final_verified_at": "2026-11-03T02:23:35.995Z"
+                }
+              ]
+            }
+          ],
           "coverage_note": "部分來源尚未確認，物件資訊以原平台為準",
-          "checked_at": null
+          "checked_at": "2026-11-03T02:23:35.995Z"
         }
       ],
       "property_category_counts": {
@@ -5220,11 +6070,11 @@
       "counts": {
         "CONFIRMED_TRANSACTION": 100,
         "unique_community_count": 52,
-        "verified_inventory_units": 107,
-        "verified_source_urls": 107
+        "verified_inventory_units": 148,
+        "verified_source_urls": 153
       },
-      "final_verified_at": "2026-11-02T18:43:33Z",
-      "manifest_hash": "68a96a2e18779d610ac186a5c955eb08304c4408e14dd7edcd4085ff63fb7927"
+      "final_verified_at": "2026-11-03T02:23:51.781Z",
+      "manifest_hash": "0de100d6eb1763c3dbde267db55dae5015890e5edb22c727c4e938c5bb3b7554"
     },
     {
       "run_id": "housing_20261027_005ba34571",
@@ -13761,5 +14611,5 @@
     }
   ],
   "retention_limit": 4,
-  "release_hash": "bb8a6955e9a49750854866f655553a269ee54c075659855b76cd40ae810cc3e8"
+  "release_hash": "556e1015fb0432f7af00c7c7c8760b9c502ea5f1b60f5bafbf0133d418a9cd49"
 }
