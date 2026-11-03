@@ -690,6 +690,33 @@
           "display_order": 20
         },
         {
+          "transaction_id": "housing_20261103_images_38e594015a_P6R3",
+          "source_order": 68,
+          "group": "COMMUNITY_TOWNHOUSE",
+          "region": "新竹市",
+          "district": "香山區",
+          "title": "沐清城，邊間戶，全新社區型美式別墅",
+          "community_name": "沐清城",
+          "date": "2026/10/30",
+          "price_wan": 1738.0,
+          "areas": [
+            {
+              "label": "建物",
+              "value_text": "42.230",
+              "unit": "坪"
+            }
+          ],
+          "address_raw": "新竹市香山區中華路六段647巷136弄252-300號",
+          "floor_raw": "1-3/3樓",
+          "building_age_years": 0.8,
+          "layout_raw": null,
+          "parking_raw": "有車位",
+          "property_category": "透天／別墅",
+          "transaction_stage": "成屋",
+          "community_key": "新竹市|沐清城",
+          "display_order": 20.5
+        },
+        {
           "transaction_id": "housing_20261103_images_38e594015a_P6R7",
           "source_order": 72,
           "group": "COMMUNITY_BUILDING",
@@ -2845,33 +2872,6 @@
           "display_order": 83
         },
         {
-          "transaction_id": "housing_20261103_images_38e594015a_P6R3",
-          "source_order": 68,
-          "group": "OTHER_TRANSACTION",
-          "region": "新竹市",
-          "district": "香山區",
-          "title": "沐清城，邊間戶，全新社區型美式別墅",
-          "community_name": null,
-          "date": "2026/10/30",
-          "price_wan": 1738.0,
-          "areas": [
-            {
-              "label": "建物",
-              "value_text": "42.230",
-              "unit": "坪"
-            }
-          ],
-          "address_raw": "新竹市香山區中華路六段647巷136弄252-300號",
-          "floor_raw": "1-3/3樓",
-          "building_age_years": 0.8,
-          "layout_raw": null,
-          "parking_raw": "有車位",
-          "property_category": "透天／別墅",
-          "transaction_stage": "成屋",
-          "community_key": null,
-          "display_order": 84
-        },
-        {
           "transaction_id": "housing_20261103_images_38e594015a_XLSX_R650",
           "source_order": 68.5,
           "group": "OTHER_TRANSACTION",
@@ -4876,6 +4876,168 @@
           ],
           "coverage_note": "部分來源尚未確認，物件資訊以原平台為準",
           "checked_at": "2026-11-02T18:41:39Z"
+        },
+        {
+          "community_key": "新竹市|沐清城",
+          "community_name": "沐清城",
+          "region": "新竹市",
+          "transaction_ids": [
+            "housing_20261103_images_38e594015a_P6R3"
+          ],
+          "listings": [
+            {
+              "inventory_listing_id": "MU7512022",
+              "total_building_ping": 40.57,
+              "floor": "1~3/3樓",
+              "layout": "3房2廳3衛",
+              "parking": null,
+              "land_ping": 31.61,
+              "source_links": [
+                {
+                  "url": "https://buy.yungching.com.tw/house/7512022",
+                  "platform": "永慶房仲網",
+                  "price_wan": 1680.0,
+                  "total_building_ping": 40.57,
+                  "title": "專任沐清城｜獨棟雙拼｜門前可停雙車有警衛管理",
+                  "final_verified_at": "2026-11-03T09:27:18.920Z"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "MUJA10",
+              "total_building_ping": 41.08,
+              "floor": "1~3/3樓",
+              "layout": "3房2廳",
+              "parking": "庭院停自有地",
+              "land_ping": 32.21,
+              "source_links": [
+                {
+                  "url": "https://buy.yungching.com.tw/house/7293440",
+                  "platform": "永慶房仲網",
+                  "price_wan": 1780.0,
+                  "total_building_ping": 41.08,
+                  "title": "【沐清城】三房｜美式社區型雙併別墅JA10棟",
+                  "final_verified_at": "2026-11-03T09:27:20.399Z"
+                },
+                {
+                  "url": "https://buy.yungching.com.tw/house/7235596",
+                  "platform": "永慶房仲網",
+                  "price_wan": 1780.0,
+                  "total_building_ping": 41.08,
+                  "title": "【沐清城】美式3房雙拼別墅JA10｜即將落成",
+                  "final_verified_at": "2026-11-03T09:27:36.383Z"
+                },
+                {
+                  "url": "https://buy.yungching.com.tw/house/7294097",
+                  "platform": "永慶房仲網",
+                  "price_wan": 1788.0,
+                  "total_building_ping": 41.08,
+                  "title": "近交流道~沐清城JA10社區美透天",
+                  "final_verified_at": "2026-11-03T09:27:38.200Z"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "MU7433096",
+              "total_building_ping": 40.1,
+              "floor": "1~3/3樓",
+              "layout": "3房2廳3衛",
+              "parking": "庭院固定車位",
+              "land_ping": 38.55,
+              "source_links": [
+                {
+                  "url": "https://buy.yungching.com.tw/house/7433096",
+                  "platform": "永慶房仲網",
+                  "price_wan": 1698.0,
+                  "total_building_ping": 40.1,
+                  "title": "沐清城｜社區型美式雙車別墅｜視野無遮擋",
+                  "final_verified_at": "2026-11-03T09:27:21.452Z"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "MU7455308",
+              "total_building_ping": 40.57,
+              "floor": "1~3/3樓",
+              "layout": "3房2廳2.5衛",
+              "parking": null,
+              "land_ping": 38.53,
+              "source_links": [
+                {
+                  "url": "https://buy.yungching.com.tw/house/7455308",
+                  "platform": "永慶房仲網",
+                  "price_wan": 1768.0,
+                  "total_building_ping": 40.57,
+                  "title": "沐清城｜社區型美式雙車別墅｜全新交屋",
+                  "final_verified_at": "2026-11-03T09:27:23.274Z"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "MU7415014",
+              "total_building_ping": 40.57,
+              "floor": "1~3/3樓",
+              "layout": "3房2廳3衛",
+              "parking": null,
+              "land_ping": 30.25,
+              "source_links": [
+                {
+                  "url": "https://buy.yungching.com.tw/house/7415014",
+                  "platform": "永慶房仲網",
+                  "price_wan": 1788.0,
+                  "total_building_ping": 40.57,
+                  "title": "沐清城｜雙拼花園別墅・社區型透天・稀有釋出",
+                  "final_verified_at": "2026-11-03T09:27:25.035Z"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "MU7415100",
+              "total_building_ping": 47.61,
+              "floor": "1~3/3樓",
+              "layout": "3房2廳3衛",
+              "parking": null,
+              "land_ping": 45.73,
+              "source_links": [
+                {
+                  "url": "https://buy.yungching.com.tw/house/7415100",
+                  "platform": "永慶房仲網",
+                  "price_wan": 2335.0,
+                  "total_building_ping": 47.61,
+                  "title": "沐清城一期獨棟莊園美墅稀有席次釋出",
+                  "final_verified_at": "2026-11-03T09:27:34.869Z"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "MU9431JH",
+              "total_building_ping": 46.82,
+              "floor": "1-3/3樓",
+              "layout": "3房3廳3衛",
+              "parking": null,
+              "land_ping": 50.21,
+              "source_links": [
+                {
+                  "url": "https://www.sinyi.com.tw/buy/house/9431JH?breadcrumb=list",
+                  "platform": "信義房屋",
+                  "price_wan": 2398.0,
+                  "total_building_ping": 46.82,
+                  "title": "沐清城邊間採光明亮美美宅",
+                  "final_verified_at": "2026-11-03T09:27:48.349Z"
+                },
+                {
+                  "url": "https://www.hbhousing.com.tw/detail?sn=s9431JH",
+                  "platform": "住商不動產",
+                  "price_wan": 2398.0,
+                  "total_building_ping": 46.82,
+                  "title": "沐清城邊間採光明亮美美宅",
+                  "final_verified_at": "2026-11-03T09:27:56.338Z"
+                }
+              ]
+            }
+          ],
+          "coverage_note": "部分來源尚未確認，物件資訊以原平台為準",
+          "checked_at": "2026-11-03T09:27:56.338Z"
         },
         {
           "community_key": "新竹市|森之妍/森之賞/竹科仰森/傲麗崗/山河悅",
@@ -6900,12 +7062,12 @@
       },
       "counts": {
         "CONFIRMED_TRANSACTION": 118,
-        "unique_community_count": 60,
-        "verified_inventory_units": 161,
-        "verified_source_urls": 166
+        "unique_community_count": 61,
+        "verified_inventory_units": 168,
+        "verified_source_urls": 176
       },
-      "final_verified_at": "2026-11-03T09:05:17.469Z",
-      "manifest_hash": "5a9f0f3acdfc442eb0ac09782028204db44d0d11646cdd11c0e2614afe5f8cb5"
+      "final_verified_at": "2026-11-03T09:27:56.338Z",
+      "manifest_hash": "739e93ffc0bd9488139d0a8cdaba29a81f1fa461c6aa25dc98ac3655a5f03c59"
     },
     {
       "run_id": "housing_20261027_005ba34571",
@@ -15442,5 +15604,5 @@
     }
   ],
   "retention_limit": 4,
-  "release_hash": "b7bbb77e77ff5b236bb8b5030c8360a5b85714b527c0c82ba66d54e924ac4d48"
+  "release_hash": "503ef23822f42277439fdcaadcfc8d076b4f0bc5656a24301b9eca0dd17cba29"
 }
