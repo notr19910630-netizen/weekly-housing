@@ -15604,5 +15604,12 @@
     }
   ],
   "retention_limit": 4,
-  "release_hash": "503ef23822f42277439fdcaadcfc8d076b4f0bc5656a24301b9eca0dd17cba29"
+  "release_manifest": {
+    "directory_since": "2026/10/27",
+    "assets": {
+      "assets/weekly-directory.js": "afdd46f21bcfa2e3c0dc0bb4100609a5e1099d37503ef18e758adf28226e9dfe",
+      "assets/weekly-directory.css": "f6e86f56c532e71c60c69482862cb13a5319ead42ce9674df3ef9295f4738dc0"
+    }
+  },
+  "release_hash": "450bc80b0f3379ce12dc4e5d11f23320150837e057ffb79d350184415f470edc"
 }

@@ -1,0 +1,90 @@
+/* Styles are scoped to directory weeks; earlier snapshots retain their original presentation. */
+body.directory-active .hero{padding:22px 0 18px}
+body.directory-active .hero .eyebrow{display:none}
+body.directory-active .hero h1{font-size:24px;margin:0 0 8px}
+body.directory-active .hero .status{display:none}
+body.directory-active .hero .period{font-size:14px;margin:0}
+.directory-week{padding-bottom:20px}
+.directory-week [hidden]{display:none!important}
+.directory-week .directory-kicker{font-size:12px;font-weight:800;letter-spacing:1px;color:#6d28d9}
+.directory-week .directory-heading h2{font-size:30px;line-height:1.4;margin:7px 0 10px}
+.directory-week .directory-total{display:flex;align-items:baseline;gap:8px;flex-wrap:wrap}
+.directory-week .directory-total>strong{font-size:40px;line-height:1.2;color:#5b21b6;font-weight:900;letter-spacing:-1px}
+.directory-week .directory-total>span{font-size:16px}
+.directory-week .directory-total>small{margin-left:auto;color:#675874;font-size:13px}
+.directory-week .directory-inventory-total{font-size:13px;color:#675874;margin:11px 0 15px;line-height:1.8}
+.directory-week .directory-classifications{margin:10px 0 16px;border-bottom:1px solid #e7def2;padding-bottom:12px}
+.directory-week .directory-classifications>summary{cursor:pointer;color:#5b21b6;min-height:44px;padding:12px 0;font-weight:700;font-size:13px}
+.directory-week .directory-classifications .summary{margin:0;font-size:13px}
+.directory-week .directory-classifications .summary .stat:first-child{grid-column:auto;display:block;padding:12px}
+.directory-week .directory-classifications .summary .stat strong,.directory-week .directory-classifications .summary .stat:first-child strong{font-size:24px}
+.directory-week .directory-classifications .summary .stat span,.directory-week .directory-classifications .summary .stat:first-child span{font-size:12px}
+.directory-week .search-controls{grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;margin:0 0 12px;padding:16px}
+.directory-week .search-controls .keyword-label{grid-column:1/-1}
+.directory-week .search-controls .only-label{grid-column:1/-1;font-size:13px;font-weight:500}
+.directory-week .search-controls .reset-search{grid-column:2;grid-row:4;min-height:44px}
+.directory-week .search-controls input,.directory-week .search-controls select{font-size:16px;min-height:46px}
+.directory-week .directory-price-fields{grid-column:1;grid-row:4;align-self:start}
+.directory-week .directory-price-fields>summary{cursor:pointer;min-height:44px;padding:11px 0;font-size:13px;color:#5b21b6;font-weight:700}
+.directory-week .directory-price-inputs{display:grid;gap:10px;margin-top:10px}
+.directory-week .directory-price-inputs label{font-size:12px}
+.directory-week .directory-help{font-size:13px;color:#675874;margin:16px 0 6px;line-height:1.7}
+.directory-week .live-count{font-size:13px;font-weight:700;margin:0 0 3px;color:#5b21b6}
+.directory-week .directory-catalog-count{font-size:12px;color:#675874;margin:0 0 14px}
+.directory-week .directory-catalog{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));align-items:start;gap:22px}
+.directory-week .directory-region{min-width:0;border:1px solid #e5daef;border-radius:12px;overflow:hidden;background:#fff}
+.directory-week .directory-region-heading{display:flex;align-items:center;justify-content:space-between;gap:10px;padding:13px 15px;background:#eee6fb}
+.directory-week .directory-region-heading h3{margin:0;font-size:18px;line-height:1.4;color:#5b21b6}
+.directory-week .directory-region-heading>span{font-size:12px;color:#675874}
+.directory-week .directory-entry{display:grid;grid-template-columns:minmax(0,1fr) auto 12px;gap:12px;align-items:center;text-align:left;width:100%;min-height:94px;border:0;border-radius:0;background:#fff;padding:16px;color:#251338;font-family:inherit;cursor:pointer}
+.directory-week .directory-entry:hover{background:#faf7ff}
+.directory-week .directory-entry+.directory-entry{border-top:1px solid #ece4f4}
+.directory-week .directory-entry:focus-visible{outline:3px solid #7c3aed;outline-offset:-3px}
+.directory-week .directory-entry-copy{display:flex;align-items:center;flex-wrap:wrap;gap:5px 7px;min-width:0}
+.directory-week .directory-entry-copy>strong{display:block;flex-basis:100%;font-size:16px;font-weight:800;line-height:1.6;overflow-wrap:anywhere}
+.directory-week .directory-entry-meta{font-size:12px;color:#675874;line-height:1.7}
+.directory-week .directory-entry-stock{font-size:11px;color:#086952;padding:2px 6px;background:#edf8f2;border-radius:5px;white-space:nowrap}
+.directory-week .directory-entry-price{display:flex;flex-direction:column;align-items:flex-end;gap:4px;min-width:0;max-width:156px}
+.directory-week .directory-entry-price small{font-size:11px;color:#675874}
+.directory-week .directory-entry-price>span{line-height:1.4;overflow-wrap:anywhere;text-align:right}
+.directory-week .directory-entry-price strong{font-size:24px;font-weight:900;color:#5b21b6;letter-spacing:-.5px}
+.directory-week .directory-entry-price em{font-size:12px;font-style:normal}
+.directory-week .directory-entry-arrow{color:#8b7b9b;font-size:24px}
+.directory-week .directory-coverage{font-size:12px;color:#675874;line-height:1.8;margin-top:22px}
+.directory-week .directory-empty{padding:24px 0;color:#675874}
+.directory-week .directory-back{min-height:48px;border:1px solid #dcccec;background:#fff;color:#5b21b6;font-family:inherit;font-size:15px;font-weight:800;border-radius:10px;padding:11px 16px;cursor:pointer}
+.directory-week .directory-back-bottom{margin-top:20px}
+.directory-week .directory-detail-location{font-size:13px;color:#675874;margin:20px 0 5px}
+.directory-week .directory-detail-title{font-size:29px;line-height:1.5;margin:0 0 18px;overflow-wrap:anywhere}
+.directory-week .directory-detail .community-module{margin-top:0}
+.directory-week .directory-detail .community-module>h3{display:none}
+.directory-week .directory-detail>.directory-detail-body>.other-row>summary{display:none}
+.directory-week .directory-detail .other-row{background:#fff;border:1px solid #e7def2;border-radius:16px}
+.directory-week .directory-detail .other-body{padding:20px}
+.directory-week .directory-detail .other-body .transaction-amount{font-size:28px}
+@media(max-width:760px){
+ body.directory-active .hero{padding:17px 0 14px}
+ body.directory-active .hero h1{font-size:20px}
+ body.directory-active .hero .period{font-size:12px}
+ body.directory-active .week-nav{margin:14px 0 20px}
+ .directory-week .directory-heading h2{font-size:26px}
+ .directory-week .directory-total>strong{font-size:36px}
+ .directory-week .directory-total>small{font-size:11px}
+ .directory-week .directory-inventory-total{font-size:12px}
+ .directory-week .search-controls{padding:12px;gap:10px}
+ .directory-week .directory-catalog{grid-template-columns:1fr;gap:20px}
+ .directory-week .directory-region-heading{padding:11px 13px}
+ .directory-week .directory-region-heading h3{font-size:16px}
+ .directory-week .directory-entry{padding:13px 12px;gap:9px;min-height:88px}
+ .directory-week .directory-entry-copy>strong{font-size:15px}
+ .directory-week .directory-entry-meta{font-size:11px}
+ .directory-week .directory-entry-price{max-width:133px}
+ .directory-week .directory-entry-price strong{font-size:21px}
+ .directory-week .directory-detail-title{font-size:25px}
+}
+@media(max-width:360px){
+ .directory-week .directory-total>small{flex-basis:100%;margin-left:0}
+ .directory-week .directory-entry{gap:6px;padding:12px 9px}
+ .directory-week .directory-entry-price{max-width:108px}
+ .directory-week .directory-entry-price strong{font-size:20px}
+}
