@@ -2049,6 +2049,128 @@
       ],
       "community_inventories": [
         {
+          "community_key": "新竹市|東區|昌益月影",
+          "community_name": "昌益月影",
+          "region": "新竹市",
+          "transaction_ids": [
+            "housing_20261103_20261109_001"
+          ],
+          "listings": [
+            {
+              "inventory_listing_id": "housing_20261103_20261109_moon-6-915",
+              "total_building_ping": 9.15,
+              "floor": "6/13樓",
+              "layout": "1房1衛",
+              "source_links": [
+                {
+                  "url": "https://sale.591.com.tw/home/house/detail/2/21210994.html?from=marketList&index=1&isBid=0&gtm_page_previous=%E4%B8%AD%E5%8F%A4%E7%A4%BE%E5%8D%80%E8%A9%B3%E6%83%85%E9%A0%81&itm_source=community&itm_medium=list_in_sale",
+                  "platform": "591售屋網",
+                  "price_wan": 650,
+                  "total_building_ping": 9.15,
+                  "title": "昌益月影｜關新路美室",
+                  "final_verified_at": "2026-11-09T18:11:29.560Z",
+                  "use_label": "策略性產業辦公室"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_moon-5-1952",
+              "total_building_ping": 19.52,
+              "floor": "5/13樓",
+              "layout": "格局未提供",
+              "source_links": [
+                {
+                  "url": "https://business.591.com.tw/sale/21185604",
+                  "platform": "591商用房屋",
+                  "price_wan": 998,
+                  "total_building_ping": 19.52,
+                  "title": "昌益月影｜附車位",
+                  "final_verified_at": "2026-11-09T18:11:34.676Z",
+                  "use_label": "一般事務所"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_moon-12-1910",
+              "total_building_ping": 19.1,
+              "floor": "12/13樓",
+              "layout": "1房1廳1衛1陽台",
+              "source_links": [
+                {
+                  "url": "https://sale.591.com.tw/home/house/detail/2/21020430.html?from=marketList&index=14&isBid=0&gtm_page_previous=%E4%B8%AD%E5%8F%A4%E7%A4%BE%E5%8D%80%E8%A9%B3%E6%83%85%E9%A0%81&itm_source=community&itm_medium=list_in_sale",
+                  "platform": "591售屋網",
+                  "price_wan": 1358,
+                  "total_building_ping": 19.1,
+                  "title": "昌益月影｜邊間樓中樓平車",
+                  "final_verified_at": "2026-11-09T18:11:35.530Z",
+                  "use_label": "一般事務所"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_moon-9-1026",
+              "total_building_ping": 10.26,
+              "floor": "9/13樓",
+              "layout": "格局未提供",
+              "source_links": [
+                {
+                  "url": "https://business.591.com.tw/sale/21123872",
+                  "platform": "591商用房屋",
+                  "price_wan": 798,
+                  "total_building_ping": 10.26,
+                  "title": "昌益月影｜關新路美室",
+                  "final_verified_at": "2026-11-09T18:11:35.676Z",
+                  "use_label": "辦公室"
+                },
+                {
+                  "url": "https://business.591.com.tw/sale/21113754",
+                  "platform": "591商用房屋",
+                  "price_wan": 798,
+                  "total_building_ping": 10.26,
+                  "title": "昌益月影｜關新路美室",
+                  "final_verified_at": "2026-11-09T18:11:37.299Z",
+                  "use_label": "辦公室"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_moon-9-1947",
+              "total_building_ping": 19.47,
+              "floor": "9/13樓",
+              "layout": "格局未提供",
+              "source_links": [
+                {
+                  "url": "https://business.591.com.tw/sale/21094995",
+                  "platform": "591商用房屋",
+                  "price_wan": 1200,
+                  "total_building_ping": 19.47,
+                  "title": "昌益月影｜關新路美室",
+                  "final_verified_at": "2026-11-09T18:11:39.011Z",
+                  "use_label": "辦公室"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_moon-12-1887",
+              "total_building_ping": 18.87,
+              "floor": "12/13樓",
+              "layout": "格局未提供",
+              "source_links": [
+                {
+                  "url": "https://business.591.com.tw/sale/21018458",
+                  "platform": "591商用房屋",
+                  "price_wan": 1298,
+                  "total_building_ping": 18.87,
+                  "title": "昌益月影｜樓中樓平車",
+                  "final_verified_at": "2026-11-09T18:11:40.158Z",
+                  "use_label": "一般事務所"
+                }
+              ]
+            }
+          ],
+          "coverage_note": "部分來源尚未確認"
+        },
+        {
           "community_key": "新竹市|香山區|煙波A1",
           "community_name": "煙波A1",
           "region": "新竹市",
@@ -2470,7 +2592,48 @@
           "transaction_ids": [
             "housing_20261103_20261109_004"
           ],
-          "listings": [],
+          "listings": [
+            {
+              "inventory_listing_id": "housing_20261103_20261109_jing-7-4258",
+              "total_building_ping": 42.58,
+              "floor": "7/26樓",
+              "layout": "2房2廳2衛",
+              "source_links": [
+                {
+                  "url": "https://sale.591.com.tw/home/house/detail/2/21168592.html?from=marketList&index=1&isBid=0&gtm_page_previous=%E4%B8%AD%E5%8F%A4%E7%A4%BE%E5%8D%80%E8%A9%B3%E6%83%85%E9%A0%81&itm_source=community&itm_medium=list_in_sale",
+                  "platform": "591售屋網",
+                  "price_wan": 2438,
+                  "total_building_ping": 42.58,
+                  "title": "新業京御苑｜兩房平車",
+                  "final_verified_at": "2026-11-09T18:11:34.046Z"
+                },
+                {
+                  "url": "https://sale.591.com.tw/home/house/detail/2/21006668.html?from=marketList&index=7&isBid=0&gtm_page_previous=%E4%B8%AD%E5%8F%A4%E7%A4%BE%E5%8D%80%E8%A9%B3%E6%83%85%E9%A0%81&itm_source=community&itm_medium=list_in_sale",
+                  "platform": "591售屋網",
+                  "price_wan": 2438,
+                  "total_building_ping": 42.58,
+                  "title": "新業京御苑｜兩房平車",
+                  "final_verified_at": "2026-11-09T18:11:37.668Z"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_jing-10-6154",
+              "total_building_ping": 61.54,
+              "floor": "10/26樓",
+              "layout": "3房2廳2衛2陽台",
+              "source_links": [
+                {
+                  "url": "https://sale.591.com.tw/home/house/detail/2/21006908.html?from=marketList&index=6&isBid=0&gtm_page_previous=%E4%B8%AD%E5%8F%A4%E7%A4%BE%E5%8D%80%E8%A9%B3%E6%83%85%E9%A0%81&itm_source=community&itm_medium=list_in_sale",
+                  "platform": "591售屋網",
+                  "price_wan": 3288,
+                  "total_building_ping": 61.54,
+                  "title": "新業京御苑｜大三房雙車位",
+                  "final_verified_at": "2026-11-09T18:11:38.973Z"
+                }
+              ]
+            }
+          ],
           "coverage_note": "部分來源尚未確認"
         },
         {
@@ -2495,6 +2658,38 @@
                   "total_building_ping": 39.76,
                   "title": "佳陞禾美｜公園旁兩房",
                   "final_verified_at": "2026-11-09T17:37:55.787Z"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_heme-7-6056",
+              "total_building_ping": 60.56,
+              "floor": "7/14樓",
+              "layout": "4房2廳2衛2陽台",
+              "source_links": [
+                {
+                  "url": "https://sale.591.com.tw/home/house/detail/2/20897615.html?from=marketList&index=1&isBid=0&gtm_page_previous=%E4%B8%AD%E5%8F%A4%E7%A4%BE%E5%8D%80%E8%A9%B3%E6%83%85%E9%A0%81&itm_source=community&itm_medium=list_in_sale",
+                  "platform": "591售屋網",
+                  "price_wan": 3088,
+                  "total_building_ping": 60.56,
+                  "title": "佳陞禾美｜邊間四房平車",
+                  "final_verified_at": "2026-11-09T18:11:40.933Z"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_heme-4-5317",
+              "total_building_ping": 53.17,
+              "floor": "4/14樓",
+              "layout": "2房2廳1衛1陽台",
+              "source_links": [
+                {
+                  "url": "https://sale.591.com.tw/home/house/detail/2/21008501.html?from=marketList&index=7&isBid=0&gtm_page_previous=%E4%B8%AD%E5%8F%A4%E7%A4%BE%E5%8D%80%E8%A9%B3%E6%83%85%E9%A0%81&itm_source=community&itm_medium=list_in_sale",
+                  "platform": "591售屋網",
+                  "price_wan": 1980,
+                  "total_building_ping": 53.17,
+                  "title": "佳陞禾美｜兩房",
+                  "final_verified_at": "2026-11-09T18:11:41.789Z"
                 }
               ]
             }
@@ -2759,7 +2954,40 @@
           "transaction_ids": [
             "housing_20261103_20261109_014"
           ],
-          "listings": [],
+          "listings": [
+            {
+              "inventory_listing_id": "housing_20261103_20261109_wende-1-2801",
+              "total_building_ping": 28.01,
+              "floor": "1/5樓",
+              "layout": "3房2廳1衛",
+              "source_links": [
+                {
+                  "url": "https://sale.591.com.tw/home/house/detail/2/21178508.html?from=marketList&index=6&isBid=0&gtm_page_previous=%E4%B8%AD%E5%8F%A4%E7%A4%BE%E5%8D%80%E8%A9%B3%E6%83%85%E9%A0%81&itm_source=community&itm_medium=list_in_sale",
+                  "platform": "591售屋網",
+                  "price_wan": 2980,
+                  "total_building_ping": 28.01,
+                  "title": "文德好境｜一樓三房",
+                  "final_verified_at": "2026-11-09T18:11:44.115Z"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_wende-4-3400",
+              "total_building_ping": 34,
+              "floor": "4/5樓",
+              "layout": "2房2廳1衛2陽台",
+              "source_links": [
+                {
+                  "url": "https://sale.591.com.tw/home/house/detail/2/21171654.html?from=marketList&index=7&isBid=0&gtm_page_previous=%E4%B8%AD%E5%8F%A4%E7%A4%BE%E5%8D%80%E8%A9%B3%E6%83%85%E9%A0%81&itm_source=community&itm_medium=list_in_sale",
+                  "platform": "591售屋網",
+                  "price_wan": 3288,
+                  "total_building_ping": 34,
+                  "title": "文德好境｜兩房",
+                  "final_verified_at": "2026-11-09T18:11:44.256Z"
+                }
+              ]
+            }
+          ],
           "coverage_note": "部分來源尚未確認"
         },
         {
@@ -2796,13 +3024,13 @@
       "counts": {
         "CONFIRMED_TRANSACTION": 75,
         "directory_entries": 74,
-        "unique_community_count": 42,
-        "verified_inventory_units": 19,
-        "verified_source_urls": 19
+        "unique_community_count": 43,
+        "verified_inventory_units": 31,
+        "verified_source_urls": 33
       },
-      "final_verified_at": "2026-11-09T17:40:16.398Z",
+      "final_verified_at": "2026-11-09T18:11:44.256Z",
       "inventory_status": "partial",
-      "manifest_hash": "7354f9e2c84110139d2a0d4626cd2a4720be130a19ec15c2e56244aea87220d1"
+      "manifest_hash": "e799afb1d07af37830392019a0b324c34d4b53b45eb8b5a9c99980b4fdbbba2c"
     },
     {
       "run_id": "housing_20261103_images_38e594015a",
@@ -15406,5 +15634,5 @@
       "assets/weekly-directory.css": "793fc49dda6a044607ed29c77ecb57b12bbb97e4c74ca8d2efebd26aa23403bc"
     }
   },
-  "release_hash": "856d83bdcaa8064df43a5b48aeae51ba7194bf8dd474287bb73a7fd46f7ef5b3"
+  "release_hash": "5d796ad14decdd730e46ad9f16d3df23fed48f17cdc31d93f9f7216a38b4fadd"
 }
