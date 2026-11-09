@@ -4,7 +4,8 @@
 const since=DATA.release_manifest?.directory_since||'2026/10/27';
 const states=new Map();
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-const money=(n,w)=>Number(n).toLocaleString('zh-TW',{maximumFractionDigits:w.inventory_status?4:2});
+const cleanWeek=w=>w.run_id==='housing_20261103_20261109';
+const money=(n,w)=>Number(n).toLocaleString('zh-TW',{maximumFractionDigits:(cleanWeek(w)||w.inventory_status)?4:2});
 const regionOrder=['新竹市','竹北市','新竹縣其他地區','竹南鎮','頭份市'];
 const routeParams=new URLSearchParams(location.hash.slice(1));
 let routeIsActive=false;
@@ -57,7 +58,7 @@ function openDetail(panel,key,{route=true,scroll=true}={}){
  state.detail.querySelectorAll('.inventory-block').forEach(sortInventory);
  if(route)writeRoute(panel,key,true);
  const range=state.detail.querySelector('.directory-detail-range'),matched=entry.button?.dataset.transactionCount;
- if(state.week.inventory_status&&range){range.hidden=!matched||Number(matched)===entry.transactions.length;
+ if((cleanWeek(state.week)||state.week.inventory_status)&&range){range.hidden=!matched||Number(matched)===entry.transactions.length;
  if(!range.hidden)range.textContent='本櫃顯示該社區本週全部 '+entry.transactions.length+' 筆成交，總目錄有 '+matched+' 筆符合目前篩選。';}
  if(scroll)state.detail.scrollIntoView({block:'start',behavior:'instant'});
  state.detail.querySelector('.directory-back').focus({preventScroll:true});
@@ -76,7 +77,7 @@ function mount(panel,week){
  const classifications=panel.querySelector('.summary');
  const overview=document.createElement('section');overview.className='directory-overview';
  const n=week.counts.CONFIRMED_TRANSACTION;
- overview.innerHTML=`<div class="directory-heading"><span class="directory-kicker">近期成交行情</span><h2>${countLabel(week)}成交總目錄</h2><div class="directory-total"><strong>${n}</strong><span>筆成交</span><small>點選案件，進入商品櫃 →</small></div><p class="directory-inventory-total">${week.inventory_status==='verification_pending'?'在售資料尚未完成確認':week.inventory_status==='partial'?'已核實不同在售 '+week.counts.verified_inventory_units+' 戶 · 部分來源尚未確認':'已盤點社區 '+week.community_inventories.length+' 個 · 已核實不同在售 '+week.counts.verified_inventory_units+' 戶'}</p></div>`;
+ overview.innerHTML=`<div class="directory-heading"><span class="directory-kicker">近期成交行情</span><h2>${countLabel(week)}成交總目錄</h2><div class="directory-total"><strong>${n}</strong><span>筆成交</span><small>點選案件，進入商品櫃 →</small></div><p class="directory-inventory-total">${cleanWeek(week)?'同社區在售 '+week.counts.verified_inventory_units+' 戶':week.inventory_status==='verification_pending'?'在售資料尚未完成確認':week.inventory_status==='partial'?'已核實不同在售 '+week.counts.verified_inventory_units+' 戶 · 部分來源尚未確認':'已盤點社區 '+week.community_inventories.length+' 個 · 已核實不同在售 '+week.counts.verified_inventory_units+' 戶'}</p></div>`;
  if(week.run_id!==DATA.latest_week_id){const notice=document.createElement('p');notice.className='history-note';notice.textContent='歷史資料｜物件資訊與連結以當週資料確認時間為準，可能已變價、成交或下架。';overview.prepend(notice);}
  const classification=document.createElement('details');classification.className='directory-classifications';classification.innerHTML='<summary>查看完整成交產品分類</summary>';classification.appendChild(classifications);overview.appendChild(classification);
  const priceFields=[...controls.querySelectorAll('label')].filter(l=>l.querySelector('.search-min,.search-max'));
@@ -90,7 +91,7 @@ function mount(panel,week){
  overview.appendChild(controls);oldFilters.hidden=true;store.appendChild(oldFilters);
  overview.insertAdjacentHTML('beforeend','<p class="directory-help">選擇社區或案件，查看成交明細與同社區在售。</p><p class="live-count" aria-live="polite"></p><p class="directory-catalog-count" aria-live="polite"></p><div class="directory-catalog"></div><p class="directory-empty empty" role="status" hidden>查無符合條件的成交</p>');
  const catalog=overview.querySelector('.directory-catalog');
- if(week.inventory_status){
+ if(cleanWeek(week)||week.inventory_status){
  const sortLabel=document.createElement('label');
  sortLabel.className='directory-stock-sort';
  sortLabel.innerHTML='在售戶數排序<select aria-label="在售戶數排序"><option value="original">依區域與來源順序</option><option value="desc">在售戶數由多至少</option><option value="asc">在售戶數由少至多</option></select>';
@@ -111,7 +112,8 @@ function mount(panel,week){
   });catalog.appendChild(section);
  });
  const latestTime=week.final_verified_at?new Date(week.final_verified_at).toLocaleString('zh-TW',{timeZone:'Asia/Taipei',year:'numeric',month:'2-digit',day:'2-digit',hour:'2-digit',minute:'2-digit',hour12:false}):'未提供';
- overview.insertAdjacentHTML('beforeend',`<div class="directory-coverage"><p>${esc(week.source_note||'成交依該週提供情資，非政府即時實價登錄。')}</p><p>${week.inventory_status==='verification_pending'?'本期在售查核尚未完成，社區頁會個別標示目前的確認狀態。':'在售資料確認至：'+esc(latestTime)+'（台北）。部分來源尚未確認，物件資訊以原平台為準。'+(week.inventory_status?'':'不代表全市場庫存。')}</p></div>`);
+ if(cleanWeek(week))overview.insertAdjacentHTML('beforeend',`<div class="directory-coverage"><p>${esc(week.source_note)}</p></div>`);
+ else overview.insertAdjacentHTML('beforeend',`<div class="directory-coverage"><p>${esc(week.source_note||'成交依該週提供情資，非政府即時實價登錄。')}</p><p>${week.inventory_status==='verification_pending'?'本期在售查核尚未完成，社區頁會個別標示目前的確認狀態。':'在售資料確認至：'+esc(latestTime)+'（台北）。部分來源尚未確認，物件資訊以原平台為準。'+(week.inventory_status?'':'不代表全市場庫存。')}</p></div>`);
  const detail=document.createElement('section');detail.className='directory-detail';detail.hidden=true;detail.setAttribute('aria-label','社區商品櫃');
  detail.innerHTML='<button class="directory-back" type="button">← 返回本週總目錄</button><p class="directory-detail-location"></p><h2 class="directory-detail-title"></h2><p class="directory-detail-range" hidden></p><div class="directory-detail-body"></div><button class="directory-back directory-back-bottom" type="button">← 返回本週總目錄</button>';
  detail.querySelectorAll('.directory-back').forEach(b=>b.addEventListener('click',()=>closeDetail(panel)));

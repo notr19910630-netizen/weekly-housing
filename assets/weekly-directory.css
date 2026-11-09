@@ -100,3 +100,7 @@ body.directory-active .hero .period{font-size:14px;margin:0}
 .week-panel[data-week="housing_20261103_20261109"] .inventory-unit:not(.multi-source) > .source-offer { grid-column:1/-1; }
 @media(max-width:760px){.week-panel[data-week="housing_20261103_20261109"] .directory-detail-body { min-width:0; }.week-panel[data-week="housing_20261103_20261109"] .search-controls .directory-stock-sort{grid-column:1/-1}}
 .week-panel[data-week="housing_20261103_20261109"] .inventory-unit.multi-source{grid-template-columns:repeat(auto-fit,minmax(min(100%,270px),1fr));}
+.week-panel[data-week="housing_20261103_20261109"] .inventory-units {grid-template-columns:minmax(0,1fr)}
+.week-panel[data-week="housing_20261103_20261109"] .inventory-unit.multi-source {grid-template-columns:repeat(2,minmax(0,1fr))}
+@media(min-width:761px){.week-panel[data-week="housing_20261103_20261109"] .inventory-unit.multi-source > .source-offer:last-child:nth-child(even){grid-column:1/-1;border-left:0;border-top:1px solid #d9c8fb}}
+@media(max-width:760px){.week-panel[data-week="housing_20261103_20261109"] .inventory-unit.multi-source {grid-template-columns:minmax(0,1fr)}}

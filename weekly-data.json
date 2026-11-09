@@ -6,12 +6,10 @@
       "run_id": "housing_20261103_20261109",
       "period_start": "2026/11/03",
       "period_end": "2026/11/09",
-      "source_note": "成交依本週提供的商區情資彙整，日期與總價均須可確認。資料來源與政府實價登錄各自獨立。",
+      "source_note": "成交資料來自本週商區情資。物件價格與刊登資訊以各平台為準。",
       "transactions": [
         {
           "transaction_id": "housing_20261103_20261109_001",
-          "source_order": 1,
-          "group": "OTHER",
           "region": "新竹市",
           "district": "東區",
           "title": "關新商圈月影邊間平車完美格局優質戶",
@@ -41,8 +39,6 @@
         },
         {
           "transaction_id": "housing_20261103_20261109_002",
-          "source_order": 2,
-          "group": "COMMUNITY_BUILDING",
           "region": "新竹市",
           "district": "香山區",
           "title": "煙波Ａ1兩房|無敵海景|學區|公園|全聯|公道三",
@@ -67,8 +63,6 @@
         },
         {
           "transaction_id": "housing_20261103_20261109_007",
-          "source_order": 7,
-          "group": "COMMUNITY_BUILDING",
           "region": "新竹市",
           "district": "北區",
           "title": "【空軍一村】第六區起家厝三房平車",
@@ -93,8 +87,6 @@
         },
         {
           "transaction_id": "housing_20261103_20261109_008",
-          "source_order": 8,
-          "group": "OTHER",
           "region": "新竹市",
           "district": "北區",
           "title": "免爬樓梯福地首層陽光境福街一樓美寓",
@@ -119,8 +111,6 @@
         },
         {
           "transaction_id": "housing_20261103_20261109_011",
-          "source_order": 11,
-          "group": "COMMUNITY_BUILDING",
           "region": "新竹市",
           "district": "東區",
           "title": "金山街/溫馨套房/室內機車位+圾垃處理+浴室有窗",
@@ -145,8 +135,6 @@
         },
         {
           "transaction_id": "housing_20261103_20261109_015",
-          "source_order": 15,
-          "group": "COMMUNITY_BUILDING",
           "region": "新竹市",
           "district": "北區",
           "title": "初光極品明亮有陽台衛浴開窗低總價套房",
@@ -171,8 +159,6 @@
         },
         {
           "transaction_id": "housing_20261103_20261109_016",
-          "source_order": 16,
-          "group": "COMMUNITY_BUILDING",
           "region": "新竹市",
           "district": "北區",
           "title": "未來鎮雙層峰｜平車超值景觀大四房《低總價大空間》",
@@ -197,8 +183,6 @@
         },
         {
           "transaction_id": "housing_20261103_20261109_020",
-          "source_order": 20,
-          "group": "COMMUNITY_BUILDING",
           "region": "新竹市",
           "district": "東區",
           "title": "東園培英【豐溢風藝】全新智能大坪數小豪宅",
@@ -223,8 +207,6 @@
         },
         {
           "transaction_id": "housing_20261103_20261109_021",
-          "source_order": 21,
-          "group": "COMMUNITY_BUILDING",
           "region": "新竹市",
           "district": "香山區",
           "title": "未來21景觀三房平車｜輕鬆成家首選",
@@ -254,8 +236,6 @@
         },
         {
           "transaction_id": "housing_20261103_20261109_022",
-          "source_order": 22,
-          "group": "COMMUNITY_BUILDING",
           "region": "新竹市",
           "district": "北區",
           "title": "專任｜昌益小雅｜正市區美套房｜24H警衛管理",
@@ -280,8 +260,6 @@
         },
         {
           "transaction_id": "housing_20261103_20261109_023",
-          "source_order": 23,
-          "group": "OTHER",
           "region": "新竹市",
           "district": "北區",
           "title": "大降價近南勢【7米2大面寬】邊間翻新活巷車庫透天",
@@ -306,8 +284,6 @@
         },
         {
           "transaction_id": "housing_20261103_20261109_026",
-          "source_order": 26,
-          "group": "COMMUNITY_BUILDING",
           "region": "新竹市",
           "district": "東區",
           "title": "好市多｜星巴克商圈｜竹科悅揚｜質感兩房平車",
@@ -337,8 +313,6 @@
         },
         {
           "transaction_id": "housing_20261103_20261109_031",
-          "source_order": 31,
-          "group": "COMMUNITY_BUILDING",
           "region": "新竹市",
           "district": "東區",
           "title": "專任不看後悔陽光國小南清大2房2衛+平移車位",
@@ -363,8 +337,6 @@
         },
         {
           "transaction_id": "housing_20261103_20261109_035",
-          "source_order": 35,
-          "group": "COMMUNITY_BUILDING",
           "region": "新竹市",
           "district": "北區",
           "title": "采舍新世界｜質感樓中樓附車位《挑高×雙倍空間》",
@@ -389,8 +361,6 @@
         },
         {
           "transaction_id": "housing_20261103_20261109_039",
-          "source_order": 39,
-          "group": "COMMUNITY_BUILDING",
           "region": "新竹市",
           "district": "東區",
           "title": "全新巨城商圈大三房-閎基433",
@@ -415,8 +385,6 @@
         },
         {
           "transaction_id": "housing_20261103_20261109_042",
-          "source_order": 42,
-          "group": "COMMUNITY_BUILDING",
           "region": "新竹市",
           "district": "東區",
           "title": "光復國宅｜邊間三房",
@@ -437,13 +405,10 @@
           "parking_raw": null,
           "property_category": "大樓／華廈",
           "community_key": "新竹市|東區|光復國宅",
-          "field_note": "來源對車位的記載不一致。",
           "display_order": 16
         },
         {
           "transaction_id": "housing_20261103_20261109_045",
-          "source_order": 45,
-          "group": "COMMUNITY_BUILDING",
           "region": "新竹市",
           "district": "北區",
           "title": "南寮好生活｜Hi inn三房平車｜幸福成家",
@@ -473,8 +438,6 @@
         },
         {
           "transaction_id": "housing_20261103_20261109_046",
-          "source_order": 46,
-          "group": "OTHER",
           "region": "新竹市",
           "district": "北區",
           "title": "全新美三房+車位~直接入住~",
@@ -504,8 +467,6 @@
         },
         {
           "transaction_id": "housing_20261103_20261109_047",
-          "source_order": 47,
-          "group": "OTHER",
           "region": "新竹市",
           "district": "北區",
           "title": "新竹北區｜臨路雙拼大四房透天《大面寬、可停三車》",
@@ -530,8 +491,6 @@
         },
         {
           "transaction_id": "housing_20261103_20261109_048",
-          "source_order": 48,
-          "group": "COMMUNITY_BUILDING",
           "region": "新竹市",
           "district": "東區",
           "title": "【四季如豐】南大路全新三房平車三陽台新竹後火車站",
@@ -561,8 +520,6 @@
         },
         {
           "transaction_id": "housing_20261103_20261109_051",
-          "source_order": 51,
-          "group": "COMMUNITY_BUILDING",
           "region": "新竹市",
           "district": "東區",
           "title": "新竹之昇-傳家八樓邊間雙車位",
@@ -592,8 +549,6 @@
         },
         {
           "transaction_id": "housing_20261103_20261109_055",
-          "source_order": 55,
-          "group": "COMMUNITY_BUILDING",
           "region": "新竹市",
           "district": "北區",
           "title": "金雅之星<品禾B-612>三房露台+平車",
@@ -623,8 +578,6 @@
         },
         {
           "transaction_id": "housing_20261103_20261109_060",
-          "source_order": 60,
-          "group": "OTHER",
           "region": "新竹市",
           "district": "北區",
           "title": "(專)<低於行情>磐石、西大便宜低總價大三房美寓",
@@ -649,8 +602,6 @@
         },
         {
           "transaction_id": "housing_20261103_20261109_062",
-          "source_order": 62,
-          "group": "COMMUNITY_BUILDING",
           "region": "新竹市",
           "district": "北區",
           "title": "空三Ａ區｜次頂樓邊間視野三房《湳雅光華遼闊美景》",
@@ -675,8 +626,6 @@
         },
         {
           "transaction_id": "housing_20261103_20261109_067",
-          "source_order": 67,
-          "group": "COMMUNITY_BUILDING",
           "region": "新竹市",
           "district": "北區",
           "title": "高CP值低總價 高樓層視野漂亮三房",
@@ -701,8 +650,6 @@
         },
         {
           "transaction_id": "housing_20261103_20261109_070",
-          "source_order": 70,
-          "group": "COMMUNITY_BUILDING",
           "region": "新竹市",
           "district": "香山區",
           "title": "【新竹香山】中華敦煌6樓、24H管理",
@@ -727,8 +674,6 @@
         },
         {
           "transaction_id": "housing_20261103_20261109_072",
-          "source_order": 72,
-          "group": "COMMUNITY_BUILDING",
           "region": "新竹市",
           "district": "香山區",
           "title": "富宇中山世紀｜次頂樓稀有超大3改2房視野戶",
@@ -753,8 +698,6 @@
         },
         {
           "transaction_id": "housing_20261103_20261109_003",
-          "source_order": 3,
-          "group": "COMMUNITY_BUILDING",
           "region": "竹北市",
           "district": "竹北市",
           "title": "遠雄鉑悅｜無限景觀視野一房一廳｜平面大車位",
@@ -784,8 +727,6 @@
         },
         {
           "transaction_id": "housing_20261103_20261109_004",
-          "source_order": 4,
-          "group": "COMMUNITY_BUILDING",
           "region": "竹北市",
           "district": "竹北市",
           "title": "新業京御苑｜公園景觀Ｅ棟16Ｆ",
@@ -815,8 +756,6 @@
         },
         {
           "transaction_id": "housing_20261103_20261109_013",
-          "source_order": 13,
-          "group": "COMMUNITY_BUILDING",
           "region": "竹北市",
           "district": "竹北市",
           "title": "朝南【採光無敵·大面窗景】禾美｜精品兩房+平車",
@@ -846,8 +785,6 @@
         },
         {
           "transaction_id": "housing_20261103_20261109_019",
-          "source_order": 19,
-          "group": "OTHER",
           "region": "竹北市",
           "district": "竹北市",
           "title": "竹北高租金店王、投資首選~",
@@ -872,8 +809,6 @@
         },
         {
           "transaction_id": "housing_20261103_20261109_024",
-          "source_order": 24,
-          "group": "COMMUNITY_BUILDING",
           "region": "竹北市",
           "district": "竹北市",
           "title": "仁發喜悅兩房",
@@ -898,8 +833,6 @@
         },
         {
           "transaction_id": "housing_20261103_20261109_025",
-          "source_order": 25,
-          "group": "COMMUNITY_BUILDING",
           "region": "竹北市",
           "district": "竹北市",
           "title": "專任竹北縣三【仁發富悅】高樓2房平車位",
@@ -929,8 +862,6 @@
         },
         {
           "transaction_id": "housing_20261103_20261109_032",
-          "source_order": 32,
-          "group": "COMMUNITY_BUILDING",
           "region": "竹北市",
           "district": "竹北市",
           "title": "稀有釋出【昌禾居美】景觀逸品3+1房雙車",
@@ -955,8 +886,6 @@
         },
         {
           "transaction_id": "housing_20261103_20261109_036",
-          "source_order": 36,
-          "group": "COMMUNITY_BUILDING",
           "region": "竹北市",
           "district": "竹北市",
           "title": "專任靚公園｜原大三房改兩房+平車",
@@ -986,8 +915,6 @@
         },
         {
           "transaction_id": "housing_20261103_20261109_044",
-          "source_order": 44,
-          "group": "OTHER",
           "region": "竹北市",
           "district": "竹北市",
           "title": "京站雅緻景觀美兩房",
@@ -1012,8 +939,6 @@
         },
         {
           "transaction_id": "housing_20261103_20261109_050",
-          "source_order": 50,
-          "group": "OTHER",
           "region": "竹北市",
           "district": "竹北市",
           "title": "豐采520｜B棟",
@@ -1039,13 +964,10 @@
           "parking_raw": "有車位",
           "property_category": "商辦",
           "community_key": "新竹縣|竹北市|豐采520 B棟",
-          "field_note": "來源樓層欄與棟別資訊有出入，實際樓層待確認。",
           "display_order": 37
         },
         {
           "transaction_id": "housing_20261103_20261109_052",
-          "source_order": 52,
-          "group": "COMMUNITY_BUILDING",
           "region": "竹北市",
           "district": "竹北市",
           "title": "勝利國中三房",
@@ -1070,8 +992,6 @@
         },
         {
           "transaction_id": "housing_20261103_20261109_056",
-          "source_order": 56,
-          "group": "COMMUNITY_BUILDING",
           "region": "竹北市",
           "district": "竹北市",
           "title": "高鐵河岸視野戶 | 文興中小 | 大三房雙平車",
@@ -1096,8 +1016,6 @@
         },
         {
           "transaction_id": "housing_20261103_20261109_059",
-          "source_order": 59,
-          "group": "COMMUNITY_BUILDING",
           "region": "竹北市",
           "district": "竹北市",
           "title": "【專任】縣三禾美兩房｜質感裝潢朝東南視野無限",
@@ -1127,8 +1045,6 @@
         },
         {
           "transaction_id": "housing_20261103_20261109_061",
-          "source_order": 61,
-          "group": "COMMUNITY_BUILDING",
           "region": "竹北市",
           "district": "竹北市",
           "title": "專任【宏觀大器】朝南採光三房＋雙平面車位",
@@ -1153,8 +1069,6 @@
         },
         {
           "transaction_id": "housing_20261103_20261109_065",
-          "source_order": 65,
-          "group": "OTHER",
           "region": "竹北市",
           "district": "竹北市",
           "title": "竹北美建地",
@@ -1179,8 +1093,6 @@
         },
         {
           "transaction_id": "housing_20261103_20261109_071",
-          "source_order": 71,
-          "group": "COMMUNITY_BUILDING",
           "region": "竹北市",
           "district": "竹北市",
           "title": "竹北文化中心~光明商圈樓中樓",
@@ -1205,8 +1117,6 @@
         },
         {
           "transaction_id": "housing_20261103_20261109_005",
-          "source_order": 5,
-          "group": "COMMUNITY_BUILDING",
           "region": "新竹縣其他地區",
           "district": "竹東鎮",
           "title": "專任!【近竹科東科路｜藏觀】景觀大3房平車",
@@ -1236,8 +1146,6 @@
         },
         {
           "transaction_id": "housing_20261103_20261109_006",
-          "source_order": 6,
-          "group": "COMMUNITY_BUILDING",
           "region": "新竹縣其他地區",
           "district": "竹東鎮",
           "title": "竹科工研人成家首選星都匯商圈旁低總價三房",
@@ -1262,8 +1170,6 @@
         },
         {
           "transaction_id": "housing_20261103_20261109_012",
-          "source_order": 12,
-          "group": "OTHER",
           "region": "新竹縣其他地區",
           "district": "寶山鄉",
           "title": "竹科通勤《新竹山莊家園》社區型獨棟別墅+自家車庫",
@@ -1288,8 +1194,6 @@
         },
         {
           "transaction_id": "housing_20261103_20261109_027",
-          "source_order": 27,
-          "group": "OTHER",
           "region": "新竹縣其他地區",
           "district": "竹東鎮",
           "title": "持分地",
@@ -1314,8 +1218,6 @@
         },
         {
           "transaction_id": "housing_20261103_20261109_028",
-          "source_order": 28,
-          "group": "OTHER",
           "region": "新竹縣其他地區",
           "district": "湖口鄉",
           "title": "湖口中平路臨路低總價農舍",
@@ -1340,8 +1242,6 @@
         },
         {
           "transaction_id": "housing_20261103_20261109_029",
-          "source_order": 29,
-          "group": "COMMUNITY_BUILDING",
           "region": "新竹縣其他地區",
           "district": "湖口鄉",
           "title": "長富御都釋壓綠海兩房兩衛採光好房平移車位",
@@ -1366,8 +1266,6 @@
         },
         {
           "transaction_id": "housing_20261103_20261109_030",
-          "source_order": 30,
-          "group": "OTHER",
           "region": "新竹縣其他地區",
           "district": "竹東鎮",
           "title": "竹東土地",
@@ -1392,8 +1290,6 @@
         },
         {
           "transaction_id": "housing_20261103_20261109_037",
-          "source_order": 37,
-          "group": "OTHER",
           "region": "新竹縣其他地區",
           "district": "竹東鎮",
           "title": "近竹科 / 工研院 【星都滙】室內18大兩室平車",
@@ -1419,13 +1315,10 @@
           "parking_raw": "有車位",
           "property_category": "類型待確認",
           "community_key": "新竹縣|竹東鎮|星都滙AB區",
-          "field_note": "本戶用途待確認。",
           "display_order": 51
         },
         {
           "transaction_id": "housing_20261103_20261109_038",
-          "source_order": 38,
-          "group": "OTHER",
           "region": "新竹縣其他地區",
           "district": "竹東鎮",
           "title": "【萊茵山莊】方正美建地",
@@ -1450,8 +1343,6 @@
         },
         {
           "transaction_id": "housing_20261103_20261109_040",
-          "source_order": 40,
-          "group": "OTHER",
           "region": "新竹縣其他地區",
           "district": "竹東鎮",
           "title": "竹東麥當勞商圈低總價雙層透天",
@@ -1476,8 +1367,6 @@
         },
         {
           "transaction_id": "housing_20261103_20261109_041",
-          "source_order": 41,
-          "group": "OTHER",
           "region": "新竹縣其他地區",
           "district": "北埔鄉",
           "title": "北埔稀有樓中樓4+5美寓",
@@ -1502,8 +1391,6 @@
         },
         {
           "transaction_id": "housing_20261103_20261109_049",
-          "source_order": 49,
-          "group": "COMMUNITY_BUILDING",
           "region": "新竹縣其他地區",
           "district": "竹東鎮",
           "title": "開價就是行情/低總價便宜3+1房有電梯區",
@@ -1528,8 +1415,6 @@
         },
         {
           "transaction_id": "housing_20261103_20261109_053",
-          "source_order": 53,
-          "group": "OTHER",
           "region": "新竹縣其他地區",
           "district": "橫山鄉",
           "title": "專任內灣老街退休平房老宅",
@@ -1554,8 +1439,6 @@
         },
         {
           "transaction_id": "housing_20261103_20261109_063",
-          "source_order": 63,
-          "group": "OTHER",
           "region": "新竹縣其他地區",
           "district": "竹東鎮",
           "title": "朝陽出租透天",
@@ -1580,8 +1463,6 @@
         },
         {
           "transaction_id": "housing_20261103_20261109_064",
-          "source_order": 64,
-          "group": "OTHER",
           "region": "新竹縣其他地區",
           "district": "竹東鎮",
           "title": "上館國小旁．前後臨路黃金住店",
@@ -1606,8 +1487,6 @@
         },
         {
           "transaction_id": "housing_20261103_20261109_066",
-          "source_order": 66,
-          "group": "OTHER",
           "region": "新竹縣其他地區",
           "district": "新埔鎮",
           "title": "新埔農地",
@@ -1632,8 +1511,6 @@
         },
         {
           "transaction_id": "housing_20261103_20261109_073",
-          "source_order": 73,
-          "group": "OTHER",
           "region": "新竹縣其他地區",
           "district": "竹東鎮",
           "title": "【建地】萊茵山莊★挑戰最便宜㊣大面寬/近竹科園區",
@@ -1658,8 +1535,6 @@
         },
         {
           "transaction_id": "housing_20261103_20261109_075",
-          "source_order": 75,
-          "group": "OTHER",
           "region": "新竹縣其他地區",
           "district": "新豐鄉",
           "title": "新豐產業園區",
@@ -1684,8 +1559,6 @@
         },
         {
           "transaction_id": "housing_20261103_20261109_017",
-          "source_order": 17,
-          "group": "OTHER",
           "region": "頭份市",
           "district": "頭份市",
           "title": "【專】頭份市農會|大地坪透店|四大房|地65坪",
@@ -1710,8 +1583,6 @@
         },
         {
           "transaction_id": "housing_20261103_20261109_033",
-          "source_order": 33,
-          "group": "OTHER",
           "region": "頭份市",
           "district": "頭份市",
           "title": "頭份親民路低總價公寓",
@@ -1736,8 +1607,6 @@
         },
         {
           "transaction_id": "housing_20261103_20261109_043",
-          "source_order": 43,
-          "group": "COMMUNITY_BUILDING",
           "region": "頭份市",
           "district": "頭份市",
           "title": "好運好韻朝南視野三房配優質車位",
@@ -1762,8 +1631,6 @@
         },
         {
           "transaction_id": "housing_20261103_20261109_058",
-          "source_order": 58,
-          "group": "COMMUNITY_BUILDING",
           "region": "頭份市",
           "district": "頭份市",
           "title": "頭份新宿III新婚首購｜2+1房機能宅｜",
@@ -1788,8 +1655,6 @@
         },
         {
           "transaction_id": "housing_20261103_20261109_068",
-          "source_order": 68,
-          "group": "OTHER",
           "region": "頭份市",
           "district": "頭份市",
           "title": "頭份市學府路親民好入手4樓5套房",
@@ -1814,8 +1679,6 @@
         },
         {
           "transaction_id": "housing_20261103_20261109_009",
-          "source_order": 9,
-          "group": "COMMUNITY_BUILDING",
           "region": "苗栗縣",
           "district": "苗栗市",
           "title": "專任【品未來5】大兩房美廈｜室內23坪｜平面車位",
@@ -1840,8 +1703,6 @@
         },
         {
           "transaction_id": "housing_20261103_20261109_010",
-          "source_order": 10,
-          "group": "OTHER",
           "region": "苗栗縣",
           "district": "公館鄉",
           "title": "有房有地快樂開心農場",
@@ -1866,8 +1727,6 @@
         },
         {
           "transaction_id": "housing_20261103_20261109_034",
-          "source_order": 34,
-          "group": "OTHER",
           "region": "苗栗縣",
           "district": "三灣鄉",
           "title": "專任三灣北埔段合法資材室(有水有電)美農地",
@@ -1892,8 +1751,6 @@
         },
         {
           "transaction_id": "housing_20261103_20261109_057",
-          "source_order": 57,
-          "group": "OTHER",
           "region": "苗栗縣",
           "district": "造橋鄉",
           "title": "專任-育達一樓小資清悠套房",
@@ -1918,8 +1775,6 @@
         },
         {
           "transaction_id": "housing_20261103_20261109_014",
-          "source_order": 14,
-          "group": "COMMUNITY_BUILDING",
           "region": "台北市",
           "district": "內湖區",
           "title": "文德好境邊間綠意美屋",
@@ -1944,8 +1799,6 @@
         },
         {
           "transaction_id": "housing_20261103_20261109_018",
-          "source_order": 18,
-          "group": "COMMUNITY_BUILDING",
           "region": "桃園市",
           "district": "桃園區",
           "title": "『縣府生活圈』三房平車美廈",
@@ -1970,8 +1823,6 @@
         },
         {
           "transaction_id": "housing_20261103_20261109_054",
-          "source_order": 54,
-          "group": "COMMUNITY_BUILDING",
           "region": "桃園市",
           "district": "大溪區",
           "title": "勝利新城庭院戶三房",
@@ -1996,8 +1847,6 @@
         },
         {
           "transaction_id": "housing_20261103_20261109_069",
-          "source_order": 69,
-          "group": "OTHER",
           "region": "桃園市",
           "district": "中壢區",
           "title": "獨家代理~近中壢夜市交流道平車電梯超大三房",
@@ -2022,8 +1871,6 @@
         },
         {
           "transaction_id": "housing_20261103_20261109_074",
-          "source_order": 74,
-          "group": "OTHER",
           "region": "桃園市",
           "district": "楊梅區",
           "title": "楊梅維多利亞人車分道庭園美別墅",
@@ -2068,6 +1915,8 @@
                   "price_wan": 650,
                   "total_building_ping": 9.15,
                   "title": "昌益月影｜關新路美室",
+                  "floor": "6/13樓",
+                  "layout": "1房1衛",
                   "final_verified_at": "2026-11-09T18:11:29.560Z",
                   "use_label": "策略性產業辦公室"
                 }
@@ -2085,6 +1934,8 @@
                   "price_wan": 998,
                   "total_building_ping": 19.52,
                   "title": "昌益月影｜附車位",
+                  "floor": "5/13樓",
+                  "layout": "格局未提供",
                   "final_verified_at": "2026-11-09T18:11:34.676Z",
                   "use_label": "一般事務所"
                 }
@@ -2102,6 +1953,8 @@
                   "price_wan": 1358,
                   "total_building_ping": 19.1,
                   "title": "昌益月影｜邊間樓中樓平車",
+                  "floor": "12/13樓",
+                  "layout": "1房1廳1衛1陽台",
                   "final_verified_at": "2026-11-09T18:11:35.530Z",
                   "use_label": "一般事務所"
                 }
@@ -2111,7 +1964,7 @@
               "inventory_listing_id": "housing_20261103_20261109_moon-9-1026",
               "total_building_ping": 10.26,
               "floor": "9/13樓",
-              "layout": "格局未提供",
+              "layout": null,
               "source_links": [
                 {
                   "url": "https://business.591.com.tw/sale/21123872",
@@ -2119,6 +1972,8 @@
                   "price_wan": 798,
                   "total_building_ping": 10.26,
                   "title": "昌益月影｜關新路美室",
+                  "floor": "9/13樓",
+                  "layout": "格局未提供",
                   "final_verified_at": "2026-11-09T18:11:35.676Z",
                   "use_label": "辦公室"
                 },
@@ -2128,8 +1983,21 @@
                   "price_wan": 798,
                   "total_building_ping": 10.26,
                   "title": "昌益月影｜關新路美室",
+                  "floor": "9/13樓",
+                  "layout": "格局未提供",
                   "final_verified_at": "2026-11-09T18:11:37.299Z",
                   "use_label": "辦公室"
+                },
+                {
+                  "url": "https://buy.houseprice.tw/house/38502929_997590/",
+                  "platform": "5168",
+                  "price_wan": 798,
+                  "total_building_ping": 10.26,
+                  "title": "關新路月影套房",
+                  "floor": "9/13樓",
+                  "layout": "1房1衛",
+                  "final_verified_at": "2026-11-09T18:53:32Z",
+                  "use_label": "辦公"
                 }
               ]
             },
@@ -2145,6 +2013,8 @@
                   "price_wan": 1200,
                   "total_building_ping": 19.47,
                   "title": "昌益月影｜關新路美室",
+                  "floor": "9/13樓",
+                  "layout": "格局未提供",
                   "final_verified_at": "2026-11-09T18:11:39.011Z",
                   "use_label": "辦公室"
                 }
@@ -2154,7 +2024,7 @@
               "inventory_listing_id": "housing_20261103_20261109_moon-12-1887",
               "total_building_ping": 18.87,
               "floor": "12/13樓",
-              "layout": "格局未提供",
+              "layout": null,
               "source_links": [
                 {
                   "url": "https://business.591.com.tw/sale/21018458",
@@ -2162,13 +2032,44 @@
                   "price_wan": 1298,
                   "total_building_ping": 18.87,
                   "title": "昌益月影｜樓中樓平車",
+                  "floor": "12/13樓",
+                  "layout": "格局未提供",
                   "final_verified_at": "2026-11-09T18:11:40.158Z",
                   "use_label": "一般事務所"
+                },
+                {
+                  "url": "https://buy.houseprice.tw/house/38345046_1717342/",
+                  "platform": "5168",
+                  "price_wan": 1298,
+                  "total_building_ping": 18.87,
+                  "title": "月影樓中樓套房平面車位",
+                  "floor": "12/13樓",
+                  "layout": "1房1廳1衛",
+                  "final_verified_at": "2026-11-09T18:53:10Z",
+                  "use_label": "辦公"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_8130e9f3f3c3",
+              "total_building_ping": 11.18,
+              "floor": "8/13樓",
+              "layout": "1房1衛",
+              "source_links": [
+                {
+                  "url": "https://www.sinyi.com.tw/buy/house/6167BY",
+                  "platform": "信義房屋",
+                  "price_wan": 1118,
+                  "total_building_ping": 11.18,
+                  "title": "關新低總價昌益月影",
+                  "floor": "8/13樓",
+                  "layout": "1房1衛",
+                  "final_verified_at": "2026-11-09T18:49:57Z",
+                  "use_label": "辦公"
                 }
               ]
             }
-          ],
-          "coverage_note": "部分來源尚未確認"
+          ]
         },
         {
           "community_key": "新竹市|香山區|煙波A1",
@@ -2177,8 +2078,7 @@
           "transaction_ids": [
             "housing_20261103_20261109_002"
           ],
-          "listings": [],
-          "coverage_note": "部分來源尚未確認"
+          "listings": []
         },
         {
           "community_key": "新竹市|北區|空軍一村第六區",
@@ -2187,8 +2087,26 @@
           "transaction_ids": [
             "housing_20261103_20261109_007"
           ],
-          "listings": [],
-          "coverage_note": "部分來源尚未確認"
+          "listings": [
+            {
+              "inventory_listing_id": "housing_20261103_20261109_a731ac1b67da",
+              "total_building_ping": 57.2,
+              "floor": "7/12樓",
+              "layout": "4房2廳2衛",
+              "source_links": [
+                {
+                  "url": "https://buy.houseprice.tw/house/38859549_1030865/",
+                  "platform": "5168",
+                  "price_wan": 2180,
+                  "total_building_ping": 57.2,
+                  "title": "空軍一村第六區四房平車",
+                  "floor": "7/12樓",
+                  "layout": "4房2廳2衛",
+                  "final_verified_at": "2026-11-09T18:53:22Z"
+                }
+              ]
+            }
+          ]
         },
         {
           "community_key": "新竹市|東區|科園雅築",
@@ -2197,8 +2115,7 @@
           "transaction_ids": [
             "housing_20261103_20261109_011"
           ],
-          "listings": [],
-          "coverage_note": "部分來源尚未確認"
+          "listings": []
         },
         {
           "community_key": "新竹市|北區|初光極品/黑川",
@@ -2207,8 +2124,7 @@
           "transaction_ids": [
             "housing_20261103_20261109_015"
           ],
-          "listings": [],
-          "coverage_note": "部分來源尚未確認"
+          "listings": []
         },
         {
           "community_key": "新竹市|北區|未來鎮雙層峰",
@@ -2217,8 +2133,7 @@
           "transaction_ids": [
             "housing_20261103_20261109_016"
           ],
-          "listings": [],
-          "coverage_note": "部分來源尚未確認"
+          "listings": []
         },
         {
           "community_key": "新竹市|東區|豐溢風藝",
@@ -2227,8 +2142,7 @@
           "transaction_ids": [
             "housing_20261103_20261109_020"
           ],
-          "listings": [],
-          "coverage_note": "部分來源尚未確認"
+          "listings": []
         },
         {
           "community_key": "新竹市|香山區|未來21",
@@ -2242,7 +2156,7 @@
               "inventory_listing_id": "housing_20261103_20261109_HS9229GS",
               "total_building_ping": 44.22,
               "floor": "9/15樓",
-              "layout": "3房",
+              "layout": null,
               "source_links": [
                 {
                   "url": "https://www.hbhousing.com.tw/detail?sn=s9229GS",
@@ -2250,7 +2164,19 @@
                   "price_wan": 1698,
                   "total_building_ping": 44.22,
                   "title": "未來21｜三房平車",
+                  "floor": "9/15樓",
+                  "layout": "3房",
                   "final_verified_at": "2026-11-09T17:28:04.273Z"
+                },
+                {
+                  "url": "https://www.sinyi.com.tw/buy/house/9229GS?utm_source=leju&utm_medium=cpc",
+                  "platform": "信義房屋",
+                  "price_wan": 1698,
+                  "total_building_ping": 44.22,
+                  "title": "未來21三房平車",
+                  "floor": "9/15樓",
+                  "layout": "3房2廳2衛",
+                  "final_verified_at": "2026-11-09T18:55:58Z"
                 }
               ]
             },
@@ -2266,6 +2192,8 @@
                   "price_wan": 1198,
                   "total_building_ping": 35.6,
                   "title": "未來21｜一房視野戶",
+                  "floor": "9/15樓",
+                  "layout": "1房2廳1衛",
                   "final_verified_at": "2026-11-09T17:37:53.781Z"
                 }
               ]
@@ -2282,12 +2210,41 @@
                   "price_wan": 898,
                   "total_building_ping": 27.46,
                   "title": "未來21｜一房一廳平車",
+                  "floor": "15/15樓",
+                  "layout": "1房1廳1衛",
                   "final_verified_at": "2026-11-09T17:37:52.883Z"
+                },
+                {
+                  "url": "https://www.sinyi.com.tw/buy/house/2919UN",
+                  "platform": "信義房屋",
+                  "price_wan": 898,
+                  "total_building_ping": 27.46,
+                  "title": "未來21一房一廳平面車位",
+                  "floor": "15/15樓",
+                  "layout": "1房1廳1衛",
+                  "final_verified_at": "2026-11-09T19:11:26Z"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_6792a100ab12",
+              "total_building_ping": 47.12,
+              "floor": "15/15樓",
+              "layout": "3房2廳2衛",
+              "source_links": [
+                {
+                  "url": "https://www.sinyi.com.tw/buy/house/0376RU",
+                  "platform": "信義房屋",
+                  "price_wan": 1538,
+                  "total_building_ping": 47.12,
+                  "title": "未來21高樓景觀三房平車",
+                  "floor": "15/15樓",
+                  "layout": "3房2廳2衛",
+                  "final_verified_at": "2026-11-09T19:11:24Z"
                 }
               ]
             }
-          ],
-          "coverage_note": "部分來源尚未確認"
+          ]
         },
         {
           "community_key": "新竹市|北區|昌益小雅",
@@ -2296,8 +2253,26 @@
           "transaction_ids": [
             "housing_20261103_20261109_022"
           ],
-          "listings": [],
-          "coverage_note": "部分來源尚未確認"
+          "listings": [
+            {
+              "inventory_listing_id": "housing_20261103_20261109_cc836109d270",
+              "total_building_ping": 21.04,
+              "floor": "2/12樓",
+              "layout": "1房1廳1衛",
+              "source_links": [
+                {
+                  "url": "https://buy.houseprice.tw/house/34395848_321354/",
+                  "platform": "5168",
+                  "price_wan": 728,
+                  "total_building_ping": 21.04,
+                  "title": "昌益小雅大套房",
+                  "floor": "2/12樓",
+                  "layout": "1房1廳1衛",
+                  "final_verified_at": "2026-11-09T18:53:25Z"
+                }
+              ]
+            }
+          ]
         },
         {
           "community_key": "新竹市|東區|竹科悅揚",
@@ -2311,7 +2286,7 @@
               "inventory_listing_id": "housing_20261103_20261109_HS8111BM",
               "total_building_ping": 32.73,
               "floor": "6/24樓",
-              "layout": "2房",
+              "layout": null,
               "source_links": [
                 {
                   "url": "https://www.hbhousing.com.tw/detail?sn=s8111BM",
@@ -2319,7 +2294,19 @@
                   "price_wan": 1980,
                   "total_building_ping": 32.73,
                   "title": "竹科悅揚｜兩房平車",
+                  "floor": "6/24樓",
+                  "layout": "2房",
                   "final_verified_at": "2026-11-09T17:28:03.926Z"
+                },
+                {
+                  "url": "https://www.sinyi.com.tw/buy/house/8111BM",
+                  "platform": "信義房屋",
+                  "price_wan": 1980,
+                  "total_building_ping": 32.73,
+                  "title": "竹科悅揚兩房平車",
+                  "floor": "6/24樓",
+                  "layout": "2房2廳1衛",
+                  "final_verified_at": "2026-11-09T18:50:04Z"
                 }
               ]
             },
@@ -2327,7 +2314,7 @@
               "inventory_listing_id": "housing_20261103_20261109_HS9495RC",
               "total_building_ping": 25.63,
               "floor": "5/24樓",
-              "layout": "1房2廳1衛",
+              "layout": null,
               "source_links": [
                 {
                   "url": "https://www.hbhousing.com.tw/detail?sn=s9495RC",
@@ -2335,7 +2322,19 @@
                   "price_wan": 1850,
                   "total_building_ping": 25.63,
                   "title": "竹科悅揚｜慈濟路一房",
+                  "floor": "5/24樓",
+                  "layout": "1房2廳1衛",
                   "final_verified_at": "2026-11-09T17:37:53.384Z"
+                },
+                {
+                  "url": "https://www.sinyi.com.tw/buy/house/9495RC",
+                  "platform": "信義房屋",
+                  "price_wan": 1850,
+                  "total_building_ping": 25.63,
+                  "title": "近關埔國小竹科悅揚",
+                  "floor": "5/24樓",
+                  "layout": "1房2廳1衛1室",
+                  "final_verified_at": "2026-11-09T18:50:06Z"
                 }
               ]
             },
@@ -2351,6 +2350,8 @@
                   "price_wan": 2498,
                   "total_building_ping": 32.57,
                   "title": "竹科悅揚｜露臺兩房車位",
+                  "floor": "4/24樓",
+                  "layout": "2房2廳1衛",
                   "final_verified_at": "2026-11-09T17:37:53.670Z"
                 }
               ]
@@ -2367,6 +2368,8 @@
                   "price_wan": 1950,
                   "total_building_ping": 33.05,
                   "title": "竹科悅揚｜高樓採光兩房車位",
+                  "floor": "11/24樓",
+                  "layout": "2房2廳1衛",
                   "final_verified_at": "2026-11-09T17:40:15.041Z"
                 }
               ]
@@ -2383,7 +2386,19 @@
                   "price_wan": 2698,
                   "total_building_ping": 46.87,
                   "title": "竹科悅揚｜朝東南三房",
+                  "floor": "24/24樓",
+                  "layout": "3房2廳2衛",
                   "final_verified_at": "2026-11-09T17:40:14.959Z"
+                },
+                {
+                  "url": "https://www.sinyi.com.tw/buy/house/6815HU",
+                  "platform": "信義房屋",
+                  "price_wan": 2698,
+                  "total_building_ping": 46.87,
+                  "title": "竹科悅揚朝東南三房",
+                  "floor": "24/24樓",
+                  "layout": "3房2廳2衛",
+                  "final_verified_at": "2026-11-09T18:50:01Z"
                 }
               ]
             },
@@ -2399,6 +2414,8 @@
                   "price_wan": 2068,
                   "total_building_ping": 33.05,
                   "title": "竹科悅揚｜兩房車位",
+                  "floor": "16/24樓",
+                  "layout": "2房2廳1衛",
                   "final_verified_at": "2026-11-09T17:40:15.121Z"
                 }
               ]
@@ -2415,7 +2432,19 @@
                   "price_wan": 2038,
                   "total_building_ping": 33.96,
                   "title": "竹科悅揚｜高樓內棟兩房",
+                  "floor": "21/24樓",
+                  "layout": "2房2廳1衛",
                   "final_verified_at": "2026-11-09T17:40:13.855Z"
+                },
+                {
+                  "url": "https://www.sinyi.com.tw/buy/house/0525KP",
+                  "platform": "信義房屋",
+                  "price_wan": 2038,
+                  "total_building_ping": 33.96,
+                  "title": "竹科悅揚高樓內棟兩房",
+                  "floor": "21/24樓",
+                  "layout": "2房2廳1衛",
+                  "final_verified_at": "2026-11-09T18:50:11Z"
                 }
               ]
             },
@@ -2431,12 +2460,153 @@
                   "price_wan": 2998,
                   "total_building_ping": 45.27,
                   "title": "竹科悅揚｜三房平車",
+                  "floor": "9/24樓",
+                  "layout": "3房2廳2衛",
                   "final_verified_at": "2026-11-09T17:40:16.398Z"
+                },
+                {
+                  "url": "https://www.sinyi.com.tw/buy/house/5336CK",
+                  "platform": "信義房屋",
+                  "price_wan": 2998,
+                  "total_building_ping": 45.27,
+                  "title": "竹科悅揚三房平面車位",
+                  "floor": "9/24樓",
+                  "layout": "3房2廳2衛",
+                  "final_verified_at": "2026-11-09T18:50:09Z"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_2ff653eae610",
+              "total_building_ping": 33.97,
+              "floor": "23/24樓",
+              "layout": "2房2廳1衛",
+              "source_links": [
+                {
+                  "url": "https://buy.houseprice.tw/house/38413290_2203982/",
+                  "platform": "5168",
+                  "price_wan": 1988,
+                  "total_building_ping": 33.97,
+                  "title": "竹科悅揚高樓採光宅",
+                  "floor": "23/24樓",
+                  "layout": "2房2廳1衛",
+                  "final_verified_at": "2026-11-09T18:53:28Z"
+                },
+                {
+                  "url": "https://buy.houseprice.tw/house/37994377_2203872/",
+                  "platform": "5168",
+                  "price_wan": 1988,
+                  "total_building_ping": 33.97,
+                  "title": "竹科悅揚高樓採光宅",
+                  "floor": "23/24樓",
+                  "layout": "2房2廳1衛",
+                  "final_verified_at": "2026-11-09T18:53:31Z"
+                },
+                {
+                  "url": "https://buy.houseprice.tw/house/37905453_2187152/",
+                  "platform": "5168",
+                  "price_wan": 2098,
+                  "total_building_ping": 33.97,
+                  "title": "竹科悅揚高樓採光宅",
+                  "floor": "23/24樓",
+                  "layout": "2房2廳1衛",
+                  "final_verified_at": "2026-11-09T18:53:47Z"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_d678adea1e65",
+              "total_building_ping": 42.71,
+              "floor": "4/24樓",
+              "layout": "3房2廳2衛",
+              "source_links": [
+                {
+                  "url": "https://buy.houseprice.tw/house/37884168_1827507/",
+                  "platform": "5168",
+                  "price_wan": 2988,
+                  "total_building_ping": 42.71,
+                  "title": "竹科悅揚大陽台三房",
+                  "floor": "4/24樓",
+                  "layout": "3房2廳2衛",
+                  "final_verified_at": "2026-11-09T18:53:38Z"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_98e8adbe659f",
+              "total_building_ping": 33.31,
+              "floor": "18/24樓",
+              "layout": "3房2廳1衛",
+              "source_links": [
+                {
+                  "url": "https://buy.houseprice.tw/house/22674710_1300684/",
+                  "platform": "5168",
+                  "price_wan": 2250,
+                  "total_building_ping": 33.31,
+                  "title": "竹科悅揚二改三房平車",
+                  "floor": "18/24樓",
+                  "layout": "3房2廳1衛",
+                  "final_verified_at": "2026-11-09T18:53:43Z"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_7aacb381e338",
+              "total_building_ping": 33.43,
+              "floor": "24/24樓",
+              "layout": "2房2廳1衛",
+              "source_links": [
+                {
+                  "url": "https://buy.houseprice.tw/house/34986669_1141239/",
+                  "platform": "5168",
+                  "price_wan": 2088,
+                  "total_building_ping": 33.43,
+                  "title": "竹科悅揚外棟頂樓兩房平車",
+                  "floor": "24/24樓",
+                  "layout": "2房2廳1衛",
+                  "final_verified_at": "2026-11-09T18:53:44Z"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_03d88ec428e2",
+              "total_building_ping": 68.73,
+              "floor": "1-2/24樓",
+              "layout": "未公開",
+              "source_links": [
+                {
+                  "url": "https://buy.houseprice.tw/house/38989492_415085/",
+                  "platform": "5168",
+                  "price_wan": 5688,
+                  "total_building_ping": 68.73,
+                  "title": "竹科悅揚S09雙層店面",
+                  "floor": "1-2/24樓",
+                  "layout": "未公開",
+                  "final_verified_at": "2026-11-09T18:53:46Z",
+                  "use_label": "店面"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_7f7337354ee2",
+              "total_building_ping": 65.88,
+              "floor": "1-2/24樓",
+              "layout": "未公開",
+              "source_links": [
+                {
+                  "url": "https://www.sinyi.com.tw/buy/house/0871WK",
+                  "platform": "信義房屋",
+                  "price_wan": 6358,
+                  "total_building_ping": 65.88,
+                  "title": "品藏悅揚電梯店面",
+                  "floor": "1-2/24樓",
+                  "layout": "未公開",
+                  "final_verified_at": "2026-11-09T18:50:12Z",
+                  "use_label": "店面"
                 }
               ]
             }
-          ],
-          "coverage_note": "部分來源尚未確認"
+          ]
         },
         {
           "community_key": "新竹市|東區|雅舍小品",
@@ -2445,8 +2615,7 @@
           "transaction_ids": [
             "housing_20261103_20261109_031"
           ],
-          "listings": [],
-          "coverage_note": "部分來源尚未確認"
+          "listings": []
         },
         {
           "community_key": "新竹市|北區|采舍新世界",
@@ -2455,8 +2624,117 @@
           "transaction_ids": [
             "housing_20261103_20261109_035"
           ],
-          "listings": [],
-          "coverage_note": "部分來源尚未確認"
+          "listings": [
+            {
+              "inventory_listing_id": "housing_20261103_20261109_f92da24e03cd",
+              "total_building_ping": 13.04,
+              "floor": "2/10樓",
+              "layout": "2房1廳1衛",
+              "source_links": [
+                {
+                  "url": "https://buy.houseprice.tw/house/31783491_282964/",
+                  "platform": "5168",
+                  "price_wan": 666,
+                  "total_building_ping": 13.04,
+                  "title": "采舍新世界邊間2室",
+                  "floor": "2/10樓",
+                  "layout": "2房1廳1衛",
+                  "final_verified_at": "2026-11-09T18:53:23Z",
+                  "use_label": "辦公"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_ca6cc9df8e31",
+              "total_building_ping": 12.87,
+              "floor": "7/10樓",
+              "layout": "2房2廳1衛",
+              "source_links": [
+                {
+                  "url": "https://www.sinyi.com.tw/buy/house/2980LJ",
+                  "platform": "信義房屋",
+                  "price_wan": 666,
+                  "total_building_ping": 12.87,
+                  "title": "采舍新世界兩房",
+                  "floor": "7/10樓",
+                  "layout": "2房2廳1衛",
+                  "final_verified_at": "2026-11-09T18:50:12Z"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_129cb4c2264e",
+              "total_building_ping": 12.97,
+              "floor": "4/10樓",
+              "layout": "1房1廳1衛1室",
+              "source_links": [
+                {
+                  "url": "https://www.sinyi.com.tw/buy/house/8296RF",
+                  "platform": "信義房屋",
+                  "price_wan": 758,
+                  "total_building_ping": 12.97,
+                  "title": "采舍新世界B區",
+                  "floor": "4/10樓",
+                  "layout": "1房1廳1衛1室",
+                  "final_verified_at": "2026-11-09T18:50:13Z"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_087ef5104607",
+              "total_building_ping": 13.05,
+              "floor": "4/10樓",
+              "layout": "2房2廳1衛",
+              "source_links": [
+                {
+                  "url": "https://www.sinyi.com.tw/buy/house/1136FR",
+                  "platform": "信義房屋",
+                  "price_wan": 698,
+                  "total_building_ping": 13.05,
+                  "title": "采舍新世界兩房",
+                  "floor": "4/10樓",
+                  "layout": "2房2廳1衛",
+                  "final_verified_at": "2026-11-09T18:50:15Z"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_b249e41b65c7",
+              "total_building_ping": 13.22,
+              "floor": "5/10樓",
+              "layout": "1房1廳1衛",
+              "source_links": [
+                {
+                  "url": "https://www.sinyi.com.tw/buy/house/6697BV",
+                  "platform": "信義房屋",
+                  "price_wan": 739,
+                  "total_building_ping": 13.22,
+                  "title": "采舍新世界景觀宅",
+                  "floor": "5/10樓",
+                  "layout": "1房1廳1衛",
+                  "final_verified_at": "2026-11-09T18:56:03Z"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_1dc51d41109b",
+              "total_building_ping": 17.06,
+              "floor": "8/10樓",
+              "layout": "2房2廳1衛",
+              "source_links": [
+                {
+                  "url": "https://www.sinyi.com.tw/buy/house/1722YK",
+                  "platform": "信義房屋",
+                  "price_wan": 868,
+                  "total_building_ping": 17.06,
+                  "title": "采舍八樓有車位",
+                  "floor": "8/10樓",
+                  "layout": "2房2廳1衛",
+                  "final_verified_at": "2026-11-09T18:53:09Z"
+                }
+              ]
+            }
+          ]
         },
         {
           "community_key": "新竹市|東區|閎基建築4分33秒所有格",
@@ -2465,8 +2743,100 @@
           "transaction_ids": [
             "housing_20261103_20261109_039"
           ],
-          "listings": [],
-          "coverage_note": "部分來源尚未確認"
+          "listings": [
+            {
+              "inventory_listing_id": "housing_20261103_20261109_d006f89e24f3",
+              "total_building_ping": 49.01,
+              "floor": "2/15樓",
+              "layout": "3房2廳2衛",
+              "source_links": [
+                {
+                  "url": "https://buy.houseprice.tw/house/38630771_2387770/",
+                  "platform": "5168",
+                  "price_wan": 2398,
+                  "total_building_ping": 49.01,
+                  "title": "433所有格三房平車",
+                  "floor": "2/15樓",
+                  "layout": "3房2廳2衛",
+                  "final_verified_at": "2026-11-09T18:53:19Z"
+                },
+                {
+                  "url": "https://buy.houseprice.tw/house/36132308_574805/",
+                  "platform": "5168",
+                  "price_wan": 2398,
+                  "total_building_ping": 49.01,
+                  "title": "433所有格三房平車",
+                  "floor": "2/15樓",
+                  "layout": "3房2廳2衛",
+                  "final_verified_at": "2026-11-09T18:53:39Z"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_bbb74220e0dd",
+              "total_building_ping": 50.07,
+              "floor": "3/15樓",
+              "layout": "3房2廳2衛",
+              "source_links": [
+                {
+                  "url": "https://buy.houseprice.tw/house/38046077_294932/",
+                  "platform": "5168",
+                  "price_wan": 2498,
+                  "total_building_ping": 50.07,
+                  "title": "433所有格A棟三房平車",
+                  "floor": "3/15樓",
+                  "layout": "3房2廳2衛",
+                  "final_verified_at": "2026-11-09T18:53:26Z"
+                },
+                {
+                  "url": "https://buy.houseprice.tw/house/37631267_294932/",
+                  "platform": "5168",
+                  "price_wan": 2498,
+                  "total_building_ping": 50.07,
+                  "title": "433所有格A棟三房平車",
+                  "floor": "3/15樓",
+                  "layout": "3房2廳2衛",
+                  "final_verified_at": "2026-11-09T18:53:36Z"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_4295dec5053e",
+              "total_building_ping": 47.55,
+              "floor": "12/15樓",
+              "layout": "3房2廳2衛",
+              "source_links": [
+                {
+                  "url": "https://buy.houseprice.tw/house/35931019_2202222/",
+                  "platform": "5168",
+                  "price_wan": 2550,
+                  "total_building_ping": 47.55,
+                  "title": "閎基433高樓景觀三房",
+                  "floor": "12/15樓",
+                  "layout": "3房2廳2衛",
+                  "final_verified_at": "2026-11-09T18:53:34Z"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_848fa532474b",
+              "total_building_ping": 47.55,
+              "floor": "15/15樓",
+              "layout": "3房2廳2衛",
+              "source_links": [
+                {
+                  "url": "https://buy.houseprice.tw/house/37879284_918126/",
+                  "platform": "5168",
+                  "price_wan": 2680,
+                  "total_building_ping": 47.55,
+                  "title": "閎基433面山景觀三房",
+                  "floor": "15/15樓",
+                  "layout": "3房2廳2衛",
+                  "final_verified_at": "2026-11-09T18:53:41Z"
+                }
+              ]
+            }
+          ]
         },
         {
           "community_key": "新竹市|東區|光復國宅",
@@ -2488,12 +2858,23 @@
                   "price_wan": 1888,
                   "total_building_ping": 41.99,
                   "title": "光復國宅｜近清大三房",
+                  "floor": "8/15樓",
+                  "layout": "3房2廳2衛",
                   "final_verified_at": "2026-11-09T17:37:55.810Z"
+                },
+                {
+                  "url": "https://www.sinyi.com.tw/buy/house/5769DR",
+                  "platform": "信義房屋",
+                  "price_wan": 1888,
+                  "total_building_ping": 41.99,
+                  "title": "光復國宅三房",
+                  "floor": "8/15樓",
+                  "layout": "3房2廳2衛",
+                  "final_verified_at": "2026-11-09T18:53:17Z"
                 }
               ]
             }
-          ],
-          "coverage_note": "部分來源尚未確認"
+          ]
         },
         {
           "community_key": "新竹市|北區|春福HI INN",
@@ -2502,8 +2883,100 @@
           "transaction_ids": [
             "housing_20261103_20261109_045"
           ],
-          "listings": [],
-          "coverage_note": "部分來源尚未確認"
+          "listings": [
+            {
+              "inventory_listing_id": "housing_20261103_20261109_9e8740d1153f",
+              "total_building_ping": 32.38,
+              "floor": "15/15樓",
+              "layout": "2房1廳1衛",
+              "source_links": [
+                {
+                  "url": "https://buy.houseprice.tw/house/29087369_1891901/",
+                  "platform": "5168",
+                  "price_wan": 1030,
+                  "total_building_ping": 32.38,
+                  "title": "春福HI INN採光兩房平車",
+                  "floor": "15/15樓",
+                  "layout": "2房1廳1衛",
+                  "final_verified_at": "2026-11-09T18:53:21Z"
+                },
+                {
+                  "url": "https://buy.houseprice.tw/house/38506878_2180651/",
+                  "platform": "5168",
+                  "price_wan": 1030,
+                  "total_building_ping": 32.38,
+                  "title": "春福HI INN景觀兩房平車",
+                  "floor": "15/15樓",
+                  "layout": "2房1廳1衛",
+                  "final_verified_at": "2026-11-09T18:53:35Z"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_cc826674e9ea",
+              "total_building_ping": 32.18,
+              "floor": "14/15樓",
+              "layout": "2房2廳1衛",
+              "source_links": [
+                {
+                  "url": "https://buy.houseprice.tw/house/35997624_2124111/",
+                  "platform": "5168",
+                  "price_wan": 1030,
+                  "total_building_ping": 32.18,
+                  "title": "春福HI INN次頂樓兩房平車",
+                  "floor": "14/15樓",
+                  "layout": "2房2廳1衛",
+                  "final_verified_at": "2026-11-09T18:53:29Z"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_14a3ac289dbd",
+              "total_building_ping": 47.6,
+              "floor": "9/15樓",
+              "layout": "3房2廳2衛",
+              "source_links": [
+                {
+                  "url": "https://buy.houseprice.tw/house/30110534_2196249/",
+                  "platform": "5168",
+                  "price_wan": 1798,
+                  "total_building_ping": 47.6,
+                  "title": "春福HI INN三房平車",
+                  "floor": "9/15樓",
+                  "layout": "3房2廳2衛",
+                  "final_verified_at": "2026-11-09T18:53:33Z"
+                },
+                {
+                  "url": "https://buy.houseprice.tw/house/37032383_574805/",
+                  "platform": "5168",
+                  "price_wan": 1798,
+                  "total_building_ping": 47.6,
+                  "title": "春福HI INN三房平車",
+                  "floor": "9/15樓",
+                  "layout": "3房2廳2衛",
+                  "final_verified_at": "2026-11-09T18:53:40Z"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_4f07731f2bce",
+              "total_building_ping": 36.86,
+              "floor": "15/15樓",
+              "layout": "1房2廳1衛",
+              "source_links": [
+                {
+                  "url": "https://buy.houseprice.tw/house/28980251_2134913/",
+                  "platform": "5168",
+                  "price_wan": 1288,
+                  "total_building_ping": 36.86,
+                  "title": "春福HI INN景觀戶平車",
+                  "floor": "15/15樓",
+                  "layout": "1房2廳1衛",
+                  "final_verified_at": "2026-11-09T18:53:45Z"
+                }
+              ]
+            }
+          ]
         },
         {
           "community_key": "新竹市|東區|四季如豐",
@@ -2512,8 +2985,7 @@
           "transaction_ids": [
             "housing_20261103_20261109_048"
           ],
-          "listings": [],
-          "coverage_note": "部分來源尚未確認"
+          "listings": []
         },
         {
           "community_key": "新竹市|東區|建林新竹之昇",
@@ -2522,8 +2994,36 @@
           "transaction_ids": [
             "housing_20261103_20261109_051"
           ],
-          "listings": [],
-          "coverage_note": "部分來源尚未確認"
+          "listings": [
+            {
+              "inventory_listing_id": "housing_20261103_20261109_df1fd7909252",
+              "total_building_ping": 56.64,
+              "floor": "21/30樓",
+              "layout": "3房2廳2衛",
+              "source_links": [
+                {
+                  "url": "https://buy.houseprice.tw/house/38212859_915904/",
+                  "platform": "5168",
+                  "price_wan": 3588,
+                  "total_building_ping": 56.64,
+                  "title": "新竹之昇C2景觀三房平車",
+                  "floor": "21/30樓",
+                  "layout": "3房2廳2衛",
+                  "final_verified_at": "2026-11-09T18:53:24Z"
+                },
+                {
+                  "url": "https://buy.houseprice.tw/house/37486540_2179496/",
+                  "platform": "5168",
+                  "price_wan": 3588,
+                  "total_building_ping": 56.64,
+                  "title": "新竹之昇景觀三房平車",
+                  "floor": "21/30樓",
+                  "layout": "3房2廳2衛",
+                  "final_verified_at": "2026-11-09T18:53:31Z"
+                }
+              ]
+            }
+          ]
         },
         {
           "community_key": "新竹市|北區|品禾B-612",
@@ -2532,8 +3032,26 @@
           "transaction_ids": [
             "housing_20261103_20261109_055"
           ],
-          "listings": [],
-          "coverage_note": "部分來源尚未確認"
+          "listings": [
+            {
+              "inventory_listing_id": "housing_20261103_20261109_227bc2372b82",
+              "total_building_ping": 46.8,
+              "floor": "8/10樓",
+              "layout": "2房2廳2衛",
+              "source_links": [
+                {
+                  "url": "https://buy.houseprice.tw/house/36302951_1643939/",
+                  "platform": "5168",
+                  "price_wan": 1930,
+                  "total_building_ping": 46.8,
+                  "title": "品禾B-612三改二房",
+                  "floor": "8/10樓",
+                  "layout": "2房2廳2衛",
+                  "final_verified_at": "2026-11-09T18:53:34Z"
+                }
+              ]
+            }
+          ]
         },
         {
           "community_key": "新竹市|北區|空三A區",
@@ -2542,8 +3060,7 @@
           "transaction_ids": [
             "housing_20261103_20261109_062"
           ],
-          "listings": [],
-          "coverage_note": "部分來源尚未確認"
+          "listings": []
         },
         {
           "community_key": "新竹市|北區|圓周綠",
@@ -2552,8 +3069,54 @@
           "transaction_ids": [
             "housing_20261103_20261109_067"
           ],
-          "listings": [],
-          "coverage_note": "部分來源尚未確認"
+          "listings": [
+            {
+              "inventory_listing_id": "housing_20261103_20261109_c74645196eb4",
+              "total_building_ping": 26.28,
+              "floor": "5/11樓",
+              "layout": "2房1廳1衛",
+              "source_links": [
+                {
+                  "url": "https://buy.houseprice.tw/house/28766477_2142723/",
+                  "platform": "5168",
+                  "price_wan": 798,
+                  "total_building_ping": 26.28,
+                  "title": "圓周綠兩房",
+                  "floor": "5/11樓",
+                  "layout": "2房1廳1衛",
+                  "final_verified_at": "2026-11-09T18:53:24Z"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_4af35fca0c38",
+              "total_building_ping": 26.28,
+              "floor": "2/11樓",
+              "layout": "2房2廳1衛",
+              "source_links": [
+                {
+                  "url": "https://buy.houseprice.tw/house/38852509_913209/",
+                  "platform": "5168",
+                  "price_wan": 788,
+                  "total_building_ping": 26.28,
+                  "title": "圓周綠採光露台兩房",
+                  "floor": "2/11樓",
+                  "layout": "2房2廳1衛",
+                  "final_verified_at": "2026-11-09T18:53:27Z"
+                },
+                {
+                  "url": "https://buy.houseprice.tw/house/37891076_1032438/",
+                  "platform": "5168",
+                  "price_wan": 788,
+                  "total_building_ping": 26.28,
+                  "title": "圓周綠採光露台兩房",
+                  "floor": "2/11樓",
+                  "layout": "2房2廳1衛",
+                  "final_verified_at": "2026-11-09T18:53:30Z"
+                }
+              ]
+            }
+          ]
         },
         {
           "community_key": "新竹市|香山區|中華敦煌",
@@ -2562,8 +3125,36 @@
           "transaction_ids": [
             "housing_20261103_20261109_070"
           ],
-          "listings": [],
-          "coverage_note": "部分來源尚未確認"
+          "listings": [
+            {
+              "inventory_listing_id": "housing_20261103_20261109_8f51e3dd29e5",
+              "total_building_ping": 31.04,
+              "floor": "7/12樓",
+              "layout": "3房2廳2衛",
+              "source_links": [
+                {
+                  "url": "https://buy.houseprice.tw/house/32636717_2196249/",
+                  "platform": "5168",
+                  "price_wan": 1388,
+                  "total_building_ping": 31.04,
+                  "title": "中華敦煌三房平車",
+                  "floor": "7/12樓",
+                  "layout": "3房2廳2衛",
+                  "final_verified_at": "2026-11-09T18:59:57Z"
+                },
+                {
+                  "url": "https://www.sinyi.com.tw/buy/house/74730C",
+                  "platform": "信義房屋",
+                  "price_wan": 1388,
+                  "total_building_ping": 31.04,
+                  "title": "中華敦煌三房",
+                  "floor": "7/12樓",
+                  "layout": "3房2廳2衛",
+                  "final_verified_at": "2026-11-09T19:11:29Z"
+                }
+              ]
+            }
+          ]
         },
         {
           "community_key": "新竹市|香山區|富宇中山世紀",
@@ -2572,8 +3163,26 @@
           "transaction_ids": [
             "housing_20261103_20261109_072"
           ],
-          "listings": [],
-          "coverage_note": "部分來源尚未確認"
+          "listings": [
+            {
+              "inventory_listing_id": "housing_20261103_20261109_de6f0d1210c6",
+              "total_building_ping": 39.24,
+              "floor": "12/14樓",
+              "layout": "2房2廳1衛",
+              "source_links": [
+                {
+                  "url": "https://buy.houseprice.tw/house/37622313_1479962/",
+                  "platform": "5168",
+                  "price_wan": 1880,
+                  "total_building_ping": 39.24,
+                  "title": "富宇中山世紀景觀兩房平車",
+                  "floor": "12/14樓",
+                  "layout": "2房2廳1衛",
+                  "final_verified_at": "2026-11-09T19:00:04Z"
+                }
+              ]
+            }
+          ]
         },
         {
           "community_key": "新竹縣|竹北市|遠雄鉑悅",
@@ -2582,8 +3191,46 @@
           "transaction_ids": [
             "housing_20261103_20261109_003"
           ],
-          "listings": [],
-          "coverage_note": "部分來源尚未確認"
+          "listings": [
+            {
+              "inventory_listing_id": "housing_20261103_20261109_e927acaee825",
+              "total_building_ping": 25.22,
+              "floor": "17/23樓",
+              "layout": null,
+              "source_links": [
+                {
+                  "url": "https://buy.houseprice.tw/house/38612291_2203982/",
+                  "platform": "5168",
+                  "price_wan": 1660,
+                  "total_building_ping": 25.22,
+                  "title": "遠雄鉑悅高樓景觀宅附車位",
+                  "floor": "17/23樓",
+                  "layout": "1房2廳1衛",
+                  "final_verified_at": "2026-11-09T18:49:57Z"
+                },
+                {
+                  "url": "https://buy.houseprice.tw/house/38037376_2728737/",
+                  "platform": "5168",
+                  "price_wan": 1660,
+                  "total_building_ping": 25.22,
+                  "title": "遠雄鉑悅高樓景觀宅附車位",
+                  "floor": "17/23樓",
+                  "layout": "1房2廳1衛",
+                  "final_verified_at": "2026-11-09T18:50:08Z"
+                },
+                {
+                  "url": "https://www.sinyi.com.tw/buy/house/1956RD",
+                  "platform": "信義房屋",
+                  "price_wan": 1660,
+                  "total_building_ping": 25.22,
+                  "title": "高鐵區遠雄歐德裝潢附車位",
+                  "floor": "17/23樓",
+                  "layout": "1房1廳1衛",
+                  "final_verified_at": "2026-11-09T18:56:01Z"
+                }
+              ]
+            }
+          ]
         },
         {
           "community_key": "新竹縣|竹北市|新業京御苑",
@@ -2605,6 +3252,8 @@
                   "price_wan": 2438,
                   "total_building_ping": 42.58,
                   "title": "新業京御苑｜兩房平車",
+                  "floor": "7/26樓",
+                  "layout": "2房2廳2衛",
                   "final_verified_at": "2026-11-09T18:11:34.046Z"
                 },
                 {
@@ -2613,6 +3262,8 @@
                   "price_wan": 2438,
                   "total_building_ping": 42.58,
                   "title": "新業京御苑｜兩房平車",
+                  "floor": "7/26樓",
+                  "layout": "2房2廳2衛",
                   "final_verified_at": "2026-11-09T18:11:37.668Z"
                 }
               ]
@@ -2629,12 +3280,41 @@
                   "price_wan": 3288,
                   "total_building_ping": 61.54,
                   "title": "新業京御苑｜大三房雙車位",
+                  "floor": "10/26樓",
+                  "layout": "3房2廳2衛2陽台",
                   "final_verified_at": "2026-11-09T18:11:38.973Z"
                 }
               ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_dc6215956d92",
+              "total_building_ping": 55.19,
+              "floor": "12/26樓",
+              "layout": "3房2廳2衛",
+              "source_links": [
+                {
+                  "url": "https://buy.houseprice.tw/house/38630683_1859759/",
+                  "platform": "5168",
+                  "price_wan": 3448,
+                  "total_building_ping": 55.19,
+                  "title": "新業京御苑A棟12樓三房",
+                  "floor": "12/26樓",
+                  "layout": "3房2廳2衛",
+                  "final_verified_at": "2026-11-09T18:59:58Z"
+                },
+                {
+                  "url": "https://buy.houseprice.tw/house/37864709_2187152/",
+                  "platform": "5168",
+                  "price_wan": 3448,
+                  "total_building_ping": 55.19,
+                  "title": "新業京御苑A棟12樓三房",
+                  "floor": "12/26樓",
+                  "layout": "3房2廳2衛",
+                  "final_verified_at": "2026-11-09T19:00:05Z"
+                }
+              ]
             }
-          ],
-          "coverage_note": "部分來源尚未確認"
+          ]
         },
         {
           "community_key": "新竹縣|竹北市|佳陞禾美",
@@ -2657,7 +3337,19 @@
                   "price_wan": 2088,
                   "total_building_ping": 39.76,
                   "title": "佳陞禾美｜公園旁兩房",
+                  "floor": "7/14樓",
+                  "layout": "2房2廳1衛",
                   "final_verified_at": "2026-11-09T17:37:55.787Z"
+                },
+                {
+                  "url": "https://www.sinyi.com.tw/buy/house/8648WK",
+                  "platform": "信義房屋",
+                  "price_wan": 2088,
+                  "total_building_ping": 39.76,
+                  "title": "佳陞禾美兩房",
+                  "floor": "7/14樓",
+                  "layout": "2房2廳1衛",
+                  "final_verified_at": "2026-11-09T18:53:21Z"
                 }
               ]
             },
@@ -2673,6 +3365,8 @@
                   "price_wan": 3088,
                   "total_building_ping": 60.56,
                   "title": "佳陞禾美｜邊間四房平車",
+                  "floor": "7/14樓",
+                  "layout": "4房2廳2衛2陽台",
                   "final_verified_at": "2026-11-09T18:11:40.933Z"
                 }
               ]
@@ -2689,12 +3383,22 @@
                   "price_wan": 1980,
                   "total_building_ping": 53.17,
                   "title": "佳陞禾美｜兩房",
+                  "floor": "4/14樓",
+                  "layout": "2房2廳1衛1陽台",
                   "final_verified_at": "2026-11-09T18:11:41.789Z"
                 }
               ]
             }
+          ]
+        },
+        {
+          "community_key": "新竹縣|竹北市|心鑽帝堡/心鑽NO6",
+          "community_name": "心鑽帝堡/心鑽NO6",
+          "region": "竹北市",
+          "transaction_ids": [
+            "housing_20261103_20261109_019"
           ],
-          "coverage_note": "部分來源尚未確認"
+          "listings": []
         },
         {
           "community_key": "新竹縣|竹北市|仁發喜悅",
@@ -2703,8 +3407,7 @@
           "transaction_ids": [
             "housing_20261103_20261109_024"
           ],
-          "listings": [],
-          "coverage_note": "部分來源尚未確認"
+          "listings": []
         },
         {
           "community_key": "新竹縣|竹北市|仁發富悅",
@@ -2726,12 +3429,41 @@
                   "price_wan": 2780,
                   "total_building_ping": 42.63,
                   "title": "仁發富悅｜明亮三房",
+                  "floor": "2/14樓",
+                  "layout": "3房2廳2衛",
                   "final_verified_at": "2026-11-09T17:37:55.719Z"
                 }
               ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_803983b7aab3",
+              "total_building_ping": 47.66,
+              "floor": "11/14樓",
+              "layout": "3房2廳2衛",
+              "source_links": [
+                {
+                  "url": "https://buy.houseprice.tw/house/37995675_289839/",
+                  "platform": "5168",
+                  "price_wan": 2858,
+                  "total_building_ping": 47.66,
+                  "title": "仁發富悅採光三房平車",
+                  "floor": "11/14樓",
+                  "layout": "3房2廳2衛",
+                  "final_verified_at": "2026-11-09T18:59:53Z"
+                },
+                {
+                  "url": "https://buy.houseprice.tw/house/38009689_1087361/",
+                  "platform": "5168",
+                  "price_wan": 2858,
+                  "total_building_ping": 47.66,
+                  "title": "仁發富悅採光三房平車",
+                  "floor": "11/14樓",
+                  "layout": "3房2廳2衛",
+                  "final_verified_at": "2026-11-09T19:00:19Z"
+                }
+              ]
             }
-          ],
-          "coverage_note": "部分來源尚未確認"
+          ]
         },
         {
           "community_key": "新竹縣|竹北市|昌禾居美",
@@ -2740,8 +3472,7 @@
           "transaction_ids": [
             "housing_20261103_20261109_032"
           ],
-          "listings": [],
-          "coverage_note": "部分來源尚未確認"
+          "listings": []
         },
         {
           "community_key": "新竹縣|竹北市|靚公園/森CASA/中央公園",
@@ -2763,12 +3494,144 @@
                   "price_wan": 1998,
                   "total_building_ping": 41.52,
                   "title": "靚公園中央公園｜露臺兩房",
+                  "floor": "2/14樓",
+                  "layout": "2房2廳1衛",
                   "final_verified_at": "2026-11-09T17:37:56.379Z"
                 }
               ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_dd08de2ff98c",
+              "total_building_ping": 43.73,
+              "floor": "12/14樓",
+              "layout": "2房2廳1衛",
+              "source_links": [
+                {
+                  "url": "https://buy.houseprice.tw/house/38633378_2187152/",
+                  "platform": "5168",
+                  "price_wan": 2098,
+                  "total_building_ping": 43.73,
+                  "title": "靚公園面公園兩房平車",
+                  "floor": "12/14樓",
+                  "layout": "2房2廳1衛",
+                  "final_verified_at": "2026-11-09T18:59:59Z"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_5ebcd3ee3fb9",
+              "total_building_ping": 41.52,
+              "floor": "8/15樓",
+              "layout": "2房2廳1衛",
+              "source_links": [
+                {
+                  "url": "https://buy.houseprice.tw/house/38613017_2181718/",
+                  "platform": "5168",
+                  "price_wan": 1568,
+                  "total_building_ping": 41.52,
+                  "title": "靚公園兩房平車",
+                  "floor": "8/15樓",
+                  "layout": "2房2廳1衛",
+                  "final_verified_at": "2026-11-09T19:00:06Z"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_c857ae0bf23a",
+              "total_building_ping": 40.9,
+              "floor": "12/14樓",
+              "layout": "2房1廳1衛",
+              "source_links": [
+                {
+                  "url": "https://buy.houseprice.tw/house/38635831_2187152/",
+                  "platform": "5168",
+                  "price_wan": 1888,
+                  "total_building_ping": 40.9,
+                  "title": "靚公園兩房平車",
+                  "floor": "12/14樓",
+                  "layout": "2房1廳1衛",
+                  "final_verified_at": "2026-11-09T19:00:15Z"
+                }
+              ]
             }
+          ]
+        },
+        {
+          "community_key": "新竹縣|竹北市|豐邑京站廣場",
+          "community_name": "豐邑京站廣場",
+          "region": "竹北市",
+          "transaction_ids": [
+            "housing_20261103_20261109_044"
           ],
-          "coverage_note": "部分來源尚未確認"
+          "listings": [
+            {
+              "inventory_listing_id": "housing_20261103_20261109_7417a9e2f709",
+              "total_building_ping": 25.31,
+              "floor": "6/16樓",
+              "layout": "未公開",
+              "source_links": [
+                {
+                  "url": "https://buy.houseprice.tw/house/37667358_2187779/",
+                  "platform": "5168",
+                  "price_wan": 1398,
+                  "total_building_ping": 25.31,
+                  "title": "豐邑京站廣場兩室車位",
+                  "floor": "6/16樓",
+                  "layout": "未公開",
+                  "final_verified_at": "2026-11-09T19:00:07Z",
+                  "use_label": "其他"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_d6e6cfa57765",
+              "total_building_ping": 28.22,
+              "floor": "9/16樓",
+              "layout": "未公開",
+              "source_links": [
+                {
+                  "url": "https://buy.houseprice.tw/house/34399313_2174711/",
+                  "platform": "5168",
+                  "price_wan": 1488,
+                  "total_building_ping": 28.22,
+                  "title": "豐邑京站廣場邊間兩室平車",
+                  "floor": "9/16樓",
+                  "layout": "未公開",
+                  "final_verified_at": "2026-11-09T19:00:11Z",
+                  "use_label": "辦公"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "community_key": "新竹縣|竹北市|豐采520 B棟",
+          "community_name": "豐采520 B棟",
+          "region": "竹北市",
+          "transaction_ids": [
+            "housing_20261103_20261109_050"
+          ],
+          "listings": [
+            {
+              "inventory_listing_id": "housing_20261103_20261109_8c3cd74098cf",
+              "total_building_ping": 18.9,
+              "floor": "11/32樓",
+              "layout": "1房1衛",
+              "source_links": [
+                {
+                  "url": "https://buy.houseprice.tw/house/38622598_1859759/",
+                  "platform": "5168",
+                  "price_wan": 1380,
+                  "total_building_ping": 18.9,
+                  "title": "豐采520 B26 11樓商辦",
+                  "floor": "11/32樓",
+                  "layout": "1房1衛",
+                  "final_verified_at": "2026-11-09T18:59:54Z",
+                  "use_label": "辦公"
+                }
+              ]
+            }
+          ]
         },
         {
           "community_key": "新竹縣|竹北市|竹北公園城",
@@ -2777,8 +3640,26 @@
           "transaction_ids": [
             "housing_20261103_20261109_052"
           ],
-          "listings": [],
-          "coverage_note": "部分來源尚未確認"
+          "listings": [
+            {
+              "inventory_listing_id": "housing_20261103_20261109_b66cfda9d217",
+              "total_building_ping": 17.12,
+              "floor": "6/10樓",
+              "layout": "2房1廳1衛",
+              "source_links": [
+                {
+                  "url": "https://buy.houseprice.tw/house/38470633_2032657/",
+                  "platform": "5168",
+                  "price_wan": 590,
+                  "total_building_ping": 17.12,
+                  "title": "竹北公園城兩房",
+                  "floor": "6/10樓",
+                  "layout": "2房1廳1衛",
+                  "final_verified_at": "2026-11-09T18:59:47Z"
+                }
+              ]
+            }
+          ]
         },
         {
           "community_key": "新竹縣|竹北市|明日軸",
@@ -2800,12 +3681,59 @@
                   "price_wan": 4688,
                   "total_building_ping": 80.91,
                   "title": "明日軸｜露臺花園",
+                  "floor": "5/25樓",
+                  "layout": "2房2廳2衛",
                   "final_verified_at": "2026-11-09T17:37:58.121Z"
                 }
               ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_b5c1f5db0470",
+              "total_building_ping": 88.58,
+              "floor": "7/25樓",
+              "layout": "4房2廳2衛",
+              "source_links": [
+                {
+                  "url": "https://buy.houseprice.tw/house/37960134_289839/",
+                  "platform": "5168",
+                  "price_wan": 3988,
+                  "total_building_ping": 88.58,
+                  "title": "明日軸朝南四房雙車",
+                  "floor": "7/25樓",
+                  "layout": "4房2廳2衛",
+                  "final_verified_at": "2026-11-09T19:00:08Z"
+                },
+                {
+                  "url": "https://buy.houseprice.tw/house/37946098_2203982/",
+                  "platform": "5168",
+                  "price_wan": 3988,
+                  "total_building_ping": 88.58,
+                  "title": "明日軸朝南四房雙車",
+                  "floor": "7/25樓",
+                  "layout": "4房2廳2衛",
+                  "final_verified_at": "2026-11-09T19:00:16Z"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_e1e4068c01da",
+              "total_building_ping": 70.78,
+              "floor": "11/25樓",
+              "layout": "3房2廳2衛",
+              "source_links": [
+                {
+                  "url": "https://buy.houseprice.tw/house/38011427_1032438/",
+                  "platform": "5168",
+                  "price_wan": 3398,
+                  "total_building_ping": 70.78,
+                  "title": "明日軸三房雙平車",
+                  "floor": "11/25樓",
+                  "layout": "3房2廳2衛",
+                  "final_verified_at": "2026-11-09T19:00:12Z"
+                }
+              ]
             }
-          ],
-          "coverage_note": "部分來源尚未確認"
+          ]
         },
         {
           "community_key": "新竹縣|竹北市|宏觀大器",
@@ -2827,6 +3755,8 @@
                   "price_wan": 3558,
                   "total_building_ping": 64.49,
                   "title": "宏觀大器｜樹海景觀戶",
+                  "floor": "5/24樓",
+                  "layout": "4房2廳2衛",
                   "final_verified_at": "2026-11-09T17:37:58.071Z"
                 }
               ]
@@ -2843,12 +3773,71 @@
                   "price_wan": 2550,
                   "total_building_ping": 55.12,
                   "title": "宏觀大器｜三房",
+                  "floor": "9/24樓",
+                  "layout": "3房2廳2衛",
                   "final_verified_at": "2026-11-09T17:37:57.910Z"
                 }
               ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_ddbf5ea0cdf6",
+              "total_building_ping": null,
+              "floor": "5/24樓",
+              "layout": "3房2廳2衛",
+              "source_links": [
+                {
+                  "url": "https://buy.houseprice.tw/house/39234176_241131/",
+                  "platform": "5168",
+                  "price_wan": 2698,
+                  "total_building_ping": 51.07,
+                  "title": "宏觀大器朝南三房平車",
+                  "floor": "5/24樓",
+                  "layout": "3房2廳2衛",
+                  "final_verified_at": "2026-11-09T18:59:48Z"
+                },
+                {
+                  "url": "https://buy.houseprice.tw/house/39295677_241010/",
+                  "platform": "5168",
+                  "price_wan": 2698,
+                  "total_building_ping": 51.06,
+                  "title": "宏觀大器朝南三房平車",
+                  "floor": "5/24樓",
+                  "layout": "3房2廳2衛",
+                  "final_verified_at": "2026-11-09T18:59:55Z"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_0e5573d1b16e",
+              "total_building_ping": 69.0,
+              "floor": "1/24樓",
+              "layout": "未公開",
+              "source_links": [
+                {
+                  "url": "https://buy.houseprice.tw/house/38645533_1859759/",
+                  "platform": "5168",
+                  "price_wan": 3988,
+                  "total_building_ping": 69.0,
+                  "title": "宏觀大器店面",
+                  "floor": "1/24樓",
+                  "layout": "未公開",
+                  "final_verified_at": "2026-11-09T19:00:01Z",
+                  "use_label": "店面"
+                },
+                {
+                  "url": "https://buy.houseprice.tw/house/38633477_2187152/",
+                  "platform": "5168",
+                  "price_wan": 3988,
+                  "total_building_ping": 69.0,
+                  "title": "宏觀大器店面",
+                  "floor": "1/24樓",
+                  "layout": "未公開",
+                  "final_verified_at": "2026-11-09T19:00:21Z",
+                  "use_label": "店面"
+                }
+              ]
             }
-          ],
-          "coverage_note": "部分來源尚未確認"
+          ]
         },
         {
           "community_key": "新竹縣|竹北市|四八行館",
@@ -2857,8 +3846,27 @@
           "transaction_ids": [
             "housing_20261103_20261109_071"
           ],
-          "listings": [],
-          "coverage_note": "部分來源尚未確認"
+          "listings": [
+            {
+              "inventory_listing_id": "housing_20261103_20261109_403fa9def64b",
+              "total_building_ping": 11.66,
+              "floor": "4/5樓",
+              "layout": "1房1廳1衛",
+              "source_links": [
+                {
+                  "url": "https://buy.houseprice.tw/house/35454829_2187152/",
+                  "platform": "5168",
+                  "price_wan": 668,
+                  "total_building_ping": 11.66,
+                  "title": "四八行館挑高套房",
+                  "floor": "4/5樓",
+                  "layout": "1房1廳1衛",
+                  "final_verified_at": "2026-11-09T18:59:49Z",
+                  "use_label": "辦公"
+                }
+              ]
+            }
+          ]
         },
         {
           "community_key": "新竹縣|竹東鎮|藏觀",
@@ -2867,8 +3875,7 @@
           "transaction_ids": [
             "housing_20261103_20261109_005"
           ],
-          "listings": [],
-          "coverage_note": "部分來源尚未確認"
+          "listings": []
         },
         {
           "community_key": "新竹縣|竹東鎮|力麗",
@@ -2877,8 +3884,53 @@
           "transaction_ids": [
             "housing_20261103_20261109_006"
           ],
-          "listings": [],
-          "coverage_note": "部分來源尚未確認"
+          "listings": []
+        },
+        {
+          "community_key": "新竹縣|寶山鄉|華邦家園",
+          "community_name": "華邦家園",
+          "region": "新竹縣其他地區",
+          "transaction_ids": [
+            "housing_20261103_20261109_012"
+          ],
+          "listings": [
+            {
+              "inventory_listing_id": "housing_20261103_20261109_c8142ff3f1c6",
+              "total_building_ping": 74.27,
+              "floor": "1-4/4樓",
+              "layout": "4房3廳4衛",
+              "source_links": [
+                {
+                  "url": "https://buy.houseprice.tw/house/38636854_1487464/",
+                  "platform": "5168",
+                  "price_wan": 2388,
+                  "total_building_ping": 74.27,
+                  "title": "華邦家園獨棟4房透天",
+                  "floor": "1-4/4樓",
+                  "layout": "4房3廳4衛",
+                  "final_verified_at": "2026-11-09T18:59:49Z"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_7e830f7fcc9e",
+              "total_building_ping": 84.63,
+              "floor": "1-3/3樓",
+              "layout": "5房3廳4衛",
+              "source_links": [
+                {
+                  "url": "https://buy.houseprice.tw/house/37874345_1709334/",
+                  "platform": "5168",
+                  "price_wan": 2580,
+                  "total_building_ping": 84.63,
+                  "title": "華邦家園山莊別墅",
+                  "floor": "1-3/3樓",
+                  "layout": "5房3廳4衛",
+                  "final_verified_at": "2026-11-09T18:59:56Z"
+                }
+              ]
+            }
+          ]
         },
         {
           "community_key": "新竹縣|湖口鄉|長富御都華廈區",
@@ -2887,8 +3939,92 @@
           "transaction_ids": [
             "housing_20261103_20261109_029"
           ],
-          "listings": [],
-          "coverage_note": "部分來源尚未確認"
+          "listings": [
+            {
+              "inventory_listing_id": "housing_20261103_20261109_ba76b83ebae6",
+              "total_building_ping": 28.29,
+              "floor": "3/5樓",
+              "layout": "2房2廳2衛",
+              "source_links": [
+                {
+                  "url": "https://buy.houseprice.tw/house/38651088_1891901/",
+                  "platform": "5168",
+                  "price_wan": 808,
+                  "total_building_ping": 28.29,
+                  "title": "長富御都B2兩房",
+                  "floor": "3/5樓",
+                  "layout": "2房2廳2衛",
+                  "final_verified_at": "2026-11-09T19:00:09Z"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_176668e8750c",
+              "total_building_ping": 25.31,
+              "floor": "4/5樓",
+              "layout": "2房2廳2衛",
+              "source_links": [
+                {
+                  "url": "https://buy.houseprice.tw/house/38666378_2187152/",
+                  "platform": "5168",
+                  "price_wan": 728,
+                  "total_building_ping": 25.31,
+                  "title": "長富御都兩房兩衛華廈",
+                  "floor": "4/5樓",
+                  "layout": "2房2廳2衛",
+                  "final_verified_at": "2026-11-09T19:00:13Z"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "community_key": "新竹縣|竹東鎮|星都滙AB區",
+          "community_name": "星都滙AB區",
+          "region": "新竹縣其他地區",
+          "transaction_ids": [
+            "housing_20261103_20261109_037"
+          ],
+          "listings": [
+            {
+              "inventory_listing_id": "housing_20261103_20261109_a3c1d6ad28c3",
+              "total_building_ping": 48.56,
+              "floor": "1/14樓",
+              "layout": "未公開",
+              "source_links": [
+                {
+                  "url": "https://buy.houseprice.tw/house/26438360_2142723/",
+                  "platform": "5168",
+                  "price_wan": 1888,
+                  "total_building_ping": 48.56,
+                  "title": "星都滙AB區挑高露台戶",
+                  "floor": "1/14樓",
+                  "layout": "未公開",
+                  "final_verified_at": "2026-11-09T18:59:50Z",
+                  "use_label": "辦公"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_0af5c4eacf91",
+              "total_building_ping": 46.48,
+              "floor": "14/14樓",
+              "layout": "3房2廳2衛",
+              "source_links": [
+                {
+                  "url": "https://buy.houseprice.tw/house/37485407_1717342/",
+                  "platform": "5168",
+                  "price_wan": 2088,
+                  "total_building_ping": 46.48,
+                  "title": "星都滙AB區高樓三房",
+                  "floor": "14/14樓",
+                  "layout": "3房2廳2衛",
+                  "final_verified_at": "2026-11-09T19:00:22Z",
+                  "use_label": "其他"
+                }
+              ]
+            }
+          ]
         },
         {
           "community_key": "新竹縣|竹東鎮|世界大同",
@@ -2897,8 +4033,72 @@
           "transaction_ids": [
             "housing_20261103_20261109_049"
           ],
-          "listings": [],
-          "coverage_note": "部分來源尚未確認"
+          "listings": [
+            {
+              "inventory_listing_id": "housing_20261103_20261109_3f150f809246",
+              "total_building_ping": 14.58,
+              "floor": "5/8樓",
+              "layout": "2房1廳1衛",
+              "source_links": [
+                {
+                  "url": "https://buy.houseprice.tw/house/37833645_2163986/",
+                  "platform": "5168",
+                  "price_wan": 398,
+                  "total_building_ping": 14.58,
+                  "title": "世界大同電梯兩房",
+                  "floor": "5/8樓",
+                  "layout": "2房1廳1衛",
+                  "final_verified_at": "2026-11-09T18:59:57Z"
+                },
+                {
+                  "url": "https://buy.houseprice.tw/house/37066065_2165757/",
+                  "platform": "5168",
+                  "price_wan": 398,
+                  "total_building_ping": 14.58,
+                  "title": "世界大同電梯兩房",
+                  "floor": "5/8樓",
+                  "layout": "2房1廳1衛",
+                  "final_verified_at": "2026-11-09T19:00:10Z"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_4715419573cf",
+              "total_building_ping": 25.5,
+              "floor": "8/8樓",
+              "layout": "4房2廳2衛",
+              "source_links": [
+                {
+                  "url": "https://buy.houseprice.tw/house/37460470_2196249/",
+                  "platform": "5168",
+                  "price_wan": 498,
+                  "total_building_ping": 25.5,
+                  "title": "世界大同挑高四房",
+                  "floor": "8/8樓",
+                  "layout": "4房2廳2衛",
+                  "final_verified_at": "2026-11-09T19:00:03Z"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_7236f90c5764",
+              "total_building_ping": 29.84,
+              "floor": "3/8樓",
+              "layout": "3房2廳2衛",
+              "source_links": [
+                {
+                  "url": "https://buy.houseprice.tw/house/37874972_1709334/",
+                  "platform": "5168",
+                  "price_wan": 578,
+                  "total_building_ping": 29.84,
+                  "title": "世界大同採光三房",
+                  "floor": "3/8樓",
+                  "layout": "3房2廳2衛",
+                  "final_verified_at": "2026-11-09T19:00:18Z"
+                }
+              ]
+            }
+          ]
         },
         {
           "community_key": "苗栗縣|頭份市|頭份昌隆廣場好韻",
@@ -2920,12 +4120,31 @@
                   "price_wan": 1880,
                   "total_building_ping": 47.58,
                   "title": "昌隆廣場好韻｜三房平車",
+                  "floor": "9/15樓",
+                  "layout": "3房2廳2衛",
                   "final_verified_at": "2026-11-09T17:37:57.930Z"
                 }
               ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_286602dfbb54",
+              "total_building_ping": 43.31,
+              "floor": "15/15樓",
+              "layout": "3房2廳2衛",
+              "source_links": [
+                {
+                  "url": "https://buy.houseprice.tw/house/34400061_2174711/",
+                  "platform": "5168",
+                  "price_wan": 1698,
+                  "total_building_ping": 43.31,
+                  "title": "昌隆好韻高樓三房平車",
+                  "floor": "15/15樓",
+                  "layout": "3房2廳2衛",
+                  "final_verified_at": "2026-11-09T18:59:51Z"
+                }
+              ]
             }
-          ],
-          "coverage_note": "部分來源尚未確認"
+          ]
         },
         {
           "community_key": "苗栗縣|頭份市|新宿NO3",
@@ -2934,8 +4153,7 @@
           "transaction_ids": [
             "housing_20261103_20261109_058"
           ],
-          "listings": [],
-          "coverage_note": "部分來源尚未確認"
+          "listings": []
         },
         {
           "community_key": "苗栗縣|苗栗市|品未來ON.5",
@@ -2944,8 +4162,16 @@
           "transaction_ids": [
             "housing_20261103_20261109_009"
           ],
-          "listings": [],
-          "coverage_note": "部分來源尚未確認"
+          "listings": []
+        },
+        {
+          "community_key": "苗栗縣|造橋鄉|牛津維也納",
+          "community_name": "牛津維也納",
+          "region": "苗栗縣",
+          "transaction_ids": [
+            "housing_20261103_20261109_057"
+          ],
+          "listings": []
         },
         {
           "community_key": "台北市|內湖區|文德好境",
@@ -2967,7 +4193,19 @@
                   "price_wan": 2980,
                   "total_building_ping": 28.01,
                   "title": "文德好境｜一樓三房",
+                  "floor": "1/5樓",
+                  "layout": "3房2廳1衛",
                   "final_verified_at": "2026-11-09T18:11:44.115Z"
+                },
+                {
+                  "url": "https://buy.houseprice.tw/house/36595617_973445/",
+                  "platform": "5168",
+                  "price_wan": 2980,
+                  "total_building_ping": 28.01,
+                  "title": "文德好境露臺三房車位",
+                  "floor": "1/5樓",
+                  "layout": "3房2廳1衛",
+                  "final_verified_at": "2026-11-09T19:00:14Z"
                 }
               ]
             },
@@ -2983,12 +4221,41 @@
                   "price_wan": 3288,
                   "total_building_ping": 34,
                   "title": "文德好境｜兩房",
+                  "floor": "4/5樓",
+                  "layout": "2房2廳1衛2陽台",
                   "final_verified_at": "2026-11-09T18:11:44.256Z"
                 }
               ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_91cc897cd220",
+              "total_building_ping": null,
+              "floor": "5/5樓",
+              "layout": null,
+              "source_links": [
+                {
+                  "url": "https://buy.houseprice.tw/house/38988964_2135155/",
+                  "platform": "5168",
+                  "price_wan": 1368,
+                  "total_building_ping": 12.81,
+                  "title": "文德好境景觀套房",
+                  "floor": "5/5樓",
+                  "layout": "1房1衛",
+                  "final_verified_at": "2026-11-09T18:59:51Z"
+                },
+                {
+                  "url": "https://buy.houseprice.tw/house/35256422_2136079/",
+                  "platform": "5168",
+                  "price_wan": 1368,
+                  "total_building_ping": 12.8,
+                  "title": "文德好境景觀宅",
+                  "floor": "5/5樓",
+                  "layout": "1房1廳1衛",
+                  "final_verified_at": "2026-11-09T19:00:10Z"
+                }
+              ]
             }
-          ],
-          "coverage_note": "部分來源尚未確認"
+          ]
         },
         {
           "community_key": "桃園市|桃園區|新記城",
@@ -2997,8 +4264,7 @@
           "transaction_ids": [
             "housing_20261103_20261109_018"
           ],
-          "listings": [],
-          "coverage_note": "部分來源尚未確認"
+          "listings": []
         },
         {
           "community_key": "桃園市|大溪區|大溪勝利新城",
@@ -3007,8 +4273,7 @@
           "transaction_ids": [
             "housing_20261103_20261109_054"
           ],
-          "listings": [],
-          "coverage_note": "部分來源尚未確認"
+          "listings": []
         }
       ],
       "property_category_counts": {
@@ -3024,13 +4289,12 @@
       "counts": {
         "CONFIRMED_TRANSACTION": 75,
         "directory_entries": 74,
-        "unique_community_count": 43,
-        "verified_inventory_units": 31,
-        "verified_source_urls": 33
+        "unique_community_count": 49,
+        "verified_inventory_units": 87,
+        "verified_source_urls": 119
       },
-      "final_verified_at": "2026-11-09T18:11:44.256Z",
-      "inventory_status": "partial",
-      "manifest_hash": "e799afb1d07af37830392019a0b324c34d4b53b45eb8b5a9c99980b4fdbbba2c"
+      "final_verified_at": "2026-11-09T19:11:29Z",
+      "manifest_hash": "d76df9564436abfd41423493722544c2c068a959423f6a6851ce439446538d0f"
     },
     {
       "run_id": "housing_20261103_images_38e594015a",
@@ -15630,9 +16894,9 @@
   "release_manifest": {
     "directory_since": "2026/10/27",
     "assets": {
-      "assets/weekly-directory.js": "ef35751b982b9490f9f551106fd7a76c98754dc9ce4fb21f6697205cba209704",
-      "assets/weekly-directory.css": "793fc49dda6a044607ed29c77ecb57b12bbb97e4c74ca8d2efebd26aa23403bc"
+      "assets/weekly-directory.js": "fda2ba129a1a09cf55b7ce03ceb2967ed41388b383b0f56b61a348d70f32b146",
+      "assets/weekly-directory.css": "fbd45b6ceb920c25a234748584738e7956dbe66c8393703a049f2710f38d70b2"
     }
   },
-  "release_hash": "5d796ad14decdd730e46ad9f16d3df23fed48f17cdc31d93f9f7216a38b4fadd"
+  "release_hash": "477b15f87eeb9f768ef30e7d581b870b268cca6f20251a2e7e53c2e19ff3fe04"
 }
