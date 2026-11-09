@@ -88,3 +88,15 @@ body.directory-active .hero .period{font-size:14px;margin:0}
  .directory-week .directory-entry-price{max-width:108px}
  .directory-week .directory-entry-price strong{font-size:20px}
 }
+.week-panel[data-week="housing_20261103_20261109"] .search-controls .directory-stock-sort { grid-column:1/-1 }
+.week-panel[data-week="housing_20261103_20261109"] .directory-detail-range { margin:8px 0 16px; color:#675874; font-size:.9rem }
+.week-panel[data-week="housing_20261103_20261109"] .directory-empty[role=status]:not([hidden]) { display:block }
+.week-panel[data-week="housing_20261103_20261109"] .deal-head .field-note { margin-top:.75rem; color:#715519 }
+.week-panel[data-week="housing_20261103_20261109"] .inventory-pending { margin:12px 0 0; padding:16px 18px; border:1px dashed #ccb9e9; border-radius:14px; background:#faf7ff; }
+.week-panel[data-week="housing_20261103_20261109"] .inventory-pending h3 { margin:0 0 4px; color:#4c1d95; font-size:17px }
+.week-panel[data-week="housing_20261103_20261109"] .inventory-pending p { margin:0; color:#675874; font-size:14px }
+.week-panel[data-week="housing_20261103_20261109"] .community-module > .community-deals { grid-template-columns:repeat(auto-fit,minmax(min(100%,300px),1fr)); }
+.week-panel[data-week="housing_20261103_20261109"] .directory-detail-body > .deal-card { margin-bottom:14px; }
+.week-panel[data-week="housing_20261103_20261109"] .inventory-unit:not(.multi-source) > .source-offer { grid-column:1/-1; }
+@media(max-width:760px){.week-panel[data-week="housing_20261103_20261109"] .directory-detail-body { min-width:0; }.week-panel[data-week="housing_20261103_20261109"] .search-controls .directory-stock-sort{grid-column:1/-1}}
+.week-panel[data-week="housing_20261103_20261109"] .inventory-unit.multi-source{grid-template-columns:repeat(auto-fit,minmax(min(100%,270px),1fr));}
