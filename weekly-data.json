@@ -2142,7 +2142,44 @@
           "transaction_ids": [
             "housing_20261103_20261109_020"
           ],
-          "listings": []
+          "listings": [
+            {
+              "inventory_listing_id": "housing_20261103_20261109_community_0_9-21_16",
+              "total_building_ping": 21.16,
+              "floor": "9/15樓",
+              "layout": "1房1廳1衛",
+              "source_links": [
+                {
+                  "url": "https://buy.yungching.com.tw/house/7226596",
+                  "platform": "永慶房仲網",
+                  "price_wan": 1238,
+                  "total_building_ping": 21.16,
+                  "title": "豐溢風藝｜九樓景觀套房",
+                  "floor": "9/15樓",
+                  "layout": "1房1廳1衛",
+                  "final_verified_at": "2026-11-10T02:41:52Z"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_community_0_13-38_02",
+              "total_building_ping": 38.02,
+              "floor": "13/15樓",
+              "layout": "2房2廳1衛",
+              "source_links": [
+                {
+                  "url": "https://buy.yungching.com.tw/house/7555417",
+                  "platform": "永慶房仲網",
+                  "price_wan": 1888,
+                  "total_building_ping": 38.02,
+                  "title": "豐溢風藝｜高樓視野兩房車位",
+                  "floor": "13/15樓",
+                  "layout": "2房2廳1衛",
+                  "final_verified_at": "2026-11-10T02:41:53Z"
+                }
+              ]
+            }
+          ]
         },
         {
           "community_key": "新竹市|香山區|未來21",
@@ -3388,7 +3425,62 @@
           "transaction_ids": [
             "housing_20261103_20261109_062"
           ],
-          "listings": []
+          "listings": [
+            {
+              "inventory_listing_id": "housing_20261103_20261109_community_1_3-55_87",
+              "total_building_ping": 55.87,
+              "floor": "3/10樓",
+              "layout": "4房2廳2衛",
+              "source_links": [
+                {
+                  "url": "https://buy.yungching.com.tw/house/7485560",
+                  "platform": "永慶房仲網",
+                  "price_wan": 1538,
+                  "total_building_ping": 55.87,
+                  "title": "空三A區｜湳雅公園四房",
+                  "floor": "3/10樓",
+                  "layout": "4房2廳2衛",
+                  "final_verified_at": "2026-11-10T02:41:54Z"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_community_1_3-57_82",
+              "total_building_ping": 57.82,
+              "floor": "3/10樓",
+              "layout": "4房2廳2衛",
+              "source_links": [
+                {
+                  "url": "https://buy.yungching.com.tw/house/7490192",
+                  "platform": "永慶房仲網",
+                  "price_wan": 1588,
+                  "total_building_ping": 57.82,
+                  "title": "空三A區｜面東大路採光四房平車",
+                  "floor": "3/10樓",
+                  "layout": "4房2廳2衛",
+                  "final_verified_at": "2026-11-10T02:41:55Z"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_community_1_2-55_87",
+              "total_building_ping": 55.87,
+              "floor": "2/10樓",
+              "layout": "4房2廳2衛",
+              "source_links": [
+                {
+                  "url": "https://www.sinyi.com.tw/buy/house/6458JV",
+                  "platform": "信義房屋",
+                  "price_wan": 1860,
+                  "total_building_ping": 55.87,
+                  "title": "空三A區｜四房露臺戶",
+                  "floor": "2/10樓",
+                  "layout": "4房2廳2衛",
+                  "final_verified_at": "2026-11-10T02:41:46Z"
+                }
+              ]
+            }
+          ]
         },
         {
           "community_key": "新竹市|北區|圓周綠",
@@ -3735,7 +3827,62 @@
           "transaction_ids": [
             "housing_20261103_20261109_024"
           ],
-          "listings": []
+          "listings": [
+            {
+              "inventory_listing_id": "housing_20261103_20261109_community_2_11-33_24",
+              "total_building_ping": 33.24,
+              "floor": "11/14樓",
+              "layout": "2房2廳1衛1陽台",
+              "source_links": [
+                {
+                  "url": "https://sale.591.com.tw/home/house/detail/2/20961653.html?from=marketList&index=1&isBid=0&gtm_page_previous=%E4%B8%AD%E5%8F%A4%E7%A4%BE%E5%8D%80%E8%A9%B3%E6%83%85%E9%A0%81&itm_source=community&itm_medium=list_in_sale",
+                  "platform": "591售屋網",
+                  "price_wan": 1688,
+                  "total_building_ping": 33.24,
+                  "title": "仁發喜悅｜高樓景觀兩房平車",
+                  "floor": "11/14樓",
+                  "layout": "2房2廳1衛1陽台",
+                  "final_verified_at": "2026-11-10T02:43:24Z"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_community_2_10-33_23",
+              "total_building_ping": 33.23,
+              "floor": "10/14樓",
+              "layout": "1房1廳1衛1陽台",
+              "source_links": [
+                {
+                  "url": "https://sale.591.com.tw/home/house/detail/2/20971156.html",
+                  "platform": "591售屋網",
+                  "price_wan": 1880,
+                  "total_building_ping": 33.23,
+                  "title": "仁發喜悅｜高鐵一房平車",
+                  "floor": "10/14樓",
+                  "layout": "1房1廳1衛1陽台",
+                  "final_verified_at": "2026-11-10T02:43:27Z"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_community_2_2-30_01",
+              "total_building_ping": 30.01,
+              "floor": "2/14樓",
+              "layout": "1房1廳1衛1陽台",
+              "source_links": [
+                {
+                  "url": "https://sale.591.com.tw/home/house/detail/2/20895708.html",
+                  "platform": "591售屋網",
+                  "price_wan": 1988,
+                  "total_building_ping": 30.01,
+                  "title": "仁發喜悅｜露臺樹梢一房平車",
+                  "floor": "2/14樓",
+                  "layout": "1房1廳1衛1陽台",
+                  "final_verified_at": "2026-11-10T02:43:30Z"
+                }
+              ]
+            }
+          ]
         },
         {
           "community_key": "新竹縣|竹北市|仁發富悅",
@@ -3746,20 +3893,38 @@
           ],
           "listings": [
             {
-              "inventory_listing_id": "housing_20261103_20261109_HS6695PN",
-              "total_building_ping": 42.63,
-              "floor": "2/14樓",
+              "inventory_listing_id": "housing_20261103_20261109_community_3_4-32_11",
+              "total_building_ping": 32.11,
+              "floor": "4/14樓",
+              "layout": "2房2廳1衛",
+              "source_links": [
+                {
+                  "url": "https://buy.houseprice.tw/house/38888567_2187779/",
+                  "platform": "5168",
+                  "price_wan": 1880,
+                  "total_building_ping": 32.11,
+                  "title": "仁發富悅｜四樓兩房",
+                  "floor": "4/14樓",
+                  "layout": "2房2廳1衛",
+                  "final_verified_at": "2026-11-10T02:41:52Z"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_community_3_8-47_66",
+              "total_building_ping": 47.66,
+              "floor": "8/14樓",
               "layout": "3房2廳2衛",
               "source_links": [
                 {
-                  "url": "https://www.hbhousing.com.tw/detail?sn=s6695PN",
-                  "platform": "住商不動產",
-                  "price_wan": 2780,
-                  "total_building_ping": 42.63,
-                  "title": "仁發富悅｜明亮三房",
-                  "floor": "2/14樓",
+                  "url": "https://buy.houseprice.tw/house/33672818_1869186/",
+                  "platform": "5168",
+                  "price_wan": 2698,
+                  "total_building_ping": 47.66,
+                  "title": "仁發富悅｜外棟視野三房平車",
+                  "floor": "8/14樓",
                   "layout": "3房2廳2衛",
-                  "final_verified_at": "2026-11-09T17:37:55.719Z"
+                  "final_verified_at": "2026-11-10T02:41:53Z"
                 }
               ]
             },
@@ -3770,24 +3935,128 @@
               "layout": "3房2廳2衛",
               "source_links": [
                 {
-                  "url": "https://buy.houseprice.tw/house/37995675_289839/",
+                  "url": "https://buy.houseprice.tw/house/38027179_2728737/",
                   "platform": "5168",
                   "price_wan": 2858,
                   "total_building_ping": 47.66,
-                  "title": "仁發富悅採光三房平車",
+                  "title": "仁發富悅｜北歐風邊間三房平車",
                   "floor": "11/14樓",
                   "layout": "3房2廳2衛",
-                  "final_verified_at": "2026-11-09T18:59:53Z"
+                  "final_verified_at": "2026-11-10T02:42:45Z"
                 },
                 {
-                  "url": "https://buy.houseprice.tw/house/38009689_1087361/",
+                  "url": "https://buy.houseprice.tw/house/37827144_241010/",
                   "platform": "5168",
-                  "price_wan": 2858,
+                  "price_wan": 2758,
                   "total_building_ping": 47.66,
-                  "title": "仁發富悅採光三房平車",
+                  "title": "仁發富悅｜外棟北歐三房平車",
                   "floor": "11/14樓",
                   "layout": "3房2廳2衛",
-                  "final_verified_at": "2026-11-09T19:00:19Z"
+                  "final_verified_at": "2026-11-10T02:42:46Z"
+                },
+                {
+                  "url": "https://buy.houseprice.tw/house/37816870_322234/",
+                  "platform": "5168",
+                  "price_wan": 2758,
+                  "total_building_ping": 47.66,
+                  "title": "仁發富悅｜邊間採光三房平車",
+                  "floor": "11/14樓",
+                  "layout": "3房2廳2衛",
+                  "final_verified_at": "2026-11-10T02:42:47Z"
+                },
+                {
+                  "url": "https://buy.houseprice.tw/house/37750144_241131/",
+                  "platform": "5168",
+                  "price_wan": 2758,
+                  "total_building_ping": 47.66,
+                  "title": "仁發富悅｜外棟北歐三房平車",
+                  "floor": "11/14樓",
+                  "layout": "3房2廳2衛",
+                  "final_verified_at": "2026-11-10T02:42:47Z"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_HS6695PN",
+              "total_building_ping": 42.63,
+              "floor": "2/14樓",
+              "layout": "3房2廳2衛",
+              "source_links": [
+                {
+                  "url": "https://www.sinyi.com.tw/buy/house/6695PN",
+                  "platform": "信義房屋",
+                  "price_wan": 2780,
+                  "total_building_ping": 42.63,
+                  "title": "仁發富悅｜明亮三房",
+                  "floor": "2/14樓",
+                  "layout": "3房2廳2衛",
+                  "final_verified_at": "2026-11-10T02:43:25Z"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_community_3_8-46_82",
+              "total_building_ping": 46.82,
+              "floor": "8/14樓",
+              "layout": null,
+              "source_links": [
+                {
+                  "url": "https://buy.houseprice.tw/house/35840137_513788/",
+                  "platform": "5168",
+                  "price_wan": 2798,
+                  "total_building_ping": 46.82,
+                  "title": "仁發富悅｜採光三房平車",
+                  "floor": "8/14樓",
+                  "layout": "3房2廳2衛",
+                  "final_verified_at": "2026-11-10T02:41:51Z"
+                },
+                {
+                  "url": "https://buy.houseprice.tw/house/37797323_241010/",
+                  "platform": "5168",
+                  "price_wan": 2798,
+                  "total_building_ping": 46.82,
+                  "title": "仁發富悅｜高樓質感三房平車",
+                  "floor": "8/14樓",
+                  "layout": "3房2廳2衛",
+                  "final_verified_at": "2026-11-10T02:42:42Z"
+                },
+                {
+                  "url": "https://buy.houseprice.tw/house/35479931_1487464/",
+                  "platform": "5168",
+                  "price_wan": 2798,
+                  "total_building_ping": 46.82,
+                  "title": "仁發富悅｜高樓三房平車",
+                  "floor": "8/14樓",
+                  "layout": "3房2廳1衛",
+                  "final_verified_at": "2026-11-10T02:42:44Z"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_community_3_14-55_58",
+              "total_building_ping": 55.58,
+              "floor": "14/14樓",
+              "layout": "3房2廳2衛",
+              "source_links": [
+                {
+                  "url": "https://buy.houseprice.tw/house/36794332_2211022/",
+                  "platform": "5168",
+                  "price_wan": 2998,
+                  "total_building_ping": 55.58,
+                  "title": "仁發富悅｜頂樓三房雙平車",
+                  "floor": "14/14樓",
+                  "layout": "3房2廳2衛",
+                  "final_verified_at": "2026-11-10T02:41:51Z"
+                },
+                {
+                  "url": "https://buy.houseprice.tw/house/38260489_286990/",
+                  "platform": "5168",
+                  "price_wan": 2998,
+                  "total_building_ping": 55.58,
+                  "title": "仁發富悅｜景觀三房雙平車",
+                  "floor": "14/14樓",
+                  "layout": "3房2廳2衛",
+                  "final_verified_at": "2026-11-10T02:42:39Z"
                 }
               ]
             }
@@ -3941,21 +4210,306 @@
           ],
           "listings": [
             {
+              "inventory_listing_id": "housing_20261103_20261109_community_4_B9-26_41",
+              "total_building_ping": 26.41,
+              "floor": "9/25樓",
+              "layout": "未公開",
+              "source_links": [
+                {
+                  "url": "https://business.591.com.tw/sale/20867643",
+                  "platform": "591商用房屋",
+                  "price_wan": 1376,
+                  "total_building_ping": 26.41,
+                  "title": "豐采520｜B5 九樓朝南挑高商辦",
+                  "floor": "9/25樓",
+                  "layout": "未公開",
+                  "final_verified_at": "2026-11-10T02:42:05Z",
+                  "use_label": "住商用"
+                }
+              ]
+            },
+            {
               "inventory_listing_id": "housing_20261103_20261109_8c3cd74098cf",
               "total_building_ping": 18.9,
-              "floor": "11/32樓",
-              "layout": "1房1衛",
+              "floor": null,
+              "layout": null,
               "source_links": [
                 {
                   "url": "https://buy.houseprice.tw/house/38622598_1859759/",
                   "platform": "5168",
                   "price_wan": 1380,
                   "total_building_ping": 18.9,
-                  "title": "豐采520 B26 11樓商辦",
+                  "title": "豐采520｜B26 十一樓挑高商辦",
                   "floor": "11/32樓",
                   "layout": "1房1衛",
-                  "final_verified_at": "2026-11-09T18:59:54Z",
-                  "use_label": "辦公"
+                  "final_verified_at": "2026-11-10T02:41:53Z",
+                  "use_label": "商辦"
+                },
+                {
+                  "url": "https://buy.houseprice.tw/house/37592943_689194/",
+                  "platform": "5168",
+                  "price_wan": 1380,
+                  "total_building_ping": 18.9,
+                  "title": "豐采520｜B26 十一樓商辦",
+                  "floor": "11/32樓",
+                  "layout": "1房1衛",
+                  "final_verified_at": "2026-11-10T02:42:43Z",
+                  "use_label": "商辦"
+                },
+                {
+                  "url": "https://buy.houseprice.tw/house/38635677_2187152/",
+                  "platform": "5168",
+                  "price_wan": 1380,
+                  "total_building_ping": 18.9,
+                  "title": "豐采520｜B26 十一樓商辦",
+                  "floor": "11/32樓",
+                  "layout": "1房1衛",
+                  "final_verified_at": "2026-11-10T02:42:44Z",
+                  "use_label": "商辦"
+                },
+                {
+                  "url": "https://buy.houseprice.tw/house/38088031_2203751/",
+                  "platform": "5168",
+                  "price_wan": 1380,
+                  "total_building_ping": 18.9,
+                  "title": "豐采520｜B棟十一樓挑高商辦",
+                  "floor": "11/25樓",
+                  "layout": "1房1衛",
+                  "final_verified_at": "2026-11-10T02:42:37Z",
+                  "use_label": "商辦"
+                },
+                {
+                  "url": "https://business.591.com.tw/sale/21143402",
+                  "platform": "591商用房屋",
+                  "price_wan": 1380,
+                  "total_building_ping": 18.9,
+                  "title": "豐采520｜十一樓挑高商辦",
+                  "floor": "11/25樓",
+                  "layout": "未公開",
+                  "final_verified_at": "2026-11-10T02:42:07Z",
+                  "use_label": "商業用"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_community_4_9-26_93",
+              "total_building_ping": 26.93,
+              "floor": "9/25樓",
+              "layout": "未公開",
+              "source_links": [
+                {
+                  "url": "https://buy.houseprice.tw/house/38630628_1859759/",
+                  "platform": "5168",
+                  "price_wan": 1380,
+                  "total_building_ping": 26.93,
+                  "title": "豐采520｜外棟挑高辦公室平車",
+                  "floor": "9/25樓",
+                  "layout": "未公開",
+                  "final_verified_at": "2026-11-10T02:41:54Z",
+                  "use_label": "商辦"
+                },
+                {
+                  "url": "https://buy.houseprice.tw/house/37668249_2187779/",
+                  "platform": "5168",
+                  "price_wan": 1380,
+                  "total_building_ping": 26.93,
+                  "title": "豐采520｜外棟挑高辦公室平車",
+                  "floor": "9/25樓",
+                  "layout": "未公開",
+                  "final_verified_at": "2026-11-10T02:42:37Z",
+                  "use_label": "商辦"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_community_4_B16-25_7",
+              "total_building_ping": 25.7,
+              "floor": "16/32樓",
+              "layout": "未公開",
+              "source_links": [
+                {
+                  "url": "https://buy.houseprice.tw/house/37673320_689194/",
+                  "platform": "5168",
+                  "price_wan": 1388,
+                  "total_building_ping": 25.7,
+                  "title": "豐采520｜B03 十六樓商辦",
+                  "floor": "16/32樓",
+                  "layout": "未公開",
+                  "final_verified_at": "2026-11-10T02:41:55Z",
+                  "use_label": "商辦"
+                },
+                {
+                  "url": "https://buy.houseprice.tw/house/38631134_1859759/",
+                  "platform": "5168",
+                  "price_wan": 1388,
+                  "total_building_ping": 25.7,
+                  "title": "豐采520｜B03 十六樓商辦",
+                  "floor": "16/32樓",
+                  "layout": "未公開",
+                  "final_verified_at": "2026-11-10T02:42:38Z",
+                  "use_label": "商辦"
+                },
+                {
+                  "url": "https://buy.houseprice.tw/house/38635765_2187152/",
+                  "platform": "5168",
+                  "price_wan": 1388,
+                  "total_building_ping": 25.7,
+                  "title": "豐采520｜B03 十六樓商辦",
+                  "floor": "16/32樓",
+                  "layout": "未公開",
+                  "final_verified_at": "2026-11-10T02:42:41Z",
+                  "use_label": "商辦"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_community_4_8-18_93",
+              "total_building_ping": 18.93,
+              "floor": "8/32樓",
+              "layout": "1房1廳1衛",
+              "source_links": [
+                {
+                  "url": "https://buy.houseprice.tw/house/37553057_2151138/",
+                  "platform": "5168",
+                  "price_wan": 1788,
+                  "total_building_ping": 18.93,
+                  "title": "豐采520｜景觀辦公室",
+                  "floor": "8/32樓",
+                  "layout": "1房1廳1衛",
+                  "final_verified_at": "2026-11-10T02:41:55Z",
+                  "use_label": "商辦"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_community_4_A29-26_13",
+              "total_building_ping": 26.13,
+              "floor": "29/32樓",
+              "layout": "2房1廳1衛",
+              "source_links": [
+                {
+                  "url": "https://buy.houseprice.tw/house/37845536_2187152/",
+                  "platform": "5168",
+                  "price_wan": 1988,
+                  "total_building_ping": 26.13,
+                  "title": "豐采520｜A10 高樓兩房",
+                  "floor": "29/32樓",
+                  "layout": "2房1廳1衛",
+                  "final_verified_at": "2026-11-10T02:42:40Z",
+                  "use_label": "住宅"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_community_4_A11-53_26",
+              "total_building_ping": 53.26,
+              "floor": "11/32樓",
+              "layout": "3房2廳2衛",
+              "source_links": [
+                {
+                  "url": "https://www.sinyi.com.tw/buy/house/1963NQ",
+                  "platform": "信義房屋",
+                  "price_wan": 3288,
+                  "total_building_ping": 53.26,
+                  "title": "豐采520｜A1 十一樓三房",
+                  "floor": "11/32樓",
+                  "layout": "3房2廳2衛",
+                  "final_verified_at": "2026-11-10T02:41:51Z",
+                  "use_label": "住宅"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_community_4_29-52_91",
+              "total_building_ping": 52.91,
+              "floor": "29/32樓",
+              "layout": "2房2廳2衛",
+              "source_links": [
+                {
+                  "url": "https://www.sinyi.com.tw/buy/house/5218MG",
+                  "platform": "信義房屋",
+                  "price_wan": 3388,
+                  "total_building_ping": 52.91,
+                  "title": "豐采520｜高樓角間兩房",
+                  "floor": "29/32樓",
+                  "layout": "2房2廳2衛",
+                  "final_verified_at": "2026-11-10T02:41:50Z"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_community_4_16-64_94",
+              "total_building_ping": 64.94,
+              "floor": "16/25樓",
+              "layout": "未公開",
+              "source_links": [
+                {
+                  "url": "https://buy.houseprice.tw/house/38067032_1588367/",
+                  "platform": "5168",
+                  "price_wan": 3488,
+                  "total_building_ping": 64.94,
+                  "title": "豐采520｜轉角大坪數商辦雙平車",
+                  "floor": "16/25樓",
+                  "layout": "未公開",
+                  "final_verified_at": "2026-11-10T02:42:42Z",
+                  "use_label": "商辦"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_community_4_B9-65_15",
+              "total_building_ping": 65.15,
+              "floor": "9/25樓",
+              "layout": "未公開",
+              "source_links": [
+                {
+                  "url": "https://www.sinyi.com.tw/buy/house/5032PQ",
+                  "platform": "信義房屋",
+                  "price_wan": 3580,
+                  "total_building_ping": 65.15,
+                  "title": "豐采520｜B15 九樓辦公室雙車位",
+                  "floor": "9/25樓",
+                  "layout": "未公開",
+                  "final_verified_at": "2026-11-10T02:44:48Z",
+                  "use_label": "商辦"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_community_4_25-65_09",
+              "total_building_ping": 65.09,
+              "floor": "25/25樓",
+              "layout": "未公開",
+              "source_links": [
+                {
+                  "url": "https://www.sinyi.com.tw/buy/house/6814WU",
+                  "platform": "信義房屋",
+                  "price_wan": 3888,
+                  "total_building_ping": 65.09,
+                  "title": "豐采520｜頂樓視野辦公室平車",
+                  "floor": "25/25樓",
+                  "layout": "未公開",
+                  "final_verified_at": "2026-11-10T02:44:46Z",
+                  "use_label": "商辦"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_community_4_25-57_21",
+              "total_building_ping": 57.21,
+              "floor": "25/25樓",
+              "layout": "未公開",
+              "source_links": [
+                {
+                  "url": "https://business.591.com.tw/sale/21071808",
+                  "platform": "591商用房屋",
+                  "price_wan": 4119,
+                  "total_building_ping": 57.21,
+                  "title": "豐采520｜頂樓景觀辦公戶",
+                  "floor": "25/25樓",
+                  "layout": "未公開",
+                  "final_verified_at": "2026-11-10T02:44:40Z",
+                  "use_label": "住商用"
                 }
               ]
             }
@@ -4618,11 +5172,11 @@
         "CONFIRMED_TRANSACTION": 75,
         "directory_entries": 74,
         "unique_community_count": 49,
-        "verified_inventory_units": 103,
-        "verified_source_urls": 139
+        "verified_inventory_units": 126,
+        "verified_source_urls": 174
       },
-      "final_verified_at": "2026-11-10T02:10:27Z",
-      "manifest_hash": "54b2cbf3fb04d46269208322a84417ac110c2c334e13c4f7ed75168dcfce77e5"
+      "final_verified_at": "2026-11-10T02:44:48Z",
+      "manifest_hash": "ed398d067feb9afb6e611396ce491c2ef2f484bfe2618a3124416abc2388b924"
     },
     {
       "run_id": "housing_20261103_images_38e594015a",
@@ -17226,5 +17780,5 @@
       "assets/weekly-directory.css": "fbd45b6ceb920c25a234748584738e7956dbe66c8393703a049f2710f38d70b2"
     }
   },
-  "release_hash": "5d98eb459f0b043a3ad6df45776020ec7f9e7f16009e74c6454ab9c862b2a10a"
+  "release_hash": "db84ea529a3a079b97819fee031b2efde43446ef88ece77aac2c5fb177e34236"
 }
