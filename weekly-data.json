@@ -2996,30 +2996,358 @@
           ],
           "listings": [
             {
+              "inventory_listing_id": "housing_20261103_20261109_rise_9-55_14",
+              "total_building_ping": 55.14,
+              "floor": "9/30樓",
+              "layout": "3房2廳2衛",
+              "source_links": [
+                {
+                  "url": "https://buy.houseprice.tw/house/37705187_2154823/",
+                  "platform": "5168",
+                  "price_wan": 3298,
+                  "total_building_ping": 55.14,
+                  "title": "新竹之昇｜C1棟九樓三房平車",
+                  "floor": "9/30樓",
+                  "layout": "3房2廳2衛",
+                  "final_verified_at": "2026-11-10T02:05:07Z"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_rise_6-57_26",
+              "total_building_ping": 57.26,
+              "floor": "6/30樓",
+              "layout": "3房2廳2衛",
+              "source_links": [
+                {
+                  "url": "https://sale.591.com.tw/home/house/detail/2/21210545.html",
+                  "platform": "591售屋網",
+                  "price_wan": 3399,
+                  "total_building_ping": 57.26,
+                  "title": "新竹之昇｜C棟六樓三房平車",
+                  "floor": "6/30樓",
+                  "layout": "3房2廳2衛",
+                  "final_verified_at": "2026-11-10T02:06:40Z"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_rise_3-55_33",
+              "total_building_ping": 55.33,
+              "floor": "3/30樓",
+              "layout": "3房2廳2衛",
+              "source_links": [
+                {
+                  "url": "https://buy.yungching.com.tw/house/7428609",
+                  "platform": "永慶房仲網",
+                  "price_wan": 3466,
+                  "total_building_ping": 55.33,
+                  "title": "新竹之昇｜C5棟三房平車",
+                  "floor": "3/30樓",
+                  "layout": "3房2廳2衛",
+                  "final_verified_at": "2026-11-10T02:05:09Z"
+                }
+              ]
+            },
+            {
               "inventory_listing_id": "housing_20261103_20261109_df1fd7909252",
               "total_building_ping": 56.64,
               "floor": "21/30樓",
               "layout": "3房2廳2衛",
               "source_links": [
                 {
-                  "url": "https://buy.houseprice.tw/house/38212859_915904/",
+                  "url": "https://buy.houseprice.tw/house/38016355_1920083/",
                   "platform": "5168",
                   "price_wan": 3588,
                   "total_building_ping": 56.64,
-                  "title": "新竹之昇C2景觀三房平車",
+                  "title": "新竹之昇｜高樓三房平車",
                   "floor": "21/30樓",
                   "layout": "3房2廳2衛",
-                  "final_verified_at": "2026-11-09T18:53:24Z"
+                  "final_verified_at": "2026-11-10T02:05:08Z"
                 },
                 {
-                  "url": "https://buy.houseprice.tw/house/37486540_2179496/",
-                  "platform": "5168",
+                  "url": "https://buy.yungching.com.tw/house/7471382",
+                  "platform": "永慶房仲網",
                   "price_wan": 3588,
                   "total_building_ping": 56.64,
-                  "title": "新竹之昇景觀三房平車",
+                  "title": "新竹之昇｜景觀三房平車",
                   "floor": "21/30樓",
                   "layout": "3房2廳2衛",
-                  "final_verified_at": "2026-11-09T18:53:31Z"
+                  "final_verified_at": "2026-11-10T02:05:11Z"
+                },
+                {
+                  "url": "https://buy.yungching.com.tw/house/7561744",
+                  "platform": "永慶房仲網",
+                  "price_wan": 3588,
+                  "total_building_ping": 56.64,
+                  "title": "新竹之昇｜高樓三面採光三房平車",
+                  "floor": "21/30樓",
+                  "layout": "3房2廳2衛",
+                  "final_verified_at": "2026-11-10T02:05:12Z"
+                },
+                {
+                  "url": "https://buy.yungching.com.tw/house/7422729",
+                  "platform": "永慶房仲網",
+                  "price_wan": 3588,
+                  "total_building_ping": 56.64,
+                  "title": "新竹之昇｜朝東南高樓三房平車",
+                  "floor": "21/30樓",
+                  "layout": "3房2廳2衛",
+                  "final_verified_at": "2026-11-10T02:05:13Z"
+                },
+                {
+                  "url": "https://buy.yungching.com.tw/house/7462264",
+                  "platform": "永慶房仲網",
+                  "price_wan": 3588,
+                  "total_building_ping": 56.64,
+                  "title": "新竹之昇｜C2棟高樓景觀三房平車",
+                  "floor": "21/30樓",
+                  "layout": "3房2廳2衛",
+                  "final_verified_at": "2026-11-10T02:05:14Z"
+                },
+                {
+                  "url": "https://buy.yungching.com.tw/house/7444744",
+                  "platform": "永慶房仲網",
+                  "price_wan": 3588,
+                  "total_building_ping": 56.64,
+                  "title": "新竹之昇｜高樓學區三房平車",
+                  "floor": "21/30樓",
+                  "layout": "3房2廳2衛",
+                  "final_verified_at": "2026-11-10T02:05:16Z"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_rise_26-54_76",
+              "total_building_ping": 54.76,
+              "floor": "26/30樓",
+              "layout": "3房2廳2衛",
+              "source_links": [
+                {
+                  "url": "https://buy.yungching.com.tw/house/7534295",
+                  "platform": "永慶房仲網",
+                  "price_wan": 3688,
+                  "total_building_ping": 54.76,
+                  "title": "新竹之昇｜C1棟二十六樓三房平車",
+                  "floor": "26/30樓",
+                  "layout": "3房2廳2衛",
+                  "final_verified_at": "2026-11-10T02:05:17Z"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_rise_16-59_46",
+              "total_building_ping": 59.46,
+              "floor": "16/30樓",
+              "layout": "3房2廳2衛",
+              "source_links": [
+                {
+                  "url": "https://sale.591.com.tw/home/house/detail/2/20981000.html",
+                  "platform": "591售屋網",
+                  "price_wan": 3700,
+                  "total_building_ping": 59.46,
+                  "title": "新竹之昇｜B5棟十六樓景觀三房平車",
+                  "floor": "16/30樓",
+                  "layout": "3房2廳2衛",
+                  "final_verified_at": "2026-11-10T02:08:24Z"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_rise_9-59_46",
+              "total_building_ping": 59.46,
+              "floor": "9/30樓",
+              "layout": "3房2廳2衛",
+              "source_links": [
+                {
+                  "url": "https://buy.yungching.com.tw/house/7231062",
+                  "platform": "永慶房仲網",
+                  "price_wan": 3758,
+                  "total_building_ping": 59.46,
+                  "title": "新竹之昇｜B5棟朝東南三房平車",
+                  "floor": "9/30樓",
+                  "layout": "3房2廳2衛",
+                  "final_verified_at": "2026-11-10T02:06:30Z"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_rise_22-55",
+              "total_building_ping": 55.0,
+              "floor": "22/30樓",
+              "layout": "4房2廳2衛2陽台",
+              "source_links": [
+                {
+                  "url": "https://sale.591.com.tw/home/house/detail/2/20943013.html",
+                  "platform": "591售屋網",
+                  "price_wan": 3999,
+                  "total_building_ping": 55.0,
+                  "title": "新竹之昇｜面南高樓四房",
+                  "floor": "22/30樓",
+                  "layout": "4房2廳2衛2陽台",
+                  "final_verified_at": "2026-11-10T02:10:27Z"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_rise_23-64_07",
+              "total_building_ping": 64.07,
+              "floor": "23/30樓",
+              "layout": "3房2廳2衛",
+              "source_links": [
+                {
+                  "url": "https://buy.yungching.com.tw/house/7517907",
+                  "platform": "永慶房仲網",
+                  "price_wan": 4398,
+                  "total_building_ping": 64.07,
+                  "title": "新竹之昇｜高樓山景三房雙車位",
+                  "floor": "23/30樓",
+                  "layout": "3房2廳2衛",
+                  "final_verified_at": "2026-11-10T02:05:18Z"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_rise_29-72_77",
+              "total_building_ping": 72.77,
+              "floor": "29/30樓",
+              "layout": "3房2廳2衛",
+              "source_links": [
+                {
+                  "url": "https://buy.yungching.com.tw/house/7352210",
+                  "platform": "永慶房仲網",
+                  "price_wan": 4728,
+                  "total_building_ping": 72.77,
+                  "title": "新竹之昇｜次頂樓景觀3+1房",
+                  "floor": "29/30樓",
+                  "layout": "3房2廳2衛",
+                  "final_verified_at": "2026-11-10T02:05:19Z"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_rise_19-72_77",
+              "total_building_ping": 72.77,
+              "floor": "19/30樓",
+              "layout": "4房2廳2衛",
+              "source_links": [
+                {
+                  "url": "https://sale.591.com.tw/home/house/detail/2/21006286.html",
+                  "platform": "591售屋網",
+                  "price_wan": 4960,
+                  "total_building_ping": 72.77,
+                  "title": "新竹之昇｜十九樓四房雙車位",
+                  "floor": "19/30樓",
+                  "layout": "4房2廳2衛",
+                  "final_verified_at": "2026-11-10T02:08:28Z"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_rise_6-72_77",
+              "total_building_ping": 72.77,
+              "floor": "6/30樓",
+              "layout": "3房2廳2衛",
+              "source_links": [
+                {
+                  "url": "https://buy.yungching.com.tw/house/6860709",
+                  "platform": "永慶房仲網",
+                  "price_wan": 4980,
+                  "total_building_ping": 72.77,
+                  "title": "新竹之昇｜六樓大坪數3+1房",
+                  "floor": "6/30樓",
+                  "layout": "3房2廳2衛",
+                  "final_verified_at": "2026-11-10T02:08:25Z"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_rise_2-79_37",
+              "total_building_ping": 79.37,
+              "floor": "2/30樓",
+              "layout": "3房2廳2衛",
+              "source_links": [
+                {
+                  "url": "https://www.sinyi.com.tw/buy/house/9221LV?breadcrumb=list",
+                  "platform": "信義房屋",
+                  "price_wan": 5280,
+                  "total_building_ping": 79.37,
+                  "title": "新竹之昇｜面公園雙平面車位",
+                  "floor": "2/30樓",
+                  "layout": "3房2廳2衛",
+                  "final_verified_at": "2026-11-10T02:05:05Z"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_rise_5-83_77",
+              "total_building_ping": 83.77,
+              "floor": "5/30樓",
+              "layout": "3房2廳2衛2陽台",
+              "source_links": [
+                {
+                  "url": "https://sale.591.com.tw/home/house/detail/2/21227655.html",
+                  "platform": "591售屋網",
+                  "price_wan": 5388,
+                  "total_building_ping": 83.77,
+                  "title": "新竹之昇｜A1棟面體育場雙平車",
+                  "floor": "5/30樓",
+                  "layout": "3房2廳2衛2陽台",
+                  "final_verified_at": "2026-11-10T02:08:30Z"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_rise_21-73_58",
+              "total_building_ping": 73.58,
+              "floor": "21/30樓",
+              "layout": "3房2廳2衛",
+              "source_links": [
+                {
+                  "url": "https://buy.yungching.com.tw/house/7518047",
+                  "platform": "永慶房仲網",
+                  "price_wan": 5398,
+                  "total_building_ping": 73.58,
+                  "title": "新竹之昇｜A5棟高樓3+1房雙車位",
+                  "floor": "21/30樓",
+                  "layout": "3房2廳2衛",
+                  "final_verified_at": "2026-11-10T02:09:50Z"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_rise_12-85_69",
+              "total_building_ping": 85.69,
+              "floor": "12/30樓",
+              "layout": "4房2廳3衛",
+              "source_links": [
+                {
+                  "url": "https://buy.yungching.com.tw/house/7095617",
+                  "platform": "永慶房仲網",
+                  "price_wan": 5690,
+                  "total_building_ping": 85.69,
+                  "title": "新竹之昇｜四房雙主臥雙平車",
+                  "floor": "12/30樓",
+                  "layout": "4房2廳3衛",
+                  "final_verified_at": "2026-11-10T02:05:20Z"
+                }
+              ]
+            },
+            {
+              "inventory_listing_id": "housing_20261103_20261109_rise_8-83_78",
+              "total_building_ping": 83.78,
+              "floor": "8/30樓",
+              "layout": "3房2廳3衛",
+              "source_links": [
+                {
+                  "url": "https://www.sinyi.com.tw/buy/house/2283CQ?breadcrumb=list",
+                  "platform": "信義房屋",
+                  "price_wan": 6355,
+                  "total_building_ping": 83.78,
+                  "title": "新竹之昇｜A1棟面公園雙車位",
+                  "floor": "8/30樓",
+                  "layout": "3房2廳3衛",
+                  "final_verified_at": "2026-11-10T02:05:07Z"
                 }
               ]
             }
@@ -4290,11 +4618,11 @@
         "CONFIRMED_TRANSACTION": 75,
         "directory_entries": 74,
         "unique_community_count": 49,
-        "verified_inventory_units": 87,
-        "verified_source_urls": 119
+        "verified_inventory_units": 103,
+        "verified_source_urls": 139
       },
-      "final_verified_at": "2026-11-09T19:11:29Z",
-      "manifest_hash": "d76df9564436abfd41423493722544c2c068a959423f6a6851ce439446538d0f"
+      "final_verified_at": "2026-11-10T02:10:27Z",
+      "manifest_hash": "54b2cbf3fb04d46269208322a84417ac110c2c334e13c4f7ed75168dcfce77e5"
     },
     {
       "run_id": "housing_20261103_images_38e594015a",
@@ -16898,5 +17226,5 @@
       "assets/weekly-directory.css": "fbd45b6ceb920c25a234748584738e7956dbe66c8393703a049f2710f38d70b2"
     }
   },
-  "release_hash": "477b15f87eeb9f768ef30e7d581b870b268cca6f20251a2e7e53c2e19ff3fe04"
+  "release_hash": "5d98eb459f0b043a3ad6df45776020ec7f9e7f16009e74c6454ab9c862b2a10a"
 }
